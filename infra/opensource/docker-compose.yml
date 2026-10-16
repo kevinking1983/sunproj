@@ -1,0 +1,56 @@
+# Open-source test stack for RATION. Supabase itself runs through the CLI
+# (`npm run db:start`), which brings up Postgres, Auth, PostgREST, Realtime,
+# Storage, Studio and the edge runtime as Docker containers.
+#
+#   docker compose -f infra/opensource/docker-compose.yml up -d
+#
+# Services here are the stand-ins for paid providers:
+#   mock-gateway  Razorpay + MSG91 lookalike (orders, checkout page, refunds, webhooks, OTP sink)
+#   ntfy          self-hosted push notifications (phone app: https://ntfy.sh/app)
+#   nominatim     optional OpenStreetMap geocoder, imports a small region on first start
+#
+# Supabase edge functions reach these through host.docker.internal.
+services:
+  mock-gateway:
+    build: ./mock-gateway
+    container_name: ration-mock-gateway
+    ports: ["4010:4010"]
+    environment:
+      RAZORPAY_KEY_SECRET: mock_key_secret
+      RAZORPAY_WEBHOOK_SECRET: mock_webhook_secret
+      WEBHOOK_URL: http://host.docker.internal:54321/functions/v1/razorpay-webhook
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    restart: unless-stopped
+
+  ntfy:
+    image: binwiederhier/ntfy:v2.11.0
+    container_name: ration-ntfy
+    command: serve
+    ports: ["4020:80"]
+    environment:
+      NTFY_BASE_URL: http://localhost:4020
+      NTFY_BEHIND_PROXY: "false"
+    volumes:
+      - ntfy-cache:/var/cache/ntfy
+    restart: unless-stopped
+
+  # Optional: self-hosted geocoder. Needs ~2 GB RAM and a few minutes to import
+  # a state-sized extract. Comment out to use the public OSM endpoints instead.
+  nominatim:
+    image: mediagis/nominatim:4.5
+    container_name: ration-nominatim
+    profiles: ["geocoder"]
+    ports: ["4030:8080"]
+    environment:
+      PBF_URL: https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf
+      REPLICATION_URL: https://download.geofabrik.de/asia/india/southern-zone-updates/
+      NOMINATIM_PASSWORD: nominatim
+      IMPORT_STYLE: address
+    volumes:
+      - nominatim-data:/var/lib/postgresql/16/main
+    shm_size: 1g
+    restart: unless-stopped
+
+volumes:
+  ntfy-cache:
+  nominatim-data:

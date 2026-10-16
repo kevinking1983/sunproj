@@ -15,7 +15,11 @@
     "lint": "npm run lint --workspaces --if-present",
     "db:start": "supabase start",
     "db:reset": "supabase db reset",
-    "db:types": "supabase gen types typescript --local --schema public > packages/shared/src/database.types.ts"
+    "db:types": "supabase gen types typescript --local --schema public > packages/shared/src/database.types.ts",
+    "functions:serve": "supabase functions serve --env-file supabase/functions/.env --no-verify-jwt",
+    "oss:up": "docker compose -f infra/opensource/docker-compose.yml up -d --build",
+    "oss:down": "docker compose -f infra/opensource/docker-compose.yml down",
+    "oss:gateway": "node infra/opensource/mock-gateway/server.mjs"
   },
   "engines": {
     "node": ">=20"

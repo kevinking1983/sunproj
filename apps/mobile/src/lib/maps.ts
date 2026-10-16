@@ -81,9 +81,74 @@ const deviceReverseGeocode = async (point: GeoPoint): Promise<ResolvedAddress> =
   };
 };
 
+// ---------------------------------------------------------------------------
+// OpenStreetMap provider (open-source test stack): Nominatim + Photon.
+// Public endpoints are rate limited (1 req/s) and for testing only.
+// ---------------------------------------------------------------------------
+const OSM_HEADERS = { "User-Agent": "RATION-dev/0.1 (testing)", Accept: "application/json" };
+
+type NominatimResult = {
+  lat: string;
+  lon: string;
+  display_name?: string;
+  address?: Record<string, string>;
+};
+
+const fromNominatim = (r: NominatimResult): ResolvedAddress => {
+  const a = r.address ?? {};
+  const locality = a.suburb || a.neighbourhood || a.quarter || a.village || a.town || "";
+  const city = a.city || a.town || a.county || a.state_district || "";
+  return {
+    lat: Number(r.lat),
+    lng: Number(r.lon),
+    label: [locality, city].filter((v, i, arr) => v && arr.indexOf(v) === i).join(", ") || "Selected location",
+    line1: r.display_name ?? "",
+    city,
+    state: a.state ?? "",
+    pincode: a.postcode ?? "",
+  };
+};
+
+const osm = {
+  reverseGeocode: async (point: GeoPoint): Promise<ResolvedAddress> => {
+    const url = `${env.nominatimUrl}/reverse?format=jsonv2&lat=${point.lat}&lon=${point.lng}&addressdetails=1`;
+    const res = await fetch(url, { headers: OSM_HEADERS });
+    if (!res.ok) throw new Error(`Nominatim ${res.status}`);
+    return { ...fromNominatim((await res.json()) as NominatimResult), ...point };
+  },
+  autocomplete: async (query: string, near?: GeoPoint): Promise<PlaceSuggestion[]> => {
+    const url = new URL(`${env.photonUrl}/api`);
+    url.searchParams.set("q", query);
+    url.searchParams.set("limit", "8");
+    url.searchParams.set("lang", "en");
+    if (near) {
+      url.searchParams.set("lat", String(near.lat));
+      url.searchParams.set("lon", String(near.lng));
+    }
+    const res = await fetch(url, { headers: OSM_HEADERS });
+    if (!res.ok) throw new Error(`Photon ${res.status}`);
+    const data = (await res.json()) as { features?: { geometry: { coordinates: [number, number] }; properties: Record<string, string> }[] };
+    return (data.features ?? []).map((f) => {
+      const p = f.properties;
+      const [lng, lat] = f.geometry.coordinates;
+      const title = p.name || p.street || p.city || "Place";
+      const subtitle = [p.district, p.city, p.state, p.postcode].filter((v, i, arr) => v && arr.indexOf(v) === i).join(", ");
+      // Photon already returns coordinates, so the id carries them for placeDetails.
+      return { id: `osm:${lat},${lng}:${title}`, title, subtitle };
+    });
+  },
+  placeDetails: async (placeId: string): Promise<ResolvedAddress> => {
+    const m = placeId.match(/^osm:([-\d.]+),([-\d.]+):/);
+    if (!m) throw new Error("Not an OSM place");
+    const point = { lat: Number(m[1]), lng: Number(m[2]) };
+    return osm.reverseGeocode(point);
+  },
+};
+
 export const maps = {
   reverseGeocode: async (point: GeoPoint): Promise<ResolvedAddress> => {
-    if (!env.olaMapsApiKey) return deviceReverseGeocode(point);
+    if (env.mapsProvider === "osm") return osm.reverseGeocode(point).catch(() => deviceReverseGeocode(point));
+    if (env.mapsProvider === "device" || !env.olaMapsApiKey) return deviceReverseGeocode(point);
     try {
       const data = await olaFetch<{ results?: OlaGeocodeResult[] }>("/places/v1/reverse-geocode", {
         latlng: `${point.lat},${point.lng}`,
@@ -96,7 +161,9 @@ export const maps = {
   },
 
   autocomplete: async (query: string, near?: GeoPoint): Promise<PlaceSuggestion[]> => {
-    if (!env.olaMapsApiKey || query.trim().length < 3) return [];
+    if (query.trim().length < 3) return [];
+    if (env.mapsProvider === "osm") return osm.autocomplete(query.trim(), near);
+    if (env.mapsProvider === "device" || !env.olaMapsApiKey) return [];
     const params: Record<string, string> = { input: query.trim() };
     if (near) params.location = `${near.lat},${near.lng}`;
     const data = await olaFetch<{
@@ -110,6 +177,7 @@ export const maps = {
   },
 
   placeDetails: async (placeId: string): Promise<ResolvedAddress> => {
+    if (placeId.startsWith("osm:")) return osm.placeDetails(placeId);
     const data = await olaFetch<{ result?: OlaGeocodeResult }>("/places/v1/details", { place_id: placeId });
     if (!data.result?.geometry?.location) throw new Error("Place has no coordinates");
     return fromOla(data.result, data.result.geometry.location);

@@ -40,9 +40,12 @@ max_frequency = "30s"
 919999900001 = "123456"
 919999900002 = "123456"
 
+# Local: OTPs for numbers outside the test list go to the mock gateway's OTP sink
+# (infra/opensource). In production the hook points at the send-sms edge function.
 [auth.hook.send_sms]
-enabled = false
-uri = "pg-functions://postgres/public/send_sms_hook"
+enabled = true
+uri = "http://host.docker.internal:4010/hooks/send-sms"
+secrets = "env(SEND_SMS_HOOK_SECRET)"
 
 [storage]
 enabled = true

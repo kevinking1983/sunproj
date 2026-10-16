@@ -46,10 +46,22 @@ Deno.serve(async (req) => {
     if (!message) return json({ ok: true, skipped: true });
 
     const db = adminClient();
+    const body = message.body.replace("{n}", record.order_number);
+
+    // Open-source test stack: publish to a self-hosted ntfy topic instead of Expo push.
+    if (Deno.env.get("PUSH_PROVIDER") === "ntfy") {
+      const base = (Deno.env.get("NTFY_URL") ?? "http://host.docker.internal:4020").replace(/\/$/, "");
+      const res = await fetch(`${base}/ration-${record.user_id}`, {
+        method: "POST",
+        headers: { Title: message.title, Tags: "shopping_bags", Priority: "high" },
+        body,
+      });
+      return json({ ok: res.ok, provider: "ntfy" });
+    }
+
     const { data: tokens } = await db.from("push_tokens").select("token").eq("user_id", record.user_id);
     if (!tokens?.length) return json({ ok: true, sent: 0 });
 
-    const body = message.body.replace("{n}", record.order_number);
     const res = await fetch("https://exp.host/--/api/v2/push/send", {
       method: "POST",
       headers: { "Content-Type": "application/json", Accept: "application/json" },

@@ -2,7 +2,8 @@
  * Minimal Razorpay REST client for Edge Functions (Deno/Web APIs only).
  * Docs: https://razorpay.com/docs/api/
  */
-const BASE = "https://api.razorpay.com/v1";
+/** Override with RAZORPAY_BASE_URL to point at the local mock gateway (testing only). */
+const BASE = Deno.env.get("RAZORPAY_BASE_URL") ?? "https://api.razorpay.com/v1";
 
 export interface RazorpayConfig {
   keyId: string;

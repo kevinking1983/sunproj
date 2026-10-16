@@ -1,0 +1,9 @@
+{
+  "name": "@ration/mock-gateway",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-only mock of the Razorpay and MSG91 endpoints RATION uses. Never deploy.",
+  "scripts": { "start": "node server.mjs" },
+  "engines": { "node": ">=20" }
+}
