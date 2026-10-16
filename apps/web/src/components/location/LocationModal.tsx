@@ -2,11 +2,12 @@
 
 import type { Address } from "@ration/api";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { useEffect, useState } from "react";
+import dynamic from "next/dynamic";
+import { useEffect, useRef, useState } from "react";
 import { create } from "zustand";
 
 import { addressesApi, queryKeys } from "@/lib/api";
-import { maps, type PlaceSuggestion, type ResolvedAddress } from "@/lib/maps";
+import { maps, type GeoPoint, type PlaceSuggestion, type ResolvedAddress } from "@/lib/maps";
 import { useAuth } from "@/stores/auth";
 import { useLocation } from "@/stores/location";
 
@@ -17,6 +18,8 @@ interface ModalState {
   open: () => void;
   close: () => void;
 }
+
+const PinMap = dynamic(() => import("./PinMap").then((m) => m.PinMap), { ssr: false });
 
 export const useLocationModal = create<ModalState>((set) => ({ isOpen: false, open: () => set({ isOpen: true }), close: () => set({ isOpen: false }) }));
 
@@ -87,6 +90,20 @@ export function LocationModal() {
     setStep("confirm");
   };
 
+  // Pin dragged on the confirm map: look the point up again (debounced; the geocoder is
+  // rate limited) and re-check serviceability. If the lookup fails keep the old text but
+  // the new coordinates, which is what the rider needs.
+  const pinTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const pinMoved = (point: GeoPoint) => {
+    if (pinTimer.current) clearTimeout(pinTimer.current);
+    pinTimer.current = setTimeout(async () => {
+      const current = useLocation.getState().location;
+      if (!current) return;
+      const r = await maps.reverseGeocode(point).catch(() => null);
+      await setLocation(r ?? { ...current, ...point, addressId: undefined, addressLabel: undefined });
+    }, 400);
+  };
+
   if (!isOpen) return null;
   const serviceable = status === "ready" && !!store;
 
@@ -145,6 +162,7 @@ export function LocationModal() {
 
         {step === "confirm" && location ? (
           <div className="space-y-4">
+            <PinMap center={{ lat: location.lat, lng: location.lng }} onMove={pinMoved} />
             <div>
               <p className="text-lg font-semibold">{location.label}</p>
               <p className="text-sm text-muted">{location.line1}</p>
