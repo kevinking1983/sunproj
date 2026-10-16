@@ -14,4 +14,4 @@ Secrets (set with `supabase secrets set`): `RAZORPAY_KEY_ID`, `RAZORPAY_KEY_SECR
 Deploy: `supabase functions deploy place-order verify-payment cancel-order` and
 `supabase functions deploy razorpay-webhook send-sms --no-verify-jwt`.
 
-Typecheck locally: `cd supabase/functions && deno check **/index.ts`.
+Typecheck locally: `cd supabase/functions && deno check */index.ts`.

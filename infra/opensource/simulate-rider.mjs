@@ -12,12 +12,24 @@
  * created from the test number 9999900003 if none exists). The order is advanced to
  * picked_up and out_for_delivery, then delivered on arrival.
  */
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
 import { createClient } from "@supabase/supabase-js";
 
+// Keys come from the environment, or from .oss.env written by `npm run oss:start`.
+const ossEnv = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../../.oss.env");
+if (fs.existsSync(ossEnv)) {
+  for (const line of fs.readFileSync(ossEnv, "utf8").split(/\r?\n/)) {
+    const i = line.indexOf("=");
+    if (i > 0 && !process.env[line.slice(0, i)]) process.env[line.slice(0, i)] = line.slice(i + 1);
+  }
+}
 const url = process.env.SUPABASE_URL ?? "http://127.0.0.1:54321";
 const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
 if (!key) {
-  console.error("Set SUPABASE_SERVICE_ROLE_KEY (printed by `npm run db:start`).");
+  console.error("Set SUPABASE_SERVICE_ROLE_KEY, or run `npm run oss:start` first (it writes .oss.env).");
   process.exit(1);
 }
 const args = process.argv.slice(2);

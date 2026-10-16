@@ -26,9 +26,9 @@
     "admin:build": "npm run build -w @ration/admin",
     "oss:rider": "node infra/opensource/simulate-rider.mjs",
     "rider": "npm run start -w @ration/rider",
-    "oss:start": "bash scripts/oss-start.sh",
-    "oss:check": "bash scripts/oss-check.sh",
-    "oss:stop": "bash scripts/oss-stop.sh"
+    "oss:start": "node scripts/oss-start.mjs",
+    "oss:check": "node scripts/oss-check.mjs",
+    "oss:stop": "node scripts/oss-stop.mjs"
   },
   "engines": {
     "node": ">=20"

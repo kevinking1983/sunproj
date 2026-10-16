@@ -54,3 +54,4 @@ supabase/functions/.env
 .oss.env
 .oss-functions.log
 .env.local
+.oss-functions.pid

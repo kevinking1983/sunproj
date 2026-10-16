@@ -70,7 +70,7 @@ Maps vector tiles in `ola` mode). To see it move without the rider app, run the 
 against any placed order:
 
 ```bash
-SUPABASE_SERVICE_ROLE_KEY=<from db:start> node infra/opensource/simulate-rider.mjs RT100001
+npm run oss:rider -- RT100001   # after oss:start; keys are read from .oss.env
 ```
 
 It assigns a test rider, advances the order to out for delivery, streams positions from the
