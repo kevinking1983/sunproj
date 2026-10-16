@@ -21,7 +21,9 @@
     "oss:down": "docker compose -f infra/opensource/docker-compose.yml down",
     "oss:gateway": "node infra/opensource/mock-gateway/server.mjs",
     "web": "npm run dev -w @ration/web",
-    "web:build": "npm run build -w @ration/web"
+    "web:build": "npm run build -w @ration/web",
+    "admin": "npm run dev -w @ration/admin",
+    "admin:build": "npm run build -w @ration/admin"
   },
   "engines": {
     "node": ">=20"
