@@ -6,6 +6,7 @@ import { ActivityIndicator, Alert, Pressable, ScrollView, StyleSheet, View } fro
 
 import { BillSummary } from "@/components/checkout/BillSummary";
 import { ProductImage } from "@/components/catalog/ProductImage";
+import { LiveMap } from "@/components/orders/LiveMap";
 import { RateItem } from "@/components/orders/RateItem";
 import { isActive, isCancellable, STATUS_LABEL, STATUS_STEPS, stepIndex } from "@/components/orders/status";
 import { Button, Screen, Typography } from "@/components/ui";
@@ -150,6 +151,10 @@ export default function OrderScreen() {
               />
             ) : null}
           </View>
+
+          {isActive(o.status) && o.status !== "pending_payment" ? (
+            <LiveMap riderId={["picked_up", "out_for_delivery"].includes(o.status) ? o.rider_id : null} destination={{ lat: o.address_snapshot.lat, lng: o.address_snapshot.lng }} />
+          ) : null}
 
           <View style={styles.card}>
             <Typography variant="heading" style={{ marginBottom: spacing.sm }}>Delivering to</Typography>

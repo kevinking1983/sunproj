@@ -5,6 +5,8 @@ import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import { useParams, useSearchParams } from "next/navigation";
 import { Suspense, useEffect } from "react";
 
+import dynamic from "next/dynamic";
+
 import { ProductImage } from "@/components/catalog/ProductCard";
 import { BillRows } from "@/components/checkout/BillRows";
 import { Button, Card, Empty, Spinner, formatTime } from "@/components/ui";
@@ -13,6 +15,8 @@ import { supabase } from "@/lib/supabase";
 import { useAuth } from "@/stores/auth";
 import { useCart } from "@/stores/cart";
 import { useLocation } from "@/stores/location";
+
+const LiveMap = dynamic(() => import("@/components/tracking/LiveMap").then((m) => m.LiveMap), { ssr: false });
 import { formatInr, type Bill } from "@ration/shared";
 
 const toBill = (o: Order): Bill => ({
@@ -94,6 +98,9 @@ function OrderDetail() {
           ) : null}
           {isCancellableStatus(o.status) ? <Button variant="secondary" size="sm" className="mt-4" loading={cancel.isPending} onClick={() => confirm("Cancel this order? Any payment will be refunded.") && cancel.mutate()}>Cancel order</Button> : null}
         </Card>
+        {isActiveStatus(o.status) && o.status !== "pending_payment" ? (
+          <LiveMap riderId={["picked_up", "out_for_delivery"].includes(o.status) ? o.rider_id : null} destination={{ lat: o.address_snapshot.lat, lng: o.address_snapshot.lng }} />
+        ) : null}
         <Card>
           <h2 className="font-semibold">Delivering to</h2>
           <p className="mt-1 text-sm"><b className="capitalize">{o.address_snapshot.label}</b> · <span className="text-muted">{[o.address_snapshot.line1, o.address_snapshot.line2, o.address_snapshot.landmark, o.address_snapshot.city, o.address_snapshot.pincode].filter(Boolean).join(", ")}</span></p>
