@@ -33,7 +33,7 @@ enable_signup = true
 enable_signup = true
 enable_confirmations = true
 template = "Your RATION OTP is {{ .Code }}. Valid for 10 minutes. Do not share it."
-max_frequency = "30s"
+max_frequency = "1s"  # local only; production keeps the dashboard default (60s)
 
 # Real OTPs are sent through the Send SMS auth hook (MSG91). Locally we use test OTPs.
 [auth.sms.test_otp]
