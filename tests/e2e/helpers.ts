@@ -32,7 +32,11 @@ export const login = async (page: Page, phone = TEST_PHONE) => {
   await page.goto("/login");
   await page.getByLabel("Mobile number").fill(phone);
   await page.getByRole("button", { name: "Continue" }).click();
-  await page.getByLabel("6-digit code").fill(TEST_OTP);
+  const otpField = page.getByLabel("6-digit code");
+  const errorText = page.locator("form .text-danger");
+  await Promise.race([otpField.waitFor({ timeout: 30_000 }), errorText.waitFor({ timeout: 30_000 })]).catch(() => undefined);
+  if (!(await otpField.isVisible())) throw new Error(`OTP request failed: ${(await errorText.textContent().catch(() => null)) ?? "no OTP field and no error shown"}`);
+  await otpField.fill(TEST_OTP);
   await page.getByRole("button", { name: "Verify" }).click();
   await expect(page.getByRole("link", { name: /account|log in/i }).first()).toBeVisible();
   await page.waitForURL((u) => !u.pathname.startsWith("/login"));

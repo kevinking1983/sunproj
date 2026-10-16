@@ -87,6 +87,15 @@ jobs:
       - run: npx playwright install --with-deps chromium
       - name: Start the open-source stack (Supabase, mock gateway, edge functions)
         run: node scripts/oss-start.mjs
+      - name: Probe auth and functions directly
+        run: |
+          set -a; . ./.oss.env; set +a
+          echo "== OTP request for the test number =="
+          curl -s -o /tmp/otp.json -w 'HTTP %{http_code}\n' -X POST "$SUPABASE_URL/auth/v1/otp" -H "apikey: $SUPABASE_ANON_KEY" -H "Content-Type: application/json" -d '{"phone":"919999900001"}'
+          cat /tmp/otp.json; echo
+          echo "== functions runtime =="
+          curl -s -o /dev/null -w 'place-order HTTP %{http_code}\n' -X POST "$SUPABASE_URL/functions/v1/place-order" -H "apikey: $SUPABASE_ANON_KEY" -d '{}'
+          docker ps --format '{{.Names}}'
       - name: Build and start the website
         run: |
           npm run build -w @ration/web
@@ -103,6 +112,9 @@ jobs:
           echo "== edge functions =="; tail -n 100 .oss-functions.log || true
           echo "== website =="; tail -n 60 .web.log || true
           echo "== mock gateway =="; docker logs ration-mock-gateway --tail 60 || true
+          echo "== supabase auth =="; docker logs supabase_auth_ration --tail 80 2>&1 || true
+          echo "== supabase edge runtime =="; docker logs supabase_edge_runtime_ration --tail 80 2>&1 || true
+          echo "== test error context =="; cat test-results/*/error-context.md 2>/dev/null | head -150 || true
       - uses: actions/upload-artifact@v4
         if: failure()
         with:

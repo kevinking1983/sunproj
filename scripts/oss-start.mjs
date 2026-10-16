@@ -25,6 +25,20 @@ if (!fs.existsSync(path.join(ROOT, "node_modules"))) {
 
 const ip = lanIp();
 
+// Edge function secrets must exist before the runtime starts, so write them first.
+writeEnv("supabase/functions/.env", {
+  RAZORPAY_BASE_URL: "http://host.docker.internal:4010/v1",
+  RAZORPAY_KEY_ID: "rzp_test_mock",
+  RAZORPAY_KEY_SECRET: "mock_key_secret",
+  RAZORPAY_WEBHOOK_SECRET: "mock_webhook_secret",
+  MSG91_BASE_URL: "http://host.docker.internal:4010",
+  MSG91_AUTH_KEY: "mock",
+  MSG91_OTP_TEMPLATE_ID: "mock",
+  SEND_SMS_HOOK_SECRET: "v1,whsec_bW9ja19zZW5kX3Ntc19ob29rX3NlY3JldA==",
+  PUSH_PROVIDER: "ntfy",
+  NTFY_URL: "http://host.docker.internal:4020",
+});
+
 say("Starting Supabase (Postgres, Auth, Storage, Realtime, Studio). First run downloads images; be patient.");
 run("npx", ["supabase", "start"]);
 
@@ -80,32 +94,18 @@ for (const app of ["mobile", "rider"]) {
     EXPO_PUBLIC_MAPS_PROVIDER: "osm",
   });
 }
-writeEnv("supabase/functions/.env", {
-  RAZORPAY_BASE_URL: "http://host.docker.internal:4010/v1",
-  RAZORPAY_KEY_ID: "rzp_test_mock",
-  RAZORPAY_KEY_SECRET: "mock_key_secret",
-  RAZORPAY_WEBHOOK_SECRET: "mock_webhook_secret",
-  MSG91_BASE_URL: "http://host.docker.internal:4010",
-  MSG91_AUTH_KEY: "mock",
-  MSG91_OTP_TEMPLATE_ID: "mock",
-  SEND_SMS_HOOK_SECRET: "v1,whsec_bW9ja19zZW5kX3Ntc19ob29rX3NlY3JldA==",
-  PUSH_PROVIDER: "ntfy",
-  NTFY_URL: "http://host.docker.internal:4020",
-});
+
 writeEnv(".oss.env", { SUPABASE_URL: API_URL, SUPABASE_SERVICE_ROLE_KEY: SERVICE, SUPABASE_ANON_KEY: ANON });
 
 if (!args.includes("--no-functions")) {
   const fnUrl = "http://127.0.0.1:54321/functions/v1/place-order";
-  if (await waitFor(fnUrl, [200, 401, 405], 3)) {
-    say("Edge functions already running");
-  } else {
-    say(isWindows ? "Starting edge functions in a separate window (keep it open)" : "Starting edge functions (log: .oss-functions.log)");
-    const pid = startDetached("npx", ["supabase", "functions", "serve", "--env-file", "supabase/functions/.env", "--no-verify-jwt"], path.join(ROOT, ".oss-functions.log"), "RATION edge functions");
-    fs.writeFileSync(path.join(ROOT, ".oss-functions.pid"), String(pid));
-    process.stdout.write("  waiting for the functions runtime (first start downloads dependencies) ");
-    const ok = await waitFor(fnUrl, [200, 401, 405], 120);
-    console.log(ok ? "ready" : "\n  still starting; run npm run oss:check in a minute" + (isWindows ? ", and look at the 'RATION edge functions' window for errors" : ", and check .oss-functions.log"));
-  }
+  say(isWindows ? "Starting edge functions in a separate window (keep it open)" : "Starting edge functions (log: .oss-functions.log)");
+  const pid = startDetached("npx", ["supabase", "functions", "serve", "--env-file", "supabase/functions/.env", "--no-verify-jwt"], path.join(ROOT, ".oss-functions.log"), "RATION edge functions");
+  fs.writeFileSync(path.join(ROOT, ".oss-functions.pid"), String(pid));
+  process.stdout.write("  waiting for the functions runtime (first start downloads dependencies) ");
+  await new Promise((r) => setTimeout(r, 5000));
+  const ok = await waitFor(fnUrl, [200, 401, 405], 120);
+  console.log(ok ? "ready" : "\n  still starting; run npm run oss:check in a minute" + (isWindows ? ", and look at the 'RATION edge functions' window for errors" : ", and check .oss-functions.log"));
 }
 
 say("Checking services");
