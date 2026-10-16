@@ -70,10 +70,18 @@ const put = async (lat, lng, heading) => {
   if (error) fail("rider_locations write failed", error);
 };
 
-const from = { lat: store.lat, lng: store.lng };
 const to = { lat: order.address_snapshot.lat, lng: order.address_snapshot.lng };
 const R = 6371000, rad = (d) => (d * Math.PI) / 180;
-const dist = 2 * R * Math.asin(Math.sqrt(Math.sin(rad(to.lat - from.lat) / 2) ** 2 + Math.cos(rad(from.lat)) * Math.cos(rad(to.lat)) * Math.sin(rad(to.lng - from.lng) / 2) ** 2));
+const distance = (a, b) => 2 * R * Math.asin(Math.sqrt(Math.sin(rad(b.lat - a.lat) / 2) ** 2 + Math.cos(rad(a.lat)) * Math.cos(rad(b.lat)) * Math.sin(rad(b.lng - a.lng) / 2) ** 2));
+let from = { lat: store.lat, lng: store.lng };
+if (distance(from, to) > 15000) {
+  // The nationwide test store can be hundreds of km away; start a realistic 2.5 km out instead.
+  const bearing = Math.atan2(from.lng - to.lng, from.lat - to.lat);
+  const d = 2500 / R;
+  from = { lat: to.lat + (d * Math.cos(bearing) * 180) / Math.PI, lng: to.lng + (d * Math.sin(bearing) * 180) / Math.PI / Math.cos(rad(to.lat)) };
+  console.log(`${store.name} is far from the address; simulating the last 2.5 km only`);
+}
+const dist = distance(from, to);
 const steps = Math.max(2, Math.ceil(dist / ((speedKmh * 1000) / 3600) / intervalS));
 const heading = (Math.atan2(to.lng - from.lng, to.lat - from.lat) * 180) / Math.PI;
 console.log(`${store.name} -> ${order.address_snapshot.line1}: ${(dist / 1000).toFixed(2)} km in ${steps} steps`);

@@ -19,7 +19,8 @@ begin
 
   -- serviceability
   if (select count(*) from public.serving_store(12.975, 77.60)) <> 1 then raise exception 'expected one serving store'; end if;
-  if (select count(*) from public.serving_store(13.5, 77.60)) <> 0 then raise exception 'expected no serving store far away'; end if;
+  if (select code from public.serving_store(12.975, 77.60)) <> 'RC01' then raise exception 'nearest store should win over the nationwide test store'; end if;
+  if (select count(*) from public.serving_store(51.5, -0.1)) <> 0 then raise exception 'expected no serving store outside India'; end if;
 
   -- online order with first-order coupon: 16500 + 2*2700 = 21900, -5000, free delivery, +500 handling, +1000 tip = 18400
   v_placed := public.place_order(v_user, v_store, v_addr,

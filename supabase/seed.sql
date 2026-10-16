@@ -2,6 +2,12 @@
 insert into public.stores (name, code, address, lat, lng, service_radius_m)
 values ('RATION Central', 'RC01', 'Dark Store 1', 12.9716, 77.5946, 4000);
 
+-- Local testing only: a virtual store whose radius covers the whole of India, so testers
+-- anywhere in the country get a serviceable address. Addresses near RATION Central still
+-- pick that store because serviceability prefers the nearest one.
+insert into public.stores (name, code, address, lat, lng, service_radius_m)
+values ('RATION Test Store (anywhere in India)', 'TEST01', 'Virtual store for local testing', 21.1458, 79.0882, 2500000);
+
 insert into public.categories (name, slug, sort_order) values
   ('Fruits & Vegetables', 'fruits-vegetables', 1),
   ('Dairy, Bread & Eggs', 'dairy-bread-eggs', 2),

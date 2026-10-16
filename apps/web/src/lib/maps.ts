@@ -55,6 +55,7 @@ const osm = {
     url.searchParams.set("q", query);
     url.searchParams.set("limit", "8");
     url.searchParams.set("lang", "en");
+    url.searchParams.set("bbox", "68,6,98,36"); // India only: "MG Road" should not resolve abroad
     if (near) {
       url.searchParams.set("lat", String(near.lat));
       url.searchParams.set("lon", String(near.lng));
