@@ -1,5 +1,6 @@
 import * as Device from "expo-device";
 import * as Notifications from "expo-notifications";
+import { AndroidImportance } from "expo-notifications";
 import { Platform } from "react-native";
 
 import { supabase } from "@/lib/supabase";
@@ -23,7 +24,7 @@ export const registerForPush = async (userId: string): Promise<void> => {
     if (Platform.OS === "android") {
       await Notifications.setNotificationChannelAsync("orders", {
         name: "Order updates",
-        importance: Notifications.AndroidImportance.HIGH,
+        importance: AndroidImportance.HIGH,
         sound: "default",
         lightColor: "#D9A441",
       });
