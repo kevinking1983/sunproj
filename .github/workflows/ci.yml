@@ -1,0 +1,65 @@
+name: CI
+
+on:
+  push:
+    branches: [main, app, web]
+  pull_request:
+
+jobs:
+  app:
+    name: Mobile and shared
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run typecheck --workspaces --if-present
+      - run: npm run lint -w @ration/mobile
+
+  functions:
+    name: Edge functions
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - working-directory: supabase/functions
+        run: deno check place-order/index.ts verify-payment/index.ts razorpay-webhook/index.ts cancel-order/index.ts send-sms/index.ts notify-order/index.ts
+
+  database:
+    name: Migrations
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgis/postgis:16-3.4
+        env:
+          POSTGRES_PASSWORD: postgres
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd pg_isready --health-interval 5s --health-timeout 5s --health-retries 10
+    env:
+      PGHOST: localhost
+      PGUSER: postgres
+      PGPASSWORD: postgres
+    steps:
+      - uses: actions/checkout@v4
+      - name: Stub Supabase-managed schema
+        run: |
+          psql -v ON_ERROR_STOP=1 -d postgres <<'SQL'
+          create schema extensions; create schema auth;
+          create table auth.users (id uuid primary key default gen_random_uuid(), phone text);
+          create function auth.uid() returns uuid language sql stable as $$ select nullif(current_setting('request.jwt.claim.sub', true), '')::uuid $$;
+          create role anon nologin; create role authenticated nologin; create role service_role nologin bypassrls;
+          grant usage on schema public, extensions to anon, authenticated, service_role;
+          create publication supabase_realtime;
+          SQL
+      - name: Apply migrations and seed
+        run: |
+          for f in supabase/migrations/*.sql; do echo "== $f"; psql -v ON_ERROR_STOP=1 -d postgres -f "$f"; done
+          psql -v ON_ERROR_STOP=1 -d postgres -f supabase/seed.sql
+      - name: Smoke
+        run: psql -v ON_ERROR_STOP=1 -d postgres -f supabase/tests/smoke.sql

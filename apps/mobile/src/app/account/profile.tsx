@@ -13,6 +13,16 @@ export default function ProfileScreen() {
   const [email, setEmail] = useState(profile?.email ?? "");
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [referral, setReferral] = useState("");
+  const [referralMsg, setReferralMsg] = useState<string | null>(null);
+
+  const applyReferral = async () => {
+    const code = referral.trim().toUpperCase();
+    if (!code) return;
+    const { data, error: e } = await supabase.rpc("apply_referral_code", { p_code: code });
+    if (e) return setReferralMsg(e.message);
+    setReferralMsg(data ? "Referral applied. You both get ₹50 after your first delivered order." : "That code is not valid or you already used one.");
+  };
 
   const save = async () => {
     if (!profile) return;
@@ -35,6 +45,10 @@ export default function ProfileScreen() {
       <TextField label="Email (optional)" value={email} onChangeText={setEmail} keyboardType="email-address" autoCapitalize="none" textContentType="emailAddress" hint="For order invoices" />
       {error ? <Typography variant="label" tone="danger">{error}</Typography> : null}
       <Button title="Save" variant="accent" size="lg" fullWidth loading={saving} onPress={save} style={{ marginTop: spacing.xl }} />
+
+      <Typography variant="heading" style={{ marginTop: spacing.xxxl, marginBottom: spacing.sm }}>Have a referral code?</Typography>
+      <TextField placeholder="Referral code" value={referral} onChangeText={setReferral} autoCapitalize="characters" autoCorrect={false} hint={referralMsg ?? "Applies once, before your first delivered order"} />
+      <Button title="Apply code" variant="secondary" onPress={applyReferral} style={{ marginTop: spacing.sm }} />
     </Screen>
   );
 }

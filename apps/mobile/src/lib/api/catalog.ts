@@ -112,14 +112,9 @@ export const catalogApi = {
   search: async (storeId: string, query: string, limit = 40): Promise<Product[]> => {
     const q = query.trim();
     if (!q) return [];
-    const { data, error } = await supabase
-      .from("products")
-      .select(PRODUCT_COLUMNS)
-      .eq("is_active", true)
-      .eq("inventory.store_id", storeId)
-      .or(`name.ilike.%${q.replace(/[%,()]/g, "")}%,tags.cs.{${q.toLowerCase().replace(/[^a-z0-9 ]/g, "")}}`)
-      .limit(limit);
+    const { data, error } = await supabase.rpc("search_products", { p_store_id: storeId, p_query: q, p_limit: limit });
     if (error) throw error;
-    return (data as unknown as ProductRow[]).map(toProduct);
+    type Row = Omit<Product, "images"> & { images: string[] | null; rank: number };
+    return ((data ?? []) as unknown as Row[]).map(({ rank: _rank, ...p }) => ({ ...p, images: p.images ?? [] }));
   },
 };

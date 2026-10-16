@@ -6,6 +6,7 @@ import { ActivityIndicator, Alert, Pressable, ScrollView, StyleSheet, View } fro
 
 import { BillSummary } from "@/components/checkout/BillSummary";
 import { ProductImage } from "@/components/catalog/ProductImage";
+import { RateItem } from "@/components/orders/RateItem";
 import { isActive, isCancellable, STATUS_LABEL, STATUS_STEPS, stepIndex } from "@/components/orders/status";
 import { Button, Screen, Typography } from "@/components/ui";
 import { colors, radius, spacing } from "@/constants/theme";
@@ -165,6 +166,7 @@ export default function OrderScreen() {
                 <View style={{ flex: 1 }}>
                   <Typography variant="label" numberOfLines={2}>{i.name}</Typography>
                   <Typography variant="caption" tone="muted">{i.unit_label} × {i.quantity}</Typography>
+                  {o.status === "delivered" ? <RateItem productId={i.product_id} orderId={o.id} /> : null}
                 </View>
                 <Typography variant="label" weight="semibold">{formatInr(i.line_total)}</Typography>
               </View>

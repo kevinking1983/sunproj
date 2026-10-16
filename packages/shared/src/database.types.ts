@@ -131,6 +131,38 @@ isOneToOne: false
       referencedColumns: ["id"]
     }
                   ]
+                },"coupon_redemptions": {
+                  Row: {
+                    "coupon_id": string,"created_at": string,"id": number,"order_id": string,"user_id": string
+                  }
+                  ComputedFields: never
+                  Insert: {
+                    "coupon_id": string,"created_at"?: string,"id"?: never,"order_id": string,"user_id": string
+                  }
+                  Update: {
+                    "coupon_id"?: string,"created_at"?: string,"id"?: never,"order_id"?: string,"user_id"?: string
+                  }
+                  Relationships: [
+                    {
+      foreignKeyName: "coupon_redemptions_coupon_id_fkey"
+      columns: ["coupon_id"]
+isOneToOne: false
+      referencedRelation: "coupons"
+      referencedColumns: ["id"]
+    },{
+      foreignKeyName: "coupon_redemptions_order_id_fkey"
+      columns: ["order_id"]
+isOneToOne: true
+      referencedRelation: "orders"
+      referencedColumns: ["id"]
+    },{
+      foreignKeyName: "coupon_redemptions_user_id_fkey"
+      columns: ["user_id"]
+isOneToOne: false
+      referencedRelation: "profiles"
+      referencedColumns: ["id"]
+    }
+                  ]
                 },"coupons": {
                   Row: {
                     "code": string,"description": string | null,"discount_type": string,"discount_value": number,"ends_at": string | null,"first_order_only": boolean,"id": string,"is_active": boolean,"max_discount": number | null,"min_order_amount": number,"per_user_limit": number,"starts_at": string | null,"title": string,"total_limit": number | null,"used_count": number
@@ -144,6 +176,26 @@ isOneToOne: false
                   }
                   Relationships: [
                     
+                  ]
+                },"idempotency_keys": {
+                  Row: {
+                    "created_at": string,"key": string,"response": Json | null,"user_id": string | null
+                  }
+                  ComputedFields: never
+                  Insert: {
+                    "created_at"?: string,"key": string,"response"?: Json | null,"user_id"?: string | null
+                  }
+                  Update: {
+                    "created_at"?: string,"key"?: string,"response"?: Json | null,"user_id"?: string | null
+                  }
+                  Relationships: [
+                    {
+      foreignKeyName: "idempotency_keys_user_id_fkey"
+      columns: ["user_id"]
+isOneToOne: false
+      referencedRelation: "profiles"
+      referencedColumns: ["id"]
+    }
                   ]
                 },"inventory": {
                   Row: {
@@ -309,14 +361,14 @@ isOneToOne: false
                   ]
                 },"products": {
                   Row: {
-                    "brand_id": string | null,"category_id": string,"created_at": string,"description": string | null,"id": string,"images": (string)[],"is_active": boolean,"is_veg": boolean | null,"mrp": number,"name": string,"price": number,"search_text": unknown,"slug": string,"tags": (string)[],"tax_rate": number,"unit_label": string,"updated_at": string
+                    "brand_id": string | null,"category_id": string,"created_at": string,"description": string | null,"id": string,"images": (string)[],"is_active": boolean,"is_veg": boolean | null,"mrp": number,"name": string,"price": number,"rating_avg": number | null,"rating_count": number,"search_text": unknown,"slug": string,"tags": (string)[],"tax_rate": number,"unit_label": string,"updated_at": string
                   }
                   ComputedFields: never
                   Insert: {
-                    "brand_id"?: string | null,"category_id": string,"created_at"?: string,"description"?: string | null,"id"?: string,"images"?: (string)[],"is_active"?: boolean,"is_veg"?: boolean | null,"mrp": number,"name": string,"price": number,"search_text"?: never,"slug": string,"tags"?: (string)[],"tax_rate"?: number,"unit_label": string,"updated_at"?: string
+                    "brand_id"?: string | null,"category_id": string,"created_at"?: string,"description"?: string | null,"id"?: string,"images"?: (string)[],"is_active"?: boolean,"is_veg"?: boolean | null,"mrp": number,"name": string,"price": number,"rating_avg"?: number | null,"rating_count"?: number,"search_text"?: never,"slug": string,"tags"?: (string)[],"tax_rate"?: number,"unit_label": string,"updated_at"?: string
                   }
                   Update: {
-                    "brand_id"?: string | null,"category_id"?: string,"created_at"?: string,"description"?: string | null,"id"?: string,"images"?: (string)[],"is_active"?: boolean,"is_veg"?: boolean | null,"mrp"?: number,"name"?: string,"price"?: number,"search_text"?: never,"slug"?: string,"tags"?: (string)[],"tax_rate"?: number,"unit_label"?: string,"updated_at"?: string
+                    "brand_id"?: string | null,"category_id"?: string,"created_at"?: string,"description"?: string | null,"id"?: string,"images"?: (string)[],"is_active"?: boolean,"is_veg"?: boolean | null,"mrp"?: number,"name"?: string,"price"?: number,"rating_avg"?: number | null,"rating_count"?: number,"search_text"?: never,"slug"?: string,"tags"?: (string)[],"tax_rate"?: number,"unit_label"?: string,"updated_at"?: string
                   }
                   Relationships: [
                     {
@@ -453,13 +505,45 @@ isOneToOne: false
       referencedColumns: ["id"]
     }
                   ]
+                },"webhook_events": {
+                  Row: {
+                    "event_id": string,"provider": string,"received_at": string
+                  }
+                  ComputedFields: never
+                  Insert: {
+                    "event_id": string,"provider": string,"received_at"?: string
+                  }
+                  Update: {
+                    "event_id"?: string,"provider"?: string,"received_at"?: string
+                  }
+                  Relationships: [
+                    
+                  ]
                 }
           }
           Views: {
             [_ in never]: never
           }
           Functions: {
-            "current_role":
+            "advance_order":
+{ Args: { "p_actor": string,"p_note"?: string,"p_order_id": string,"p_status": Database["public"]['Enums']["order_status"] }; Returns: undefined
+                           },
+"append_order_event":
+{ Args: { "p_actor"?: string,"p_note"?: string,"p_order_id": string,"p_status": Database["public"]['Enums']["order_status"] }; Returns: undefined
+                           },
+"apply_referral_code":
+{ Args: { "p_code": string }; Returns: boolean
+                           },
+"attach_provider_order":
+{ Args: { "p_order_id": string,"p_provider_order_id": string }; Returns: undefined
+                           },
+"cancel_order":
+{ Args: { "p_actor": string,"p_by_customer": boolean,"p_order_id": string,"p_reason": string }; Returns: Json
+                           },
+"confirm_payment":
+{ Args: { "p_method"?: Database["public"]['Enums']["payment_method"],"p_order_id": string,"p_provider_order_id": string,"p_provider_payment_id": string,"p_raw"?: Json }; Returns: Database["public"]['Enums']["order_status"]
+                           },
+"current_role":
 { Args: Record<PropertyKey, never>; Returns: Database["public"]['Enums']["user_role"]
                            },
 "find_serving_store":
@@ -493,6 +577,14 @@ isOneToOne: false
                            },
 "is_staff":
 { Args: Record<PropertyKey, never>; Returns: boolean
+                           },
+"place_order":
+{ Args: { "p_address_id": string,"p_coupon_code"?: string,"p_customer_note"?: string,"p_items": Json,"p_payment_method": Database["public"]['Enums']["payment_method"],"p_store_id": string,"p_tip"?: number,"p_user_id": string }; Returns: Json
+                           },
+"search_products":
+{ Args: { "p_limit"?: number,"p_query": string,"p_store_id": string }; Returns: {
+              "available": number,"brand_name": string,"category_id": string,"description": string,"id": string,"images": (string)[],"is_veg": boolean,"mrp": number,"name": string,"price": number,"rank": number,"slug": string,"unit_label": string
+            }[]
                            },
 "serving_store":
 { Args: { "lat": number,"lng": number }; Returns: {
