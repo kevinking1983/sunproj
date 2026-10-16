@@ -79,7 +79,8 @@ Maps vector tiles in `ola` mode). To see it move without the rider app, run the 
 against any placed order:
 
 ```bash
-npm run oss:rider -- RT100001   # after oss:start; keys are read from .oss.env
+npm run oss:rider               # delivers your latest active order (keys come from .oss.env)
+npm run oss:rider -- RT100001   # or a specific order number
 ```
 
 It assigns a test rider, advances the order to out for delivery, streams positions from the

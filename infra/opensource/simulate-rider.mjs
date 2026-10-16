@@ -6,7 +6,9 @@
  * app and website can be exercised before the rider app exists.
  *
  *   SUPABASE_URL=http://127.0.0.1:54321 SUPABASE_SERVICE_ROLE_KEY=... \
- *   node infra/opensource/simulate-rider.mjs <order_number|order_id> [--speed 25] [--interval 3]
+ *   node infra/opensource/simulate-rider.mjs [order_number|order_id] [--speed 25] [--interval 3]
+ *
+ * Without an order argument it delivers the most recent order that is still active.
  *
  * If the order has no rider, the first profile with role 'rider' is assigned (one is
  * created from the test number 9999900003 if none exists). The order is advanced to
@@ -37,13 +39,25 @@ const target = args.find((a) => !a.startsWith("--"));
 const opt = (name, def) => { const i = args.indexOf(`--${name}`); return i === -1 ? def : Number(args[i + 1]); };
 const speedKmh = opt("speed", 25);
 const intervalS = opt("interval", 3);
-if (!target) { console.error("Usage: simulate-rider.mjs <order_number|order_id>"); process.exit(1); }
 
 const db = createClient(url, key, { auth: { persistSession: false } });
 const fail = (m, e) => { console.error(m, e?.message ?? e ?? ""); process.exit(1); };
 
-const { data: order, error: oe } = await db.from("orders").select("id, order_number, status, rider_id, store_id, address_snapshot").or(`order_number.eq.${target},id.eq.${/^[0-9a-f-]{36}$/.test(target) ? target : "00000000-0000-0000-0000-000000000000"}`).maybeSingle();
-if (oe || !order) fail("Order not found", oe);
+const ORDER_COLUMNS = "id, order_number, status, rider_id, store_id, address_snapshot";
+const ACTIVE = ["placed", "accepted", "packing", "ready", "picked_up", "out_for_delivery"];
+let order;
+if (target) {
+  const { data, error } = await db.from("orders").select(ORDER_COLUMNS).or(`order_number.eq.${target},id.eq.${/^[0-9a-f-]{36}$/.test(target) ? target : "00000000-0000-0000-0000-000000000000"}`).maybeSingle();
+  if (error || !data) fail(`Order ${target} not found`, error);
+  order = data;
+} else {
+  // No argument: deliver the most recent order that is still on its way.
+  const { data, error } = await db.from("orders").select(ORDER_COLUMNS).in("status", ACTIVE).order("created_at", { ascending: false }).limit(1).maybeSingle();
+  if (error) fail("Could not look up orders", error);
+  if (!data) fail("No active order to deliver. Place an order in the app or website first, or pass an order number: node infra/opensource/simulate-rider.mjs <order_number>");
+  order = data;
+  console.log(`delivering the latest active order #${order.order_number} (${order.status})`);
+}
 const { data: store } = await db.from("stores").select("lat, lng, name").eq("id", order.store_id).single();
 
 let riderId = order.rider_id;
