@@ -5,7 +5,7 @@ import { router, useLocalSearchParams } from "expo-router";
 import { useState } from "react";
 import { ActivityIndicator, Alert, Linking, Platform, Pressable, ScrollView, StyleSheet, View } from "react-native";
 
-import { DeliveryMap } from "@/components/DeliveryMap";
+import { MapOrFallback } from "@/components/MapOrFallback";
 import { Button, Screen, Typography } from "@/components/ui";
 import { colors, radius, spacing } from "@/constants/theme";
 import { RIDER_NEXT, describeRiderError, riderApi } from "@/lib/api";
@@ -61,7 +61,7 @@ export default function RiderOrderScreen() {
           {o.promised_at ? <Typography variant="caption" tone="muted">Deliver by {new Date(o.promised_at).toLocaleTimeString("en-IN", { hour: "numeric", minute: "2-digit" })}</Typography> : null}
         </View>
 
-        {o.status !== "delivered" && o.status !== "cancelled" ? <DeliveryMap destination={{ lat: a.lat, lng: a.lng }} /> : null}
+        {o.status !== "delivered" && o.status !== "cancelled" ? <MapOrFallback destination={{ lat: a.lat, lng: a.lng }} /> : null}
 
         <View style={styles.card}>
           <Typography variant="heading">{a.recipient_name || "Customer"}</Typography>
