@@ -43,8 +43,24 @@ if (!ANON || !SERVICE) die("Supabase status did not include keys. Run `npx supab
 say("Applying migrations and seed");
 run("npx", ["supabase", "db", "reset"]);
 
-say("Starting mock gateway and ntfy");
-run("docker", ["compose", "-f", "infra/opensource/docker-compose.yml", "up", "-d", "--build"]);
+// Docker Hub downloads can drop mid-pull on flaky connections; retry, and never let the
+// optional notification service block the rest of the stack.
+const composeUp = (service, attempts) => {
+  for (let i = 1; i <= attempts; i++) {
+    try {
+      run("docker", ["compose", "-f", "infra/opensource/docker-compose.yml", "up", "-d", "--build", service]);
+      return true;
+    } catch {
+      if (i < attempts) console.log(`  ${service}: attempt ${i} failed, retrying…`);
+    }
+  }
+  return false;
+};
+say("Starting mock gateway");
+if (!composeUp("mock-gateway", 3)) die("Could not start the mock gateway after 3 attempts. Check Docker Desktop and your internet connection, then re-run npm run oss:start.");
+say("Starting ntfy (push notifications, optional)");
+const ntfyUp = composeUp("ntfy", 3);
+if (!ntfyUp) console.log("  ntfy could not be downloaded. Everything else works; push notifications are off until you re-run npm run oss:start with a stable connection.");
 
 say("Writing environment files");
 writeEnv("apps/web/.env.local", {
