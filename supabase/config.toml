@@ -45,7 +45,8 @@ max_frequency = "30s"
 [auth.hook.send_sms]
 enabled = true
 uri = "http://host.docker.internal:4010/hooks/send-sms"
-secrets = "env(SEND_SMS_HOOK_SECRET)"
+# Local-only hook secret; production hooks are configured in the Supabase dashboard.
+secrets = "v1,whsec_bW9ja19zZW5kX3Ntc19ob29rX3NlY3JldA=="
 
 [storage]
 enabled = true

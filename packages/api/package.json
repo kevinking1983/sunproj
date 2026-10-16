@@ -1,0 +1,11 @@
+{
+  "name": "@ration/api",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": { "typecheck": "tsc --noEmit" },
+  "dependencies": { "@ration/shared": "*" },
+  "peerDependencies": { "@supabase/supabase-js": "^2" },
+  "devDependencies": { "@supabase/supabase-js": "^2.118.0", "typescript": "~6.0.3" }
+}

@@ -581,6 +581,9 @@ isOneToOne: false
 "place_order":
 { Args: { "p_address_id": string,"p_coupon_code"?: string,"p_customer_note"?: string,"p_items": Json,"p_payment_method": Database["public"]['Enums']["payment_method"],"p_store_id": string,"p_tip"?: number,"p_user_id": string }; Returns: Json
                            },
+"rider_update_location":
+{ Args: { "p_heading"?: number,"p_lat": number,"p_lng": number }; Returns: undefined
+                           },
 "search_products":
 { Args: { "p_limit"?: number,"p_query": string,"p_store_id": string }; Returns: {
               "available": number,"brand_name": string,"category_id": string,"description": string,"id": string,"images": (string)[],"is_veg": boolean,"mrp": number,"name": string,"price": number,"rank": number,"slug": string,"unit_label": string
@@ -590,6 +593,24 @@ isOneToOne: false
 { Args: { "lat": number,"lng": number }; Returns: {
               "closes_at": string,"code": string,"delivery_fee": number,"distance_m": number,"free_delivery_above": number,"id": string,"is_open": boolean,"min_order_amount": number,"name": string,"opens_at": string,"promised_minutes": number
             }[]
+                           },
+"staff_advance_order":
+{ Args: { "p_note"?: string,"p_order_id": string,"p_status": Database["public"]['Enums']["order_status"] }; Returns: undefined
+                           },
+"staff_assign_rider":
+{ Args: { "p_order_id": string,"p_rider_id"?: string }; Returns: undefined
+                           },
+"staff_cancel_order":
+{ Args: { "p_order_id": string,"p_reason": string }; Returns: Json
+                           },
+"staff_dashboard":
+{ Args: { "p_store_id"?: string }; Returns: Json
+                           },
+"staff_set_role":
+{ Args: { "p_role": Database["public"]['Enums']["user_role"],"p_user_id": string }; Returns: undefined
+                           },
+"staff_set_stock":
+{ Args: { "p_price_override"?: number,"p_product_id": string,"p_quantity": number,"p_store_id": string }; Returns: undefined
                            }
           }
           Enums: {

@@ -19,7 +19,9 @@
     "functions:serve": "supabase functions serve --env-file supabase/functions/.env --no-verify-jwt",
     "oss:up": "docker compose -f infra/opensource/docker-compose.yml up -d --build",
     "oss:down": "docker compose -f infra/opensource/docker-compose.yml down",
-    "oss:gateway": "node infra/opensource/mock-gateway/server.mjs"
+    "oss:gateway": "node infra/opensource/mock-gateway/server.mjs",
+    "web": "npm run dev -w @ration/web",
+    "web:build": "npm run build -w @ration/web"
   },
   "engines": {
     "node": ">=20"

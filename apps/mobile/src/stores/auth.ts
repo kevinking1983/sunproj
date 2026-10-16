@@ -1,17 +1,11 @@
+import { createProfileApi, type Profile } from "@ration/api";
 import type { Session } from "@supabase/supabase-js";
 import { create } from "zustand";
 
 import { supabase } from "@/lib/supabase";
 
-export interface Profile {
-  id: string;
-  phone: string | null;
-  full_name: string | null;
-  email: string | null;
-  role: "customer" | "rider" | "store_staff" | "admin";
-  referral_code: string | null;
-  wallet_balance: number;
-}
+export type { Profile };
+const profileApi = createProfileApi(supabase);
 
 interface AuthState {
   status: "loading" | "signed_out" | "signed_in";
@@ -21,8 +15,6 @@ interface AuthState {
   refreshProfile: () => Promise<void>;
   signOut: () => Promise<void>;
 }
-
-const PROFILE_COLUMNS = "id, phone, full_name, email, role, referral_code, wallet_balance";
 
 export const useAuth = create<AuthState>((set, get) => ({
   status: "loading",
@@ -44,8 +36,8 @@ export const useAuth = create<AuthState>((set, get) => ({
   refreshProfile: async () => {
     const userId = get().session?.user.id;
     if (!userId) return;
-    const { data } = await supabase.from("profiles").select(PROFILE_COLUMNS).eq("id", userId).maybeSingle();
-    if (data) set({ profile: data as Profile });
+    const profile = await profileApi.get(userId).catch(() => null);
+    if (profile) set({ profile });
   },
 
   signOut: async () => {

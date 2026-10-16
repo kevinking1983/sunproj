@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+/* RATION brand tokens. Contrast rules: white on greens passes AAA; gold surfaces take
+   ink text, never white; gold is never body text on ivory (use --color-gold-text). */
+@theme {
+  --color-primary: #20543b;        /* Kingdom Green */
+  --color-primary-dark: #123c2d;   /* Deep Covenant */
+  --color-primary-light: #3d805a;  /* Living Vine */
+  --color-accent: #d9a441;         /* Divine Gold */
+  --color-gold-text: #8a6420;
+  --color-ivory: #fffcf6;          /* Grace Ivory */
+  --color-surface: #ffffff;
+  --color-surface-muted: #f3f1ea;
+  --color-border: #e6e2d8;
+  --color-divider: #efece4;
+  --color-ink: #202820;            /* Scripture Ink */
+  --color-muted: #667267;          /* Olive Slate */
+  --color-primary-tint: #e4efe8;
+  --color-accent-tint: #fbf1dc;
+  --color-success: #3d805a;
+  --color-success-tint: #e4efe8;
+  --color-danger: #b42318;
+  --color-danger-tint: #fbe9e7;
+  --color-warning: #b7791f;
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --radius-card: 16px;
+}
+
+html {
+  color-scheme: light;
+}
+
+body {
+  background: var(--color-ivory);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Thin accessible focus ring in brand green. */
+:focus-visible {
+  outline: 2px solid var(--color-primary-light);
+  outline-offset: 2px;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  scrollbar-width: none;
+}
