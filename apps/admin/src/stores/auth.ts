@@ -25,8 +25,14 @@ export const useAuth = create<AuthState>((set, get) => ({
   setStoreId: (storeId) => set({ storeId }),
   initialise: () => {
     const load = async (session: Session | null) => {
-      const profile = session ? await profileApi.get(session.user.id).catch(() => null) : null;
-      set({ session, profile, status: session ? "signed_in" : "signed_out" });
+      const profile = session ? await profileApi.get(session.user.id).catch(() => undefined) : null;
+      if (session && profile === null) {
+        // Session for a user this database no longer has (e.g. after a local `db reset`).
+        await supabase.auth.signOut();
+        set({ session: null, profile: null, status: "signed_out" });
+        return;
+      }
+      set({ session, profile: profile ?? null, status: session ? "signed_in" : "signed_out" });
     };
     supabase.auth.getSession().then(({ data }) => load(data.session));
     const { data: sub } = supabase.auth.onAuthStateChange((_e, session) => {

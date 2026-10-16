@@ -48,6 +48,9 @@ sends its OTP to the mock, visible at <http://localhost:4010/otps> and in the co
 The seed also creates "RATION Test Store (anywhere in India)", a virtual store whose
 service radius covers the whole country, so your own location or any Indian address is
 serviceable while testing. Addresses near the Bengaluru dark store still use that store.
+`npm run oss:start` resets the database, so a login kept in your browser or phone from
+before the reset belongs to a user that no longer exists; the apps notice this and sign
+you out, so just log in again.
 The `[auth.sms.twilio]` block in `config.toml` holds dummy credentials on purpose: the
 Supabase CLI only switches phone auth on when a provider is enabled, and the provider is
 never contacted because the Send SMS hook takes precedence. Keep it as it is.

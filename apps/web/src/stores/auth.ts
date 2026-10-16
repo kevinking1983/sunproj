@@ -36,8 +36,13 @@ export const useAuth = create<AuthState>((set, get) => ({
   refreshProfile: async () => {
     const userId = get().session?.user.id;
     if (!userId) return;
-    const profile = await profileApi.get(userId).catch(() => null);
+    // `undefined` = request failed (keep the current profile); `null` = no row exists for
+    // this user, which means the session belongs to a user this database no longer has
+    // (for example after a local `db reset`). Keeping such a session breaks every insert
+    // that references profiles, so drop it.
+    const profile = await profileApi.get(userId).catch(() => undefined);
     if (profile) set({ profile });
+    else if (profile === null) await get().signOut();
   },
 
   signOut: async () => {
