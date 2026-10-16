@@ -15,7 +15,7 @@ import { coerceOrderError, ordersApi, type PlaceOrderResult } from "@/lib/api/or
 import { openRazorpayCheckout, PaymentCancelled } from "@/lib/payments";
 import { queryKeys } from "@/lib/query";
 import { useAuth } from "@/stores/auth";
-import { selectLines, useCart } from "@/stores/cart";
+import { useCart, useCartLines } from "@/stores/cart";
 import { useLocation } from "@/stores/location";
 import { computeBill, formatInr, type PaymentMethod } from "@ration/shared";
 
@@ -27,7 +27,7 @@ const newIdempotencyKey = () => `${Date.now().toString(36)}-${Math.random().toSt
 export default function CartScreen() {
   const insets = useSafeAreaInsets();
   const qc = useQueryClient();
-  const lines = useCart(selectLines);
+  const lines = useCartLines();
   const { couponCode, tip, setCoupon, setTip, clear } = useCart();
   const { location, store, status } = useLocation();
   const profile = useAuth((s) => s.profile);

@@ -13,7 +13,7 @@ import { Button, Card, TextField } from "@/components/ui";
 import { couponsApi, ordersApi, queryKeys } from "@/lib/api";
 import { PaymentCancelled, openCheckout } from "@/lib/payments";
 import { useAuth } from "@/stores/auth";
-import { selectLines, useCart } from "@/stores/cart";
+import { useCart, useCartLines } from "@/stores/cart";
 import { useLocation } from "@/stores/location";
 import { computeBill, formatInr, type PaymentMethod } from "@ration/shared";
 
@@ -24,7 +24,7 @@ const newKey = () => `${Date.now().toString(36)}-${Math.random().toString(36).sl
 export default function CheckoutPage() {
   const router = useRouter();
   const qc = useQueryClient();
-  const lines = useCart(selectLines);
+  const lines = useCartLines();
   const { couponCode, tip, setCoupon, setTip, clear, increment, decrement } = useCart();
   const { location, store, status } = useLocation();
   const openLocation = useLocationModal((s) => s.open);

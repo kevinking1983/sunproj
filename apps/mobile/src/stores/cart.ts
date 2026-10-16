@@ -1,4 +1,5 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
+import { useMemo } from "react";
 import { create } from "zustand";
 import { createJSONStorage, persist } from "zustand/middleware";
 
@@ -89,7 +90,11 @@ export const useCart = create<CartState>()(
   ),
 );
 
-export const selectLines = (s: CartState) => Object.values(s.lines);
+/** Stable list of cart lines (a selector returning a new array each call re-renders endlessly). */
+export const useCartLines = (): CartLine[] => {
+  const lines = useCart((s) => s.lines);
+  return useMemo(() => Object.values(lines), [lines]);
+};
 export const selectCount = (s: CartState) => Object.values(s.lines).reduce((n, l) => n + l.quantity, 0);
 export const selectSubtotal = (s: CartState) => Object.values(s.lines).reduce((n, l) => n + l.price * l.quantity, 0);
 export const selectMrpTotal = (s: CartState) => Object.values(s.lines).reduce((n, l) => n + l.mrp * l.quantity, 0);

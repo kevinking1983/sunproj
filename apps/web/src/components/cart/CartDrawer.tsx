@@ -4,13 +4,13 @@ import Link from "next/link";
 
 import { ProductImage } from "@/components/catalog/ProductCard";
 import { Button } from "@/components/ui";
-import { selectLines, selectSubtotal, useCart } from "@/stores/cart";
+import { selectSubtotal, useCart, useCartLines } from "@/stores/cart";
 import { useLocation } from "@/stores/location";
 import { formatInr } from "@ration/shared";
 
 export function CartDrawer() {
   const { open, setOpen, increment, decrement } = useCart();
-  const lines = useCart(selectLines);
+  const lines = useCartLines();
   const subtotal = useCart(selectSubtotal);
   const store = useLocation((s) => s.store);
   if (!open) return null;
