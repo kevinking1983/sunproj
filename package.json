@@ -25,7 +25,10 @@
     "admin": "npm run dev -w @ration/admin",
     "admin:build": "npm run build -w @ration/admin",
     "oss:rider": "node infra/opensource/simulate-rider.mjs",
-    "rider": "npm run start -w @ration/rider"
+    "rider": "npm run start -w @ration/rider",
+    "oss:start": "bash scripts/oss-start.sh",
+    "oss:check": "bash scripts/oss-check.sh",
+    "oss:stop": "bash scripts/oss-stop.sh"
   },
   "engines": {
     "node": ">=20"

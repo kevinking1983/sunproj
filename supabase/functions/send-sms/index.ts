@@ -30,7 +30,8 @@ Deno.serve(async (req) => {
   }
 
   // MSG91 OTP API with a DLT-approved template that contains the ##OTP## variable.
-  const res = await fetch("https://control.msg91.com/api/v5/otp", {
+  const base = (Deno.env.get("MSG91_BASE_URL") ?? "https://control.msg91.com").replace(/\/$/, "");
+  const res = await fetch(`${base}/api/v5/otp`, {
     method: "POST",
     headers: { authkey: authKey, "Content-Type": "application/json" },
     body: JSON.stringify({ template_id: templateId, mobile: payload.user.phone.replace(/^\+/, ""), otp: payload.sms.otp, otp_expiry: 10 }),

@@ -49,3 +49,8 @@ yarn-error.log*
 
 # edge function secrets
 supabase/functions/.env
+
+# open-source test stack runtime files
+.oss.env
+.oss-functions.log
+.env.local

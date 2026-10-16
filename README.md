@@ -61,12 +61,13 @@ Run everything with no paid accounts: local Supabase, the mock Razorpay/MSG91 ga
 OpenStreetMap maps, ntfy push and a rider simulator. See `infra/opensource/README.md`.
 
 ```bash
-npm run db:start && npm run db:reset
-npm run oss:up
-npm run functions:serve
-cp .env.opensource.example apps/mobile/.env && npm run mobile
-npm run oss:rider -- RT100001   # streams a rider to an order's address
+npm run oss:start     # Supabase, mock gateway, ntfy, edge functions, env files for every app
+npm run web           # then open http://localhost:3000, log in with 9999900001 / 123456
+npm run oss:check     # health of every service
+npm run oss:stop
 ```
+
+Feature-by-feature mapping of production services to their free stand-ins: `docs/FEATURE_PARITY.md`.
 
 ## Staff access
 

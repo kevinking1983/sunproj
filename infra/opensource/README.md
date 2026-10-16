@@ -12,7 +12,18 @@ the production code paths are exercised unchanged.
 | Ola / Google Maps | OpenStreetMap: Nominatim (reverse geocode), Photon (autocomplete) and OSM raster tiles on MapLibre for the live map | `EXPO_PUBLIC_MAPS_PROVIDER=osm` |
 | Expo push | ntfy (self-hosted) | `PUSH_PROVIDER=ntfy` |
 
-## Start
+## Start (one command)
+
+```bash
+npm run oss:start
+```
+
+It starts Supabase locally, applies migrations and seed, builds and starts the mock gateway
+and ntfy, serves the edge functions with the mock environment, writes `.env` files for the
+website, admin, customer app and partner app (using your LAN IP for phones), and runs health
+checks. `npm run oss:check` repeats the checks; `npm run oss:stop` tears everything down.
+
+## Start (step by step)
 
 ```bash
 # 1. Supabase local stack (Docker)
