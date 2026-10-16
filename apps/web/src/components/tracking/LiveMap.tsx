@@ -1,7 +1,7 @@
 "use client";
 
 import { createTrackingApi, distanceMetres, estimateMinutes, mapStyleFor, type RiderPosition } from "@ration/api";
-import { LngLatBounds, Map as MLMap, Marker, NavigationControl } from "maplibre-gl";
+import { LngLatBounds, Map as MLMap, Marker, NavigationControl, getVersion, setWorkerUrl } from "maplibre-gl";
 import { useEffect, useRef, useState } from "react";
 
 import { env } from "@/lib/env";
@@ -32,6 +32,10 @@ const riderEl = () => {
   el.textContent = "🛵";
   return el;
 };
+
+// The worker is copied into /public by scripts/copy-maplibre-worker.mjs; the version query
+// stops a browser reusing a worker cached from an older MapLibre release.
+setWorkerUrl(`/maplibre/maplibre-gl-worker.mjs?v=${getVersion()}`);
 
 /** Live delivery map: store, destination and the rider's position streamed over realtime. */
 export function LiveMap({ riderId, destination, store, heightClass = "h-72" }: Props) {
