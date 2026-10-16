@@ -1,0 +1,66 @@
+# Supabase local development config. Project id is the folder name; the hosted
+# project is linked with `supabase link --project-ref <ref>`.
+project_id = "ration"
+
+[api]
+enabled = true
+port = 54321
+schemas = ["public", "graphql_public"]
+extra_search_path = ["public", "extensions"]
+max_rows = 1000
+
+[db]
+port = 54322
+major_version = 17
+
+[db.pooler]
+enabled = false
+
+[studio]
+enabled = true
+port = 54323
+
+[auth]
+enabled = true
+site_url = "ration://"
+additional_redirect_urls = ["ration://auth/callback", "http://localhost:3000"]
+jwt_expiry = 3600
+enable_refresh_token_rotation = true
+refresh_token_reuse_interval = 10
+enable_signup = true
+
+[auth.sms]
+enable_signup = true
+enable_confirmations = true
+template = "Your RATION OTP is {{ .Code }}. Valid for 10 minutes. Do not share it."
+max_frequency = "30s"
+
+# Real OTPs are sent through the Send SMS auth hook (MSG91). Locally we use test OTPs.
+[auth.sms.test_otp]
+919999900001 = "123456"
+919999900002 = "123456"
+
+[auth.hook.send_sms]
+enabled = false
+uri = "pg-functions://postgres/public/send_sms_hook"
+
+[storage]
+enabled = true
+file_size_limit = "10MiB"
+
+[storage.buckets.product-images]
+public = true
+file_size_limit = "5MiB"
+allowed_mime_types = ["image/png", "image/jpeg", "image/webp"]
+
+[storage.buckets.banners]
+public = true
+file_size_limit = "5MiB"
+allowed_mime_types = ["image/png", "image/jpeg", "image/webp"]
+
+[realtime]
+enabled = true
+
+[edge_runtime]
+enabled = true
+policy = "per_worker"
