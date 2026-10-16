@@ -1,0 +1,7 @@
+# Keep LF endings everywhere so bash scripts and Docker files work on Windows checkouts.
+* text=auto eol=lf
+*.sh text eol=lf
+*.mjs text eol=lf
+*.png binary
+*.jpg binary
+*.ico binary

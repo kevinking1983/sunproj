@@ -12,14 +12,14 @@ cd "$ROOT"
 say() { printf '\n\033[1;32m==> %s\033[0m\n' "$*"; }
 die() { printf '\n\033[1;31m%s\033[0m\n' "$*" >&2; exit 1; }
 
+case "$(uname -s)" in MINGW*|MSYS*|CYGWIN*) export MSYS_NO_PATHCONV=1 ;; esac   # Git Bash: keep /v1 style paths intact
 command -v docker >/dev/null || die "Docker is not installed. Install Docker Desktop and start it."
 docker info >/dev/null 2>&1 || die "Docker is installed but not running. Start Docker Desktop and retry."
 [ -d node_modules ] || { say "Installing dependencies"; npm install; }
 
 # Your machine's LAN address, so a phone running Expo Go can reach the local stack.
-LAN_IP="$( (ip route get 1.1.1.1 2>/dev/null | awk '{for(i=1;i<=NF;i++) if($i=="src") print $(i+1); exit}') || true)"
-[ -n "$LAN_IP" ] || LAN_IP="$( (ipconfig getifaddr en0 2>/dev/null) || true)"
-[ -n "$LAN_IP" ] || LAN_IP="127.0.0.1"
+# Resolved with Node so it works the same on Windows (Git Bash / WSL), macOS and Linux.
+LAN_IP="$(node -e 'const n=require("os").networkInterfaces();const a=Object.values(n).flat().find(i=>i&&i.family==="IPv4"&&!i.internal&&!i.address.startsWith("169.254"));console.log(a?a.address:"127.0.0.1")')"
 
 say "Starting Supabase (Postgres, Auth, Storage, Realtime, Studio)"
 npx supabase start >/dev/null
@@ -79,7 +79,7 @@ printf 'SUPABASE_SERVICE_ROLE_KEY=%s\nSUPABASE_URL=%s\n' "$SERVICE" "$API_URL" >
 
 if [[ " $* " != *" --no-functions "* ]]; then
   say "Starting edge functions (log: .oss-functions.log)"
-  pkill -f "supabase functions serve" 2>/dev/null || true
+  command -v pkill >/dev/null && pkill -f "supabase functions serve" 2>/dev/null || true
   nohup npx supabase functions serve --env-file supabase/functions/.env --no-verify-jwt > .oss-functions.log 2>&1 &
   sleep 3
 fi
