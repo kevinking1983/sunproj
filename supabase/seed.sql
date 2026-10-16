@@ -1,6 +1,6 @@
 -- Development seed: one dark store and a small catalog. Not run in production.
-insert into public.stores (name, code, address, location, service_radius_m)
-values ('RATION Central', 'RC01', 'Dark Store 1', extensions.st_point(77.5946, 12.9716)::extensions.geography, 4000);
+insert into public.stores (name, code, address, lat, lng, service_radius_m)
+values ('RATION Central', 'RC01', 'Dark Store 1', 12.9716, 77.5946, 4000);
 
 insert into public.categories (name, slug, sort_order) values
   ('Fruits & Vegetables', 'fruits-vegetables', 1),
