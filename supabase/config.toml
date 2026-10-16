@@ -40,6 +40,16 @@ max_frequency = "1s"  # local only; production keeps the dashboard default (60s)
 919999900001 = "123456"
 919999900002 = "123456"
 
+# The CLI only switches phone auth on when an SMS provider is enabled, so this block
+# exists purely to flip that switch for local development. The credentials are dummies:
+# test numbers never send, and every other number goes through the Send SMS hook below,
+# which takes precedence over the provider. Production SMS is MSG91 via the hook.
+[auth.sms.twilio]
+enabled = true
+account_sid = "local-dev-unused"
+message_service_sid = "local-dev-unused"
+auth_token = "local-dev-unused"
+
 # Local: OTPs for numbers outside the test list go to the mock gateway's OTP sink
 # (infra/opensource). In production the hook points at the send-sms edge function.
 [auth.hook.send_sms]
