@@ -48,7 +48,8 @@ export const setDeliveryAddress = async (page: Page) => {
   await page.getByRole("button", { name: "Set delivery location" }).click();
   const dialog = page.getByRole("dialog", { name: "Set delivery location" });
   await dialog.getByPlaceholder(/Search for area/).fill("MG Road");
-  await dialog.getByRole("button", { name: /MG Road/ }).first().click();
+  // Anchored: a saved "home …MG Road…" entry must not be mistaken for the geocoder suggestion.
+  await dialog.getByRole("button", { name: /^MG Road/ }).first().click();
   await expect(dialog.getByText("We deliver here")).toBeVisible();
   await dialog.getByRole("button", { name: "Save as address" }).click();
   await dialog.getByLabel("House / Flat / Building").fill("12, Test Apartments");
@@ -62,7 +63,8 @@ export const useSavedAddress = async (page: Page) => {
   await page.goto("/");
   await page.getByRole("button", { name: "Set delivery location" }).click();
   const dialog = page.getByRole("dialog", { name: "Set delivery location" });
-  await dialog.getByRole("button", { name: /^Home/ }).first().click();
+  // The label is stored lowercase and only capitalised with CSS, so the accessible name is "home …".
+  await dialog.getByRole("button", { name: /^home/i }).first().click();
   await expect(dialog).toBeHidden();
   await expect(page.getByText(/Delivery in \d+ min/)).toBeVisible();
 };
