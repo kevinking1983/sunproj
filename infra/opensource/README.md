@@ -45,6 +45,9 @@ npm run mobile
 
 Log in with `9999900001` and OTP `123456` (see `[auth.sms.test_otp]`). Any other number
 sends its OTP to the mock, visible at <http://localhost:4010/otps> and in the container log.
+The `[auth.sms.twilio]` block in `config.toml` holds dummy credentials on purpose: the
+Supabase CLI only switches phone auth on when a provider is enabled, and the provider is
+never contacted because the Send SMS hook takes precedence. Keep it as it is.
 
 ## Paying
 
