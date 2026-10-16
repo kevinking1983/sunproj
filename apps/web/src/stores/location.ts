@@ -17,6 +17,7 @@ interface LocationState {
   store: ServingStore | null;
   status: "idle" | "resolving" | "ready" | "unserviceable" | "error";
   error: string | null;
+  /** True once persisted state has been read on the client (set by markLocationHydrated). */
   hydrated: boolean;
   setLocation: (location: DeliveryLocation) => Promise<void>;
   selectSavedAddress: (address: Address) => Promise<void>;
@@ -83,7 +84,15 @@ export const useLocation = create<LocationState>()(
       name: "ration.location",
       storage: createJSONStorage(() => localStorage),
       partialize: (s) => ({ location: s.location, store: s.store, status: s.status === "ready" || s.status === "unserviceable" ? s.status : "idle" }) as LocationState,
-      onRehydrateStorage: () => (state) => state && useLocation.setState({ hydrated: true }),
     },
   ),
 );
+
+/**
+ * Call from a client effect after mount: flips `hydrated` once localStorage has been read,
+ * without causing a server/client markup mismatch.
+ */
+export const markLocationHydrated = (): (() => void) => {
+  if (useLocation.persist.hasHydrated()) useLocation.setState({ hydrated: true });
+  return useLocation.persist.onFinishHydration(() => useLocation.setState({ hydrated: true }));
+};
