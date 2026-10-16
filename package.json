@@ -28,12 +28,14 @@
     "rider": "npm run start -w @ration/rider",
     "oss:start": "node scripts/oss-start.mjs",
     "oss:check": "node scripts/oss-check.mjs",
-    "oss:stop": "node scripts/oss-stop.mjs"
+    "oss:stop": "node scripts/oss-stop.mjs",
+    "test:e2e": "playwright test"
   },
   "engines": {
     "node": ">=20"
   },
   "devDependencies": {
+    "@playwright/test": "^1.58.0",
     "supabase": "^2.121.0"
   }
 }

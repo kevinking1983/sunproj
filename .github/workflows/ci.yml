@@ -70,3 +70,44 @@ jobs:
           psql -v ON_ERROR_STOP=1 -d postgres -f supabase/seed.sql
       - name: Smoke
         run: psql -v ON_ERROR_STOP=1 -d postgres -f supabase/tests/smoke.sql
+
+  e2e:
+    name: End-to-end on the open-source stack
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Start the open-source stack (Supabase, mock gateway, edge functions)
+        run: node scripts/oss-start.mjs
+      - name: Build and start the website
+        run: |
+          npm run build -w @ration/web
+          (cd apps/web && nohup npx next start -p 3000 > ../../.web.log 2>&1 &)
+          for i in $(seq 1 30); do curl -sf http://127.0.0.1:3000/terms >/dev/null && break; sleep 2; done
+          curl -sf http://127.0.0.1:3000/terms >/dev/null
+        env:
+          NEXT_TELEMETRY_DISABLED: "1"
+      - name: Run end-to-end tests
+        run: npx playwright test
+      - name: Show service logs on failure
+        if: failure()
+        run: |
+          echo "== edge functions =="; tail -n 100 .oss-functions.log || true
+          echo "== website =="; tail -n 60 .web.log || true
+          echo "== mock gateway =="; docker logs ration-mock-gateway --tail 60 || true
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: e2e-artifacts
+          path: |
+            test-results
+            playwright-report
+            .oss-functions.log
+            .web.log
+          if-no-files-found: ignore
