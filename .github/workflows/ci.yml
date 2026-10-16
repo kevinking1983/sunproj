@@ -2,8 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [main, app, web]
+    branches: [main]
   pull_request:
+  workflow_dispatch:
 
 jobs:
   app:
@@ -56,7 +57,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Stub Supabase-managed schema
         run: |
-          psql -v ON_ERROR_STOP=1 -d postgres <<'SQL'
+          createdb -T template0 ration
+          psql -v ON_ERROR_STOP=1 -d ration <<'SQL'
           create schema extensions; create schema auth;
           create table auth.users (id uuid primary key default gen_random_uuid(), phone text);
           create function auth.uid() returns uuid language sql stable as $$ select nullif(current_setting('request.jwt.claim.sub', true), '')::uuid $$;
@@ -66,10 +68,10 @@ jobs:
           SQL
       - name: Apply migrations and seed
         run: |
-          for f in supabase/migrations/*.sql; do echo "== $f"; psql -v ON_ERROR_STOP=1 -d postgres -f "$f"; done
-          psql -v ON_ERROR_STOP=1 -d postgres -f supabase/seed.sql
+          for f in supabase/migrations/*.sql; do echo "== $f"; psql -v ON_ERROR_STOP=1 -d ration -f "$f"; done
+          psql -v ON_ERROR_STOP=1 -d ration -f supabase/seed.sql
       - name: Smoke
-        run: psql -v ON_ERROR_STOP=1 -d postgres -f supabase/tests/smoke.sql
+        run: psql -v ON_ERROR_STOP=1 -d ration -f supabase/tests/smoke.sql
 
   e2e:
     name: End-to-end on the open-source stack
