@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "RATION",
+    "slug": "ration",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "ration",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.ration.app",
+      "supportsTablet": false,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "RATION uses your location to find the nearest store and deliver to your doorstep."
+      }
+    },
+    "android": {
+      "package": "com.ration.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#20543B",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ],
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#123C2D",
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 120
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "backgroundColor": "#FFFCF6"
+  }
+}
