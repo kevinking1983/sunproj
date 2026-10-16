@@ -7,7 +7,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
-import { ROOT, checkAll, die, has, lanIp, run, say, startDetached, writeEnv } from "./oss-lib.mjs";
+import { ROOT, checkAll, die, has, isWindows, lanIp, run, say, startDetached, waitFor, writeEnv } from "./oss-lib.mjs";
 
 const args = process.argv.slice(2);
 process.chdir(ROOT);
@@ -95,10 +95,17 @@ writeEnv("supabase/functions/.env", {
 writeEnv(".oss.env", { SUPABASE_URL: API_URL, SUPABASE_SERVICE_ROLE_KEY: SERVICE, SUPABASE_ANON_KEY: ANON });
 
 if (!args.includes("--no-functions")) {
-  say("Starting edge functions (log: .oss-functions.log)");
-  const pid = startDetached("npx", ["supabase", "functions", "serve", "--env-file", "supabase/functions/.env", "--no-verify-jwt"], path.join(ROOT, ".oss-functions.log"));
-  fs.writeFileSync(path.join(ROOT, ".oss-functions.pid"), String(pid));
-  await new Promise((r) => setTimeout(r, 4000));
+  const fnUrl = "http://127.0.0.1:54321/functions/v1/place-order";
+  if (await waitFor(fnUrl, [200, 401, 405], 3)) {
+    say("Edge functions already running");
+  } else {
+    say(isWindows ? "Starting edge functions in a separate window (keep it open)" : "Starting edge functions (log: .oss-functions.log)");
+    const pid = startDetached("npx", ["supabase", "functions", "serve", "--env-file", "supabase/functions/.env", "--no-verify-jwt"], path.join(ROOT, ".oss-functions.log"), "RATION edge functions");
+    fs.writeFileSync(path.join(ROOT, ".oss-functions.pid"), String(pid));
+    process.stdout.write("  waiting for the functions runtime (first start downloads dependencies) ");
+    const ok = await waitFor(fnUrl, [200, 401, 405], 120);
+    console.log(ok ? "ready" : "\n  still starting; run npm run oss:check in a minute" + (isWindows ? ", and look at the 'RATION edge functions' window for errors" : ", and check .oss-functions.log"));
+  }
 }
 
 say("Checking services");

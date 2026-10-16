@@ -29,18 +29,53 @@ export const run = (cmd, args, { quiet = false, cwd = ROOT, check = true, env } 
 
 export const has = (cmd) => spawnSync(isWindows ? "where" : "which", [cmd], { stdio: "ignore", shell: isWindows }).status === 0;
 
-/** Starts a long-running process detached, logging to a file. */
-export const startDetached = (cmd, args, logFile) => {
+/**
+ * Starts a long-running process that outlives this script. On Windows it opens its own
+ * console window (so logs are visible and it survives this script exiting); elsewhere it
+ * runs detached with output in a log file.
+ */
+export const startDetached = (cmd, args, logFile, title = "RATION") => {
+  if (isWindows) {
+    const line = [cmd, ...args].join(" ");
+    const child = spawn("cmd.exe", ["/c", "start", `"${title}"`, "cmd.exe", "/k", line], { cwd: ROOT, detached: true, stdio: "ignore", windowsHide: false });
+    child.unref();
+    return child.pid;
+  }
   const out = fs.openSync(logFile, "a");
-  const child = spawn(cmd, args, { cwd: ROOT, shell: isWindows, detached: !isWindows, stdio: ["ignore", out, out], windowsHide: true });
+  const child = spawn(cmd, args, { cwd: ROOT, detached: true, stdio: ["ignore", out, out] });
   child.unref();
   return child.pid;
 };
 
+/**
+ * The address a phone on your Wi-Fi can reach. Skips virtual adapters (VirtualBox, VMware,
+ * Hyper-V, WSL, Docker) and prefers home-network ranges. Override with RATION_LAN_IP.
+ */
 export const lanIp = () => {
-  const all = Object.values(os.networkInterfaces()).flat();
-  const pick = all.find((i) => i && i.family === "IPv4" && !i.internal && !i.address.startsWith("169.254"));
-  return pick ? pick.address : "127.0.0.1";
+  if (process.env.RATION_LAN_IP) return process.env.RATION_LAN_IP;
+  const virtual = /virtualbox|vmware|vethernet|hyper-v|wsl|docker|vbox|tailscale|zerotier|loopback/i;
+  const candidates = Object.entries(os.networkInterfaces())
+    .filter(([name]) => !virtual.test(name))
+    .flatMap(([name, list]) => (list ?? []).map((i) => ({ name, ...i })))
+    .filter((i) => i.family === "IPv4" && !i.internal && !i.address.startsWith("169.254") && !i.address.startsWith("192.168.56.") && !/^172\.(1[6-9]|2\d|3[01])\./.test(i.address));
+  const score = (a) => (/^192\.168\./.test(a) ? 3 : /^10\./.test(a) ? 2 : 1) + (/wi-?fi|wlan|en0|wlp/i.test(a) ? 0 : 0);
+  candidates.sort((a, b) => score(b.address) - score(a.address) || (/wi-?fi|wlan|wlp|en0/i.test(b.name) ? 1 : 0) - (/wi-?fi|wlan|wlp|en0/i.test(a.name) ? 1 : 0));
+  return candidates[0]?.address ?? "127.0.0.1";
+};
+
+/** Polls a URL until it returns one of the statuses or the time runs out. */
+export const waitFor = async (url, okStatuses, seconds) => {
+  const until = Date.now() + seconds * 1000;
+  while (Date.now() < until) {
+    try {
+      const res = await fetch(url, { signal: AbortSignal.timeout(3000) });
+      if (okStatuses.includes(res.status)) return true;
+    } catch {
+      // not up yet
+    }
+    await new Promise((r) => setTimeout(r, 2000));
+  }
+  return false;
 };
 
 /** Upserts KEY=VALUE lines into an env file, keeping unrelated lines. */
