@@ -447,14 +447,14 @@ isOneToOne: false
                   ]
                 },"rider_locations": {
                   Row: {
-                    "heading": number | null,"lat": number,"lng": number,"location": unknown,"rider_id": string,"updated_at": string
+                    "heading": number | null,"is_online": boolean,"lat": number,"lng": number,"location": unknown,"rider_id": string,"updated_at": string
                   }
                   ComputedFields: never
                   Insert: {
-                    "heading"?: number | null,"lat": number,"lng": number,"location"?: unknown,"rider_id": string,"updated_at"?: string
+                    "heading"?: number | null,"is_online"?: boolean,"lat": number,"lng": number,"location"?: unknown,"rider_id": string,"updated_at"?: string
                   }
                   Update: {
-                    "heading"?: number | null,"lat"?: number,"lng"?: number,"location"?: unknown,"rider_id"?: string,"updated_at"?: string
+                    "heading"?: number | null,"is_online"?: boolean,"lat"?: number,"lng"?: number,"location"?: unknown,"rider_id"?: string,"updated_at"?: string
                   }
                   Relationships: [
                     {
@@ -580,6 +580,18 @@ isOneToOne: false
                            },
 "place_order":
 { Args: { "p_address_id": string,"p_coupon_code"?: string,"p_customer_note"?: string,"p_items": Json,"p_payment_method": Database["public"]['Enums']["payment_method"],"p_store_id": string,"p_tip"?: number,"p_user_id": string }; Returns: Json
+                           },
+"rider_advance_order":
+{ Args: { "p_note"?: string,"p_order_id": string,"p_status": Database["public"]['Enums']["order_status"] }; Returns: undefined
+                           },
+"rider_claim_order":
+{ Args: { "p_order_id": string }; Returns: undefined
+                           },
+"rider_set_online":
+{ Args: { "p_lat"?: number,"p_lng"?: number,"p_online": boolean }; Returns: undefined
+                           },
+"rider_summary":
+{ Args: Record<PropertyKey, never>; Returns: Json
                            },
 "rider_update_location":
 { Args: { "p_heading"?: number,"p_lat": number,"p_lng": number }; Returns: undefined

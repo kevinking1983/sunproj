@@ -24,7 +24,8 @@
     "web:build": "npm run build -w @ration/web",
     "admin": "npm run dev -w @ration/admin",
     "admin:build": "npm run build -w @ration/admin",
-    "oss:rider": "node infra/opensource/simulate-rider.mjs"
+    "oss:rider": "node infra/opensource/simulate-rider.mjs",
+    "rider": "npm run start -w @ration/rider"
   },
   "engines": {
     "node": ">=20"

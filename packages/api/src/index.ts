@@ -9,3 +9,4 @@ export * from "./status";
 export * from "./admin";
 export * from "./tracking";
 export * from "./mapStyle";
+export * from "./rider";

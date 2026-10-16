@@ -6,6 +6,7 @@ Quick-commerce platform (groceries in minutes) for India. Monorepo with the cust
 
 ```
 apps/mobile      Expo (React Native) customer app, iOS + Android
+apps/rider       Expo delivery partner app (online toggle, pool, deliveries, live location)
 apps/web         Next.js customer website
 apps/admin       Next.js admin and dark-store panel (staff only)
 packages/shared  Brand theme, pricing, domain types, generated DB types
@@ -39,7 +40,8 @@ infra/opensource Keyless test stack: mock payment gateway, ntfy push, rider simu
 nvm use                                   # Node 22
 npm install                               # installs every workspace
 cp .env.example apps/mobile/.env          # fill in keys
-npm run mobile                            # Expo dev server
+npm run mobile                            # customer app, Expo dev server
+npm run rider                             # delivery partner app (needs a development build for maps and background location)
 npm run web                               # website at http://localhost:3000
 npm run admin                             # admin at http://localhost:3001 (staff or admin role)
 ```
@@ -74,7 +76,8 @@ Everyone signs up as a customer. Promote your own account once with SQL (Studio 
 update public.profiles set role = 'admin' where phone = '91XXXXXXXXXX';
 ```
 
-After that, admins change roles from the People page in the admin panel.
+After that, admins change roles from the People page in the admin panel. Delivery partners are
+customers given the `rider` role there; the partner app refuses any other role.
 
 ## Quality gates
 

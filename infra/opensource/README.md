@@ -63,7 +63,9 @@ SUPABASE_SERVICE_ROLE_KEY=<from db:start> node infra/opensource/simulate-rider.m
 ```
 
 It assigns a test rider, advances the order to out for delivery, streams positions from the
-store to the address every 3 s, then marks it delivered.
+store to the address every 3 s, then marks it delivered. With the partner app installed on a
+phone you can skip the simulator: give a test number the `rider` role, go online, accept the
+order from the Available tab and walk it to the address.
 
 ## Maps
 

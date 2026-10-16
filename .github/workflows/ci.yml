@@ -18,6 +18,7 @@ jobs:
       - run: npm ci
       - run: npm run typecheck --workspaces --if-present
       - run: npm run lint -w @ration/mobile
+      - run: npm run lint -w @ration/rider
       - run: npm run lint -w @ration/web
       - run: npm run lint -w @ration/admin
       - run: npm run build -w @ration/web
