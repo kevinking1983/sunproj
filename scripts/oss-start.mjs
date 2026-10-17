@@ -116,7 +116,7 @@ if (!args.includes("--no-functions")) {
   fs.writeFileSync(path.join(ROOT, ".oss-functions.pid"), String(pid));
   process.stdout.write("  waiting for the functions runtime (first start downloads dependencies) ");
   await new Promise((r) => setTimeout(r, 5000));
-  const ok = await waitFor(fnUrl, [200, 401, 405], 120);
+  const ok = await waitFor(fnUrl, [200, 401, 405], 180);
   console.log(ok ? "ready" : "\n  still starting; run npm run oss:check in a minute" + (isWindows ? ", and look at the 'RATION edge functions' window for errors" : ", and check .oss-functions.log"));
 }
 

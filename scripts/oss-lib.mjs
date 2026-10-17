@@ -69,7 +69,7 @@ export const waitFor = async (url, okStatuses, seconds) => {
   const until = Date.now() + seconds * 1000;
   while (Date.now() < until) {
     try {
-      const res = await fetch(url, { signal: AbortSignal.timeout(3000) });
+      const res = await fetch(url, { signal: AbortSignal.timeout(20_000) });
       if (okStatuses.includes(res.status)) return true;
     } catch {
       // not up yet
@@ -92,9 +92,9 @@ export const writeEnv = (file, values) => {
   fs.writeFileSync(full, lines.join("\n") + "\n");
 };
 
-export const check = async (label, url, okStatuses = [200]) => {
+export const check = async (label, url, okStatuses = [200], timeoutMs = 5000) => {
   try {
-    const res = await fetch(url, { signal: AbortSignal.timeout(5000) });
+    const res = await fetch(url, { signal: AbortSignal.timeout(timeoutMs) });
     const ok = okStatuses.includes(res.status);
     console.log(`  ${ok ? green("✓") : red("✗")} ${label}${ok ? "" : `  (${url} -> ${res.status})`}`);
     return ok;
@@ -111,7 +111,8 @@ export const checkAll = async () => {
     check("Supabase Studio", "http://127.0.0.1:54323/"),
     check("Mock gateway", "http://127.0.0.1:4010/health"),
     check("ntfy", "http://127.0.0.1:4020/v1/health"),
-    check("Edge functions", "http://127.0.0.1:54321/functions/v1/place-order", [200, 401, 405]),
+    // The first request after a (re)start compiles the function, which can take 10-20 s.
+    check("Edge functions", "http://127.0.0.1:54321/functions/v1/place-order", [200, 401, 405], 30_000),
   ]);
   const bad = results.filter((r) => !r).length;
   if (bad === 0) console.log(green("All services healthy."));
