@@ -1,0 +1,899 @@
+{
+ "off:24 mantra organic|bajra flour": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/350/6218/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083506218",
+  "source": "openfoodfacts"
+ },
+ "off:24 mantra organic|jaggery powder": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/351/2462/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083512462",
+  "source": "openfoodfacts"
+ },
+ "off:24 mantra organic|jowar": {
+  "miss": true
+ },
+ "off:24 mantra organic|lobia": {
+  "miss": true
+ },
+ "off:24 mantra organic|organic ragi": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/350/6218/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083506218",
+  "source": "openfoodfacts"
+ },
+ "off:24 mantra organic|organic sona masoori": {
+  "miss": true
+ },
+ "off:24 mantra organic|organic toor dal": {
+  "miss": true
+ },
+ "off:24 mantra organic|organic whole wheat atta": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/350/6485/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083506485",
+  "source": "openfoodfacts"
+ },
+ "off:24 mantra organic|poha": {
+  "miss": true
+ },
+ "off:24 mantra organic|red poha": {
+  "miss": true
+ },
+ "off:24 mantra organic|red rice": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/353/4945/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083534945",
+  "source": "openfoodfacts"
+ },
+ "off:24 mantra organic|sabja seeds": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/351/1601/front_en.8.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083511601",
+  "source": "openfoodfacts"
+ },
+ "off:aashirvaad|besan": {
+  "miss": true
+ },
+ "off:aashirvaad|maida": {
+  "miss": true
+ },
+ "off:aashirvaad|multigrain atta": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/501/6838/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901725016838",
+  "source": "openfoodfacts"
+ },
+ "off:aashirvaad|sharbati atta": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/500/7911/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901725007911",
+  "source": "openfoodfacts"
+ },
+ "off:aashirvaad|sooji": {
+  "miss": true
+ },
+ "off:aashirvaad|whole wheat atta": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/512/1143/front_en.11.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901725121143",
+  "source": "openfoodfacts"
+ },
+ "off:bb royal|idli rice": {
+  "miss": true
+ },
+ "off:bb royal|lobia": {
+  "miss": true
+ },
+ "off:bb royal|white peas": {
+  "miss": true
+ },
+ "off:bella vita|perfume": {
+  "miss": true
+ },
+ "off:bella vita|perfume gift set": {
+  "miss": true
+ },
+ "off:blue bird|baking powder": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/231/0016/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904042310016",
+  "source": "openfoodfacts"
+ },
+ "off:bombay dyeing|bath towel": {
+  "miss": true
+ },
+ "off:britannia 50-50|50 50 crackers": {
+  "miss": true
+ },
+ "off:britannia 50-50|50 50 sweet salty": {
+  "miss": true
+ },
+ "off:britannia bourbon|bourbon biscuits": {
+  "miss": true
+ },
+ "off:britannia marie gold|marie gold": {
+  "miss": true
+ },
+ "off:britannia treat|treat cream biscuits": {
+  "miss": true
+ },
+ "off:britannia|assorted biscuits": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/302/1037/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063021037",
+  "source": "openfoodfacts"
+ },
+ "off:britannia|chocolate cookies": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/309/3522/front_en.28.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063093522",
+  "source": "openfoodfacts"
+ },
+ "off:britannia|fruit cake": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/336/8026/front_en.17.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063368026",
+  "source": "openfoodfacts"
+ },
+ "off:britannia|muffills chocolate": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/314/6457/front_en.36.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063146457",
+  "source": "openfoodfacts"
+ },
+ "off:britannia|multigrain biscuits": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/302/1037/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063021037",
+  "source": "openfoodfacts"
+ },
+ "off:britannia|rusk": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/332/5227/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063325227",
+  "source": "openfoodfacts"
+ },
+ "off:britannia|swiss roll": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/336/5285/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063365285",
+  "source": "openfoodfacts"
+ },
+ "off:brown & polson|corn flour": {
+  "url": "https://images.openfoodfacts.org/images/products/890/103/052/1218/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901030521218",
+  "source": "openfoodfacts"
+ },
+ "off:cello|soap case": {
+  "miss": true
+ },
+ "off:cinthol|talcum powder": {
+  "miss": true
+ },
+ "off:colgate plax|mouthwash": {
+  "miss": true
+ },
+ "off:colgate|dental floss": {
+  "url": "https://images.openbeautyfacts.org/images/products/789/102/403/4095/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/7891024034095",
+  "source": "openbeautyfacts"
+ },
+ "off:colgate|toothbrush": {
+  "miss": true
+ },
+ "off:colgate|toothpaste": {
+  "url": "https://images.openbeautyfacts.org/images/products/871/895/174/6558/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8718951746558",
+  "source": "openbeautyfacts"
+ },
+ "off:colorbar|nail polish": {
+  "miss": true
+ },
+ "off:colorbar|nail polish remover": {
+  "miss": true
+ },
+ "off:daawat|basmati rice": {
+  "url": "https://images.openfoodfacts.org/images/products/890/153/700/7123/front_en.11.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901537007123",
+  "source": "openfoodfacts"
+ },
+ "off:daawat|brown rice": {
+  "url": "https://images.openfoodfacts.org/images/products/890/153/707/6679/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901537076679",
+  "source": "openfoodfacts"
+ },
+ "off:dettol|handwash refill": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/139/632/4584/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901396324584",
+  "source": "openbeautyfacts"
+ },
+ "off:dettol|liquid handwash": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/139/632/4584/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901396324584",
+  "source": "openbeautyfacts"
+ },
+ "off:dettol|soap bar": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/139/638/9712/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901396389712",
+  "source": "openbeautyfacts"
+ },
+ "off:double horse|idli rice": {
+  "miss": true
+ },
+ "off:double horse|ponni rice": {
+  "miss": true
+ },
+ "off:double horse|rice flour": {
+  "miss": true
+ },
+ "off:dove|beauty bar": {
+  "url": "https://images.openbeautyfacts.org/images/products/872/018/225/6836/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8720182256836",
+  "source": "openbeautyfacts"
+ },
+ "off:dove|body wash": {
+  "url": "https://images.openbeautyfacts.org/images/products/872/018/187/1801/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8720181871801",
+  "source": "openbeautyfacts"
+ },
+ "off:dove|roll-on deodorant": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/009/357/6697/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/93576697",
+  "source": "openbeautyfacts"
+ },
+ "off:engage|deodorant": {
+  "miss": true
+ },
+ "off:fogg|body spray": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/800/115/8480/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8908001158480",
+  "source": "openbeautyfacts"
+ },
+ "off:fortune|besan": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/5025/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007285025",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|chana dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/6039/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007286039",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|kabuli chana": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/881/5184/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906008815184",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|kala chana": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/881/5184/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906008815184",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|maida": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/881/1117/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906008811117",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|masoor dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/6039/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007286039",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|moong dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/6039/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007286039",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|rajma": {
+  "miss": true
+ },
+ "off:fortune|sona masoori rice": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/9238/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007289238",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|sooji": {
+  "miss": true
+ },
+ "off:fortune|soya chunks": {
+  "url": "https://images.openfoodfacts.org/images/products/000/650/508/8420/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0006505088420",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|toor dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/881/5153/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906008815153",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|urad dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/6039/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007286039",
+  "source": "openfoodfacts"
+ },
+ "off:freshtohome|catla fish": {
+  "miss": true
+ },
+ "off:freshtohome|mutton mince": {
+  "miss": true
+ },
+ "off:freshtohome|pomfret": {
+  "miss": true
+ },
+ "off:freshtohome|squid": {
+  "miss": true
+ },
+ "off:haldiram's|banana chips": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/440/8911/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904004408911",
+  "source": "openfoodfacts"
+ },
+ "off:hershey's|cocoa": {
+  "url": "https://images.openfoodfacts.org/images/products/890/107/121/1161/front_en.20.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901071211161",
+  "source": "openfoodfacts"
+ },
+ "off:ikea|organiser": {
+  "miss": true
+ },
+ "off:india gate|brown rice": {
+  "url": "https://images.openfoodfacts.org/images/products/069/022/530/0643/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0690225300643",
+  "source": "openfoodfacts"
+ },
+ "off:itc master chef|chicken nuggets": {
+  "miss": true
+ },
+ "off:itc master chef|fish fingers": {
+  "miss": true
+ },
+ "off:itc master chef|frozen prawns": {
+  "miss": true
+ },
+ "off:itc master chef|seekh kebab": {
+  "miss": true
+ },
+ "off:la girl|concealer": {
+  "miss": true
+ },
+ "off:lakme eyeconic|kajal": {
+  "miss": true
+ },
+ "off:lakme|blush": {
+  "miss": true
+ },
+ "off:lakme|compact powder": {
+  "miss": true
+ },
+ "off:lakme|eyeliner": {
+  "miss": true
+ },
+ "off:lakme|face primer": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/910/602/5011/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8909106025011",
+  "source": "openbeautyfacts"
+ },
+ "off:lakme|foundation": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/064/0575/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030640575",
+  "source": "openbeautyfacts"
+ },
+ "off:lakme|highlighter": {
+  "miss": true
+ },
+ "off:lakme|lip gloss": {
+  "miss": true
+ },
+ "off:lakme|lipstick": {
+  "miss": true
+ },
+ "off:lakme|mascara": {
+  "miss": true
+ },
+ "off:lakme|nail polish": {
+  "miss": true
+ },
+ "off:lakme|nail polish remover": {
+  "miss": true
+ },
+ "off:lay's|salted potato chips": {
+  "url": "https://images.openfoodfacts.org/images/products/890/149/110/1844/front_en.32.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901491101844",
+  "source": "openfoodfacts"
+ },
+ "off:lifebuoy|handwash refill": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/090/4479/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030904479",
+  "source": "openbeautyfacts"
+ },
+ "off:lifebuoy|liquid handwash": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/090/4479/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030904479",
+  "source": "openbeautyfacts"
+ },
+ "off:lifebuoy|soap bar": {
+  "miss": true
+ },
+ "off:listerine|mouthwash": {
+  "url": "https://images.openbeautyfacts.org/images/products/357/466/159/4231/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3574661594231",
+  "source": "openbeautyfacts"
+ },
+ "off:lux|soap bar": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/053/9749/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030539749",
+  "source": "openbeautyfacts"
+ },
+ "off:manna|multi millet mix": {
+  "miss": true
+ },
+ "off:manna|ragi drink mix": {
+  "miss": true
+ },
+ "off:manna|ragi flakes": {
+  "miss": true
+ },
+ "off:maybelline colossal|kajal": {
+  "miss": true
+ },
+ "off:maybelline|blush": {
+  "miss": true
+ },
+ "off:maybelline|compact powder": {
+  "miss": true
+ },
+ "off:maybelline|concealer": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/003/009/6608/front_nl.7.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/30096608",
+  "source": "openbeautyfacts"
+ },
+ "off:maybelline|eyeliner": {
+  "miss": true
+ },
+ "off:maybelline|face primer": {
+  "url": "https://images.openbeautyfacts.org/images/products/004/155/445/5595/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/0041554455595",
+  "source": "openbeautyfacts"
+ },
+ "off:maybelline|foundation": {
+  "url": "https://images.openbeautyfacts.org/images/products/690/239/597/0101/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/6902395970101",
+  "source": "openbeautyfacts"
+ },
+ "off:maybelline|highlighter": {
+  "miss": true
+ },
+ "off:maybelline|lip gloss": {
+  "miss": true
+ },
+ "off:maybelline|lipstick": {
+  "miss": true
+ },
+ "off:maybelline|mascara": {
+  "miss": true
+ },
+ "off:mcaffeine|coffee body scrub": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/612/957/2317/front_en.8.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8906129572317",
+  "source": "openbeautyfacts"
+ },
+ "off:mcvitie's|digestive": {
+  "url": "https://images.openfoodfacts.org/images/products/500/016/819/8491/front_en.193.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5000168198491",
+  "source": "openfoodfacts"
+ },
+ "off:medimix|ayurvedic soap": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/605/753/3336/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8906057533336",
+  "source": "openbeautyfacts"
+ },
+ "off:milton|soap dispenser": {
+  "miss": true
+ },
+ "off:miniso|makeup mirror": {
+  "miss": true
+ },
+ "off:miniso|nail file": {
+  "miss": true
+ },
+ "off:moisturex|moisturising cream": {
+  "miss": true
+ },
+ "off:monginis|chocolate muffins": {
+  "url": "https://images.openfoodfacts.org/images/products/890/190/501/7471/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901905017471",
+  "source": "openfoodfacts"
+ },
+ "off:monginis|swiss roll": {
+  "miss": true
+ },
+ "off:mtr|rice flour": {
+  "miss": true
+ },
+ "off:mysore sandal|sandal soap": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/128/720/8894/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901287208894",
+  "source": "openbeautyfacts"
+ },
+ "off:nestle munch|munch wafer": {
+  "miss": true
+ },
+ "off:nivea|gift set": {
+  "miss": true
+ },
+ "off:nivea|roll-on deodorant": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/004/234/5114/front_nl.7.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/42345114",
+  "source": "openbeautyfacts"
+ },
+ "off:nivea|shower gel": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/590/080/4310/front_nl.8.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/4005900804310",
+  "source": "openbeautyfacts"
+ },
+ "off:oral-b|dental floss": {
+  "url": "https://images.openbeautyfacts.org/images/products/870/021/653/8954/front_it.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8700216538954",
+  "source": "openbeautyfacts"
+ },
+ "off:oral-b|toothbrush": {
+  "miss": true
+ },
+ "off:organic tattva|black rice": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/544/2142/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906055442142",
+  "source": "openfoodfacts"
+ },
+ "off:organic tattva|jaggery powder": {
+  "miss": true
+ },
+ "off:organic tattva|organic basmati rice": {
+  "miss": true
+ },
+ "off:organic tattva|organic moong dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/544/0032/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906055440032",
+  "source": "openfoodfacts"
+ },
+ "off:organic tattva|organic quinoa": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/544/0568/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906055440568",
+  "source": "openfoodfacts"
+ },
+ "off:organic tattva|organic wheat atta": {
+  "url": "https://images.openfoodfacts.org/images/products/094/645/504/0003/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0946455040003",
+  "source": "openfoodfacts"
+ },
+ "off:organic tattva|sabja seeds": {
+  "miss": true
+ },
+ "off:pac|makeup sponge": {
+  "miss": true
+ },
+ "off:parle krackjack|krackjack": {
+  "miss": true
+ },
+ "off:parle marie|marie biscuits": {
+  "miss": true
+ },
+ "off:parle|assorted biscuits": {
+  "url": "https://images.openfoodfacts.org/images/products/890/171/912/1432/front_en.14.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901719121432",
+  "source": "openfoodfacts"
+ },
+ "off:parle|rusk": {
+  "url": "https://images.openfoodfacts.org/images/products/890/171/913/3695/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901719133695",
+  "source": "openfoodfacts"
+ },
+ "off:patanjali|sattu": {
+  "url": "https://images.openfoodfacts.org/images/products/890/442/270/1281/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904422701281",
+  "source": "openfoodfacts"
+ },
+ "off:pears|glycerin soap": {
+  "miss": true
+ },
+ "off:pepsodent|toothpaste": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/097/0368/front_en.17.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030970368",
+  "source": "openbeautyfacts"
+ },
+ "off:pillsbury|cake mix": {
+  "url": "https://images.openfoodfacts.org/images/products/001/330/092/9810/front_en.8.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0013300929810",
+  "source": "openfoodfacts"
+ },
+ "off:pillsbury|multigrain atta": {
+  "miss": true
+ },
+ "off:pond's|talcum powder": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/910/606/7264/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8909106067264",
+  "source": "openbeautyfacts"
+ },
+ "off:prasuma|chicken salami": {
+  "url": "https://images.openfoodfacts.org/images/products/890/610/717/3758/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906107173758",
+  "source": "openfoodfacts"
+ },
+ "off:prasuma|ham": {
+  "url": "https://images.openfoodfacts.org/images/products/890/610/717/0092/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906107170092",
+  "source": "openfoodfacts"
+ },
+ "off:rajdhani|daliya": {
+  "miss": true
+ },
+ "off:rajdhani|sabudana": {
+  "miss": true
+ },
+ "off:rajdhani|sattu": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/510/0066/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906055100066",
+  "source": "openfoodfacts"
+ },
+ "off:savlon|soap bar": {
+  "miss": true
+ },
+ "off:shilpa|bindi": {
+  "miss": true
+ },
+ "off:skinn by titan|perfume": {
+  "miss": true
+ },
+ "off:skinn by titan|perfume gift set": {
+  "miss": true
+ },
+ "off:slurrp farm|ragi drink mix": {
+  "miss": true
+ },
+ "off:sunfeast dark fantasy|dark fantasy": {
+  "miss": true
+ },
+ "off:swiss beauty|makeup brush": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/001/904/3258/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/19043258",
+  "source": "openbeautyfacts"
+ },
+ "off:tata sampann|chana dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6629/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926629",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|daliya": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/390/6508/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043906508",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|kabuli chana": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6308/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926308",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|kala chana": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6308/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926308",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|masoor dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6575/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926575",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|moong dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6315/front_en.23.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926315",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|poha": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/390/2326/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043902326",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|rajma": {
+  "miss": true
+ },
+ "off:tata sampann|sabudana": {
+  "miss": true
+ },
+ "off:tata sampann|toor dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6216/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926216",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|urad dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6124/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926124",
+  "source": "openfoodfacts"
+ },
+ "off:tata soulfull|millet biscuits": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/349/0801/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906113490801",
+  "source": "openfoodfacts"
+ },
+ "off:the body shop|bath sponge": {
+  "miss": true
+ },
+ "off:the body shop|body scrub": {
+  "url": "https://images.openbeautyfacts.org/images/products/502/819/794/1734/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/5028197941734",
+  "source": "openbeautyfacts"
+ },
+ "off:the body shop|gift set": {
+  "miss": true
+ },
+ "off:theobroma|chocolate chip cookies": {
+  "miss": true
+ },
+ "off:theobroma|cookies": {
+  "miss": true
+ },
+ "off:trident|bath towel": {
+  "miss": true
+ },
+ "off:unibic|choco chip cookies": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/907/1800/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906009071800",
+  "source": "openfoodfacts"
+ },
+ "off:unibic|cookies gift": {
+  "url": "https://images.openfoodfacts.org/images/products/890/618/896/0032/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906188960032",
+  "source": "openfoodfacts"
+ },
+ "off:vaseline|petroleum jelly": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/004/218/2634/front_en.88.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/42182634",
+  "source": "openbeautyfacts"
+ },
+ "off:vega|bath sponge": {
+  "miss": true
+ },
+ "off:vega|makeup brush": {
+  "miss": true
+ },
+ "off:vega|makeup sponge": {
+  "miss": true
+ },
+ "off:vega|nail clipper": {
+  "miss": true
+ },
+ "off:yummiez|chicken nuggets": {
+  "url": "https://images.openfoodfacts.org/images/products/890/275/636/0136/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8902756360136",
+  "source": "openfoodfacts"
+ },
+ "wiki:Bangle": {
+  "miss": true
+ },
+ "wiki:Bindi": {
+  "miss": true
+ },
+ "wiki:Brown bread": {
+  "miss": true
+ },
+ "wiki:Buckwheat": {
+  "miss": true
+ },
+ "wiki:Cornmeal": {
+  "miss": true
+ },
+ "wiki:Cowpea": {
+  "miss": true
+ },
+ "wiki:Duck as food": {
+  "miss": true
+ },
+ "wiki:Gajra": {
+  "miss": true
+ },
+ "wiki:Lamb and mutton": {
+  "miss": true
+ },
+ "wiki:Liver (food)": {
+  "miss": true
+ },
+ "wiki:Macrotyloma uniflorum": {
+  "miss": true
+ },
+ "wiki:Milk": {
+  "miss": true
+ },
+ "wiki:Pigeon pea": {
+  "miss": true
+ },
+ "wiki:Rice": {
+  "miss": true
+ },
+ "wiki:Trotters": {
+  "miss": true
+ },
+ "wiki:Turkey meat": {
+  "miss": true
+ },
+ "wiki:Vigna aconitifolia": {
+  "miss": true
+ },
+ "wiki:Water caltrop": {
+  "miss": true
+ },
+ "wiki:White rice": {
+  "miss": true
+ }
+}
