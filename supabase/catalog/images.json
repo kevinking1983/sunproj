@@ -1,1 +1,4763 @@
-{}
+{
+ "off:24 mantra organic|bajra flour": {
+  "miss": true
+ },
+ "off:24 mantra organic|jaggery": {
+  "miss": true
+ },
+ "off:24 mantra organic|jaggery powder": {
+  "miss": true
+ },
+ "off:24 mantra organic|jowar": {
+  "miss": true
+ },
+ "off:24 mantra organic|lobia": {
+  "miss": true
+ },
+ "off:24 mantra organic|moong dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/350/5570/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083505570",
+  "source": "openfoodfacts"
+ },
+ "off:24 mantra organic|organic almonds": {
+  "miss": true
+ },
+ "off:24 mantra organic|organic black pepper": {
+  "miss": true
+ },
+ "off:24 mantra organic|organic ragi": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/352/5646/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083525646",
+  "source": "openfoodfacts"
+ },
+ "off:24 mantra organic|organic sona masoori": {
+  "miss": true
+ },
+ "off:24 mantra organic|organic toor dal": {
+  "miss": true
+ },
+ "off:24 mantra organic|organic turmeric powder": {
+  "miss": true
+ },
+ "off:24 mantra organic|organic whole wheat atta": {
+  "miss": true
+ },
+ "off:24 mantra organic|pasta": {
+  "miss": true
+ },
+ "off:24 mantra organic|poha": {
+  "miss": true
+ },
+ "off:24 mantra organic|red poha": {
+  "miss": true
+ },
+ "off:24 mantra organic|red rice": {
+  "miss": true
+ },
+ "off:24 mantra organic|sabja seeds": {
+  "miss": true
+ },
+ "off:24 mantra organic|whole moong": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/350/5570/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083505570",
+  "source": "openfoodfacts"
+ },
+ "off:3m|car shampoo": {
+  "miss": true
+ },
+ "off:3m|car wash sponge": {
+  "miss": true
+ },
+ "off:3m|lubricant spray": {
+  "miss": true
+ },
+ "off:3m|masking tape": {
+  "url": "https://images.openproductsfacts.org/images/products/406/403/519/4673/front_it.3.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/4064035194673",
+  "source": "openproductsfacts"
+ },
+ "off:4700bc|caramel popcorn": {
+  "miss": true
+ },
+ "off:4700bc|microwave popcorn": {
+  "miss": true
+ },
+ "off:7up|7up lemon": {
+  "url": "https://images.openfoodfacts.org/images/products/860/003/799/9074/front_fr.13.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8600037999074",
+  "source": "openfoodfacts"
+ },
+ "off:a1 chips|banana chips": {
+  "miss": true
+ },
+ "off:a1 chips|murukku": {
+  "miss": true
+ },
+ "off:aachi|chicken masala": {
+  "url": "https://images.openfoodfacts.org/images/products/890/602/112/0418/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906021120418",
+  "source": "openfoodfacts"
+ },
+ "off:aachi|dry red chilli": {
+  "miss": true
+ },
+ "off:aachi|fish masala": {
+  "url": "https://images.openfoodfacts.org/images/products/890/602/112/1132/front_fr.12.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906021121132",
+  "source": "openfoodfacts"
+ },
+ "off:aachi|mutton masala": {
+  "miss": true
+ },
+ "off:aachi|sambar powder": {
+  "url": "https://images.openfoodfacts.org/images/products/890/602/112/8568/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906021128568",
+  "source": "openfoodfacts"
+ },
+ "off:aashirvaad salt|iodised salt": {
+  "miss": true
+ },
+ "off:aashirvaad|besan": {
+  "miss": true
+ },
+ "off:aashirvaad|maida": {
+  "miss": true
+ },
+ "off:aashirvaad|multigrain atta": {
+  "miss": true
+ },
+ "off:aashirvaad|sharbati atta": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/500/7911/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901725007911",
+  "source": "openfoodfacts"
+ },
+ "off:aashirvaad|sooji": {
+  "miss": true
+ },
+ "off:aashirvaad|whole wheat atta": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/512/1143/front_en.11.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901725121143",
+  "source": "openfoodfacts"
+ },
+ "off:accessorize|hair clip": {
+  "miss": true
+ },
+ "off:act ii|microwave popcorn butter": {
+  "url": "https://images.openfoodfacts.org/images/products/890/151/250/7501/front_en.8.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901512507501",
+  "source": "openfoodfacts"
+ },
+ "off:act ii|popcorn kernels": {
+  "miss": true
+ },
+ "off:act ii|ready to eat popcorn": {
+  "miss": true
+ },
+ "off:akshayakalpa|a2 cow ghee": {
+  "miss": true
+ },
+ "off:akshayakalpa|cow ghee": {
+  "miss": true
+ },
+ "off:akshayakalpa|organic milk": {
+  "miss": true
+ },
+ "off:alan truman|detangling brush": {
+  "miss": true
+ },
+ "off:all out|mosquito vaporiser refill": {
+  "miss": true
+ },
+ "off:almond house|boondi laddu": {
+  "miss": true
+ },
+ "off:alpenliebe|candy": {
+  "miss": true
+ },
+ "off:alpino|chocolate peanut butter": {
+  "url": "https://images.openfoodfacts.org/images/products/890/612/755/0126/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906127550126",
+  "source": "openfoodfacts"
+ },
+ "off:alpino|peanut butter": {
+  "url": "https://images.openfoodfacts.org/images/products/890/612/755/0010/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906127550010",
+  "source": "openfoodfacts"
+ },
+ "off:alt co.|oat milk": {
+  "miss": true
+ },
+ "off:american tourister|school backpack": {
+  "miss": true
+ },
+ "off:amul|butter": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/220/0004/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262200004",
+  "source": "openfoodfacts"
+ },
+ "off:amul|buttermilk": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/220/2015/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262202015",
+  "source": "openfoodfacts"
+ },
+ "off:amul|butterscotch cone": {
+  "miss": true
+ },
+ "off:amul|cassata": {
+  "miss": true
+ },
+ "off:amul|cheese cubes": {
+  "miss": true
+ },
+ "off:amul|cow ghee": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/203/0663/front_en.13.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262030663",
+  "source": "openfoodfacts"
+ },
+ "off:amul|dahi curd": {
+  "miss": true
+ },
+ "off:amul|dark chocolate": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/207/1703/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262071703",
+  "source": "openfoodfacts"
+ },
+ "off:amul|flavoured milk": {
+  "miss": true
+ },
+ "off:amul|fresh cream": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/230/0117/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262300117",
+  "source": "openfoodfacts"
+ },
+ "off:amul|ghee": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/203/0663/front_en.13.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262030663",
+  "source": "openfoodfacts"
+ },
+ "off:amul|khoa": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/205/0173/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262050173",
+  "source": "openfoodfacts"
+ },
+ "off:amul|kulfi": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/217/6552/front_en.11.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262176552",
+  "source": "openfoodfacts"
+ },
+ "off:amul|lassi": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/220/2046/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262202046",
+  "source": "openfoodfacts"
+ },
+ "off:amul|lite spread": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/214/0065/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262140065",
+  "source": "openfoodfacts"
+ },
+ "off:amul|milkshake": {
+  "miss": true
+ },
+ "off:amul|mozzarella cheese": {
+  "miss": true
+ },
+ "off:amul|paneer": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/218/0146/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262180146",
+  "source": "openfoodfacts"
+ },
+ "off:amul|sandwich ice cream": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/230/0117/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262300117",
+  "source": "openfoodfacts"
+ },
+ "off:amul|skimmed milk powder": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/215/0378/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262150378",
+  "source": "openfoodfacts"
+ },
+ "off:amul|sugar free ice cream": {
+  "miss": true
+ },
+ "off:amul|toned milk": {
+  "url": "https://images.openfoodfacts.org/images/products/094/140/215/1368/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0941402151368",
+  "source": "openfoodfacts"
+ },
+ "off:amul|uht milk": {
+  "url": "https://images.openfoodfacts.org/images/products/094/140/215/1368/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0941402151368",
+  "source": "openfoodfacts"
+ },
+ "off:amul|vanilla cup": {
+  "miss": true
+ },
+ "off:amul|vanilla ice cream": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/217/3490/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262173490",
+  "source": "openfoodfacts"
+ },
+ "off:anne french|hair removal cream": {
+  "miss": true
+ },
+ "off:anveshan|a2 cow ghee": {
+  "miss": true
+ },
+ "off:anveshan|bilona ghee": {
+  "miss": true
+ },
+ "off:anveshan|coconut oil": {
+  "miss": true
+ },
+ "off:anveshan|sesame oil": {
+  "miss": true
+ },
+ "off:apsara|eraser": {
+  "miss": true
+ },
+ "off:apsara|pencils": {
+  "miss": true
+ },
+ "off:archies|gift bag": {
+  "miss": true
+ },
+ "off:archies|gift wrap roll": {
+  "miss": true
+ },
+ "off:ariel matic|matic liquid top load": {
+  "miss": true
+ },
+ "off:ariel|detergent powder": {
+  "miss": true
+ },
+ "off:b natural|guava juice": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/510/5167/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901725105167",
+  "source": "openfoodfacts"
+ },
+ "off:b natural|mango juice": {
+  "miss": true
+ },
+ "off:bagrry's|corn flakes": {
+  "url": "https://images.openfoodfacts.org/images/products/854/181/020/5206/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8541810205206",
+  "source": "openfoodfacts"
+ },
+ "off:bagrry's|muesli": {
+  "url": "https://images.openfoodfacts.org/images/products/890/271/050/0776/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8902710500776",
+  "source": "openfoodfacts"
+ },
+ "off:bagrry's|steel cut oats": {
+  "miss": true
+ },
+ "off:baidyanath|chyawanprash": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/450/4657/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904084504657",
+  "source": "openfoodfacts"
+ },
+ "off:bajaj|sandwich maker": {
+  "miss": true
+ },
+ "off:bambino|fryums": {
+  "miss": true
+ },
+ "off:bambino|kheer mix": {
+  "miss": true
+ },
+ "off:bambino|macaroni": {
+  "miss": true
+ },
+ "off:bambino|vermicelli": {
+  "url": "https://images.openfoodfacts.org/images/products/890/428/700/1069/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904287001069",
+  "source": "openfoodfacts"
+ },
+ "off:barilla|arrabbiata": {
+  "miss": true
+ },
+ "off:baskin robbins|chocolate ice cream": {
+  "url": "https://images.openfoodfacts.org/images/products/085/245/500/5129/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0852455005129",
+  "source": "openfoodfacts"
+ },
+ "off:baskin robbins|ice cream cake": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/685/5014/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906006855014",
+  "source": "openfoodfacts"
+ },
+ "off:baskin robbins|no sugar ice cream": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/685/5014/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906006855014",
+  "source": "openfoodfacts"
+ },
+ "off:bb royal|idli rice": {
+  "miss": true
+ },
+ "off:bb royal|kolam rice": {
+  "miss": true
+ },
+ "off:bb royal|lobia": {
+  "miss": true
+ },
+ "off:bb royal|white peas": {
+  "miss": true
+ },
+ "off:bblunt|hair colour": {
+  "miss": true
+ },
+ "off:beardo|beard oil": {
+  "miss": true
+ },
+ "off:beco|compostable garbage bags": {
+  "miss": true
+ },
+ "off:beco|garbage bags": {
+  "miss": true
+ },
+ "off:bella vita|perfume": {
+  "miss": true
+ },
+ "off:bella vita|perfume gift set": {
+  "miss": true
+ },
+ "off:betty crocker|brownie mix": {
+  "url": "https://images.openfoodfacts.org/images/products/001/600/071/8807/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0016000718807",
+  "source": "openfoodfacts"
+ },
+ "off:betty crocker|chocolate cake mix": {
+  "url": "https://images.openfoodfacts.org/images/products/629/110/569/1161/front_en.11.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/6291105691161",
+  "source": "openfoodfacts"
+ },
+ "off:bikaji|bikaneri bhujia": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/550/0090/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906005500090",
+  "source": "openfoodfacts"
+ },
+ "off:bikaji|mixture namkeen": {
+  "miss": true
+ },
+ "off:bikaji|moong dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/550/1080/front_fr.8.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906005501080",
+  "source": "openfoodfacts"
+ },
+ "off:bikaji|namkeen gift pack": {
+  "miss": true
+ },
+ "off:bikaji|ratlami sev": {
+  "miss": true
+ },
+ "off:bikaji|soan papdi": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/550/4111/front_fr.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906005504111",
+  "source": "openfoodfacts"
+ },
+ "off:bikanervala|gulab jamun": {
+  "miss": true
+ },
+ "off:bikanervala|peda": {
+  "miss": true
+ },
+ "off:bingo!|corn snack": {
+  "miss": true
+ },
+ "off:bingo!|potato chips": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/500/7096/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901725007096",
+  "source": "openfoodfacts"
+ },
+ "off:bioderma|micellar water": {
+  "url": "https://images.openbeautyfacts.org/images/products/370/112/981/2112/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3701129812112",
+  "source": "openbeautyfacts"
+ },
+ "off:bioré|pore strips": {
+  "miss": true
+ },
+ "off:bisleri|drinking water": {
+  "miss": true
+ },
+ "off:blue bird|baking powder": {
+  "miss": true
+ },
+ "off:blue tokai|coffee beans": {
+  "miss": true
+ },
+ "off:blue tokai|ground coffee": {
+  "miss": true
+ },
+ "off:boldfit|shaker bottle": {
+  "miss": true
+ },
+ "off:bombay dyeing|bath towel": {
+  "miss": true
+ },
+ "off:bonne maman|orange marmalade": {
+  "miss": true
+ },
+ "off:bonne maman|preserve": {
+  "url": "https://images.openfoodfacts.org/images/products/71832055/front.6.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/71832055",
+  "source": "openfoodfacts"
+ },
+ "off:borges|olive oil": {
+  "url": "https://images.openfoodfacts.org/images/products/841/017/910/1118/front_en.15.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8410179101118",
+  "source": "openfoodfacts"
+ },
+ "off:borosil|cocktail shaker": {
+  "miss": true
+ },
+ "off:borosil|coffee mug": {
+  "miss": true
+ },
+ "off:borosil|cutlery set": {
+  "miss": true
+ },
+ "off:borosil|glass jar": {
+  "miss": true
+ },
+ "off:borosil|glass tumbler": {
+  "miss": true
+ },
+ "off:borosil|serving bowl": {
+  "miss": true
+ },
+ "off:borosil|shot glass": {
+  "miss": true
+ },
+ "off:bosch|descaler tablets": {
+  "miss": true
+ },
+ "off:bosch|washing machine cleaner": {
+  "miss": true
+ },
+ "off:bournvita|chocolate malt drink": {
+  "miss": true
+ },
+ "off:brasso|metal polish": {
+  "miss": true
+ },
+ "off:braun|beard trimmer": {
+  "miss": true
+ },
+ "off:britannia 50-50|50 50 crackers": {
+  "miss": true
+ },
+ "off:britannia 50-50|50 50 sweet salty": {
+  "miss": true
+ },
+ "off:britannia bourbon|bourbon biscuits": {
+  "miss": true
+ },
+ "off:britannia good day|good day butter cookies": {
+  "miss": true
+ },
+ "off:britannia marie gold|marie gold": {
+  "miss": true
+ },
+ "off:britannia nutrichoice|digestive biscuits": {
+  "miss": true
+ },
+ "off:britannia nutrichoice|nutrichoice oats cookies": {
+  "miss": true
+ },
+ "off:britannia tiger|tiger glucose": {
+  "miss": true
+ },
+ "off:britannia treat|treat cream biscuits": {
+  "miss": true
+ },
+ "off:britannia|assorted biscuits": {
+  "miss": true
+ },
+ "off:britannia|butter": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/309/2686/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063092686",
+  "source": "openfoodfacts"
+ },
+ "off:britannia|cheese slices": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/340/1136/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063401136",
+  "source": "openfoodfacts"
+ },
+ "off:britannia|chocolate cookies": {
+  "miss": true
+ },
+ "off:britannia|fruit cake": {
+  "miss": true
+ },
+ "off:britannia|muffills chocolate": {
+  "miss": true
+ },
+ "off:britannia|multigrain biscuits": {
+  "miss": true
+ },
+ "off:britannia|pav": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/333/8494/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063338494",
+  "source": "openfoodfacts"
+ },
+ "off:britannia|rusk": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/315/1574/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063151574",
+  "source": "openfoodfacts"
+ },
+ "off:britannia|swiss roll": {
+  "miss": true
+ },
+ "off:britannia|white bread": {
+  "miss": true
+ },
+ "off:brooke bond red label|red label tea": {
+  "miss": true
+ },
+ "off:brown & polson|corn flour": {
+  "miss": true
+ },
+ "off:bru|coffee premix": {
+  "miss": true
+ },
+ "off:bru|instant coffee": {
+  "url": "https://images.openfoodfacts.org/images/products/890/910/601/3919/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8909106013919",
+  "source": "openfoodfacts"
+ },
+ "off:brylcreem|hair cream": {
+  "miss": true
+ },
+ "off:cadbury bournville|dark chocolate": {
+  "miss": true
+ },
+ "off:cadbury celebrations|celebrations gift box": {
+  "miss": true
+ },
+ "off:cadbury dairy milk|dairy milk chocolate": {
+  "url": "https://images.openfoodfacts.org/images/products/762/221/028/6918/front.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/7622210286918",
+  "source": "openfoodfacts"
+ },
+ "off:cadbury gems|gems chocolate": {
+  "miss": true
+ },
+ "off:cadbury|assorted chocolates": {
+  "miss": true
+ },
+ "off:cadbury|chocolate family pack": {
+  "url": "https://images.openfoodfacts.org/images/products/762/220/115/0242/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/7622201150242",
+  "source": "openfoodfacts"
+ },
+ "off:cadbury|chocolate gift hamper": {
+  "miss": true
+ },
+ "off:cadbury|drinking chocolate": {
+  "url": "https://images.openfoodfacts.org/images/products/500/031/200/0687/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5000312000687",
+  "source": "openfoodfacts"
+ },
+ "off:camlin|geometry box": {
+  "miss": true
+ },
+ "off:camlin|permanent marker": {
+  "miss": true
+ },
+ "off:camlin|water colours": {
+  "miss": true
+ },
+ "off:camlin|wax crayons": {
+  "miss": true
+ },
+ "off:campbell's|vegetable soup": {
+  "url": "https://images.openfoodfacts.org/images/products/006/321/125/2187/front_en.15.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0063211252187",
+  "source": "openfoodfacts"
+ },
+ "off:carefree|pantyliners": {
+  "url": "https://images.openbeautyfacts.org/images/products/357/466/023/9010/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3574660239010",
+  "source": "openbeautyfacts"
+ },
+ "off:catch|black pepper powder": {
+  "url": "https://images.openfoodfacts.org/images/products/890/119/211/4006/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901192114006",
+  "source": "openfoodfacts"
+ },
+ "off:catch|cloves": {
+  "miss": true
+ },
+ "off:catch|dried basil": {
+  "miss": true
+ },
+ "off:catch|mixed herbs": {
+  "miss": true
+ },
+ "off:catch|mustard seeds": {
+  "miss": true
+ },
+ "off:cavin's|chocolate milkshake": {
+  "url": "https://images.openfoodfacts.org/images/products/890/297/905/1934/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8902979051934",
+  "source": "openfoodfacts"
+ },
+ "off:cello|flask": {
+  "miss": true
+ },
+ "off:cello|gel pen": {
+  "miss": true
+ },
+ "off:cello|ice tray": {
+  "miss": true
+ },
+ "off:cello|insulated lunch box": {
+  "miss": true
+ },
+ "off:cello|kids lunch box": {
+  "miss": true
+ },
+ "off:cello|pencil box": {
+  "miss": true
+ },
+ "off:cello|plastic bottle": {
+  "miss": true
+ },
+ "off:cello|plastic container": {
+  "miss": true
+ },
+ "off:cello|soap case": {
+  "miss": true
+ },
+ "off:cello|spice jars": {
+  "miss": true
+ },
+ "off:cello|steel tumbler": {
+  "miss": true
+ },
+ "off:cello|travel mug": {
+  "miss": true
+ },
+ "off:center fresh|chewing gum": {
+  "miss": true
+ },
+ "off:century|a4 paper": {
+  "miss": true
+ },
+ "off:cerave|moisturising cream": {
+  "url": "https://images.openbeautyfacts.org/images/products/333/787/559/8996/front_en.28.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3337875598996",
+  "source": "openbeautyfacts"
+ },
+ "off:cetaphil|gentle skin cleanser": {
+  "url": "https://images.openbeautyfacts.org/images/products/349/932/001/5431/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3499320015431",
+  "source": "openbeautyfacts"
+ },
+ "off:cetaphil|moisturising cream": {
+  "miss": true
+ },
+ "off:chandan|mukhwas": {
+  "miss": true
+ },
+ "off:chandan|sweet saunf": {
+  "miss": true
+ },
+ "off:cherry blossom|shoe polish brown": {
+  "miss": true
+ },
+ "off:chicco|bottle brush": {
+  "miss": true
+ },
+ "off:ching's secret|dark soy sauce": {
+  "url": "https://images.openfoodfacts.org/images/products/890/159/586/2726/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901595862726",
+  "source": "openfoodfacts"
+ },
+ "off:ching's secret|hakka noodles": {
+  "url": "https://images.openfoodfacts.org/images/products/890/159/585/3861/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901595853861",
+  "source": "openfoodfacts"
+ },
+ "off:ching's secret|schezwan chutney": {
+  "url": "https://images.openfoodfacts.org/images/products/890/159/586/3280/front_en.8.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901595863280",
+  "source": "openfoodfacts"
+ },
+ "off:chuk|disposable plates": {
+  "miss": true
+ },
+ "off:cif|glass cleaner": {
+  "miss": true
+ },
+ "off:cif|kitchen degreaser": {
+  "miss": true
+ },
+ "off:cinthol|talcum powder": {
+  "miss": true
+ },
+ "off:classmate|geometry box": {
+  "miss": true
+ },
+ "off:classmate|ruled notebook": {
+  "miss": true
+ },
+ "off:clear|anti-dandruff shampoo": {
+  "miss": true
+ },
+ "off:clinic plus|shampoo": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/093/7187/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030937187",
+  "source": "openbeautyfacts"
+ },
+ "off:coca-cola zero sugar|zero sugar cola": {
+  "miss": true
+ },
+ "off:coca-cola|coca cola": {
+  "miss": true
+ },
+ "off:coca-cola|coca cola can": {
+  "url": "https://images.openfoodfacts.org/images/products/890/176/404/1259/front_en.29.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901764041259",
+  "source": "openfoodfacts"
+ },
+ "off:colgate plax|mouthwash": {
+  "miss": true
+ },
+ "off:colgate|dental floss": {
+  "miss": true
+ },
+ "off:colgate|toothbrush": {
+  "miss": true
+ },
+ "off:colgate|toothpaste": {
+  "url": "https://images.openbeautyfacts.org/images/products/871/895/174/6558/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8718951746558",
+  "source": "openbeautyfacts"
+ },
+ "off:colin|glass cleaner": {
+  "miss": true
+ },
+ "off:colorbar|nail polish": {
+  "miss": true
+ },
+ "off:colorbar|nail polish remover": {
+  "miss": true
+ },
+ "off:comfort|fabric conditioner": {
+  "url": "https://images.openproductsfacts.org/images/products/890/103/093/0942/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8901030930942",
+  "source": "openproductsfacts"
+ },
+ "off:corelle|dinnerware": {
+  "url": "https://images.openproductsfacts.org/images/products/007/116/014/9793/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/0071160149793",
+  "source": "openproductsfacts"
+ },
+ "off:cornetto|chocolate cone": {
+  "url": "https://images.openfoodfacts.org/images/products/501/077/518/7399/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5010775187399",
+  "source": "openfoodfacts"
+ },
+ "off:cornitos|kettle chips": {
+  "miss": true
+ },
+ "off:cornitos|nacho crisps salted": {
+  "url": "https://images.openfoodfacts.org/images/products/890/800/101/7237/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8908001017237",
+  "source": "openfoodfacts"
+ },
+ "off:cornitos|nachos salsa dip": {
+  "url": "https://images.openfoodfacts.org/images/products/890/608/257/1303/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906082571303",
+  "source": "openfoodfacts"
+ },
+ "off:cosco|cricket tennis ball": {
+  "miss": true
+ },
+ "off:cosrx|pimple patch": {
+  "miss": true
+ },
+ "off:cothas|filter coffee": {
+  "miss": true
+ },
+ "off:country delight|cow milk": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/736/1275/front_en.11.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906117361275",
+  "source": "openfoodfacts"
+ },
+ "off:daawat|basmati rice": {
+  "url": "https://images.openfoodfacts.org/images/products/490/113/502/5127/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/4901135025127",
+  "source": "openfoodfacts"
+ },
+ "off:daawat|brown rice": {
+  "url": "https://images.openfoodfacts.org/images/products/890/153/707/4354/front_en.20.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901537074354",
+  "source": "openfoodfacts"
+ },
+ "off:daawat|sona masoori rice": {
+  "url": "https://images.openfoodfacts.org/images/products/890/153/707/4415/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901537074415",
+  "source": "openfoodfacts"
+ },
+ "off:dabur amla|amla hair oil": {
+  "miss": true
+ },
+ "off:dabur gulabari|rose water": {
+  "miss": true
+ },
+ "off:dabur hommade|ginger garlic paste": {
+  "miss": true
+ },
+ "off:dabur hommade|makhani gravy": {
+  "miss": true
+ },
+ "off:dabur hommade|tamarind paste": {
+  "miss": true
+ },
+ "off:dabur vatika|shampoo": {
+  "miss": true
+ },
+ "off:dabur|chyawanprash": {
+  "url": "https://images.openfoodfacts.org/images/products/890/120/704/0337/front_en.42.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901207040337",
+  "source": "openfoodfacts"
+ },
+ "off:dabur|honey": {
+  "url": "https://images.openfoodfacts.org/images/products/890/120/704/5370/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901207045370",
+  "source": "openfoodfacts"
+ },
+ "off:dabur|massage oil": {
+  "miss": true
+ },
+ "off:date crown|dates": {
+  "url": "https://images.openfoodfacts.org/images/products/629/110/021/2606/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/6291100212606",
+  "source": "openfoodfacts"
+ },
+ "off:date crown|pitted dates": {
+  "miss": true
+ },
+ "off:decathlon|flying disc": {
+  "miss": true
+ },
+ "off:decathlon|wrist sweat band": {
+  "miss": true
+ },
+ "off:decathlon|yoga mat": {
+  "miss": true
+ },
+ "off:del monte|pasta sauce": {
+  "miss": true
+ },
+ "off:del monte|penne pasta": {
+  "miss": true
+ },
+ "off:del monte|thousand island": {
+  "miss": true
+ },
+ "off:del monte|tomato puree": {
+  "miss": true
+ },
+ "off:deli|paper punch": {
+  "miss": true
+ },
+ "off:dettol|disinfectant liquid": {
+  "url": "https://images.openproductsfacts.org/images/products/890/139/638/9873/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8901396389873",
+  "source": "openproductsfacts"
+ },
+ "off:dettol|floor cleaner": {
+  "miss": true
+ },
+ "off:dettol|handwash refill": {
+  "miss": true
+ },
+ "off:dettol|liquid handwash": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/139/632/4584/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901396324584",
+  "source": "openbeautyfacts"
+ },
+ "off:dettol|soap bar": {
+  "miss": true
+ },
+ "off:dhampur|sugar": {
+  "miss": true
+ },
+ "off:dhara|groundnut oil": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/462/0171/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906004620171",
+  "source": "openfoodfacts"
+ },
+ "off:dhara|mustard oil": {
+  "url": "https://images.openfoodfacts.org/images/products/990/940/486/2027/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/9909404862027",
+  "source": "openfoodfacts"
+ },
+ "off:domex|toilet cleaner": {
+  "miss": true
+ },
+ "off:domex|toilet rim block": {
+  "miss": true
+ },
+ "off:doritos|nachos cheese dip": {
+  "url": "https://images.openfoodfacts.org/images/products/002/840/064/3061/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0028400643061",
+  "source": "openfoodfacts"
+ },
+ "off:doritos|tortilla chips cheese": {
+  "url": "https://images.openfoodfacts.org/images/products/006/041/002/7226/front_fr.14.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0060410027226",
+  "source": "openfoodfacts"
+ },
+ "off:double horse|idli rice": {
+  "miss": true
+ },
+ "off:double horse|ponni rice": {
+  "url": "https://images.openfoodfacts.org/images/products/890/401/150/3821/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904011503821",
+  "source": "openfoodfacts"
+ },
+ "off:double horse|rice flour": {
+  "miss": true
+ },
+ "off:dove|beauty bar": {
+  "url": "https://images.openbeautyfacts.org/images/products/872/018/225/6836/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8720182256836",
+  "source": "openbeautyfacts"
+ },
+ "off:dove|body wash": {
+  "url": "https://images.openbeautyfacts.org/images/products/872/018/187/1801/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8720181871801",
+  "source": "openbeautyfacts"
+ },
+ "off:dove|conditioner": {
+  "url": "https://images.openbeautyfacts.org/images/products/628/100/644/3617/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/6281006443617",
+  "source": "openbeautyfacts"
+ },
+ "off:dove|roll-on deodorant": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/009/357/6697/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/93576697",
+  "source": "openbeautyfacts"
+ },
+ "off:downy|fabric conditioner": {
+  "miss": true
+ },
+ "off:dreamland publications|activity book": {
+  "miss": true
+ },
+ "off:eastern|dry turmeric": {
+  "miss": true
+ },
+ "off:eastern|fish masala": {
+  "url": "https://images.openfoodfacts.org/images/products/890/144/001/3136/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901440013136",
+  "source": "openfoodfacts"
+ },
+ "off:ecoware|compostable bags": {
+  "miss": true
+ },
+ "off:ecoware|disposable bowls": {
+  "miss": true
+ },
+ "off:eggoz|brown eggs": {
+  "miss": true
+ },
+ "off:eggoz|desi eggs": {
+  "miss": true
+ },
+ "off:electral|ors powder": {
+  "miss": true
+ },
+ "off:enerzal|electrolyte drink": {
+  "miss": true
+ },
+ "off:english oven|brown bread": {
+  "miss": true
+ },
+ "off:english oven|burger bun": {
+  "miss": true
+ },
+ "off:english oven|garlic bread": {
+  "miss": true
+ },
+ "off:ensure|nutrition powder": {
+  "miss": true
+ },
+ "off:epigamia|almond milk": {
+  "miss": true
+ },
+ "off:epigamia|greek yogurt": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/963/6004/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906059636004",
+  "source": "openfoodfacts"
+ },
+ "off:epigamia|probiotic yogurt": {
+  "miss": true
+ },
+ "off:equal|sweetener": {
+  "url": "https://images.openfoodfacts.org/images/products/030/025/890/0122/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0300258900122",
+  "source": "openfoodfacts"
+ },
+ "off:everest|biryani masala": {
+  "miss": true
+ },
+ "off:everest|chicken masala": {
+  "url": "https://images.openfoodfacts.org/images/products/890/178/616/0501/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901786160501",
+  "source": "openfoodfacts"
+ },
+ "off:everest|cinnamon": {
+  "miss": true
+ },
+ "off:everest|garam masala": {
+  "url": "https://images.openfoodfacts.org/images/products/890/178/610/1009/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901786101009",
+  "source": "openfoodfacts"
+ },
+ "off:everest|meat masala": {
+  "miss": true
+ },
+ "off:everest|tandoori chicken masala": {
+  "url": "https://images.openfoodfacts.org/images/products/890/178/617/1002/front_en.23.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901786171002",
+  "source": "openfoodfacts"
+ },
+ "off:everest|turmeric powder": {
+  "miss": true
+ },
+ "off:ezee|garbage bags": {
+  "miss": true
+ },
+ "off:fabelle|chocolate box": {
+  "miss": true
+ },
+ "off:faber-castell|colour pencils": {
+  "miss": true
+ },
+ "off:faber-castell|highlighter": {
+  "miss": true
+ },
+ "off:factor notes|weekly planner": {
+  "miss": true
+ },
+ "off:fanta|fanta orange": {
+  "url": "https://images.openfoodfacts.org/images/products/06743406/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/06743406",
+  "source": "openfoodfacts"
+ },
+ "off:farmley|almonds": {
+  "miss": true
+ },
+ "off:farmley|cashews": {
+  "miss": true
+ },
+ "off:farmley|coated nuts": {
+  "miss": true
+ },
+ "off:farmley|dried apricots": {
+  "miss": true
+ },
+ "off:farmley|dry fruits gift box": {
+  "miss": true
+ },
+ "off:farmley|flavoured nuts": {
+  "miss": true
+ },
+ "off:farmley|nuts hamper": {
+  "miss": true
+ },
+ "off:farmley|pistachios": {
+  "url": "https://images.openfoodfacts.org/images/products/890/612/010/0496/front_es.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906120100496",
+  "source": "openfoodfacts"
+ },
+ "off:farmley|raisins": {
+  "url": "https://images.openfoodfacts.org/images/products/890/612/010/0519/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906120100519",
+  "source": "openfoodfacts"
+ },
+ "off:farmley|roasted cashews": {
+  "miss": true
+ },
+ "off:farmley|roasted makhana": {
+  "miss": true
+ },
+ "off:farmley|snack combo": {
+  "miss": true
+ },
+ "off:farmley|sunflower seeds": {
+  "url": "https://images.openfoodfacts.org/images/products/890/612/010/7181/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906120107181",
+  "source": "openfoodfacts"
+ },
+ "off:farmley|trail mix": {
+  "miss": true
+ },
+ "off:ferrero rocher|ferrero rocher 16": {
+  "miss": true
+ },
+ "off:ferrero rocher|ferrero rocher 24": {
+  "miss": true
+ },
+ "off:ferrero|ferrero gift": {
+  "url": "https://images.openfoodfacts.org/images/products/000/980/012/0369/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0009800120369",
+  "source": "openfoodfacts"
+ },
+ "off:fevicol|white glue": {
+  "miss": true
+ },
+ "off:fevicryl|acrylic colours": {
+  "miss": true
+ },
+ "off:fevicryl|glitter": {
+  "miss": true
+ },
+ "off:fevistik|glue stick": {
+  "miss": true
+ },
+ "off:figaro|olive oil": {
+  "url": "https://images.openfoodfacts.org/images/products/841/012/521/1700/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8410125211700",
+  "source": "openfoodfacts"
+ },
+ "off:finish|dishwasher tablets": {
+  "url": "https://images.openproductsfacts.org/images/products/571/497/000/8045/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/5714970008045",
+  "source": "openproductsfacts"
+ },
+ "off:flamingo|hot water bag": {
+  "miss": true
+ },
+ "off:fortune|besan": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/5025/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007285025",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|blended oil": {
+  "miss": true
+ },
+ "off:fortune|chana dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/6039/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007286039",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|groundnut oil": {
+  "miss": true
+ },
+ "off:fortune|kabuli chana": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/881/5184/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906008815184",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|kala chana": {
+  "miss": true
+ },
+ "off:fortune|maida": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/881/1117/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906008811117",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|masoor dal": {
+  "miss": true
+ },
+ "off:fortune|moong dal": {
+  "miss": true
+ },
+ "off:fortune|mustard oil": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/0945/front_en.12.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007280945",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|rajma": {
+  "miss": true
+ },
+ "off:fortune|rice bran oil": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/0693/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007280693",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|sona masoori rice": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/9238/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007289238",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|sooji": {
+  "miss": true
+ },
+ "off:fortune|soya chunks": {
+  "url": "https://images.openfoodfacts.org/images/products/000/650/508/8420/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0006505088420",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|sunflower oil": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/0242/front_en.18.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007280242",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|toor dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/881/5153/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906008815153",
+  "source": "openfoodfacts"
+ },
+ "off:fortune|urad dal": {
+  "miss": true
+ },
+ "off:freedom|sunflower oil": {
+  "url": "https://images.openfoodfacts.org/images/products/890/603/503/0239/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906035030239",
+  "source": "openfoodfacts"
+ },
+ "off:freshtohome|boneless chicken": {
+  "miss": true
+ },
+ "off:freshtohome|catla fish": {
+  "miss": true
+ },
+ "off:freshtohome|chicken gizzard": {
+  "miss": true
+ },
+ "off:freshtohome|mutton mince": {
+  "miss": true
+ },
+ "off:freshtohome|pomfret": {
+  "miss": true
+ },
+ "off:freshtohome|squid": {
+  "miss": true
+ },
+ "off:freshwrapp|aluminium foil": {
+  "miss": true
+ },
+ "off:funfoods|tandoori mayonnaise": {
+  "miss": true
+ },
+ "off:funfoods|veg mayonnaise": {
+  "miss": true
+ },
+ "off:funskool|jigsaw puzzle": {
+  "miss": true
+ },
+ "off:funskool|ludo board game": {
+  "miss": true
+ },
+ "off:funskool|modelling clay": {
+  "miss": true
+ },
+ "off:funskool|play ball": {
+  "miss": true
+ },
+ "off:gainda|phenyl": {
+  "miss": true
+ },
+ "off:gala|broom": {
+  "url": "https://images.openproductsfacts.org/images/products/890/166/320/4007/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8901663204007",
+  "source": "openproductsfacts"
+ },
+ "off:gala|microfiber cloth": {
+  "miss": true
+ },
+ "off:gala|scrub sponge": {
+  "miss": true
+ },
+ "off:gala|spin mop": {
+  "miss": true
+ },
+ "off:gala|toilet brush": {
+  "miss": true
+ },
+ "off:garnier color naturals|hair colour": {
+  "miss": true
+ },
+ "off:garnier men|men face wash": {
+  "miss": true
+ },
+ "off:garnier|micellar water": {
+  "url": "https://images.openbeautyfacts.org/images/products/019/282/870/6636/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/0192828706636",
+  "source": "openbeautyfacts"
+ },
+ "off:garnier|sheet mask": {
+  "url": "https://images.openbeautyfacts.org/images/products/360/054/238/5329/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3600542385329",
+  "source": "openbeautyfacts"
+ },
+ "off:gatorade|sports drink": {
+  "url": "https://images.openfoodfacts.org/images/products/005/727/116/3736/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0057271163736",
+  "source": "openfoodfacts"
+ },
+ "off:gatsby|hair wax": {
+  "miss": true
+ },
+ "off:genteel|genteel liquid detergent": {
+  "miss": true
+ },
+ "off:gillette venus|razor": {
+  "miss": true
+ },
+ "off:gillette|razor": {
+  "url": "https://images.openbeautyfacts.org/images/products/770/201/840/1055/front_en.8.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/7702018401055",
+  "source": "openbeautyfacts"
+ },
+ "off:girnar|masala chai premix": {
+  "url": "https://images.openfoodfacts.org/images/products/890/103/723/4234/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901037234234",
+  "source": "openfoodfacts"
+ },
+ "off:gits|gulab jamun mix": {
+  "url": "https://images.openfoodfacts.org/images/products/890/115/510/1210/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901155101210",
+  "source": "openfoodfacts"
+ },
+ "off:gits|jelly": {
+  "miss": true
+ },
+ "off:gits|makhani gravy mix": {
+  "miss": true
+ },
+ "off:gits|rava idli mix": {
+  "url": "https://images.openfoodfacts.org/images/products/890/115/510/9216/front_en.14.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901155109216",
+  "source": "openfoodfacts"
+ },
+ "off:gits|upma mix": {
+  "miss": true
+ },
+ "off:godrej ezee|ezee liquid detergent": {
+  "miss": true
+ },
+ "off:goodknight|mosquito liquid vaporiser": {
+  "miss": true
+ },
+ "off:gowardhan|cow ghee": {
+  "miss": true
+ },
+ "off:gowardhan|ghee": {
+  "miss": true
+ },
+ "off:haldiram's|aloo bhujia": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/440/0731/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904004400731",
+  "source": "openfoodfacts"
+ },
+ "off:haldiram's|banana chips": {
+  "miss": true
+ },
+ "off:haldiram's|dal makhani": {
+  "url": "https://images.openfoodfacts.org/images/products/890/406/321/6236/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904063216236",
+  "source": "openfoodfacts"
+ },
+ "off:haldiram's|gulab jamun tin": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/440/5910/front_fr.14.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904004405910",
+  "source": "openfoodfacts"
+ },
+ "off:haldiram's|moong dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/440/3725/front_en.20.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904004403725",
+  "source": "openfoodfacts"
+ },
+ "off:haldiram's|murmura puffed rice": {
+  "miss": true
+ },
+ "off:haldiram's|namkeen gift pack": {
+  "miss": true
+ },
+ "off:haldiram's|navratan mixture": {
+  "miss": true
+ },
+ "off:haldiram's|papad": {
+  "miss": true
+ },
+ "off:haldiram's|peda": {
+  "miss": true
+ },
+ "off:haldiram's|ratlami sev": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/440/0410/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904004400410",
+  "source": "openfoodfacts"
+ },
+ "off:haldiram's|roasted chana": {
+  "miss": true
+ },
+ "off:haldiram's|soan papdi": {
+  "url": "https://images.openfoodfacts.org/images/products/890/406/320/6930/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904063206930",
+  "source": "openfoodfacts"
+ },
+ "off:haldiram's|veg biryani": {
+  "miss": true
+ },
+ "off:hallmark|gift box": {
+  "miss": true
+ },
+ "off:hallmark|gift wrapping paper": {
+  "miss": true
+ },
+ "off:hamdard rooh afza|rooh afza": {
+  "miss": true
+ },
+ "off:happilo|almonds": {
+  "url": "https://images.openfoodfacts.org/images/products/890/608/112/3619/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906081123619",
+  "source": "openfoodfacts"
+ },
+ "off:happilo|cashews": {
+  "url": "https://images.openfoodfacts.org/images/products/890/608/112/3688/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906081123688",
+  "source": "openfoodfacts"
+ },
+ "off:happilo|coated nuts": {
+  "miss": true
+ },
+ "off:happilo|dried figs": {
+  "miss": true
+ },
+ "off:happilo|dry fruits gift": {
+  "miss": true
+ },
+ "off:happilo|flavoured nuts": {
+  "miss": true
+ },
+ "off:happilo|hazelnuts": {
+  "miss": true
+ },
+ "off:happilo|macadamia": {
+  "miss": true
+ },
+ "off:happilo|nuts hamper": {
+  "miss": true
+ },
+ "off:happilo|pecan": {
+  "miss": true
+ },
+ "off:happilo|raisins": {
+  "url": "https://images.openfoodfacts.org/images/products/890/608/112/6405/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906081126405",
+  "source": "openfoodfacts"
+ },
+ "off:happilo|roasted almonds": {
+  "miss": true
+ },
+ "off:happilo|roasted makhana": {
+  "miss": true
+ },
+ "off:happilo|salted pistachios": {
+  "miss": true
+ },
+ "off:happilo|snack combo": {
+  "miss": true
+ },
+ "off:happilo|trail mix": {
+  "miss": true
+ },
+ "off:happilo|walnut kernels": {
+  "miss": true
+ },
+ "off:harpercollins|non fiction paperback": {
+  "miss": true
+ },
+ "off:harpic|toilet block": {
+  "miss": true
+ },
+ "off:harpic|toilet cleaner": {
+  "url": "https://images.openproductsfacts.org/images/products/890/139/615/5751/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8901396155751",
+  "source": "openproductsfacts"
+ },
+ "off:harvest gold|sandwich bread": {
+  "miss": true
+ },
+ "off:hasbro|monopoly": {
+  "url": "https://images.openproductsfacts.org/images/products/505/341/000/6693/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/5053410006693",
+  "source": "openproductsfacts"
+ },
+ "off:havells|hair dryer": {
+  "miss": true
+ },
+ "off:hawkins|pressure cooker": {
+  "miss": true
+ },
+ "off:hawkins|tawa": {
+  "miss": true
+ },
+ "off:head & shoulders|anti-dandruff shampoo": {
+  "url": "https://images.openbeautyfacts.org/images/products/490/243/034/5927/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/4902430345927",
+  "source": "openbeautyfacts"
+ },
+ "off:health on plants|tofu": {
+  "miss": true
+ },
+ "off:healthfab gopadfree|period underwear": {
+  "miss": true
+ },
+ "off:helios|shoe brush": {
+  "miss": true
+ },
+ "off:helios|shoe cleaner": {
+  "miss": true
+ },
+ "off:heritage|buttermilk": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/997/5377/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904089975377",
+  "source": "openfoodfacts"
+ },
+ "off:heritage|curd": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/992/1008/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904089921008",
+  "source": "openfoodfacts"
+ },
+ "off:heritage|flavoured milk": {
+  "miss": true
+ },
+ "off:heritage|full cream milk": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/991/8138/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904089918138",
+  "source": "openfoodfacts"
+ },
+ "off:heritage|lassi": {
+  "miss": true
+ },
+ "off:hershey's|chocolate syrup": {
+  "url": "https://images.openfoodfacts.org/images/products/890/107/170/6834/front_en.23.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901071706834",
+  "source": "openfoodfacts"
+ },
+ "off:hershey's|cocoa": {
+  "url": "https://images.openfoodfacts.org/images/products/890/107/170/1389/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901071701389",
+  "source": "openfoodfacts"
+ },
+ "off:hershey's|hot chocolate": {
+  "miss": true
+ },
+ "off:hershey's|spreads cocoa": {
+  "url": "https://images.openfoodfacts.org/images/products/890/107/170/1389/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901071701389",
+  "source": "openfoodfacts"
+ },
+ "off:himalaya|face pack": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/113/882/1913/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901138821913",
+  "source": "openbeautyfacts"
+ },
+ "off:himalaya|herbal shampoo": {
+  "miss": true
+ },
+ "off:hiphop|nose strips": {
+  "miss": true
+ },
+ "off:hit|cockroach spray": {
+  "miss": true
+ },
+ "off:hobby ideas|gift bows": {
+  "miss": true
+ },
+ "off:horlicks|malt drink": {
+  "miss": true
+ },
+ "off:id fresh|idli dosa batter": {
+  "miss": true
+ },
+ "off:id fresh|ragi dosa batter": {
+  "miss": true
+ },
+ "off:idhayam|sesame oil": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/180/0237/front_en.25.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904001800237",
+  "source": "openfoodfacts"
+ },
+ "off:ifb essentials|dishwasher detergent powder": {
+  "miss": true
+ },
+ "off:ifb essentials|washing machine cleaner": {
+  "miss": true
+ },
+ "off:ikea|chopping board": {
+  "miss": true
+ },
+ "off:india gate|basmati rice": {
+  "url": "https://images.openfoodfacts.org/images/products/069/022/510/1134/front_en.16.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0690225101134",
+  "source": "openfoodfacts"
+ },
+ "off:india gate|brown rice": {
+  "url": "https://images.openfoodfacts.org/images/products/069/022/510/6542/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0690225106542",
+  "source": "openfoodfacts"
+ },
+ "off:india today|magazine": {
+  "miss": true
+ },
+ "off:itc master chef|chicken nuggets": {
+  "miss": true
+ },
+ "off:itc master chef|fish fingers": {
+  "miss": true
+ },
+ "off:itc master chef|french fries": {
+  "miss": true
+ },
+ "off:itc master chef|frozen prawns": {
+  "miss": true
+ },
+ "off:itc master chef|seekh kebab": {
+  "miss": true
+ },
+ "off:itc master chef|veg nuggets": {
+  "miss": true
+ },
+ "off:itsy bitsy|satin ribbon": {
+  "miss": true
+ },
+ "off:jk copier|a4 copier paper": {
+  "miss": true
+ },
+ "off:joseph joseph|chopping board": {
+  "miss": true
+ },
+ "off:kai|facial razor": {
+  "miss": true
+ },
+ "off:kama ayurveda|rose water": {
+  "miss": true
+ },
+ "off:kangaro|stapler": {
+  "url": "https://images.openproductsfacts.org/images/products/890/105/731/0062/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8901057310062",
+  "source": "openproductsfacts"
+ },
+ "off:keggs|eggs": {
+  "miss": true
+ },
+ "off:keggs|omega 3 eggs": {
+  "miss": true
+ },
+ "off:kellogg's chocos|chocos": {
+  "miss": true
+ },
+ "off:kellogg's|corn flakes": {
+  "url": "https://images.openfoodfacts.org/images/products/505/008/339/0739/front.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5050083390739",
+  "source": "openfoodfacts"
+ },
+ "off:kellogg's|kids cereal": {
+  "miss": true
+ },
+ "off:kellogg's|muesli": {
+  "url": "https://images.openfoodfacts.org/images/products/505/008/351/8386/front.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5050083518386",
+  "source": "openfoodfacts"
+ },
+ "off:keya|chilli flakes": {
+  "url": "https://images.openfoodfacts.org/images/products/890/606/620/0038/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906066200038",
+  "source": "openfoodfacts"
+ },
+ "off:keya|hakka noodles": {
+  "miss": true
+ },
+ "off:keya|italian seasoning": {
+  "miss": true
+ },
+ "off:keya|oregano": {
+  "miss": true
+ },
+ "off:khadi natural|multani mitti": {
+  "miss": true
+ },
+ "off:kikkoman|soy sauce": {
+  "url": "https://images.openfoodfacts.org/images/products/000/000/413/9344/front_en.40.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/04139344",
+  "source": "openfoodfacts"
+ },
+ "off:kikkoman|teriyaki sauce": {
+  "url": "https://images.openfoodfacts.org/images/products/004/139/001/0309/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0041390010309",
+  "source": "openfoodfacts"
+ },
+ "off:kinder joy|kinder joy": {
+  "miss": true
+ },
+ "off:kinley|club soda": {
+  "miss": true
+ },
+ "off:kinley|drinking water": {
+  "miss": true
+ },
+ "off:kissan|mixed fruit jam": {
+  "url": "https://images.openfoodfacts.org/images/products/890/103/092/2787/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901030922787",
+  "source": "openfoodfacts"
+ },
+ "off:kissan|tomato ketchup": {
+  "url": "https://images.openfoodfacts.org/images/products/890/103/066/7756/front_en.25.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901030667756",
+  "source": "openfoodfacts"
+ },
+ "off:kissan|tomato puree": {
+  "miss": true
+ },
+ "off:kitchens of india|makhani gravy": {
+  "miss": true
+ },
+ "off:kitchens of india|veg biryani": {
+  "miss": true
+ },
+ "off:kitkat|kitkat multipack": {
+  "miss": true
+ },
+ "off:kitkat|kitkat wafer": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/800/5233/front_en.26.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901058005233",
+  "source": "openfoodfacts"
+ },
+ "off:kitkat|wafer chocolate": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/800/5233/front_en.26.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901058005233",
+  "source": "openfoodfacts"
+ },
+ "off:kiwi|shoe brush": {
+  "miss": true
+ },
+ "off:kiwi|shoe polish black": {
+  "miss": true
+ },
+ "off:klf coconad|coconut oil": {
+  "miss": true
+ },
+ "off:knorr|tomato soup": {
+  "miss": true
+ },
+ "off:knorr|vegetable soup": {
+  "miss": true
+ },
+ "off:koka|noodles": {
+  "url": "https://images.openfoodfacts.org/images/products/888/805/681/3155/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8888056813155",
+  "source": "openfoodfacts"
+ },
+ "off:kurkure|masala snack": {
+  "miss": true
+ },
+ "off:kwality wall's|chocolate stick": {
+  "miss": true
+ },
+ "off:kwality wall's|sandwich": {
+  "url": "https://images.openfoodfacts.org/images/products/890/103/069/1508/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901030691508",
+  "source": "openfoodfacts"
+ },
+ "off:kwality wall's|vanilla cup": {
+  "miss": true
+ },
+ "off:kwality wall's|vanilla tub": {
+  "miss": true
+ },
+ "off:l'oreal paris|hair mask": {
+  "miss": true
+ },
+ "off:l'oreal paris|hair spray": {
+  "miss": true
+ },
+ "off:l'oreal paris|root touch up": {
+  "miss": true
+ },
+ "off:la girl|concealer": {
+  "miss": true
+ },
+ "off:la opala|dinner set": {
+  "miss": true
+ },
+ "off:lakme eyeconic|kajal": {
+  "miss": true
+ },
+ "off:lakme|blush": {
+  "miss": true
+ },
+ "off:lakme|compact powder": {
+  "miss": true
+ },
+ "off:lakme|eyeliner": {
+  "miss": true
+ },
+ "off:lakme|face primer": {
+  "miss": true
+ },
+ "off:lakme|foundation": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/064/0575/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030640575",
+  "source": "openbeautyfacts"
+ },
+ "off:lakme|highlighter": {
+  "miss": true
+ },
+ "off:lakme|lip gloss": {
+  "miss": true
+ },
+ "off:lakme|lipstick": {
+  "miss": true
+ },
+ "off:lakme|makeup kit": {
+  "miss": true
+ },
+ "off:lakme|mascara": {
+  "miss": true
+ },
+ "off:lakme|nail polish": {
+  "miss": true
+ },
+ "off:lakme|nail polish remover": {
+  "miss": true
+ },
+ "off:lakme|sunscreen": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/097/8784/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030978784",
+  "source": "openbeautyfacts"
+ },
+ "off:lay's|salted potato chips": {
+  "url": "https://images.openfoodfacts.org/images/products/002/840/063/2423/front_en.13.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0028400632423",
+  "source": "openfoodfacts"
+ },
+ "off:lee kum kee|oyster sauce": {
+  "url": "https://images.openfoodfacts.org/images/products/074/281/230/0045/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0742812300045",
+  "source": "openfoodfacts"
+ },
+ "off:lego|building bricks": {
+  "miss": true
+ },
+ "off:licious|chicken curry cut": {
+  "miss": true
+ },
+ "off:licious|chicken liver": {
+  "miss": true
+ },
+ "off:licious|chicken seekh kebab": {
+  "miss": true
+ },
+ "off:licious|fish fillet": {
+  "miss": true
+ },
+ "off:licious|mutton curry cut": {
+  "miss": true
+ },
+ "off:licious|prawns": {
+  "miss": true
+ },
+ "off:licious|rohu fish": {
+  "miss": true
+ },
+ "off:licious|seer fish": {
+  "miss": true
+ },
+ "off:licious|veg momos": {
+  "miss": true
+ },
+ "off:lifebuoy|handwash refill": {
+  "miss": true
+ },
+ "off:lifebuoy|liquid handwash": {
+  "miss": true
+ },
+ "off:lifebuoy|soap bar": {
+  "miss": true
+ },
+ "off:lijjat|urad papad": {
+  "miss": true
+ },
+ "off:lindt|chocolate truffles": {
+  "miss": true
+ },
+ "off:lion dates|dates": {
+  "miss": true
+ },
+ "off:lion dates|seedless dates": {
+  "miss": true
+ },
+ "off:lipton|green tea": {
+  "url": "https://images.openfoodfacts.org/images/products/001/200/001/2785/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0012000012785",
+  "source": "openfoodfacts"
+ },
+ "off:lipton|lemon iced tea": {
+  "url": "https://images.openfoodfacts.org/images/products/001/200/002/3118/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0012000023118",
+  "source": "openfoodfacts"
+ },
+ "off:listerine|mouthwash": {
+  "url": "https://images.openbeautyfacts.org/images/products/357/466/159/4231/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3574661594231",
+  "source": "openbeautyfacts"
+ },
+ "off:livon|hair serum": {
+  "miss": true
+ },
+ "off:lizol|floor cleaner citrus": {
+  "url": "https://images.openproductsfacts.org/images/products/894/110/050/7070/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8941100507070",
+  "source": "openproductsfacts"
+ },
+ "off:lux|soap bar": {
+  "miss": true
+ },
+ "off:maaza|mango drink": {
+  "url": "https://images.openfoodfacts.org/images/products/872/015/740/0882/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8720157400882",
+  "source": "openfoodfacts"
+ },
+ "off:madhur|sugar": {
+  "url": "https://images.openfoodfacts.org/images/products/890/602/690/0022/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906026900022",
+  "source": "openfoodfacts"
+ },
+ "off:maggi pazzta|instant pasta": {
+  "miss": true
+ },
+ "off:maggi|masala noodles": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/886/6698/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901058866698",
+  "source": "openfoodfacts"
+ },
+ "off:maggi|tomato ketchup": {
+  "miss": true
+ },
+ "off:maggi|tomato soup": {
+  "miss": true
+ },
+ "off:magnum|chocolate stick": {
+  "miss": true
+ },
+ "off:mahina|period underwear": {
+  "miss": true
+ },
+ "off:mamaearth|body butter": {
+  "miss": true
+ },
+ "off:mamaearth|clay mask": {
+  "miss": true
+ },
+ "off:manna|multi millet mix": {
+  "miss": true
+ },
+ "off:manna|ragi": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/835/0388/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906008350388",
+  "source": "openfoodfacts"
+ },
+ "off:manna|ragi drink mix": {
+  "miss": true
+ },
+ "off:manna|ragi flakes": {
+  "miss": true
+ },
+ "off:manna|ragi flour": {
+  "miss": true
+ },
+ "off:mapro|kokum syrup": {
+  "miss": true
+ },
+ "off:mapro|mixed fruit jam": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/420/0284/front_en.14.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901044200284",
+  "source": "openfoodfacts"
+ },
+ "off:mapro|syrup": {
+  "miss": true
+ },
+ "off:masterchow|stir fry sauce": {
+  "miss": true
+ },
+ "off:matrix|hair mask": {
+  "miss": true
+ },
+ "off:maybelline colossal|kajal": {
+  "miss": true
+ },
+ "off:maybelline|blush": {
+  "miss": true
+ },
+ "off:maybelline|compact powder": {
+  "miss": true
+ },
+ "off:maybelline|concealer": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/003/009/6608/front_nl.7.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/30096608",
+  "source": "openbeautyfacts"
+ },
+ "off:maybelline|eyeliner": {
+  "miss": true
+ },
+ "off:maybelline|face primer": {
+  "miss": true
+ },
+ "off:maybelline|foundation": {
+  "url": "https://images.openbeautyfacts.org/images/products/690/239/597/0101/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/6902395970101",
+  "source": "openbeautyfacts"
+ },
+ "off:maybelline|highlighter": {
+  "miss": true
+ },
+ "off:maybelline|lip gloss": {
+  "miss": true
+ },
+ "off:maybelline|lipstick": {
+  "miss": true
+ },
+ "off:maybelline|makeup kit": {
+  "miss": true
+ },
+ "off:maybelline|mascara": {
+  "miss": true
+ },
+ "off:mcaffeine|coffee body scrub": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/612/957/2317/front_en.8.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8906129572317",
+  "source": "openbeautyfacts"
+ },
+ "off:mccain|french fries": {
+  "url": "https://images.openfoodfacts.org/images/products/501/022/807/8021/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5010228078021",
+  "source": "openfoodfacts"
+ },
+ "off:mccain|veg nuggets": {
+  "miss": true
+ },
+ "off:mcvitie's|digestive": {
+  "url": "https://images.openfoodfacts.org/images/products/890/603/374/0758/front_en.22.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906033740758",
+  "source": "openfoodfacts"
+ },
+ "off:mdh|kitchen king masala": {
+  "url": "https://images.openfoodfacts.org/images/products/890/216/700/0751/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8902167000751",
+  "source": "openfoodfacts"
+ },
+ "off:mdh|red chilli powder": {
+  "url": "https://images.openfoodfacts.org/images/products/890/216/700/1284/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8902167001284",
+  "source": "openfoodfacts"
+ },
+ "off:meatzza|chicken sausage": {
+  "miss": true
+ },
+ "off:meatzza|ham": {
+  "miss": true
+ },
+ "off:meatzza|salami": {
+  "miss": true
+ },
+ "off:medimix|ayurvedic soap": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/605/753/3336/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8906057533336",
+  "source": "openbeautyfacts"
+ },
+ "off:mentos|mint": {
+  "url": "https://images.openfoodfacts.org/images/products/000/008/710/8019/front_en.142.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/87108019",
+  "source": "openfoodfacts"
+ },
+ "off:milky mist|fresh cream": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/330/0120/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083300120",
+  "source": "openfoodfacts"
+ },
+ "off:milky mist|greek yogurt": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/330/2346/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083302346",
+  "source": "openfoodfacts"
+ },
+ "off:milky mist|khoa": {
+  "miss": true
+ },
+ "off:milky mist|mozzarella": {
+  "miss": true
+ },
+ "off:milky mist|paneer": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/330/0021/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083300021",
+  "source": "openfoodfacts"
+ },
+ "off:milton|casserole": {
+  "miss": true
+ },
+ "off:milton|funnel": {
+  "miss": true
+ },
+ "off:milton|ice bucket": {
+  "miss": true
+ },
+ "off:milton|kids lunch box": {
+  "miss": true
+ },
+ "off:milton|lunch box": {
+  "miss": true
+ },
+ "off:milton|soap dispenser": {
+  "miss": true
+ },
+ "off:milton|steel container": {
+  "miss": true
+ },
+ "off:milton|steel water bottle": {
+  "miss": true
+ },
+ "off:milton|vacuum flask": {
+  "miss": true
+ },
+ "off:milton|water bottle": {
+  "miss": true
+ },
+ "off:minimalist|face oil": {
+  "miss": true
+ },
+ "off:minimalist|niacinamide serum": {
+  "miss": true
+ },
+ "off:minimalist|salicylic acid cleanser": {
+  "miss": true
+ },
+ "off:minimalist|scalp serum": {
+  "miss": true
+ },
+ "off:minimalist|sunscreen stick": {
+  "miss": true
+ },
+ "off:minimalist|toner": {
+  "miss": true
+ },
+ "off:miniso|makeup mirror": {
+  "miss": true
+ },
+ "off:miniso|nail file": {
+  "miss": true
+ },
+ "off:miniso|scrunchie": {
+  "miss": true
+ },
+ "off:mirinda|mirinda orange": {
+  "url": "https://images.openfoodfacts.org/images/products/890/208/020/4052/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8902080204052",
+  "source": "openfoodfacts"
+ },
+ "off:moisturex|moisturising cream": {
+  "miss": true
+ },
+ "off:monginis|chocolate cake": {
+  "miss": true
+ },
+ "off:monginis|chocolate muffins": {
+  "miss": true
+ },
+ "off:monginis|swiss roll": {
+  "miss": true
+ },
+ "off:monster|energy drink": {
+  "url": "https://images.openfoodfacts.org/images/products/007/084/700/6145/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0070847006145",
+  "source": "openfoodfacts"
+ },
+ "off:mortein|cockroach spray": {
+  "miss": true
+ },
+ "off:mother dairy|uht milk": {
+  "url": "https://images.openfoodfacts.org/images/products/890/164/809/5163/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901648095163",
+  "source": "openfoodfacts"
+ },
+ "off:mother's recipe|ginger garlic paste": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/105/6379/front_fr.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906001056379",
+  "source": "openfoodfacts"
+ },
+ "off:mother's recipe|green chilli paste": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/105/0865/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906001050865",
+  "source": "openfoodfacts"
+ },
+ "off:mother's recipe|mango pickle": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/105/0650/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906001050650",
+  "source": "openfoodfacts"
+ },
+ "off:mother's recipe|tamarind chutney": {
+  "miss": true
+ },
+ "off:mr muscle|kitchen cleaner": {
+  "miss": true
+ },
+ "off:mtr|chutney powder": {
+  "miss": true
+ },
+ "off:mtr|dal makhani": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/295/7517/front.13.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901042957517",
+  "source": "openfoodfacts"
+ },
+ "off:mtr|dosa batter": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/297/0745/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901042970745",
+  "source": "openfoodfacts"
+ },
+ "off:mtr|gulab jamun mix": {
+  "miss": true
+ },
+ "off:mtr|idli dosa batter": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/297/0738/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901042970738",
+  "source": "openfoodfacts"
+ },
+ "off:mtr|murukku": {
+  "miss": true
+ },
+ "off:mtr|paneer masala mix": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/295/7319/front_en.15.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901042957319",
+  "source": "openfoodfacts"
+ },
+ "off:mtr|payasam mix": {
+  "miss": true
+ },
+ "off:mtr|rasam powder": {
+  "miss": true
+ },
+ "off:mtr|rava idli mix": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/295/4516/front_en.21.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901042954516",
+  "source": "openfoodfacts"
+ },
+ "off:mtr|rice flour": {
+  "miss": true
+ },
+ "off:mtr|upma mix": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/296/8940/front_en.8.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901042968940",
+  "source": "openfoodfacts"
+ },
+ "off:mtr|vermicelli": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/297/0035/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901042970035",
+  "source": "openfoodfacts"
+ },
+ "off:munch|wafer bar": {
+  "miss": true
+ },
+ "off:mysore sandal|sandal soap": {
+  "miss": true
+ },
+ "off:naagin|hot sauce": {
+  "url": "https://images.openfoodfacts.org/images/products/890/801/416/7004/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8908014167004",
+  "source": "openfoodfacts"
+ },
+ "off:narasu's|filter coffee": {
+  "miss": true
+ },
+ "off:nataraj|hb pencils": {
+  "miss": true
+ },
+ "off:nataraj|sharpener": {
+  "miss": true
+ },
+ "off:naturals|fruit ice cream": {
+  "miss": true
+ },
+ "off:naturals|ice cream": {
+  "miss": true
+ },
+ "off:nature valley|granola bar": {
+  "url": "https://images.openfoodfacts.org/images/products/001/600/015/8931/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0016000158931",
+  "source": "openfoodfacts"
+ },
+ "off:navneet|colouring book": {
+  "miss": true
+ },
+ "off:navneet|ruled notebook": {
+  "miss": true
+ },
+ "off:nescafe|coffee premix": {
+  "miss": true
+ },
+ "off:nescafe|cold coffee": {
+  "miss": true
+ },
+ "off:nescafe|cold coffee can": {
+  "miss": true
+ },
+ "off:nescafe|instant coffee": {
+  "url": "https://images.openfoodfacts.org/images/products/002/800/046/6312/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0028000466312",
+  "source": "openfoodfacts"
+ },
+ "off:nestea|lemon iced tea": {
+  "url": "https://images.openfoodfacts.org/images/products/005/500/050/7202/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0055000507202",
+  "source": "openfoodfacts"
+ },
+ "off:nestle everyday|dairy whitener": {
+  "miss": true
+ },
+ "off:nestle koko krunch|koko krunch": {
+  "miss": true
+ },
+ "off:nestle munch|munch wafer": {
+  "miss": true
+ },
+ "off:nestle|milk chocolate": {
+  "miss": true
+ },
+ "off:nestle|mini chocolates": {
+  "miss": true
+ },
+ "off:neutrogena|sunscreen": {
+  "url": "https://images.openbeautyfacts.org/images/products/008/680/006/6507/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/0086800066507",
+  "source": "openbeautyfacts"
+ },
+ "off:neutrogena|sunscreen spray": {
+  "miss": true
+ },
+ "off:nic ice creams|fruit ice cream": {
+  "miss": true
+ },
+ "off:nic ice creams|ice cream cake": {
+  "miss": true
+ },
+ "off:nivea men|men face wash": {
+  "miss": true
+ },
+ "off:nivea|body lotion": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/580/824/6014/front_cs.8.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/4005808246014",
+  "source": "openbeautyfacts"
+ },
+ "off:nivea|face cream": {
+  "miss": true
+ },
+ "off:nivea|gift set": {
+  "miss": true
+ },
+ "off:nivea|lip balm": {
+  "miss": true
+ },
+ "off:nivea|roll-on deodorant": {
+  "miss": true
+ },
+ "off:nivea|shower gel": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/590/080/4310/front_nl.8.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/4005900804310",
+  "source": "openbeautyfacts"
+ },
+ "off:nivia|football": {
+  "miss": true
+ },
+ "off:nongshim|ramen": {
+  "url": "https://images.openfoodfacts.org/images/products/880/104/305/5659/front_en.11.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8801043055659",
+  "source": "openfoodfacts"
+ },
+ "off:nutella|hazelnut spread": {
+  "url": "https://images.openfoodfacts.org/images/products/80177128/front.10.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/80177128",
+  "source": "openfoodfacts"
+ },
+ "off:nutraj|walnuts": {
+  "url": "https://images.openfoodfacts.org/images/products/890/601/977/0328/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906019770328",
+  "source": "openfoodfacts"
+ },
+ "off:nutralite|table spread": {
+  "miss": true
+ },
+ "off:nutrela|soya chunks": {
+  "url": "https://images.openfoodfacts.org/images/products/890/603/201/8957/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906032018957",
+  "source": "openfoodfacts"
+ },
+ "off:o.b.|tampons": {
+  "url": "https://images.openbeautyfacts.org/images/products/357/466/162/4648/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3574661624648",
+  "source": "openbeautyfacts"
+ },
+ "off:oatly|oat drink": {
+  "url": "https://images.openfoodfacts.org/images/products/739/437/661/6228/front_en.197.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/7394376616228",
+  "source": "openfoodfacts"
+ },
+ "off:oatmlk|frozen dessert": {
+  "miss": true
+ },
+ "off:ocean|highball glass": {
+  "miss": true
+ },
+ "off:ocean|jigger": {
+  "miss": true
+ },
+ "off:oddy|cling wrap": {
+  "miss": true
+ },
+ "off:oddy|sticky notes": {
+  "miss": true
+ },
+ "off:oral-b|dental floss": {
+  "miss": true
+ },
+ "off:oral-b|toothbrush": {
+  "miss": true
+ },
+ "off:orbit|chewing gum": {
+  "url": "https://images.openfoodfacts.org/images/products/400/990/043/1521/front_fr.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/4009900431521",
+  "source": "openfoodfacts"
+ },
+ "off:organic india|ginger infusion": {
+  "miss": true
+ },
+ "off:organic india|tulsi tea": {
+  "url": "https://images.openfoodfacts.org/images/products/080/154/101/1001/front_fr.11.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0801541011001",
+  "source": "openfoodfacts"
+ },
+ "off:organic tattva|almonds": {
+  "miss": true
+ },
+ "off:organic tattva|black rice": {
+  "miss": true
+ },
+ "off:organic tattva|jaggery": {
+  "miss": true
+ },
+ "off:organic tattva|jaggery powder": {
+  "miss": true
+ },
+ "off:organic tattva|moong dal": {
+  "miss": true
+ },
+ "off:organic tattva|organic basmati rice": {
+  "miss": true
+ },
+ "off:organic tattva|organic chilli powder": {
+  "miss": true
+ },
+ "off:organic tattva|organic cumin": {
+  "miss": true
+ },
+ "off:organic tattva|organic moong dal": {
+  "miss": true
+ },
+ "off:organic tattva|organic quinoa": {
+  "miss": true
+ },
+ "off:organic tattva|organic wheat atta": {
+  "miss": true
+ },
+ "off:organic tattva|sabja seeds": {
+  "miss": true
+ },
+ "off:origami|kitchen towel": {
+  "miss": true
+ },
+ "off:outlook|magazine": {
+  "miss": true
+ },
+ "off:pac|makeup sponge": {
+  "miss": true
+ },
+ "off:palmer's|cocoa butter": {
+  "url": "https://images.openbeautyfacts.org/images/products/001/018/104/3352/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/0010181043352",
+  "source": "openbeautyfacts"
+ },
+ "off:pantene|conditioner": {
+  "url": "https://images.openbeautyfacts.org/images/products/008/087/819/5077/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/0080878195077",
+  "source": "openbeautyfacts"
+ },
+ "off:paper boat|coconut water": {
+  "url": "https://images.openfoodfacts.org/images/products/890/608/060/4751/front_en.16.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906080604751",
+  "source": "openfoodfacts"
+ },
+ "off:paper boat|juice": {
+  "miss": true
+ },
+ "off:paperkraft|diary": {
+  "miss": true
+ },
+ "off:parachute|body oil": {
+  "miss": true
+ },
+ "off:parachute|coconut oil": {
+  "url": "https://images.openfoodfacts.org/images/products/89002940/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/89002940",
+  "source": "openfoodfacts"
+ },
+ "off:park avenue|shaving foam": {
+  "miss": true
+ },
+ "off:parle hide & seek|hide seek chocolate chip": {
+  "miss": true
+ },
+ "off:parle krackjack|krackjack": {
+  "miss": true
+ },
+ "off:parle marie|marie biscuits": {
+  "miss": true
+ },
+ "off:parle-g|parle g glucose": {
+  "miss": true
+ },
+ "off:parle|assorted biscuits": {
+  "miss": true
+ },
+ "off:parle|cream biscuits": {
+  "miss": true
+ },
+ "off:parle|rusk": {
+  "url": "https://images.openfoodfacts.org/images/products/890/171/990/2482/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901719902482",
+  "source": "openfoodfacts"
+ },
+ "off:parle|salted biscuits": {
+  "miss": true
+ },
+ "off:pass pass|mouth freshener": {
+  "miss": true
+ },
+ "off:pass pass|saunf": {
+  "miss": true
+ },
+ "off:patanjali|henna powder": {
+  "miss": true
+ },
+ "off:patanjali|honey": {
+  "url": "https://images.openfoodfacts.org/images/products/890/410/944/9239/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904109449239",
+  "source": "openfoodfacts"
+ },
+ "off:patanjali|multani mitti": {
+  "miss": true
+ },
+ "off:patanjali|sattu": {
+  "miss": true
+ },
+ "off:pears|glycerin soap": {
+  "miss": true
+ },
+ "off:pediasure|nutrition powder": {
+  "miss": true
+ },
+ "off:pee safe|heat patch": {
+  "miss": true
+ },
+ "off:pee safe|intimate wash": {
+  "miss": true
+ },
+ "off:pee safe|intimate wipes": {
+  "miss": true
+ },
+ "off:pee safe|menstrual cup": {
+  "miss": true
+ },
+ "off:penguin random house|fiction paperback": {
+  "miss": true
+ },
+ "off:penguin|board book": {
+  "miss": true
+ },
+ "off:pepsi black|pepsi black": {
+  "miss": true
+ },
+ "off:pepsi|pepsi can": {
+  "url": "https://images.openfoodfacts.org/images/products/01231003/front_en.11.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/01231003",
+  "source": "openfoodfacts"
+ },
+ "off:pepsi|pepsi cola": {
+  "url": "https://images.openfoodfacts.org/images/products/006/900/015/9934/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0069000159934",
+  "source": "openfoodfacts"
+ },
+ "off:pepsodent|toothpaste": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/097/0368/front_en.17.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030970368",
+  "source": "openbeautyfacts"
+ },
+ "off:perrier|sparkling water": {
+  "miss": true
+ },
+ "off:philips avent|breast pads": {
+  "miss": true
+ },
+ "off:philips|beard trimmer": {
+  "miss": true
+ },
+ "off:philips|descaler": {
+  "miss": true
+ },
+ "off:philips|hair dryer": {
+  "miss": true
+ },
+ "off:philips|hair straightener": {
+  "miss": true
+ },
+ "off:philips|mixer grinder": {
+  "miss": true
+ },
+ "off:philips|toaster": {
+  "miss": true
+ },
+ "off:pigeon|bottle brush": {
+  "miss": true
+ },
+ "off:pigeon|breast pads": {
+  "miss": true
+ },
+ "off:pigeon|chopper": {
+  "miss": true
+ },
+ "off:pigeon|electric kettle": {
+  "miss": true
+ },
+ "off:pigeon|gas lighter": {
+  "miss": true
+ },
+ "off:pigeon|grater": {
+  "miss": true
+ },
+ "off:pigeon|sieve": {
+  "miss": true
+ },
+ "off:pillsbury|cake mix": {
+  "url": "https://images.openfoodfacts.org/images/products/001/330/055/3053/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0013300553053",
+  "source": "openfoodfacts"
+ },
+ "off:pillsbury|chocolate cake mix": {
+  "url": "https://images.openfoodfacts.org/images/products/001/330/060/6742/front_en.8.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0013300606742",
+  "source": "openfoodfacts"
+ },
+ "off:pillsbury|multigrain atta": {
+  "miss": true
+ },
+ "off:pillsbury|wheat flour": {
+  "url": "https://images.openfoodfacts.org/images/products/005/150/028/1420/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0051500281420",
+  "source": "openfoodfacts"
+ },
+ "off:pillsbury|whole wheat atta": {
+  "miss": true
+ },
+ "off:pintola|chocolate peanut butter": {
+  "url": "https://images.openfoodfacts.org/images/products/890/801/090/0230/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8908010900230",
+  "source": "openfoodfacts"
+ },
+ "off:pintola|peanut butter creamy": {
+  "url": "https://images.openfoodfacts.org/images/products/890/801/090/0384/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8908010900384",
+  "source": "openfoodfacts"
+ },
+ "off:pitambari|shining powder": {
+  "miss": true
+ },
+ "off:plum|toner": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/611/841/2495/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8906118412495",
+  "source": "openbeautyfacts"
+ },
+ "off:plum|under eye gel": {
+  "miss": true
+ },
+ "off:pond's|face moisturiser": {
+  "miss": true
+ },
+ "off:pond's|talcum powder": {
+  "miss": true
+ },
+ "off:post-it|sticky notes": {
+  "miss": true
+ },
+ "off:prasuma|chicken salami": {
+  "miss": true
+ },
+ "off:prasuma|chicken sausage": {
+  "url": "https://images.openfoodfacts.org/images/products/890/800/499/7857/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8908004997857",
+  "source": "openfoodfacts"
+ },
+ "off:prasuma|ham": {
+  "miss": true
+ },
+ "off:prasuma|veg momos": {
+  "miss": true
+ },
+ "off:preethi|mixer grinder": {
+  "miss": true
+ },
+ "off:premier|facial tissues": {
+  "miss": true
+ },
+ "off:prestige|cookware set": {
+  "miss": true
+ },
+ "off:prestige|electric chopper": {
+  "miss": true
+ },
+ "off:prestige|gas lighter": {
+  "miss": true
+ },
+ "off:prestige|induction cooktop": {
+  "miss": true
+ },
+ "off:prestige|juicer": {
+  "miss": true
+ },
+ "off:prestige|kadai": {
+  "miss": true
+ },
+ "off:prestige|kitchen knife": {
+  "miss": true
+ },
+ "off:prestige|peeler": {
+  "miss": true
+ },
+ "off:prestige|pressure cooker": {
+  "miss": true
+ },
+ "off:pril|dishwash bar": {
+  "miss": true
+ },
+ "off:pril|dishwash liquid": {
+  "miss": true
+ },
+ "off:pringles|potato crisps": {
+  "url": "https://images.openfoodfacts.org/images/products/003/800/018/3928/front_fr.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0038000183928",
+  "source": "openfoodfacts"
+ },
+ "off:priya|mango pickle": {
+  "url": "https://images.openfoodfacts.org/images/products/078/501/801/2060/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0785018012060",
+  "source": "openfoodfacts"
+ },
+ "off:priya|podi": {
+  "miss": true
+ },
+ "off:priya|tomato chutney": {
+  "miss": true
+ },
+ "off:pulla reddy|ariselu": {
+  "miss": true
+ },
+ "off:pulse|pulse candy": {
+  "miss": true
+ },
+ "off:quaker|masala oats": {
+  "miss": true
+ },
+ "off:quaker|oats": {
+  "url": "https://images.openfoodfacts.org/images/products/779/217/000/0012/front_es.11.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/7792170000012",
+  "source": "openfoodfacts"
+ },
+ "off:rajdhani|dalia": {
+  "miss": true
+ },
+ "off:rajdhani|daliya": {
+  "miss": true
+ },
+ "off:rajdhani|sabudana": {
+  "miss": true
+ },
+ "off:rajdhani|sattu": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/510/0066/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906055100066",
+  "source": "openfoodfacts"
+ },
+ "off:rasna|orange drink mix": {
+  "miss": true
+ },
+ "off:raw pressery|almond milk": {
+  "url": "https://images.openfoodfacts.org/images/products/890/425/870/1547/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904258701547",
+  "source": "openfoodfacts"
+ },
+ "off:raw pressery|coconut water": {
+  "url": "https://images.openfoodfacts.org/images/products/890/425/870/1707/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904258701707",
+  "source": "openfoodfacts"
+ },
+ "off:raw pressery|cold pressed juice": {
+  "miss": true
+ },
+ "off:real|guava juice": {
+  "miss": true
+ },
+ "off:real|juice assorted": {
+  "miss": true
+ },
+ "off:real|mango juice": {
+  "miss": true
+ },
+ "off:real|mixed fruit juice": {
+  "miss": true
+ },
+ "off:red bull|energy drink": {
+  "url": "https://images.openfoodfacts.org/images/products/900/249/021/0434/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/9002490210434",
+  "source": "openfoodfacts"
+ },
+ "off:revive|instant starch": {
+  "miss": true
+ },
+ "off:reynolds|ball pen": {
+  "miss": true
+ },
+ "off:rica|wax": {
+  "miss": true
+ },
+ "off:rich's|whipping topping": {
+  "miss": true
+ },
+ "off:rin|ala bleach": {
+  "miss": true
+ },
+ "off:rin|detergent bar": {
+  "miss": true
+ },
+ "off:ritebite max protein|protein bar": {
+  "miss": true
+ },
+ "off:ritebite max protein|protein chips": {
+  "miss": true
+ },
+ "off:safal|frozen beans": {
+  "miss": true
+ },
+ "off:safal|frozen green peas": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/206/0100/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901722060100",
+  "source": "openfoodfacts"
+ },
+ "off:safal|frozen mixed vegetables": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/206/1053/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901722061053",
+  "source": "openfoodfacts"
+ },
+ "off:safal|frozen spinach": {
+  "miss": true
+ },
+ "off:safal|frozen sweet corn": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/206/6355/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901722066355",
+  "source": "openfoodfacts"
+ },
+ "off:saffola|blended oil": {
+  "url": "https://images.openfoodfacts.org/images/products/890/108/801/7411/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901088017411",
+  "source": "openfoodfacts"
+ },
+ "off:saffola|masala oats": {
+  "url": "https://images.openfoodfacts.org/images/products/890/108/812/9800/front_en.20.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901088129800",
+  "source": "openfoodfacts"
+ },
+ "off:saffola|oats": {
+  "url": "https://images.openfoodfacts.org/images/products/890/108/812/9800/front_en.20.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901088129800",
+  "source": "openfoodfacts"
+ },
+ "off:saffola|rice bran oil": {
+  "miss": true
+ },
+ "off:samyang|ramen multipack": {
+  "miss": true
+ },
+ "off:samyang|spicy ramen": {
+  "url": "https://images.openfoodfacts.org/images/products/880/107/325/0222/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8801073250222",
+  "source": "openfoodfacts"
+ },
+ "off:savlon|disinfectant spray": {
+  "miss": true
+ },
+ "off:savlon|soap bar": {
+  "miss": true
+ },
+ "off:scholastic|children story book": {
+  "miss": true
+ },
+ "off:schweppes zero|tonic water zero": {
+  "miss": true
+ },
+ "off:schweppes|soda water": {
+  "url": "https://images.openfoodfacts.org/images/products/885/195/963/2642/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8851959632642",
+  "source": "openfoodfacts"
+ },
+ "off:schweppes|sparkling water": {
+  "url": "https://images.openfoodfacts.org/images/products/33119663/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/33119663",
+  "source": "openfoodfacts"
+ },
+ "off:schweppes|tonic water": {
+  "url": "https://images.openfoodfacts.org/images/products/07835704/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/07835704",
+  "source": "openfoodfacts"
+ },
+ "off:scotch-brite|broom": {
+  "miss": true
+ },
+ "off:scotch-brite|flat mop": {
+  "miss": true
+ },
+ "off:scotch-brite|floor brush": {
+  "miss": true
+ },
+ "off:scotch-brite|microfiber cloth": {
+  "miss": true
+ },
+ "off:scotch-brite|scrub pad": {
+  "url": "https://images.openproductsfacts.org/images/products/890/136/140/4921/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8901361404921",
+  "source": "openproductsfacts"
+ },
+ "off:scotch|transparent tape": {
+  "miss": true
+ },
+ "off:sepoy & co|tonic water": {
+  "url": "https://images.openfoodfacts.org/images/products/890/801/247/1004/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8908012471004",
+  "source": "openfoodfacts"
+ },
+ "off:set wet|hair cream": {
+  "miss": true
+ },
+ "off:set wet|hair gel": {
+  "miss": true
+ },
+ "off:shan|biryani masala": {
+  "miss": true
+ },
+ "off:shan|tandoori masala": {
+  "miss": true
+ },
+ "off:shilpa|bindi": {
+  "miss": true
+ },
+ "off:silk|soy milk": {
+  "miss": true
+ },
+ "off:simple|face wash": {
+  "url": "https://images.openbeautyfacts.org/images/products/501/145/110/4020/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/5011451104020",
+  "source": "openbeautyfacts"
+ },
+ "off:sirona|heat patch": {
+  "miss": true
+ },
+ "off:sirona|intimate wipes": {
+  "miss": true
+ },
+ "off:sirona|maternity pads": {
+  "miss": true
+ },
+ "off:sirona|menstrual cup": {
+  "miss": true
+ },
+ "off:skinn by titan|perfume": {
+  "miss": true
+ },
+ "off:skinn by titan|perfume gift set": {
+  "miss": true
+ },
+ "off:skybags|school backpack": {
+  "miss": true
+ },
+ "off:slice|mango drink": {
+  "miss": true
+ },
+ "off:slurrp farm|millet noodles": {
+  "miss": true
+ },
+ "off:slurrp farm|ragi drink mix": {
+  "miss": true
+ },
+ "off:smoor|chocolate box": {
+  "miss": true
+ },
+ "off:sneakare|sneaker cleaner foam": {
+  "miss": true
+ },
+ "off:sofit|soy milk": {
+  "miss": true
+ },
+ "off:soyfit|tofu": {
+  "miss": true
+ },
+ "off:sprite zero|sprite zero": {
+  "miss": true
+ },
+ "off:sprite|lemon lime": {
+  "url": "https://images.openfoodfacts.org/images/products/544/900/024/1566/front_fr.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5449000241566",
+  "source": "openfoodfacts"
+ },
+ "off:st dalfour|fruit spread": {
+  "url": "https://images.openfoodfacts.org/images/products/501/427/179/5331/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5014271795331",
+  "source": "openfoodfacts"
+ },
+ "off:st dalfour|orange marmalade": {
+  "miss": true
+ },
+ "off:starbucks|cold coffee": {
+  "miss": true
+ },
+ "off:starbucks|ready to drink coffee": {
+  "url": "https://images.openfoodfacts.org/images/products/000/000/124/1000/front_en.52.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/01241000",
+  "source": "openfoodfacts"
+ },
+ "off:stayfree|sanitary pads": {
+  "miss": true
+ },
+ "off:strauss|resistance bands": {
+  "miss": true
+ },
+ "off:streax|hair serum": {
+  "miss": true
+ },
+ "off:sugar free|sweetener pellets": {
+  "miss": true
+ },
+ "off:sumeru|fish fingers": {
+  "miss": true
+ },
+ "off:sumeru|frozen beans": {
+  "miss": true
+ },
+ "off:sumeru|frozen green peas": {
+  "miss": true
+ },
+ "off:sumeru|frozen mixed vegetables": {
+  "miss": true
+ },
+ "off:sumeru|frozen spinach": {
+  "miss": true
+ },
+ "off:sumeru|frozen sweet corn": {
+  "miss": true
+ },
+ "off:sunfeast dark fantasy|dark fantasy": {
+  "miss": true
+ },
+ "off:sunfeast pasta treat|instant pasta": {
+  "miss": true
+ },
+ "off:sunfeast yippee!|masala noodles": {
+  "miss": true
+ },
+ "off:sunsilk|shampoo": {
+  "url": "https://images.openbeautyfacts.org/images/products/622/115/506/2345/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/6221155062345",
+  "source": "openbeautyfacts"
+ },
+ "off:surf excel matic|matic liquid front load": {
+  "miss": true
+ },
+ "off:surf excel|detergent powder": {
+  "url": "https://images.openproductsfacts.org/images/products/890/910/600/6478/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8909106006478",
+  "source": "openproductsfacts"
+ },
+ "off:svami|tonic water": {
+  "miss": true
+ },
+ "off:swiss beauty|makeup brush": {
+  "miss": true
+ },
+ "off:tabasco|pepper sauce": {
+  "url": "https://images.openfoodfacts.org/images/products/001/121/000/1626/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0011210001626",
+  "source": "openfoodfacts"
+ },
+ "off:taj mahal|tea bags": {
+  "url": "https://images.openfoodfacts.org/images/products/890/103/068/1530/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901030681530",
+  "source": "openfoodfacts"
+ },
+ "off:tampax|tampons": {
+  "url": "https://images.openbeautyfacts.org/images/products/007/301/071/4496/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/0073010714496",
+  "source": "openbeautyfacts"
+ },
+ "off:tang|orange drink powder": {
+  "url": "https://images.openfoodfacts.org/images/products/762/230/047/0050/front_en.12.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/7622300470050",
+  "source": "openfoodfacts"
+ },
+ "off:tata salt|iodised salt": {
+  "miss": true
+ },
+ "off:tata sampann|chana dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6643/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926643",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|cumin seeds": {
+  "miss": true
+ },
+ "off:tata sampann|daliya": {
+  "miss": true
+ },
+ "off:tata sampann|kabuli chana": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6704/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926704",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|kala chana": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6308/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926308",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|masoor dal": {
+  "miss": true
+ },
+ "off:tata sampann|moong dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6315/front_en.23.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926315",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|poha": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/390/4061/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043904061",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|rajma": {
+  "miss": true
+ },
+ "off:tata sampann|sabudana": {
+  "miss": true
+ },
+ "off:tata sampann|toor dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6216/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926216",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|urad dal": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6124/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926124",
+  "source": "openfoodfacts"
+ },
+ "off:tata sampann|whole moong": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6315/front_en.23.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926315",
+  "source": "openfoodfacts"
+ },
+ "off:tata soulfull|choco fills": {
+  "miss": true
+ },
+ "off:tata soulfull|millet biscuits": {
+  "miss": true
+ },
+ "off:tata soulfull|millet cookies": {
+  "miss": true
+ },
+ "off:tata soulfull|millet mix": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/349/0337/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906113490337",
+  "source": "openfoodfacts"
+ },
+ "off:tata soulfull|millet puffs": {
+  "miss": true
+ },
+ "off:tata tea|masala tea": {
+  "miss": true
+ },
+ "off:tata tea|tea": {
+  "miss": true
+ },
+ "off:tea trunk|black tea": {
+  "miss": true
+ },
+ "off:tea trunk|hibiscus tea": {
+  "miss": true
+ },
+ "off:tea trunk|matcha": {
+  "miss": true
+ },
+ "off:tetley|green tea": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/208/7808/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901052087808",
+  "source": "openfoodfacts"
+ },
+ "off:tetley|tea bags": {
+  "url": "https://images.openfoodfacts.org/images/products/500/020/809/9351/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5000208099351",
+  "source": "openfoodfacts"
+ },
+ "off:the baker's dozen|pita bread": {
+  "miss": true
+ },
+ "off:the baker's dozen|sourdough": {
+  "miss": true
+ },
+ "off:the baker's dozen|sourdough bread": {
+  "miss": true
+ },
+ "off:the body shop|bath sponge": {
+  "miss": true
+ },
+ "off:the body shop|body scrub": {
+  "url": "https://images.openbeautyfacts.org/images/products/502/819/794/1734/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/5028197941734",
+  "source": "openbeautyfacts"
+ },
+ "off:the body shop|gift set": {
+  "miss": true
+ },
+ "off:the derma co.|pimple patch": {
+  "miss": true
+ },
+ "off:the derma co.|salicylic acid face wash": {
+  "miss": true
+ },
+ "off:the derma co.|under eye cream": {
+  "miss": true
+ },
+ "off:the face shop|sheet mask": {
+  "miss": true
+ },
+ "off:the ordinary|hyaluronic acid serum": {
+  "miss": true
+ },
+ "off:the ordinary|scalp serum": {
+  "miss": true
+ },
+ "off:the ordinary|squalane": {
+  "url": "https://images.openbeautyfacts.org/images/products/076/991/519/3954/front_en.14.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/0769915193954",
+  "source": "openbeautyfacts"
+ },
+ "off:theobroma|chocolate chip cookies": {
+  "miss": true
+ },
+ "off:theobroma|cookies": {
+  "miss": true
+ },
+ "off:theobroma|croissant": {
+  "miss": true
+ },
+ "off:third wave coffee|coffee beans": {
+  "miss": true
+ },
+ "off:third wave coffee|ground coffee": {
+  "miss": true
+ },
+ "off:tic tac|mints": {
+  "url": "https://images.openfoodfacts.org/images/products/800/050/041/0998/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8000500410998",
+  "source": "openfoodfacts"
+ },
+ "off:tide|detergent bar": {
+  "url": "https://images.openproductsfacts.org/images/products/498/717/609/9921/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/4987176099921",
+  "source": "openproductsfacts"
+ },
+ "off:tresemme|hair spray": {
+  "url": "https://images.openbeautyfacts.org/images/products/005/545/178/5259/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/0055451785259",
+  "source": "openbeautyfacts"
+ },
+ "off:trident|bath towel": {
+  "miss": true
+ },
+ "off:tropicana|juice assorted": {
+  "miss": true
+ },
+ "off:tropicana|orange juice": {
+  "url": "https://images.openfoodfacts.org/images/products/004/850/020/2937/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0048500202937",
+  "source": "openfoodfacts"
+ },
+ "off:tropolite|whip topping": {
+  "miss": true
+ },
+ "off:true elements|chia seeds": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/266/1332/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906112661332",
+  "source": "openfoodfacts"
+ },
+ "off:true elements|granola": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/266/5354/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906112665354",
+  "source": "openfoodfacts"
+ },
+ "off:true elements|hemp seeds": {
+  "miss": true
+ },
+ "off:true elements|seeds mix": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/266/1332/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906112661332",
+  "source": "openfoodfacts"
+ },
+ "off:true elements|steel cut oats": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/266/1059/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906112661059",
+  "source": "openfoodfacts"
+ },
+ "off:true elements|sunflower seeds": {
+  "miss": true
+ },
+ "off:twinings|chamomile tea": {
+  "miss": true
+ },
+ "off:two brothers organic farms|bilona ghee": {
+  "miss": true
+ },
+ "off:tynor|hot water bag": {
+  "miss": true
+ },
+ "off:ujala|ujala fabric whitener": {
+  "miss": true
+ },
+ "off:unibic|butter cookies": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/907/7277/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906009077277",
+  "source": "openfoodfacts"
+ },
+ "off:unibic|choco chip cookies": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/907/2678/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906009072678",
+  "source": "openfoodfacts"
+ },
+ "off:unibic|cookies gift": {
+  "miss": true
+ },
+ "off:urban platter|hemp seeds": {
+  "miss": true
+ },
+ "off:urban platter|mushroom popcorn kernels": {
+  "miss": true
+ },
+ "off:urban platter|sprinkles": {
+  "miss": true
+ },
+ "off:ustraa|beard oil": {
+  "miss": true
+ },
+ "off:vadilal|cassata": {
+  "miss": true
+ },
+ "off:vadilal|kulfi": {
+  "url": "https://images.openfoodfacts.org/images/products/890/177/796/7171/front_id.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901777967171",
+  "source": "openfoodfacts"
+ },
+ "off:vahdam|black tea": {
+  "miss": true
+ },
+ "off:vahdam|matcha": {
+  "url": "https://images.openfoodfacts.org/images/products/081/000/161/4409/front_es.9.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0810001614409",
+  "source": "openfoodfacts"
+ },
+ "off:vanish|stain remover powder": {
+  "url": "https://images.openproductsfacts.org/images/products/501/141/756/2505/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/5011417562505",
+  "source": "openproductsfacts"
+ },
+ "off:vaseline|body lotion": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/910/606/7325/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8909106067325",
+  "source": "openbeautyfacts"
+ },
+ "off:vaseline|lip balm": {
+  "url": "https://images.openbeautyfacts.org/images/products/869/063/787/9531/front_tr.7.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8690637879531",
+  "source": "openbeautyfacts"
+ },
+ "off:vaseline|petroleum jelly": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/004/218/2634/front_en.88.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/42182634",
+  "source": "openbeautyfacts"
+ },
+ "off:veeba|cheese dip": {
+  "url": "https://images.openfoodfacts.org/images/products/890/606/940/0473/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906069400473",
+  "source": "openfoodfacts"
+ },
+ "off:veeba|eggless mayonnaise": {
+  "url": "https://images.openfoodfacts.org/images/products/890/606/940/1739/front_en.16.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906069401739",
+  "source": "openfoodfacts"
+ },
+ "off:veeba|sriracha": {
+  "url": "https://images.openfoodfacts.org/images/products/890/606/940/0657/front_it.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906069400657",
+  "source": "openfoodfacts"
+ },
+ "off:veeba|tandoori mayonnaise": {
+  "miss": true
+ },
+ "off:veeba|thousand island": {
+  "miss": true
+ },
+ "off:veet|hair removal cream": {
+  "url": "https://images.openbeautyfacts.org/images/products/006/220/082/5029/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/0062200825029",
+  "source": "openbeautyfacts"
+ },
+ "off:veet|wax strips": {
+  "url": "https://images.openbeautyfacts.org/images/products/305/994/402/5102/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3059944025102",
+  "source": "openbeautyfacts"
+ },
+ "off:vega|bath sponge": {
+  "miss": true
+ },
+ "off:vega|hair brush": {
+  "miss": true
+ },
+ "off:vega|hair straightener": {
+  "miss": true
+ },
+ "off:vega|makeup brush": {
+  "miss": true
+ },
+ "off:vega|makeup sponge": {
+  "miss": true
+ },
+ "off:vega|nail clipper": {
+  "miss": true
+ },
+ "off:vega|tweezers": {
+  "miss": true
+ },
+ "off:victorinox|paring knife": {
+  "miss": true
+ },
+ "off:vim|dishwash bar": {
+  "miss": true
+ },
+ "off:vim|dishwash liquid gel": {
+  "miss": true
+ },
+ "off:vinod|saucepan": {
+  "miss": true
+ },
+ "off:vinod|spoons": {
+  "miss": true
+ },
+ "off:vwash|intimate wash": {
+  "miss": true
+ },
+ "off:wagh bakri|instant tea premix": {
+  "miss": true
+ },
+ "off:wagh bakri|masala tea": {
+  "url": "https://images.openfoodfacts.org/images/products/890/174/700/3694/front_es.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901747003694",
+  "source": "openfoodfacts"
+ },
+ "off:wavex|microfiber cloth": {
+  "miss": true
+ },
+ "off:wavex|waterless car wash": {
+  "miss": true
+ },
+ "off:wd-40|multipurpose spray": {
+  "miss": true
+ },
+ "off:weikfield|baking powder": {
+  "url": "https://images.openfoodfacts.org/images/products/890/180/800/0020/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901808000020",
+  "source": "openfoodfacts"
+ },
+ "off:weikfield|cocoa powder": {
+  "miss": true
+ },
+ "off:weikfield|corn flour": {
+  "miss": true
+ },
+ "off:weikfield|icing sugar": {
+  "miss": true
+ },
+ "off:weikfield|jelly crystals": {
+  "miss": true
+ },
+ "off:whisper|maternity pads": {
+  "miss": true
+ },
+ "off:whisper|pantyliners": {
+  "miss": true
+ },
+ "off:whisper|sanitary pads": {
+  "miss": true
+ },
+ "off:wingreens farms|hummus": {
+  "miss": true
+ },
+ "off:wingreens farms|pesto": {
+  "miss": true
+ },
+ "off:wonderchef|measuring spoons": {
+  "miss": true
+ },
+ "off:yakult|probiotic drink": {
+  "url": "https://images.openfoodfacts.org/images/products/480/650/993/6453/front_fr.9.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/4806509936453",
+  "source": "openfoodfacts"
+ },
+ "off:yoga bar|chia seeds": {
+  "miss": true
+ },
+ "off:yoga bar|energy bar": {
+  "url": "https://images.openfoodfacts.org/images/products/890/800/514/4076/front_en.12.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8908005144076",
+  "source": "openfoodfacts"
+ },
+ "off:yoga bar|granola": {
+  "miss": true
+ },
+ "off:yoga bar|protein bar": {
+  "url": "https://images.openfoodfacts.org/images/products/890/800/514/4366/front_en.14.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8908005144366",
+  "source": "openfoodfacts"
+ },
+ "off:yoga bar|seed mix": {
+  "url": "https://images.openfoodfacts.org/images/products/890/800/514/4649/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8908005144649",
+  "source": "openfoodfacts"
+ },
+ "off:yoga bar|trail mix": {
+  "miss": true
+ },
+ "off:yummiez|chicken nuggets": {
+  "miss": true
+ },
+ "wiki:Agaricus bisporus": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/ChampignonMushroom.jpg/500px-ChampignonMushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: chris_73, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:ChampignonMushroom.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Alphonso mango": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mangoes_in_Bangalore_%282025%29_19.jpg/500px-Mangoes_in_Bangalore_%282025%29_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mangoes_in_Bangalore_(2025)_19.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Amaranth": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Amaranthus_tricolor0.jpg/500px-Amaranthus_tricolor0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Kurt Stüber [1], CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Amaranthus_tricolor0.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Annona squamosa": {
+  "miss": true
+ },
+ "wiki:Apple": {
+  "miss": true
+ },
+ "wiki:Asparagus": {
+  "miss": true
+ },
+ "wiki:Avocado": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Persea_americana_fruit_2.JPG/500px-Persea_americana_fruit_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: B.navez, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Persea_americana_fruit_2.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Baby carrot": {
+  "miss": true
+ },
+ "wiki:Banana": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bananavarieties.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Photo: TimothyPilgrim, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Bananavarieties.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Banana leaf": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Banana-leaf-1.JPG/500px-Banana-leaf-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Ted Garvin, CC BY-SA 2.5, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Banana-leaf-1.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Bangle": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Women_wearing_bangles_in_Chittagong_%2802%29.jpg/500px-Women_wearing_bangles_in_Chittagong_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Moheen Reeyad, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Women_wearing_bangles_in_Chittagong_(02).jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Basil": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ocimum_basilicum_8zz.jpg/500px-Ocimum_basilicum_8zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Photo by David J. Stang, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_8zz.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Bay leaf": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Bay_Leaves.JPG/500px-Bay_Leaves.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Miansari66, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Bay_Leaves.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Bean sprout": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Organic_mixed_beans_shoots.jpg/500px-Organic_mixed_beans_shoots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Unknown author, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Organic_mixed_beans_shoots.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Beetroot": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Detroitdarkredbeets.png/500px-Detroitdarkredbeets.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: BriannaWalther, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Detroitdarkredbeets.png",
+  "source": "wikimedia"
+ },
+ "wiki:Bell pepper": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Green-Yellow-Red-Pepper-2009.jpg/500px-Green-Yellow-Red-Pepper-2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Kham Tran - www.khamtran.com, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Green-Yellow-Red-Pepper-2009.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Betel": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Piper_betle_plant.jpg/500px-Piper_betle_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: No machine-readable author provided. Pamri assumed (based on copyright claims)., Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Piper_betle_plant.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Bindi": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Kullu_Himachal_Pradesh_India_Woman.jpg/500px-Kullu_Himachal_Pradesh_India_Woman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: ellen reitman, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Kullu_Himachal_Pradesh_India_Woman.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Blackberry": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Ripe%2C_ripening%2C_and_green_blackberries.jpg/500px-Ripe%2C_ripening%2C_and_green_blackberries.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Ragesoss, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Ripe,_ripening,_and_green_blackberries.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Blueberry": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Blueberries.jpg/500px-Blueberries.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: The original Uploader was Oven Fresh at English Wikipedia, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Blueberries.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Bottle gourd": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Courge_encore_verte.jpg/500px-Courge_encore_verte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: 撮影者はカールおじさんです。, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Courge_encore_verte.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Broccoli": {
+  "miss": true
+ },
+ "wiki:Brown bread": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Kommissbrot.jpg/500px-Kommissbrot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Benutzer:Rainer Zenz, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Kommissbrot.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Buckwheat": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Japanese_Buckwheat_Flower.JPG/500px-Japanese_Buckwheat_Flower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: STRONGlk7, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Japanese_Buckwheat_Flower.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Cabbage": {
+  "miss": true
+ },
+ "wiki:Calcium hydroxide": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Calcium_hydroxide.jpg/500px-Calcium_hydroxide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Picture taken by w:User:Walkerma in June 2005., Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Calcium_hydroxide.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Cantaloupe": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Meloen_vrucht_met_bloem.jpg/500px-Meloen_vrucht_met_bloem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Rasbak at Dutch Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Meloen_vrucht_met_bloem.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Carrot": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Vegetable-Carrot-Bundle-wStalks.jpg/500px-Vegetable-Carrot-Bundle-wStalks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Evan-Amos, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Catechu": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Catechu_nigrum1.JPG/500px-Catechu_nigrum1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Maša Sinreih in Valentina Vivod, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Catechu_nigrum1.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Cauliflower": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Chou-fleur_02.jpg/500px-Chou-fleur_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Coyau, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Chou-fleur_02.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Celery": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Celery_1.jpg/500px-Celery_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Lombroso, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Celery_1.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Cherry": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Cherry_season_%2848216568227%29.jpg/500px-Cherry_season_%2848216568227%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: spurekar, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Cherry_season_(48216568227).jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Cherry tomato": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Tomates_cerises_Luc_Viatour.jpg/500px-Tomates_cerises_Luc_Viatour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Luc Viatour, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Tomates_cerises_Luc_Viatour.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Chili pepper": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Madame_Jeanette_and_other_chillies.jpg/500px-Madame_Jeanette_and_other_chillies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Takeaway, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Madame_Jeanette_and_other_chillies.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Chrysanthemum": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Chrysanthemum_%28Chinese_characters%29.svg/500px-Chrysanthemum_%28Chinese_characters%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: White whirlwind, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_(Chinese_characters).svg",
+  "source": "wikimedia"
+ },
+ "wiki:Citrus limetta": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Citrus_limetta.jpeg/500px-Citrus_limetta.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Unknown author, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Citrus_limetta.jpeg",
+  "source": "wikimedia"
+ },
+ "wiki:Coconut": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg/500px-Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Franz Eugen Köhler, Köhler's Medizinal-Pflanzen, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Coconut water": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Young_Coconut_Drink.jpg/500px-Young_Coconut_Drink.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Shameelnurani313, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Young_Coconut_Drink.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Common fig": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ficus_carica_L%2C_1771.jpg/500px-Ficus_carica_L%2C_1771.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Trew, C.J, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Ficus_carica_L,_1771.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Cooking banana": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mega_racimos_de_guineos.jpg/500px-Mega_racimos_de_guineos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: J &amp; E, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mega_racimos_de_guineos.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Coriander": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Coriandrum_sativum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-193.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Photo: Franz Eugen Köhler, Köhler's Medizinal-Pflanzen, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Coriandrum_sativum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-193.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Cornmeal": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Polenta_uncooked.jpg/500px-Polenta_uncooked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Popo le Chien, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Polenta_uncooked.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Cowpea": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: HeraldDesa at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Lobia.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Cucumber": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/ARS_cucumber.jpg/500px-ARS_cucumber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Stephen Ausmus, USDA ARS, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:ARS_cucumber.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Curry tree": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Curry_Trees.jpg/500px-Curry_Trees.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Rantingsteve at English Wikipedia, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Curry_Trees.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Cymbopogon": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/YosriNov04Pokok_Serai.JPG/500px-YosriNov04Pokok_Serai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Unknown author, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:YosriNov04Pokok_Serai.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Daikon": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Different_kinds_of_White_Radish.png/500px-Different_kinds_of_White_Radish.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: KimYunmi, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Different_kinds_of_White_Radish.png",
+  "source": "wikimedia"
+ },
+ "wiki:Dill": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Illustration_Anethum_graveolens_clean.jpg/500px-Illustration_Anethum_graveolens_clean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Illustration_Anethum_graveolens0.jpg: Prof. Dr. Otto Wilhelm Thomé derivative wo, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Illustration_Anethum_graveolens_clean.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Duck as food": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/And_%2824559569447%29.jpg/500px-And_%2824559569447%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: cyclonebill from Copenhagen, Denmark, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:And_(24559569447).jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Eggplant": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Solanum_melongena_24_08_2012_%281%29.JPG/500px-Solanum_melongena_24_08_2012_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Joydeep, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Solanum_melongena_24_08_2012_(1).JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Fenugreek": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Illustration_Trigonella_foenum-graecum0_clean.jpg/500px-Illustration_Trigonella_foenum-graecum0_clean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Prof. Dr. Otto Wilhelm Thomé derivative work: Ninjatacoshell (talk), Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Illustration_Trigonella_foenum-graecum0_clean.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Fruit salad": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Fruktsallad_%28Fruit_salad%29.jpg/500px-Fruktsallad_%28Fruit_salad%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: dnm, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Fruktsallad_(Fruit_salad).jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Fuji (apple)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Apfel-Fuji.jpg/500px-Apfel-Fuji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Superbass, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Apfel-Fuji.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Gajra": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Aarti-dance-bangalore-2009.jpg/500px-Aarti-dance-bangalore-2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Amarnath, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Aarti-dance-bangalore-2009.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Garland": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Choinka.JPG/500px-Choinka.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: No machine-readable author provided. Piotrus assumed (based on copyright claims), CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Choinka.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Garlic": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Allium_sativum_Woodwill_1793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Photo: Unknown author, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Allium_sativum_Woodwill_1793.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Gelato": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Delicious_Gelato_on_display.jpg/500px-Delicious_Gelato_on_display.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: EquipmentAndConcepts, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Delicious_Gelato_on_display.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Ginger": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Koeh-146-no_text.jpg/500px-Koeh-146-no_text.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Franz Eugen Köhler, Köhler's Medizinal-Pflanzen, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Koeh-146-no_text.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Granny Smith": {
+  "miss": true
+ },
+ "wiki:Grape": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Grapes%2C_Rostov-on-Don%2C_Russia.jpg/500px-Grapes%2C_Rostov-on-Don%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Green bean": {
+  "miss": true
+ },
+ "wiki:Guar": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cluster_bean-guar-Cyamopsis_psoralioides-Cyamopsis_tetragonolobus-TAMIL_NADU73.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Photo: த*உழவன், Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Cluster_bean-guar-Cyamopsis_psoralioides-Cyamopsis_tetragonolobus-TAMIL_NADU73.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Guava": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Guava_pink_fruit.jpg/500px-Guava_pink_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Guava_pink_fruit.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Hass avocado": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Avocado_Hass_-_single_and_halved.jpg/500px-Avocado_Hass_-_single_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Avocado_Hass_-_single_and_halved.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Ice cube": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Ice_cubes_openphoto.jpg/500px-Ice_cubes_openphoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Darren Hester, CC BY-SA 2.5, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Ice_cubes_openphoto.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Iceberg lettuce": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Iceberg_lettuce_%28IJssla_krop%29.jpg/500px-Iceberg_lettuce_%28IJssla_krop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Rasbak 13:13, 20 May 2007 (UTC), CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Iceberg_lettuce_(IJssla_krop).jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Illicium verum": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Illicium_verum_1zz.jpg/500px-Illicium_verum_1zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Photo by David J. Stang, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Illicium_verum_1zz.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Jasminum sambac": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Arabian_jasmin%2C_Tunisia_2010.jpg/500px-Arabian_jasmin%2C_Tunisia_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Habib M'henni, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Arabian_jasmin,_Tunisia_2010.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Key lime": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Citrus_%C3%97_aurantiifolia_%28Christm.%29_Swingle_%2851906868474%29.jpg/500px-Citrus_%C3%97_aurantiifolia_%28Christm.%29_Swingle_%2851906868474%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Dinesh Valke from Thane, India, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Citrus_%C3%97_aurantiifolia_(Christm.)_Swingle_(51906868474).jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Kinnow": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Harvest_Kinnow.jpg/500px-Harvest_Kinnow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: SirSadiq at en.wikipedia, CC BY 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Harvest_Kinnow.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Kiwifruit": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Actinidia_fruits.jpg/500px-Actinidia_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Crowhurst et al., CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Actinidia_fruits.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Lablab": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_038_-_%E7%99%BD%E8%8A%B1%E7%A8%A8%E8%B1%86_-_Lablab_purpureus_%28L.%29_Sweet%2C_1804.jpg/500px-Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_038_-_%E7%99%BD%E8%8A%B1%E7%A8%A8%E8%B1%86_-_Lablab_purpureus_%28L.%29_Sweet%2C_1804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: AnonymousUnknown author, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Leiden_University_Library_-_Seikei_Zusetsu_vol._18,_page_038_-_%E7%99%BD%E8%8A%B1%E7%A8%A8%E8%B1%86_-_Lablab_purpureus_(L.)_Sweet,_1804.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Lamb and mutton": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Lamb_meat_%281%29.jpg/500px-Lamb_meat_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: I would appreciate being notified if you use my work outside Wikimedia. Do not c, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Lamb_meat_(1).jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Lemon": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/P1030323.JPG/500px-P1030323.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Elena Chochkova, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:P1030323.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Limonia acidissima": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Wood-apple_tree.JPG/500px-Wood-apple_tree.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: AntanO, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Wood-apple_tree.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Liver (food)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Pig%27s_liver_with_sauteed_onion.jpg/500px-Pig%27s_liver_with_sauteed_onion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: FotoosVanRobin from Netherlands, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pig%27s_liver_with_sauteed_onion.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Luffa acutangula": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Luffa_acutangula_Chinese_okra.jpg/500px-Luffa_acutangula_Chinese_okra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Nayan j Nath, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Luffa_acutangula_Chinese_okra.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Luffa aegyptiaca": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Luffa_aegyptiaca_compose.jpg/500px-Luffa_aegyptiaca_compose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Uploaded by User:Tomas nevado (right photo), Jerry Crimson Mann (upper left phot, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Luffa_aegyptiaca_compose.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Lychee": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Litchi_chinensis_fruits.JPG/500px-Litchi_chinensis_fruits.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: B.navez, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Litchi_chinensis_fruits.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Macrotyloma uniflorum": {
+  "miss": true
+ },
+ "wiki:Mango": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/500px-Mangos_-_single_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mangos_-_single_and_halved.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Manilkara zapota": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%E0%B4%B8%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F.jpg/500px-%E0%B4%B8%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Sugeesh at Malayalam Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:%E0%B4%B8%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Mentha": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Mentha_spicata-IMG_6186.jpg/500px-Mentha_spicata-IMG_6186.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: C T Johansson, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mentha_spicata-IMG_6186.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Milk": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Glass_of_Milk_%2833657535532%29.jpg/500px-Glass_of_Milk_%2833657535532%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: NIAID, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Glass_of_Milk_(33657535532).jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Momordica charantia": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Momordica_charantia_Blanco2.357.png/500px-Momordica_charantia_Blanco2.357.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Francisco Manuel Blanco (O.S.A.), Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Momordica_charantia_Blanco2.357.png",
+  "source": "wikimedia"
+ },
+ "wiki:Moringa oleifera": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/DrumstickFlower.jpg/500px-DrumstickFlower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Venkatx5, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:DrumstickFlower.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Muskmelon": {
+  "miss": true
+ },
+ "wiki:Nagpur orange": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Nagpur_orange_article.JPG/500px-Nagpur_orange_article.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Cherishsantosh, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Nagpur_orange_article.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Nectarine": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Illustration_Prunus_persica_clean_no_descr.jpg/500px-Illustration_Prunus_persica_clean_no_descr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: File:Illustration Prunus persica0.jpg: PLEASE COMPLETE AUTHOR INFORMATION deriva, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Illustration_Prunus_persica_clean_no_descr.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Nigella sativa": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Nsativa001Wien.jpg/500px-Nsativa001Wien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: AndreHolz at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Nsativa001Wien.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Ocimum tenuiflorum": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tulsi_or_Tulasi_Holy_basil.jpg/500px-Tulsi_or_Tulasi_Holy_basil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Shashidhara halady, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Tulsi_or_Tulasi_Holy_basil.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Okra": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Hong_Kong_Okra_Aug_25_2012.JPG/500px-Hong_Kong_Okra_Aug_25_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Earth100, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Okra_Aug_25_2012.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Onion": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Mixed_onions.jpg/500px-Mixed_onions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Colin, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Orange (fruit)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Papaya": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Carica_papaya_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-029.jpg/500px-Carica_papaya_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Franz Eugen Köhler, Köhler's Medizinal-Pflanzen, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Carica_papaya_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-029.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Parsley": {
+  "miss": true
+ },
+ "wiki:Passiflora edulis": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Passiflora_edulis_forma_flavicarpa.jpg/500px-Passiflora_edulis_forma_flavicarpa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Passiflora_edulis_forma_flavicarpa.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Pea": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Doperwt_rijserwt_peulen_Pisum_sativum.jpg/500px-Doperwt_rijserwt_peulen_Pisum_sativum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Rasbak, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Doperwt_rijserwt_peulen_Pisum_sativum.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Peach": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Illustration_Prunus_persica_clean_no_descr.jpg/500px-Illustration_Prunus_persica_clean_no_descr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: File:Illustration Prunus persica0.jpg: PLEASE COMPLETE AUTHOR INFORMATION deriva, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Illustration_Prunus_persica_clean_no_descr.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Pear": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pears.jpg/500px-Pears.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Keith Weller, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pears.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Persimmon": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Fuyu_persimmon_fruits%2C_one_cut_open.jpg/500px-Fuyu_persimmon_fruits%2C_one_cut_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Fuyu_persimmon_fruits,_one_cut_open.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Pigeon pea": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Cajanus_cajan_Blanco1.167-cropped.jpg/500px-Cajanus_cajan_Blanco1.167-cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Francisco Manuel Blanco (O.S.A.), Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Cajanus_cajan_Blanco1.167-cropped.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Pineapple": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg/500px-%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Suniltg at Malayalam Wikipedia, CC BY 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Pitaya": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Pitaya_cross_section_ed2.jpg/500px-Pitaya_cross_section_ed2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: SMasters, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pitaya_cross_section_ed2.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Pleurotus ostreatus": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Pleurotus_ostreatus_JPG7.jpg/500px-Pleurotus_ostreatus_JPG7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: voir ci-dessous / see below, CC BY 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pleurotus_ostreatus_JPG7.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Plum": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Plums_African_Rose_-_whole%2C_halved_and_slice.jpg/500px-Plums_African_Rose_-_whole%2C_halved_and_slice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Plums_African_Rose_-_whole,_halved_and_slice.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Pomegranate": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Pomegranate_Juice_%282019%29.jpg/500px-Pomegranate_Juice_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Augustus Binu : flickr, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pomegranate_Juice_(2019).jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Potato": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Patates.jpg/500px-Patates.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Scott Bauer, USDA ARS, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Patates.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Pumpkin": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/FrenchMarketPumpkinsB.jpg/500px-FrenchMarketPumpkinsB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Infrogmation of New Orleans, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:FrenchMarketPumpkinsB.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Pyrus pyrifolia": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Nashi_pear.jpg/500px-Nashi_pear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Unknown author, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Nashi_pear.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Quail egg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Potato_galettes_with_quail_eggs.jpg/500px-Potato_galettes_with_quail_eggs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Pdphoto.org, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Potato_galettes_with_quail_eggs.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Radish": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Radish_3371103037_4ab07db0bf_o.jpg/500px-Radish_3371103037_4ab07db0bf_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Self, en:User:Jengod, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Radish_3371103037_4ab07db0bf_o.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Red cabbage": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Brassica_oleracea_var_capitata_Rubyball.jpg/500px-Brassica_oleracea_var_capitata_Rubyball.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: KENPEI, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Brassica_oleracea_var_capitata_Rubyball.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Rice": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg/500px-20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: China News Service, CC BY 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Romaine lettuce": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Starr_070730-7911_Lactuca_sativa.jpg/500px-Starr_070730-7911_Lactuca_sativa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Forest &amp; Kim Starr, CC BY 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Starr_070730-7911_Lactuca_sativa.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Rose": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_rubiginosa_1.jpg/500px-Rosa_rubiginosa_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Stan Shebs, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Rosa_rubiginosa_1.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Sambar (dish)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Pumpkin_sambar.JPG/500px-Pumpkin_sambar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Kalaiselvi Murugesan, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pumpkin_sambar.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Scallion": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/CSA-Red-Spring-Onions.jpg/500px-CSA-Red-Spring-Onions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Evan-Amos, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:CSA-Red-Spring-Onions.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Shallot": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Shallots_-_sliced_and_whole.jpg/500px-Shallots_-_sliced_and_whole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: No machine-readable author provided. Charles P. assumed (based on copyright clai, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Shallots_-_sliced_and_whole.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Shiitake": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Shiitakegrowing.jpg/500px-Shiitakegrowing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: frankenstoen from Portland, Oregon, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Shiitakegrowing.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Sorbet": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Strawberry_sorbet_zoomed.jpg/500px-Strawberry_sorbet_zoomed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: star5112, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Strawberry_sorbet_zoomed.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Spinach": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Spinacia_oleracea_Spinazie_bloeiend.jpg/500px-Spinacia_oleracea_Spinazie_bloeiend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Rasbak, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Spinacia_oleracea_Spinazie_bloeiend.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Sprouting": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Organic_mixed_beans_shoots.jpg/500px-Organic_mixed_beans_shoots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Unknown author, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Organic_mixed_beans_shoots.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Stir frying": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Making_Stir-Fry_%283286445383%29.jpg/500px-Making_Stir-Fry_%283286445383%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Mack Male from Edmonton, AB, Canada, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Making_Stir-Fry_(3286445383).jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Strawberry": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg/500px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Sugarcane": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Photo: Franz Eugen Köhler, Köhler's Medizinal-Pflanzen, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Sweet corn": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/VegCorn.jpg/500px-VegCorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: The original Uploader was wstoakLL at English Wikipedia, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:VegCorn.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Sweet potato": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Ipomoea_batatas_006.JPG/500px-Ipomoea_batatas_006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Llez, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Ipomoea_batatas_006.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Syzygium cumini": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Syzygium_cumini_Bra30.png/500px-Syzygium_cumini_Bra30.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Unknown author, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Syzygium_cumini_Bra30.png",
+  "source": "wikimedia"
+ },
+ "wiki:Tagetes": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Tagetes_erecta_chendumalli_chedi.jpg/500px-Tagetes_erecta_chendumalli_chedi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Ezhuttukari, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Tagetes_erecta_chendumalli_chedi.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Taro": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Songe-R%C3%A9union.JPG/500px-Songe-R%C3%A9union.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: No machine-readable author provided. Thierry Caro assumed (based on copyright cl, CC BY-SA 2.5, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Songe-R%C3%A9union.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Tomato": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/500px-Tomato_je.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Softeis, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Trotters": {
+  "miss": true
+ },
+ "wiki:Tuberose": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Tuberose_flower.jpg/500px-Tuberose_flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: SKsiddhartthan, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Tuberose_flower.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Turkey meat": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Thanksgiving_Turkey.jpg/500px-Thanksgiving_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Patrick Fitzgerald from Atlanta, GA, USA, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Thanksgiving_Turkey.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Vegetable": {
+  "miss": true
+ },
+ "wiki:Vigna aconitifolia": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Matki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Photo: Lalitstar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Matki.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Water caltrop": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Trapa_natans_kz6.JPG/500px-Trapa_natans_kz6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Krzysztof Ziarnek, Kenraiz, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Trapa_natans_kz6.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Watermelon": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg/500px-Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Fred Hsu (Wikipedia:User:Fred Hsu on en.wikipedia), CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg",
+  "source": "wikimedia"
+ },
+ "wiki:White rice": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Half_a_cup_of_rice._Brown_rice_is_the_best_choice.JPG/500px-Half_a_cup_of_rice._Brown_rice_is_the_best_choice.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Hannahdownes, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Half_a_cup_of_rice._Brown_rice_is_the_best_choice.JPG",
+  "source": "wikimedia"
+ },
+ "wiki:Ziziphus mauritiana": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Indian_jujube_%28fruit%29.jpg/500px-Indian_jujube_%28fruit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Augustus Binu : flickr, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_jujube_(fruit).jpg",
+  "source": "wikimedia"
+ },
+ "wiki:Zucchini": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/CSA-Striped-Zucchini.jpg/500px-CSA-Striped-Zucchini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Photo: Evan-Amos, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:CSA-Striped-Zucchini.jpg",
+  "source": "wikimedia"
+ }
+}
