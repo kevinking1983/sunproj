@@ -1214,7 +1214,8 @@
     "name": "Hamdard Rooh Afza Sharbat",
     "brand": "Hamdard Rooh Afza",
     "subcategories": [
-      "drinks-juices-concentrates-syrups"
+      "drinks-juices-concentrates-syrups",
+      "sauces-spreads-syrups"
     ],
     "unit_label": "750 ml",
     "mrp": 19900,
@@ -1241,7 +1242,8 @@
     "name": "Mapro Kokum Syrup",
     "brand": "Mapro",
     "subcategories": [
-      "drinks-juices-concentrates-syrups"
+      "drinks-juices-concentrates-syrups",
+      "sauces-spreads-syrups"
     ],
     "unit_label": "750 ml",
     "mrp": 19900,
@@ -1475,6 +1477,32 @@
       "off": {
         "brand": "nescafe",
         "query": "cold coffee can"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "electral-ors-powder-pack-of-10",
+    "name": "Electral ORS Powder",
+    "brand": "Electral",
+    "subcategories": [
+      "drinks-juices-hydration-drinks"
+    ],
+    "unit_label": "Pack of 10",
+    "mrp": 2400,
+    "price": 2300,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Oral rehydration salts in single-use sachets. Dissolve one sachet in the amount of clean drinking water stated on the pack and use as directed.",
+    "tags": [
+      "ors",
+      "oral rehydration",
+      "electrolyte"
+    ],
+    "image": {
+      "off": {
+        "brand": "electral",
+        "query": "ors powder"
       }
     },
     "orderable": true

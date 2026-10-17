@@ -1186,5 +1186,57 @@
       }
     },
     "orderable": true
+  },
+  {
+    "slug": "dabur-chyawanprash-500g",
+    "name": "Dabur Chyawanprash",
+    "brand": "Dabur",
+    "subcategories": [
+      "sauces-spreads-chyawanprash-honey"
+    ],
+    "unit_label": "500 g",
+    "mrp": 39900,
+    "price": 38500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Traditional Ayurvedic herbal jam made with amla, spices and honey or sugar. Take with warm milk or water as directed on the pack; close the lid tightly.",
+    "tags": [
+      "chyawanprash",
+      "amla",
+      "ayurvedic"
+    ],
+    "image": {
+      "off": {
+        "brand": "dabur",
+        "query": "chyawanprash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "baidyanath-chyawanprash-500g",
+    "name": "Baidyanath Chyawanprash",
+    "brand": "Baidyanath",
+    "subcategories": [
+      "sauces-spreads-chyawanprash-honey"
+    ],
+    "unit_label": "500 g",
+    "mrp": 33500,
+    "price": 31900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Traditional Ayurvedic herbal jam made with amla, spices and honey or sugar. Take with warm milk or water as directed on the pack; close the lid tightly.",
+    "tags": [
+      "chyawanprash",
+      "amla",
+      "ayurvedic"
+    ],
+    "image": {
+      "off": {
+        "brand": "baidyanath",
+        "query": "chyawanprash"
+      }
+    },
+    "orderable": true
   }
 ]

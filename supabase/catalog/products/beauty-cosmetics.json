@@ -1063,5 +1063,59 @@
       }
     },
     "orderable": true
+  },
+  {
+    "slug": "lakme-makeup-gift-kit-1set",
+    "name": "Lakme Makeup Gift Kit",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-bath-beauty-gifts",
+      "bath-body-bath-beauty-gifts"
+    ],
+    "unit_label": "1 set",
+    "mrp": 99900,
+    "price": 89900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Boxed makeup set with lip, eye and face products, ready to gift. Contents vary by edition; check the box for the shades included.",
+    "tags": [
+      "makeup kit",
+      "gift set",
+      "cosmetics"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "makeup kit"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-makeup-gift-kit-1set",
+    "name": "Maybelline Makeup Gift Kit",
+    "brand": "Maybelline",
+    "subcategories": [
+      "beauty-cosmetics-bath-beauty-gifts",
+      "bath-body-bath-beauty-gifts"
+    ],
+    "unit_label": "1 set",
+    "mrp": 89900,
+    "price": 79900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Boxed makeup set with lip, eye and face products, ready to gift. Contents vary by edition; check the box for the shades included.",
+    "tags": [
+      "makeup kit",
+      "gift set",
+      "cosmetics"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline",
+        "query": "makeup kit"
+      }
+    },
+    "orderable": true
   }
 ]
