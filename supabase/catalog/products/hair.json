@@ -1,0 +1,1025 @@
+[
+  {
+    "slug": "sunsilk-shampoo-340ml",
+    "name": "Sunsilk Shampoo",
+    "brand": "Sunsilk",
+    "subcategories": [
+      "hair-shampoo",
+      "bath-body-shampoo"
+    ],
+    "unit_label": "340 ml",
+    "mrp": 29900,
+    "price": 26300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Everyday shampoo for regular hair washing. Lather into wet hair and scalp, rinse thoroughly and follow with conditioner if you like.",
+    "tags": [
+      "shampoo",
+      "hair shampoo",
+      "hair wash",
+      "sunsilk"
+    ],
+    "image": {
+      "off": {
+        "brand": "sunsilk",
+        "query": "shampoo"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "clinic-plus-shampoo-355ml",
+    "name": "Clinic Plus Shampoo",
+    "brand": "Clinic Plus",
+    "subcategories": [
+      "hair-shampoo",
+      "bath-body-shampoo"
+    ],
+    "unit_label": "355 ml",
+    "mrp": 23900,
+    "price": 20300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Family shampoo for routine hair washing. Massage into wet hair, rinse well and keep the bottle closed in the bathroom.",
+    "tags": [
+      "shampoo",
+      "hair shampoo",
+      "hair wash",
+      "clinic plus"
+    ],
+    "image": {
+      "off": {
+        "brand": "clinic plus",
+        "query": "shampoo"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "head-and-shoulders-anti-dandruff-shampoo-340ml",
+    "name": "Head & Shoulders Anti-Dandruff Shampoo",
+    "brand": "Head & Shoulders",
+    "subcategories": [
+      "hair-shampoo",
+      "bath-body-shampoo"
+    ],
+    "unit_label": "340 ml",
+    "mrp": 39900,
+    "price": 37500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Scalp-care shampoo for regular washing. Massage into wet hair and scalp, leave for a short while and rinse well.",
+    "tags": [
+      "anti dandruff shampoo",
+      "dandruff shampoo",
+      "roosi shampoo",
+      "scalp shampoo"
+    ],
+    "image": {
+      "off": {
+        "brand": "head & shoulders",
+        "query": "anti-dandruff shampoo"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "clear-anti-dandruff-shampoo-340ml",
+    "name": "Clear Anti-Dandruff Shampoo",
+    "brand": "Clear",
+    "subcategories": [
+      "hair-shampoo",
+      "bath-body-shampoo"
+    ],
+    "unit_label": "340 ml",
+    "mrp": 38500,
+    "price": 34600,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Scalp shampoo for everyday hair washing. Work into a lather on wet hair and scalp, then rinse thoroughly.",
+    "tags": [
+      "anti dandruff shampoo",
+      "dandruff shampoo",
+      "roosi shampoo",
+      "clear"
+    ],
+    "image": {
+      "off": {
+        "brand": "clear",
+        "query": "anti-dandruff shampoo"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "himalaya-herbal-shampoo-400ml",
+    "name": "Himalaya Herbal Shampoo",
+    "brand": "Himalaya",
+    "subcategories": [
+      "hair-shampoo",
+      "bath-body-shampoo"
+    ],
+    "unit_label": "400 ml",
+    "mrp": 34900,
+    "price": 33800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Shampoo with herbal ingredients for regular hair washing. Apply to wet hair, lather, rinse and repeat if needed.",
+    "tags": [
+      "herbal shampoo",
+      "shampoo",
+      "ayurvedic shampoo",
+      "himalaya"
+    ],
+    "image": {
+      "off": {
+        "brand": "himalaya",
+        "query": "herbal shampoo"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dabur-vatika-shampoo-340ml",
+    "name": "Dabur Vatika Shampoo",
+    "brand": "Dabur Vatika",
+    "subcategories": [
+      "hair-shampoo",
+      "bath-body-shampoo"
+    ],
+    "unit_label": "340 ml",
+    "mrp": 27500,
+    "price": 25000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Shampoo for routine hair washing from the Dabur Vatika range. Lather on wet hair and scalp, rinse well and follow with conditioner if desired.",
+    "tags": [
+      "herbal shampoo",
+      "shampoo",
+      "vatika",
+      "hair wash"
+    ],
+    "image": {
+      "off": {
+        "brand": "dabur vatika",
+        "query": "shampoo"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dove-conditioner-180ml",
+    "name": "Dove Conditioner",
+    "brand": "Dove",
+    "subcategories": [
+      "hair-conditioner",
+      "bath-body-conditioner"
+    ],
+    "unit_label": "180 ml",
+    "mrp": 22500,
+    "price": 21300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Rinse-off hair conditioner used after shampoo. Apply to the lengths and ends of wet hair, leave for a minute or two and rinse.",
+    "tags": [
+      "conditioner",
+      "hair conditioner",
+      "dove"
+    ],
+    "image": {
+      "off": {
+        "brand": "dove",
+        "query": "conditioner"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pantene-conditioner-180ml",
+    "name": "Pantene Conditioner",
+    "brand": "Pantene",
+    "subcategories": [
+      "hair-conditioner",
+      "bath-body-conditioner"
+    ],
+    "unit_label": "180 ml",
+    "mrp": 20900,
+    "price": 18800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Hair conditioner for use after every wash. Smooth through wet lengths, avoid the roots, leave briefly and rinse thoroughly.",
+    "tags": [
+      "conditioner",
+      "hair conditioner",
+      "pantene"
+    ],
+    "image": {
+      "off": {
+        "brand": "pantene",
+        "query": "conditioner"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "loreal-paris-hair-mask-200ml",
+    "name": "L'Oreal Paris Hair Mask",
+    "brand": "L'Oreal Paris",
+    "subcategories": [
+      "hair-conditioner",
+      "bath-body-conditioner"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 69900,
+    "price": 69900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Rich hair mask for weekly use after shampooing. Smooth through damp lengths, leave for a few minutes and rinse thoroughly.",
+    "tags": [
+      "hair mask",
+      "deep conditioner",
+      "hair pack",
+      "loreal"
+    ],
+    "image": {
+      "off": {
+        "brand": "l'oreal paris",
+        "query": "hair mask"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "matrix-hair-mask-200g",
+    "name": "Matrix Hair Mask",
+    "brand": "Matrix",
+    "subcategories": [
+      "hair-conditioner",
+      "bath-body-conditioner"
+    ],
+    "unit_label": "200 g",
+    "mrp": 74900,
+    "price": 68900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Salon-brand hair mask for at-home deep conditioning. Apply to towel-dried hair after shampoo, comb through, leave for a few minutes and rinse.",
+    "tags": [
+      "hair mask",
+      "deep conditioner",
+      "hair spa",
+      "matrix"
+    ],
+    "image": {
+      "off": {
+        "brand": "matrix",
+        "query": "hair mask"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "godrej-expert-hair-colour-1pack",
+    "name": "Godrej Expert Hair Colour",
+    "brand": "Godrej Expert",
+    "subcategories": [
+      "hair-hair-colour"
+    ],
+    "unit_label": "1 pack",
+    "mrp": 4900,
+    "price": 4300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Permanent creme hair colour for colouring at home. Do a patch test 48 hours before use and follow the leaflet instructions exactly.",
+    "tags": [
+      "hair colour",
+      "hair dye",
+      "baalon ka rang",
+      "godrej expert"
+    ],
+    "image": {
+      "off": {
+        "brand": "godrej expert",
+        "query": "hair colour"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "garnier-color-naturals-hair-colour-1pack",
+    "name": "Garnier Color Naturals Hair Colour",
+    "brand": "Garnier Color Naturals",
+    "subcategories": [
+      "hair-hair-colour"
+    ],
+    "unit_label": "1 pack",
+    "mrp": 19900,
+    "price": 16900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Permanent hair colour kit with developer, colour cream and gloves for home use. Patch test 48 hours before each use and follow the leaflet.",
+    "tags": [
+      "hair colour",
+      "hair dye",
+      "baalon ka rang",
+      "garnier"
+    ],
+    "image": {
+      "off": {
+        "brand": "garnier color naturals",
+        "query": "hair colour"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "godrej-nupur-henna-500g",
+    "name": "Godrej Nupur Henna",
+    "brand": "Godrej Nupur",
+    "subcategories": [
+      "hair-hair-colour"
+    ],
+    "unit_label": "500 g",
+    "mrp": 25000,
+    "price": 23500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Henna powder for colouring hair at home. Mix with water into a smooth paste, apply to clean hair, leave as directed and rinse; do a patch test first.",
+    "tags": [
+      "henna",
+      "mehendi",
+      "mehndi",
+      "hair henna"
+    ],
+    "image": {
+      "off": {
+        "brand": "godrej nupur",
+        "query": "henna"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "patanjali-henna-powder-100g",
+    "name": "Patanjali Henna Powder",
+    "brand": "Patanjali",
+    "subcategories": [
+      "hair-hair-colour"
+    ],
+    "unit_label": "100 g",
+    "mrp": 5000,
+    "price": 4500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Mehendi powder for hair colouring and traditional use. Soak in water to form a paste, apply to clean hair and rinse after the time on the pack.",
+    "tags": [
+      "henna",
+      "mehendi",
+      "mehndi",
+      "patanjali"
+    ],
+    "image": {
+      "off": {
+        "brand": "patanjali",
+        "query": "henna powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "loreal-paris-root-touch-up-spray-75ml",
+    "name": "L'Oreal Paris Root Touch-Up Spray",
+    "brand": "L'Oreal Paris",
+    "subcategories": [
+      "hair-hair-colour"
+    ],
+    "unit_label": "75 ml",
+    "mrp": 79900,
+    "price": 77500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Temporary root touch-up spray for use between colour sessions. Shake well, spray onto dry roots from a short distance and wash out with shampoo.",
+    "tags": [
+      "root touch up",
+      "hair colour spray",
+      "temporary hair colour",
+      "loreal"
+    ],
+    "image": {
+      "off": {
+        "brand": "l'oreal paris",
+        "query": "root touch up"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bblunt-temporary-hair-colour-100ml",
+    "name": "BBlunt Temporary Hair Colour",
+    "brand": "BBlunt",
+    "subcategories": [
+      "hair-hair-colour"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 59900,
+    "price": 54500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Wash-out hair colour for a temporary change of shade. Apply to dry hair as directed on the pack and remove with a regular shampoo wash.",
+    "tags": [
+      "temporary hair colour",
+      "hair colour",
+      "hair dye",
+      "bblunt"
+    ],
+    "image": {
+      "off": {
+        "brand": "bblunt",
+        "query": "hair colour"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parachute-coconut-oil-500ml",
+    "name": "Parachute Coconut Oil",
+    "brand": "Parachute",
+    "subcategories": [
+      "hair-hair-oil-cream"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 23900,
+    "price": 22700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Coconut oil in a bottle, widely used for oiling hair before a wash. Warm the bottle slightly in winter if it solidifies and keep the cap closed.",
+    "tags": [
+      "coconut oil",
+      "nariyal tel",
+      "hair oil",
+      "parachute"
+    ],
+    "image": {
+      "off": {
+        "brand": "parachute",
+        "query": "coconut oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dabur-amla-hair-oil-275ml",
+    "name": "Dabur Amla Hair Oil",
+    "brand": "Dabur Amla",
+    "subcategories": [
+      "hair-hair-oil-cream"
+    ],
+    "unit_label": "275 ml",
+    "mrp": 15500,
+    "price": 13900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Amla-based hair oil for regular champi before washing. Massage into the scalp, leave on for an hour or overnight and wash with shampoo.",
+    "tags": [
+      "amla oil",
+      "hair oil",
+      "amla tel",
+      "champi"
+    ],
+    "image": {
+      "off": {
+        "brand": "dabur amla",
+        "query": "amla hair oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "brylcreem-hair-cream-100ml",
+    "name": "Brylcreem Hair Cream",
+    "brand": "Brylcreem",
+    "subcategories": [
+      "hair-hair-oil-cream"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 15900,
+    "price": 15900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Hair styling cream for a neat, groomed look. Rub a small amount between palms and work through towel-dried or dry hair.",
+    "tags": [
+      "hair cream",
+      "styling cream",
+      "brylcreem"
+    ],
+    "image": {
+      "off": {
+        "brand": "brylcreem",
+        "query": "hair cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "set-wet-hair-cream-100ml",
+    "name": "Set Wet Hair Cream",
+    "brand": "Set Wet",
+    "subcategories": [
+      "hair-hair-oil-cream"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 14900,
+    "price": 13700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Leave-in hair cream for everyday styling. Take a small amount, spread through dry or damp hair and comb into place.",
+    "tags": [
+      "hair cream",
+      "leave in cream",
+      "set wet"
+    ],
+    "image": {
+      "off": {
+        "brand": "set wet",
+        "query": "hair cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "livon-hair-serum-100ml",
+    "name": "Livon Hair Serum",
+    "brand": "Livon",
+    "subcategories": [
+      "hair-hair-serums"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 33900,
+    "price": 29800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Silicone-based hair serum used on damp or dry hair to ease styling. Apply a few drops to the lengths and ends, avoiding the scalp.",
+    "tags": [
+      "hair serum",
+      "frizz serum",
+      "livon"
+    ],
+    "image": {
+      "off": {
+        "brand": "livon",
+        "query": "hair serum"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "streax-hair-serum-100ml",
+    "name": "Streax Hair Serum",
+    "brand": "Streax",
+    "subcategories": [
+      "hair-hair-serums"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 29900,
+    "price": 25400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Hair serum for finishing and styling. Spread two or three drops through the lengths of towel-dried or dry hair and style as usual.",
+    "tags": [
+      "hair serum",
+      "frizz serum",
+      "streax"
+    ],
+    "image": {
+      "off": {
+        "brand": "streax",
+        "query": "hair serum"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "minimalist-scalp-serum-30ml",
+    "name": "Minimalist Scalp Serum",
+    "brand": "Minimalist",
+    "subcategories": [
+      "hair-hair-serums"
+    ],
+    "unit_label": "30 ml",
+    "mrp": 79900,
+    "price": 75100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Leave-on serum for the scalp with a dropper applicator. Part the hair, apply a few drops directly to the scalp and massage in as the label directs.",
+    "tags": [
+      "scalp serum",
+      "hair serum",
+      "minimalist"
+    ],
+    "image": {
+      "off": {
+        "brand": "minimalist",
+        "query": "scalp serum"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-ordinary-scalp-serum-60ml",
+    "name": "The Ordinary Scalp Serum",
+    "brand": "The Ordinary",
+    "subcategories": [
+      "hair-hair-serums"
+    ],
+    "unit_label": "60 ml",
+    "mrp": 219900,
+    "price": 197900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Lightweight leave-on scalp serum used once or twice a day. Apply to a dry scalp, massage in gently and do not rinse.",
+    "tags": [
+      "scalp serum",
+      "hair serum",
+      "the ordinary"
+    ],
+    "image": {
+      "off": {
+        "brand": "the ordinary",
+        "query": "scalp serum"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "set-wet-hair-gel-100ml",
+    "name": "Set Wet Hair Gel",
+    "brand": "Set Wet",
+    "subcategories": [
+      "hair-hair-styling"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 12500,
+    "price": 12100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Hair gel for styling and holding hair in place. Work a small amount through damp or dry hair, style with a comb or fingers and wash out with shampoo.",
+    "tags": [
+      "hair gel",
+      "styling gel",
+      "set wet"
+    ],
+    "image": {
+      "off": {
+        "brand": "set wet",
+        "query": "hair gel"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "gatsby-hair-wax-75g",
+    "name": "Gatsby Hair Wax",
+    "brand": "Gatsby",
+    "subcategories": [
+      "hair-hair-styling"
+    ],
+    "unit_label": "75 g",
+    "mrp": 29900,
+    "price": 27200,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Hair wax for shaping and texturing short to medium hair. Rub a small amount between palms and apply to dry hair.",
+    "tags": [
+      "hair wax",
+      "styling wax",
+      "gatsby"
+    ],
+    "image": {
+      "off": {
+        "brand": "gatsby",
+        "query": "hair wax"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "loreal-paris-hair-spray-250ml",
+    "name": "L'Oreal Paris Hair Spray",
+    "brand": "L'Oreal Paris",
+    "subcategories": [
+      "hair-hair-styling"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 69900,
+    "price": 66400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Aerosol hair spray for holding a finished hairstyle in place. Spray from about 30 cm onto styled hair and keep away from eyes and flames.",
+    "tags": [
+      "hair spray",
+      "hairspray",
+      "styling spray",
+      "loreal"
+    ],
+    "image": {
+      "off": {
+        "brand": "l'oreal paris",
+        "query": "hair spray"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tresemme-hair-spray-200ml",
+    "name": "TRESemme Hair Spray",
+    "brand": "TRESemme",
+    "subcategories": [
+      "hair-hair-styling"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 49900,
+    "price": 44900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Hair spray for setting styles and updos. Hold the can upright about 30 cm from the hair, spray evenly and brush out before washing.",
+    "tags": [
+      "hair spray",
+      "hairspray",
+      "styling spray",
+      "tresemme"
+    ],
+    "image": {
+      "off": {
+        "brand": "tresemme",
+        "query": "hair spray"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "philips-hair-dryer-1pc",
+    "name": "Philips Hair Dryer",
+    "brand": "Philips",
+    "subcategories": [
+      "hair-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 189900,
+    "price": 189900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Compact electric hair dryer for drying and styling hair at home. Unplug after use and let it cool before storing.",
+    "tags": [
+      "hair dryer",
+      "blow dryer",
+      "philips"
+    ],
+    "image": {
+      "off": {
+        "brand": "philips",
+        "query": "hair dryer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "havells-hair-dryer-1pc",
+    "name": "Havells Hair Dryer",
+    "brand": "Havells",
+    "subcategories": [
+      "hair-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 149900,
+    "price": 137900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Electric hair dryer for everyday home use. Keep it away from water, clean the air inlet regularly and store the cord loosely coiled.",
+    "tags": [
+      "hair dryer",
+      "blow dryer",
+      "havells"
+    ],
+    "image": {
+      "off": {
+        "brand": "havells",
+        "query": "hair dryer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "philips-hair-straightener-1pc",
+    "name": "Philips Hair Straightener",
+    "brand": "Philips",
+    "subcategories": [
+      "hair-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 249900,
+    "price": 219900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Electric hair straightener with heated plates for styling dry hair. Work in small sections, unplug after use and let it cool on a heat-safe surface.",
+    "tags": [
+      "hair straightener",
+      "flat iron",
+      "straightening machine",
+      "philips"
+    ],
+    "image": {
+      "off": {
+        "brand": "philips",
+        "query": "hair straightener"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vega-hair-straightener-1pc",
+    "name": "Vega Hair Straightener",
+    "brand": "Vega",
+    "subcategories": [
+      "hair-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 169900,
+    "price": 144400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Hair straightener for home styling on dry, detangled hair. Work in small sections, switch off after use and let it cool before storing.",
+    "tags": [
+      "hair straightener",
+      "flat iron",
+      "straightening machine",
+      "vega"
+    ],
+    "image": {
+      "off": {
+        "brand": "vega",
+        "query": "hair straightener"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "philips-beard-trimmer-1pc",
+    "name": "Philips Beard Trimmer",
+    "brand": "Philips",
+    "subcategories": [
+      "hair-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 179900,
+    "price": 169100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Electric trimmer for beard and stubble grooming. Clean the blades after each use and follow the charging instructions in the manual.",
+    "tags": [
+      "trimmer",
+      "beard trimmer",
+      "shaving machine",
+      "philips"
+    ],
+    "image": {
+      "off": {
+        "brand": "philips",
+        "query": "beard trimmer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "braun-beard-trimmer-1pc",
+    "name": "Braun Beard Trimmer",
+    "brand": "Braun",
+    "subcategories": [
+      "hair-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 279900,
+    "price": 251900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Beard trimmer with comb attachments for shaping facial hair at home. Brush off clippings after use and store it in a dry place.",
+    "tags": [
+      "trimmer",
+      "beard trimmer",
+      "shaving machine",
+      "braun"
+    ],
+    "image": {
+      "off": {
+        "brand": "braun",
+        "query": "beard trimmer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vega-hair-brush-1pc",
+    "name": "Vega Hair Brush",
+    "brand": "Vega",
+    "subcategories": [
+      "hair-hair-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 29900,
+    "price": 29000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Paddle hair brush for detangling and smoothing hair. Remove loose hair from the bristles regularly and wash the brush with mild soap.",
+    "tags": [
+      "hair brush",
+      "comb",
+      "kanghi",
+      "vega"
+    ],
+    "image": {
+      "off": {
+        "brand": "vega",
+        "query": "hair brush"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "alan-truman-hair-brush-1pc",
+    "name": "Alan Truman Hair Brush",
+    "brand": "Alan Truman",
+    "subcategories": [
+      "hair-hair-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 59900,
+    "price": 54500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Detangling hair brush for wet or dry hair. Brush from the ends upwards in small sections and clean out the bristles every few days.",
+    "tags": [
+      "hair brush",
+      "detangling brush",
+      "kanghi"
+    ],
+    "image": {
+      "off": {
+        "brand": "alan truman",
+        "query": "detangling brush"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "miniso-hair-scrunchies-pack-of-3",
+    "name": "Miniso Hair Scrunchies",
+    "brand": "Miniso",
+    "subcategories": [
+      "hair-hair-accessories"
+    ],
+    "unit_label": "Pack of 3",
+    "mrp": 19900,
+    "price": 18900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Set of fabric scrunchies for tying ponytails and buns. Keep a spare on your wrist or in your bag.",
+    "tags": [
+      "scrunchies",
+      "hair ties",
+      "rubber band",
+      "hair band"
+    ],
+    "image": {
+      "off": {
+        "brand": "miniso",
+        "query": "scrunchie"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "accessorize-hair-clips-pack-of-2",
+    "name": "Accessorize Hair Clips",
+    "brand": "Accessorize",
+    "subcategories": [
+      "hair-hair-accessories"
+    ],
+    "unit_label": "Pack of 2",
+    "mrp": 59900,
+    "price": 53900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Claw hair clips for quick updos and half-up styles. Twist the hair, open the clip and secure it at the back of the head.",
+    "tags": [
+      "hair clips",
+      "claw clip",
+      "clutcher",
+      "hair pins"
+    ],
+    "image": {
+      "off": {
+        "brand": "accessorize",
+        "query": "hair clip"
+      }
+    },
+    "orderable": true
+  }
+]

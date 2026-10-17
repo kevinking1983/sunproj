@@ -1,0 +1,1630 @@
+[
+  {
+    "slug": "amul-toned-milk-500ml",
+    "name": "Amul Toned Milk",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-milk"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 2900,
+    "price": 2900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Pasteurised toned milk for tea, coffee, curd setting and daily drinking. Keep refrigerated and boil before use if you prefer.",
+    "tags": [
+      "toned milk",
+      "doodh",
+      "milk",
+      "pouch milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "toned milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "heritage-full-cream-milk-500ml",
+    "name": "Heritage Full Cream Milk",
+    "brand": "Heritage",
+    "subcategories": [
+      "dairy-bread-eggs-milk"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 3600,
+    "price": 3500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Pasteurised full cream milk, rich enough for paneer, kheer and creamy chai. Refrigerate below 5 C and use by the date on the pouch.",
+    "tags": [
+      "full cream milk",
+      "doodh",
+      "whole milk",
+      "milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "heritage",
+        "query": "full cream milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "akshayakalpa-organic-milk-500ml",
+    "name": "Akshayakalpa Organic Milk",
+    "brand": "Akshayakalpa",
+    "subcategories": [
+      "dairy-bread-eggs-milk"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 5500,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Farm milk sold as organic by the producer, delivered chilled for drinking, tea and curd. Keep refrigerated and use within two days.",
+    "tags": [
+      "organic milk",
+      "farm milk",
+      "doodh",
+      "cow milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "akshayakalpa",
+        "query": "organic milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "country-delight-cow-milk-1l",
+    "name": "Country Delight Cow Milk",
+    "brand": "Country Delight",
+    "subcategories": [
+      "dairy-bread-eggs-milk"
+    ],
+    "unit_label": "1 L",
+    "mrp": 9000,
+    "price": 8800,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Chilled cow milk for daily drinking, chai and desserts. Store in the fridge and consume before the date on the pack.",
+    "tags": [
+      "cow milk",
+      "doodh",
+      "fresh milk",
+      "farm milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "country delight",
+        "query": "cow milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-uht-milk-1l",
+    "name": "Amul UHT Milk",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-milk"
+    ],
+    "unit_label": "1 L",
+    "mrp": 7700,
+    "price": 7400,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Ultra-heat-treated milk in a carton that keeps unopened without refrigeration. Refrigerate after opening and use within two days.",
+    "tags": [
+      "uht milk",
+      "tetra pack milk",
+      "long life milk",
+      "doodh"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "uht milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mother-dairy-uht-milk-1l",
+    "name": "Mother Dairy UHT Milk",
+    "brand": "Mother Dairy",
+    "subcategories": [
+      "dairy-bread-eggs-milk"
+    ],
+    "unit_label": "1 L",
+    "mrp": 7600,
+    "price": 7200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Long-life UHT milk carton for the pantry, handy for travel and backup. Ready to drink; chill after opening and finish within two days.",
+    "tags": [
+      "uht milk",
+      "carton milk",
+      "long life milk",
+      "milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "mother dairy",
+        "query": "uht milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-sandwich-bread-400g",
+    "name": "Britannia Sandwich Bread",
+    "brand": "Britannia",
+    "subcategories": [
+      "dairy-bread-eggs-bread-pav"
+    ],
+    "unit_label": "400 g",
+    "mrp": 5000,
+    "price": 4800,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Soft sliced white bread for sandwiches, toast and bread pakoras. Keep in a cool, dry place and use within the date on the pack.",
+    "tags": [
+      "bread",
+      "white bread",
+      "sandwich bread",
+      "double roti"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia",
+        "query": "white bread"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "harvest-gold-sandwich-bread-400g",
+    "name": "Harvest Gold Sandwich Bread",
+    "brand": "Harvest Gold",
+    "subcategories": [
+      "dairy-bread-eggs-bread-pav"
+    ],
+    "unit_label": "400 g",
+    "mrp": 5000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sliced sandwich bread for breakfast toast, grilled sandwiches and French toast. Reseal the bag after each use to keep slices soft.",
+    "tags": [
+      "bread",
+      "sandwich bread",
+      "white bread",
+      "sliced bread"
+    ],
+    "image": {
+      "off": {
+        "brand": "harvest gold",
+        "query": "sandwich bread"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-bakers-dozen-sourdough-bread-300g",
+    "name": "The Baker's Dozen Sourdough Bread",
+    "brand": "The Baker's Dozen",
+    "subcategories": [
+      "dairy-bread-eggs-bread-pav"
+    ],
+    "unit_label": "300 g",
+    "mrp": 14000,
+    "price": 12900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Naturally leavened sourdough loaf with a tangy flavour and chewy crust. Toast slices for best results; freeze if not finishing in a few days.",
+    "tags": [
+      "sourdough",
+      "sourdough bread",
+      "artisan bread",
+      "bread"
+    ],
+    "image": {
+      "off": {
+        "brand": "the baker's dozen",
+        "query": "sourdough bread"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "english-oven-brown-bread-400g",
+    "name": "English Oven Brown Bread",
+    "brand": "English Oven",
+    "subcategories": [
+      "dairy-bread-eggs-bread-pav"
+    ],
+    "unit_label": "400 g",
+    "mrp": 5500,
+    "price": 5200,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sliced brown bread for sandwiches and toast. Store in a cool, dry place and reseal the pack after opening.",
+    "tags": [
+      "brown bread",
+      "wheat bread",
+      "sliced bread",
+      "bread"
+    ],
+    "image": {
+      "off": {
+        "brand": "english oven",
+        "query": "brown bread"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-pav-6pcs",
+    "name": "Britannia Pav",
+    "brand": "Britannia",
+    "subcategories": [
+      "dairy-bread-eggs-bread-pav"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 3500,
+    "price": 3300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Soft bread rolls for pav bhaji, vada pav and misal. Warm on a tawa with butter before serving; best eaten within a day or two.",
+    "tags": [
+      "pav",
+      "ladi pav",
+      "bread rolls",
+      "bun"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia",
+        "query": "pav"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "english-oven-burger-buns-4pcs",
+    "name": "English Oven Burger Buns",
+    "brand": "English Oven",
+    "subcategories": [
+      "dairy-bread-eggs-bread-pav"
+    ],
+    "unit_label": "4 pcs",
+    "mrp": 5000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Round sesame-topped buns for burgers, sliders and aloo tikki burgers. Toast the cut side lightly before assembling.",
+    "tags": [
+      "burger buns",
+      "buns",
+      "burger bread",
+      "bun"
+    ],
+    "image": {
+      "off": {
+        "brand": "english oven",
+        "query": "burger bun"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "english-oven-garlic-bread-200g",
+    "name": "English Oven Garlic Bread",
+    "brand": "English Oven",
+    "subcategories": [
+      "dairy-bread-eggs-bread-pav"
+    ],
+    "unit_label": "200 g",
+    "mrp": 7000,
+    "price": 6500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Garlic bread to warm in an oven or on a tawa until crisp. Serve with soups and pasta; keep refrigerated and use before the date on pack.",
+    "tags": [
+      "garlic bread",
+      "flatbread",
+      "cheese garlic bread",
+      "bread"
+    ],
+    "image": {
+      "off": {
+        "brand": "english oven",
+        "query": "garlic bread"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-bakers-dozen-pita-bread-4pcs",
+    "name": "The Baker's Dozen Pita Bread",
+    "brand": "The Baker's Dozen",
+    "subcategories": [
+      "dairy-bread-eggs-bread-pav"
+    ],
+    "unit_label": "4 pcs",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Soft pita pockets for falafel, hummus and wraps. Warm briefly on a pan so they puff and open easily; freeze extras.",
+    "tags": [
+      "pita bread",
+      "pita",
+      "pocket bread",
+      "flatbread"
+    ],
+    "image": {
+      "off": {
+        "brand": "the baker's dozen",
+        "query": "pita bread"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "eggoz-brown-eggs-6pcs",
+    "name": "Eggoz Brown Eggs",
+    "brand": "Eggoz",
+    "subcategories": [
+      "dairy-bread-eggs-eggs",
+      "chicken-meat-fish-eggs"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 9500,
+    "price": 8900,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Farm-packed brown eggs for omelettes, bhurji, baking and boiling. Store in the fridge, pointed end down, and use before the date on the tray.",
+    "tags": [
+      "eggs",
+      "anda",
+      "brown eggs",
+      "farm eggs"
+    ],
+    "image": {
+      "off": {
+        "brand": "eggoz",
+        "query": "brown eggs"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "keggs-chicken-eggs-12pcs",
+    "name": "Keggs Chicken Eggs",
+    "brand": "Keggs",
+    "subcategories": [
+      "dairy-bread-eggs-eggs",
+      "chicken-meat-fish-eggs"
+    ],
+    "unit_label": "12 pcs",
+    "mrp": 11000,
+    "price": 10400,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "A dozen chicken eggs for breakfast, egg curry and baking. Keep refrigerated and check for cracks before use.",
+    "tags": [
+      "eggs",
+      "anda",
+      "chicken eggs",
+      "dozen eggs"
+    ],
+    "image": {
+      "off": {
+        "brand": "keggs",
+        "query": "eggs"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "eggoz-desi-eggs-6pcs",
+    "name": "Eggoz Desi Eggs",
+    "brand": "Eggoz",
+    "subcategories": [
+      "dairy-bread-eggs-eggs",
+      "chicken-meat-fish-eggs"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 12000,
+    "price": 11200,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Smaller country-style eggs with a deeper yolk colour, popular for egg curry and half fry. Store refrigerated in the tray.",
+    "tags": [
+      "desi eggs",
+      "country eggs",
+      "nati koli motte",
+      "anda"
+    ],
+    "image": {
+      "off": {
+        "brand": "eggoz",
+        "query": "desi eggs"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "keggs-omega-3-eggs-6pcs",
+    "name": "Keggs Omega-3 Eggs",
+    "brand": "Keggs",
+    "subcategories": [
+      "dairy-bread-eggs-eggs",
+      "chicken-meat-fish-eggs"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 11000,
+    "price": 10500,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Specialty eggs labelled by the producer as omega-3; see the pack for details. Use like regular eggs and keep refrigerated.",
+    "tags": [
+      "omega 3 eggs",
+      "specialty eggs",
+      "eggs",
+      "anda"
+    ],
+    "image": {
+      "off": {
+        "brand": "keggs",
+        "query": "omega 3 eggs"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "quail-eggs-12pcs",
+    "name": "Quail Eggs",
+    "brand": null,
+    "subcategories": [
+      "dairy-bread-eggs-eggs",
+      "chicken-meat-fish-eggs"
+    ],
+    "unit_label": "12 pcs",
+    "mrp": 9000,
+    "price": 7900,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Small speckled quail eggs for boiling, pickling and snacks. Boil for about three minutes, cool in water and peel; keep refrigerated.",
+    "tags": [
+      "quail eggs",
+      "kaada mutta",
+      "batair anda",
+      "small eggs"
+    ],
+    "image": {
+      "wiki": "Quail egg"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-curd-400g",
+    "name": "Amul Curd",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-curd-yogurt"
+    ],
+    "unit_label": "400 g",
+    "mrp": 3500,
+    "price": 3400,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Set curd for raita, kadhi, curd rice and marinades. Keep refrigerated and stir before use; do not freeze.",
+    "tags": [
+      "curd",
+      "dahi",
+      "thayir",
+      "mosaru"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "dahi curd"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "heritage-curd-500g",
+    "name": "Heritage Curd",
+    "brand": "Heritage",
+    "subcategories": [
+      "dairy-bread-eggs-curd-yogurt"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Fresh set curd for meals, lassi and buttermilk. Store chilled and use a clean spoon each time to keep it fresh longer.",
+    "tags": [
+      "curd",
+      "dahi",
+      "perugu",
+      "thayir"
+    ],
+    "image": {
+      "off": {
+        "brand": "heritage",
+        "query": "curd"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "epigamia-greek-yogurt-90g",
+    "name": "Epigamia Greek Yogurt",
+    "brand": "Epigamia",
+    "subcategories": [
+      "dairy-bread-eggs-curd-yogurt"
+    ],
+    "unit_label": "90 g",
+    "mrp": 6000,
+    "price": 5600,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Thick strained Greek yogurt cup to eat on its own, with fruit or as a dip base. Keep refrigerated and eat by the date on the lid.",
+    "tags": [
+      "greek yogurt",
+      "yoghurt",
+      "hung curd",
+      "dahi"
+    ],
+    "image": {
+      "off": {
+        "brand": "epigamia",
+        "query": "greek yogurt"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milky-mist-greek-yogurt-100g",
+    "name": "Milky Mist Greek Yogurt",
+    "brand": "Milky Mist",
+    "subcategories": [
+      "dairy-bread-eggs-curd-yogurt"
+    ],
+    "unit_label": "100 g",
+    "mrp": 5500,
+    "price": 5200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Strained Greek yogurt with a thick, creamy texture for snacks, smoothies and dips. Store chilled and stir before eating.",
+    "tags": [
+      "greek yogurt",
+      "yogurt",
+      "strained curd",
+      "hung curd"
+    ],
+    "image": {
+      "off": {
+        "brand": "milky mist",
+        "query": "greek yogurt"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "yakult-probiotic-drink-5x65ml",
+    "name": "Yakult Probiotic Drink",
+    "brand": "Yakult",
+    "subcategories": [
+      "dairy-bread-eggs-curd-yogurt"
+    ],
+    "unit_label": "5 x 65 ml",
+    "mrp": 9000,
+    "price": 8800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Small bottles of fermented milk drink containing live cultures. Shake well, drink chilled and keep refrigerated at all times.",
+    "tags": [
+      "probiotic drink",
+      "fermented milk",
+      "yakult",
+      "cultured milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "yakult",
+        "query": "probiotic drink"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "epigamia-probiotic-yogurt-90g",
+    "name": "Epigamia Probiotic Yogurt",
+    "brand": "Epigamia",
+    "subcategories": [
+      "dairy-bread-eggs-curd-yogurt"
+    ],
+    "unit_label": "90 g",
+    "mrp": 5000,
+    "price": 4700,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Yogurt cup made with added live cultures, for a snack or with breakfast. Keep refrigerated and consume by the date on pack.",
+    "tags": [
+      "probiotic yogurt",
+      "yogurt",
+      "dahi",
+      "cultured yogurt"
+    ],
+    "image": {
+      "off": {
+        "brand": "epigamia",
+        "query": "probiotic yogurt"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-cheese-cubes-200g",
+    "name": "Amul Cheese Cubes",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-cheese-butter"
+    ],
+    "unit_label": "200 g",
+    "mrp": 13500,
+    "price": 12900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Individually wrapped processed cheese cubes for snacking, lunch boxes and grating over pasta. Keep refrigerated.",
+    "tags": [
+      "cheese cubes",
+      "processed cheese",
+      "cheese",
+      "paneer cheese"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "cheese cubes"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-cheese-slices-200g",
+    "name": "Britannia Cheese Slices",
+    "brand": "Britannia",
+    "subcategories": [
+      "dairy-bread-eggs-cheese-butter"
+    ],
+    "unit_label": "200 g",
+    "mrp": 14500,
+    "price": 13800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Processed cheese slices for sandwiches, burgers and toasties. Peel from the wrap just before use and store chilled.",
+    "tags": [
+      "cheese slices",
+      "processed cheese",
+      "sandwich cheese",
+      "cheese"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia",
+        "query": "cheese slices"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-mozzarella-cheese-200g",
+    "name": "Amul Mozzarella Cheese",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-cheese-butter"
+    ],
+    "unit_label": "200 g",
+    "mrp": 12000,
+    "price": 11400,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Mozzarella block for pizzas, garlic bread and baked pasta. Grate when cold and use within a few days of opening; keep refrigerated.",
+    "tags": [
+      "mozzarella",
+      "pizza cheese",
+      "cheese",
+      "grated cheese"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "mozzarella cheese"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milky-mist-mozzarella-cheese-200g",
+    "name": "Milky Mist Mozzarella Cheese",
+    "brand": "Milky Mist",
+    "subcategories": [
+      "dairy-bread-eggs-cheese-butter"
+    ],
+    "unit_label": "200 g",
+    "mrp": 13500,
+    "price": 12800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Mozzarella that melts and stretches on pizza, sandwiches and lasagne. Wrap tightly after opening and keep chilled.",
+    "tags": [
+      "mozzarella",
+      "pizza cheese",
+      "cheese block",
+      "cheese"
+    ],
+    "image": {
+      "off": {
+        "brand": "milky mist",
+        "query": "mozzarella"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-butter-100g",
+    "name": "Amul Butter",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-cheese-butter"
+    ],
+    "unit_label": "100 g",
+    "mrp": 6000,
+    "price": 5800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Salted table butter for toast, parathas, pav bhaji and baking. Keep refrigerated and soften at room temperature before spreading.",
+    "tags": [
+      "butter",
+      "makhan",
+      "salted butter",
+      "venna"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "butter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-butter-100g",
+    "name": "Britannia Butter",
+    "brand": "Britannia",
+    "subcategories": [
+      "dairy-bread-eggs-cheese-butter"
+    ],
+    "unit_label": "100 g",
+    "mrp": 6000,
+    "price": 5600,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Salted butter for spreading on bread and cooking. Store in the fridge in its wrapper or a covered dish.",
+    "tags": [
+      "butter",
+      "makhan",
+      "salted butter",
+      "table butter"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia",
+        "query": "butter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nutralite-table-spread-200g",
+    "name": "Nutralite Table Spread",
+    "brand": "Nutralite",
+    "subcategories": [
+      "dairy-bread-eggs-cheese-butter"
+    ],
+    "unit_label": "200 g",
+    "mrp": 9500,
+    "price": 8900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Vegetable-fat table spread for toast and parathas. Spreads straight from the fridge; keep refrigerated with the lid closed.",
+    "tags": [
+      "table spread",
+      "margarine",
+      "bread spread",
+      "butter alternative"
+    ],
+    "image": {
+      "off": {
+        "brand": "nutralite",
+        "query": "table spread"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-lite-spread-100g",
+    "name": "Amul Lite Spread",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-cheese-butter"
+    ],
+    "unit_label": "100 g",
+    "mrp": 5500,
+    "price": 5200,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Low-fat bread spread to use on toast and sandwiches. Keep refrigerated and use within the date on the pack.",
+    "tags": [
+      "low fat spread",
+      "bread spread",
+      "margarine",
+      "lite spread"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "lite spread"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "id-fresh-idli-dosa-batter-1kg",
+    "name": "iD Fresh Idli Dosa Batter",
+    "brand": "iD Fresh",
+    "subcategories": [
+      "dairy-bread-eggs-batter"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 9500,
+    "price": 8900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Ready fermented rice and urad batter for idli, dosa and uttapam. Keep refrigerated; add a little water for thinner dosas.",
+    "tags": [
+      "idli batter",
+      "dosa batter",
+      "dosa maavu",
+      "idli maavu"
+    ],
+    "image": {
+      "off": {
+        "brand": "id fresh",
+        "query": "idli dosa batter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-idli-dosa-batter-1kg",
+    "name": "MTR Idli Dosa Batter",
+    "brand": "MTR",
+    "subcategories": [
+      "dairy-bread-eggs-batter"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 8500,
+    "price": 8000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Fresh idli and dosa batter for quick South Indian breakfasts. Do not stir before steaming idlis; store chilled.",
+    "tags": [
+      "idli batter",
+      "dosa batter",
+      "ready batter",
+      "dosa hittu"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "dosa batter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "id-fresh-ragi-dosa-batter-1kg",
+    "name": "iD Fresh Ragi Dosa Batter",
+    "brand": "iD Fresh",
+    "subcategories": [
+      "dairy-bread-eggs-batter"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 11000,
+    "price": 10400,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Fermented batter made with ragi for dosas and idlis with an earthy flavour. Keep refrigerated and use before the date on pack.",
+    "tags": [
+      "ragi batter",
+      "ragi dosa",
+      "millet batter",
+      "nachni dosa"
+    ],
+    "image": {
+      "off": {
+        "brand": "id fresh",
+        "query": "ragi dosa batter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-paneer-200g",
+    "name": "Amul Paneer",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-paneer-tofu"
+    ],
+    "unit_label": "200 g",
+    "mrp": 9500,
+    "price": 9000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Fresh paneer block for paneer butter masala, tikka and bhurji. Soak in warm water for softer texture; keep refrigerated.",
+    "tags": [
+      "paneer",
+      "cottage cheese",
+      "chhena",
+      "paneer block"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "paneer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milky-mist-paneer-200g",
+    "name": "Milky Mist Paneer",
+    "brand": "Milky Mist",
+    "subcategories": [
+      "dairy-bread-eggs-paneer-tofu"
+    ],
+    "unit_label": "200 g",
+    "mrp": 10000,
+    "price": 9400,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Soft paneer for curries, grilled tikka and stuffed parathas. Store chilled and use within two days of opening.",
+    "tags": [
+      "paneer",
+      "cottage cheese",
+      "fresh paneer",
+      "malai paneer"
+    ],
+    "image": {
+      "off": {
+        "brand": "milky mist",
+        "query": "paneer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "soyfit-tofu-200g",
+    "name": "Soyfit Tofu",
+    "brand": "Soyfit",
+    "subcategories": [
+      "dairy-bread-eggs-paneer-tofu"
+    ],
+    "unit_label": "200 g",
+    "mrp": 9000,
+    "price": 8500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Firm soya bean curd for stir-fries, tofu bhurji and curries. Drain and press before cooking; refrigerate in fresh water after opening.",
+    "tags": [
+      "tofu",
+      "soya paneer",
+      "bean curd",
+      "soy paneer"
+    ],
+    "image": {
+      "off": {
+        "brand": "soyfit",
+        "query": "tofu"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "health-on-plants-tofu-200g",
+    "name": "Health On Plants Tofu",
+    "brand": "Health On Plants",
+    "subcategories": [
+      "dairy-bread-eggs-paneer-tofu"
+    ],
+    "unit_label": "200 g",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Plant-based tofu block for grilling, curries and salads. Pat dry and cube; keep refrigerated and use by the date on the pack.",
+    "tags": [
+      "tofu",
+      "soya paneer",
+      "plant protein",
+      "bean curd"
+    ],
+    "image": {
+      "off": {
+        "brand": "health on plants",
+        "query": "tofu"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-khoa-200g",
+    "name": "Amul Khoa",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-paneer-tofu"
+    ],
+    "unit_label": "200 g",
+    "mrp": 11000,
+    "price": 10500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Reduced-milk khoa (mawa) for gulab jamun, barfi, peda and rich gravies. Keep refrigerated and use soon after opening.",
+    "tags": [
+      "khoa",
+      "mawa",
+      "khova",
+      "milk solids"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "khoa"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milky-mist-khoa-200g",
+    "name": "Milky Mist Khoa",
+    "brand": "Milky Mist",
+    "subcategories": [
+      "dairy-bread-eggs-paneer-tofu"
+    ],
+    "unit_label": "200 g",
+    "mrp": 12000,
+    "price": 11200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Khoa for halwa, laddoos and festive sweets. Crumble or grate before use; store chilled in a closed container.",
+    "tags": [
+      "khoa",
+      "mawa",
+      "khova",
+      "doodh peda base"
+    ],
+    "image": {
+      "off": {
+        "brand": "milky mist",
+        "query": "khoa"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sofit-soy-milk-1l",
+    "name": "Sofit Soy Milk",
+    "brand": "Sofit",
+    "subcategories": [
+      "dairy-bread-eggs-soy-milk-more",
+      "drinks-juices-soy-milk-more"
+    ],
+    "unit_label": "1 L",
+    "mrp": 13000,
+    "price": 12200,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Soya bean beverage for drinking chilled, in smoothies or with cereal. Shake well; refrigerate after opening and finish within a few days.",
+    "tags": [
+      "soy milk",
+      "soya milk",
+      "plant milk",
+      "dairy free milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "sofit",
+        "query": "soy milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "silk-soy-milk-1l",
+    "name": "Silk Soy Milk",
+    "brand": "Silk",
+    "subcategories": [
+      "dairy-bread-eggs-soy-milk-more",
+      "drinks-juices-soy-milk-more"
+    ],
+    "unit_label": "1 L",
+    "mrp": 29900,
+    "price": 27900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Soy beverage for coffee, tea, cereal and baking. Shake before pouring and keep chilled once opened.",
+    "tags": [
+      "soy milk",
+      "soya milk",
+      "plant based milk",
+      "vegan milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "silk",
+        "query": "soy milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "epigamia-almond-milk-1l",
+    "name": "Epigamia Almond Milk",
+    "brand": "Epigamia",
+    "subcategories": [
+      "dairy-bread-eggs-soy-milk-more",
+      "drinks-juices-soy-milk-more"
+    ],
+    "unit_label": "1 L",
+    "mrp": 32000,
+    "price": 29900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Almond-based drink to use in coffee, smoothies and overnight oats. Shake well and refrigerate after opening.",
+    "tags": [
+      "almond milk",
+      "badam milk",
+      "plant milk",
+      "dairy free milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "epigamia",
+        "query": "almond milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "raw-pressery-almond-milk-1l",
+    "name": "Raw Pressery Almond Milk",
+    "brand": "Raw Pressery",
+    "subcategories": [
+      "dairy-bread-eggs-soy-milk-more",
+      "drinks-juices-soy-milk-more"
+    ],
+    "unit_label": "1 L",
+    "mrp": 33000,
+    "price": 30900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Almond drink for breakfast bowls, shakes and tea. Keep refrigerated and consume within a few days of opening.",
+    "tags": [
+      "almond milk",
+      "badam milk",
+      "vegan milk",
+      "nut milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "raw pressery",
+        "query": "almond milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "oatly-oat-drink-1l",
+    "name": "Oatly Oat Drink",
+    "brand": "Oatly",
+    "subcategories": [
+      "dairy-bread-eggs-soy-milk-more",
+      "drinks-juices-soy-milk-more"
+    ],
+    "unit_label": "1 L",
+    "mrp": 39000,
+    "price": 36500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Oat-based drink for coffee, tea and cereal; froths well for cappuccinos. Shake before use and refrigerate after opening.",
+    "tags": [
+      "oat milk",
+      "oat drink",
+      "plant milk",
+      "barista milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "oatly",
+        "query": "oat drink"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "alt-co-oat-milk-1l",
+    "name": "Alt Co. Oat Milk",
+    "brand": "Alt Co.",
+    "subcategories": [
+      "dairy-bread-eggs-soy-milk-more",
+      "drinks-juices-soy-milk-more"
+    ],
+    "unit_label": "1 L",
+    "mrp": 28000,
+    "price": 26500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Oat milk for coffee, smoothies and baking. Shake well, chill after opening and use within the time shown on the pack.",
+    "tags": [
+      "oat milk",
+      "plant milk",
+      "vegan milk",
+      "dairy free"
+    ],
+    "image": {
+      "off": {
+        "brand": "alt co.",
+        "query": "oat milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-lassi-200ml",
+    "name": "Amul Lassi",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-lassi-milkshakes"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 2000,
+    "price": 2000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Sweet lassi made from curd, ready to drink chilled. Shake before opening and keep refrigerated.",
+    "tags": [
+      "lassi",
+      "sweet lassi",
+      "meethi lassi",
+      "curd drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "lassi"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "heritage-lassi-200ml",
+    "name": "Heritage Lassi",
+    "brand": "Heritage",
+    "subcategories": [
+      "dairy-bread-eggs-lassi-milkshakes"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 2500,
+    "price": 2400,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Ready-to-drink lassi for a cool snack or with meals. Serve chilled and store in the fridge.",
+    "tags": [
+      "lassi",
+      "sweet lassi",
+      "dahi drink",
+      "yogurt drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "heritage",
+        "query": "lassi"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-buttermilk-200ml",
+    "name": "Amul Buttermilk",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-lassi-milkshakes"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 1500,
+    "price": 1500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Spiced buttermilk (chaas) to drink chilled with lunch. Shake well before drinking and keep refrigerated.",
+    "tags": [
+      "buttermilk",
+      "chaas",
+      "majjiga",
+      "neer mor"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "buttermilk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "heritage-buttermilk-200ml",
+    "name": "Heritage Buttermilk",
+    "brand": "Heritage",
+    "subcategories": [
+      "dairy-bread-eggs-lassi-milkshakes"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 1500,
+    "price": 1400,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Light, salted buttermilk for hot afternoons and with meals. Serve cold; refrigerate and drink before the date on pack.",
+    "tags": [
+      "buttermilk",
+      "chaas",
+      "majjige",
+      "mor"
+    ],
+    "image": {
+      "off": {
+        "brand": "heritage",
+        "query": "buttermilk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-milkshake-180ml",
+    "name": "Amul Milkshake",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-lassi-milkshakes"
+    ],
+    "unit_label": "180 ml",
+    "mrp": 3000,
+    "price": 2900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready-to-drink flavoured milkshake in a bottle. Best served chilled; check the label for the flavour and keep refrigerated after opening.",
+    "tags": [
+      "milkshake",
+      "flavoured milk",
+      "shake",
+      "doodh shake"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "milkshake"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cavins-chocolate-milkshake-180ml",
+    "name": "Cavin's Chocolate Milkshake",
+    "brand": "Cavin's",
+    "subcategories": [
+      "dairy-bread-eggs-lassi-milkshakes"
+    ],
+    "unit_label": "180 ml",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Chocolate-flavoured milkshake ready to drink. Shake before opening and serve chilled; refrigerate after opening.",
+    "tags": [
+      "chocolate milkshake",
+      "milkshake",
+      "chocolate milk",
+      "flavoured milk"
+    ],
+    "image": {
+      "off": {
+        "brand": "cavin's",
+        "query": "chocolate milkshake"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-fresh-cream-250ml",
+    "name": "Amul Fresh Cream",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-cream-whitener"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 7000,
+    "price": 6700,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Fresh cream for enriching gravies, soups, desserts and pasta. Stir in at low heat to prevent splitting; refrigerate after opening.",
+    "tags": [
+      "fresh cream",
+      "malai",
+      "cooking cream",
+      "cream"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "fresh cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milky-mist-fresh-cream-200ml",
+    "name": "Milky Mist Fresh Cream",
+    "brand": "Milky Mist",
+    "subcategories": [
+      "dairy-bread-eggs-cream-whitener"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 7500,
+    "price": 7000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Dairy cream for curries, desserts and coffee. Keep chilled and use within two days of opening.",
+    "tags": [
+      "fresh cream",
+      "malai",
+      "dairy cream",
+      "cream"
+    ],
+    "image": {
+      "off": {
+        "brand": "milky mist",
+        "query": "fresh cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "richs-whipping-topping-1l",
+    "name": "Rich's Whipping Topping",
+    "brand": "Rich's",
+    "subcategories": [
+      "dairy-bread-eggs-cream-whitener"
+    ],
+    "unit_label": "1 L",
+    "mrp": 32000,
+    "price": 29900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Non-dairy whipping topping for cake frosting and desserts. Whip chilled for best volume; keep refrigerated or frozen as the pack directs.",
+    "tags": [
+      "whipping cream",
+      "whipped topping",
+      "non dairy cream",
+      "cake cream"
+    ],
+    "image": {
+      "off": {
+        "brand": "rich's",
+        "query": "whipping topping"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tropolite-whipping-topping-1l",
+    "name": "Tropolite Whipping Topping",
+    "brand": "Tropolite",
+    "subcategories": [
+      "dairy-bread-eggs-cream-whitener"
+    ],
+    "unit_label": "1 L",
+    "mrp": 28000,
+    "price": 26500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Non-dairy topping that whips into soft peaks for cakes, pastries and mousses. Thaw in the fridge and whip cold.",
+    "tags": [
+      "whipping cream",
+      "whipped topping",
+      "non dairy whip",
+      "frosting"
+    ],
+    "image": {
+      "off": {
+        "brand": "tropolite",
+        "query": "whip topping"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nestle-everyday-dairy-whitener-400g",
+    "name": "Nestle Everyday Dairy Whitener",
+    "brand": "Nestle Everyday",
+    "subcategories": [
+      "dairy-bread-eggs-cream-whitener"
+    ],
+    "unit_label": "400 g",
+    "mrp": 22500,
+    "price": 21500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Milk-based dairy whitener for tea and coffee. Mix with hot water as directed on the pack and keep the pouch tightly closed.",
+    "tags": [
+      "dairy whitener",
+      "milk powder",
+      "tea whitener",
+      "doodh powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "nestle everyday",
+        "query": "dairy whitener"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-skimmed-milk-powder-500g",
+    "name": "Amul Skimmed Milk Powder",
+    "brand": "Amul",
+    "subcategories": [
+      "dairy-bread-eggs-cream-whitener"
+    ],
+    "unit_label": "500 g",
+    "mrp": 24000,
+    "price": 22900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Skimmed milk powder for tea, desserts and baking. Reconstitute with water as per the pack and store in a dry, airtight container.",
+    "tags": [
+      "milk powder",
+      "skimmed milk powder",
+      "doodh powder",
+      "smp"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "skimmed milk powder"
+      }
+    },
+    "orderable": true
+  }
+]

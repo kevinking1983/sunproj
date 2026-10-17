@@ -1,0 +1,266 @@
+[
+  {
+    "slug": "prestige-kitchen-lighter-1pc",
+    "name": "Prestige Kitchen Lighter",
+    "brand": "Prestige",
+    "subcategories": [
+      "paan-corner-lighters"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 19900,
+    "price": 18900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Piezo spark lighter for gas stoves that needs no fuel or refills. Keep away from children and store away from water.",
+    "tags": [
+      "gas lighter",
+      "kitchen lighter",
+      "stove lighter",
+      "spark lighter"
+    ],
+    "image": {
+      "off": {
+        "brand": "prestige",
+        "query": "gas lighter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pigeon-kitchen-lighter-1pc",
+    "name": "Pigeon Kitchen Lighter",
+    "brand": "Pigeon",
+    "subcategories": [
+      "paan-corner-lighters"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 14900,
+    "price": 13000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Spark gas lighter for lighting kitchen gas stoves. Hang it near the stove, away from water and out of children's reach.",
+    "tags": [
+      "gas lighter",
+      "kitchen lighter",
+      "stove lighter",
+      "spark lighter"
+    ],
+    "image": {
+      "off": {
+        "brand": "pigeon",
+        "query": "gas lighter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pass-pass-mouth-freshener-50g",
+    "name": "Pass Pass Mouth Freshener",
+    "brand": "Pass Pass",
+    "subcategories": [
+      "paan-corner-mouth-fresheners-gums"
+    ],
+    "unit_label": "50 g",
+    "mrp": 8000,
+    "price": 8000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Sweet, coated mouth freshener pellets to have after meals. Keep the pack sealed in a dry place.",
+    "tags": [
+      "mouth freshener",
+      "mukhwas",
+      "after meal",
+      "saunf"
+    ],
+    "image": {
+      "off": {
+        "brand": "pass pass",
+        "query": "mouth freshener"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "chandan-mukhwas-200g",
+    "name": "Chandan Mukhwas",
+    "brand": "Chandan",
+    "subcategories": [
+      "paan-corner-mouth-fresheners-gums"
+    ],
+    "unit_label": "200 g",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Mukhwas mix of seeds such as saunf and dhana dal, served after meals. Store in an airtight jar.",
+    "tags": [
+      "mukhwas",
+      "mouth freshener",
+      "saunf",
+      "after meal"
+    ],
+    "image": {
+      "off": {
+        "brand": "chandan",
+        "query": "mukhwas"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "center-fresh-chewing-gum-40pcs",
+    "name": "Center Fresh Chewing Gum",
+    "brand": "Center Fresh",
+    "subcategories": [
+      "paan-corner-mouth-fresheners-gums"
+    ],
+    "unit_label": "40 pcs",
+    "mrp": 8000,
+    "price": 7000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Larger pack of mint chewing gum with a liquid centre, individually wrapped. Good to keep at a paan counter or desk; store away from heat.",
+    "tags": [
+      "chewing gum",
+      "mint gum",
+      "gum",
+      "centre fresh"
+    ],
+    "image": {
+      "off": {
+        "brand": "center fresh",
+        "query": "chewing gum"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "orbit-chewing-gum-pack-of-10",
+    "name": "Orbit Chewing Gum",
+    "brand": "Orbit",
+    "subcategories": [
+      "paan-corner-mouth-fresheners-gums"
+    ],
+    "unit_label": "Pack of 10",
+    "mrp": 10000,
+    "price": 9000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Value pack of sugar-free chewing gum sticks. Handy for after meals and travel; keep away from heat.",
+    "tags": [
+      "chewing gum",
+      "sugar free gum",
+      "gum",
+      "orbit"
+    ],
+    "image": {
+      "off": {
+        "brand": "orbit",
+        "query": "chewing gum"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "chandan-sweet-saunf-200g",
+    "name": "Chandan Sweet Saunf",
+    "brand": "Chandan",
+    "subcategories": [
+      "paan-corner-non-tobacco-blends"
+    ],
+    "unit_label": "200 g",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Sugar-coated fennel seeds (meethi saunf) for after meals or as a paan filling. Store in an airtight container.",
+    "tags": [
+      "sweet saunf",
+      "meethi saunf",
+      "fennel",
+      "paan masala"
+    ],
+    "image": {
+      "off": {
+        "brand": "chandan",
+        "query": "sweet saunf"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pass-pass-sweet-saunf-100g",
+    "name": "Pass Pass Sweet Saunf",
+    "brand": "Pass Pass",
+    "subcategories": [
+      "paan-corner-non-tobacco-blends"
+    ],
+    "unit_label": "100 g",
+    "mrp": 7000,
+    "price": 6900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Sweetened fennel seed mouth freshener, tobacco-free. Have a pinch after meals; keep the pack closed.",
+    "tags": [
+      "sweet saunf",
+      "meethi saunf",
+      "fennel",
+      "mouth freshener"
+    ],
+    "image": {
+      "off": {
+        "brand": "pass pass",
+        "query": "saunf"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kattha-catechu-50g",
+    "name": "Kattha (Catechu)",
+    "brand": null,
+    "subcategories": [
+      "paan-corner-non-tobacco-blends"
+    ],
+    "unit_label": "50 g",
+    "mrp": 9000,
+    "price": 8000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Catechu (kattha), a traditional paan ingredient used as a thin paste on betel leaves. Store dry in a closed container.",
+    "tags": [
+      "kattha",
+      "catechu",
+      "katha",
+      "paan ingredients"
+    ],
+    "image": {
+      "wiki": "Catechu"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "paan-chuna-slaked-lime-50g",
+    "name": "Paan Chuna (Slaked Lime)",
+    "brand": null,
+    "subcategories": [
+      "paan-corner-non-tobacco-blends"
+    ],
+    "unit_label": "50 g",
+    "mrp": 3000,
+    "price": 3000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Food-use slaked lime paste (chuna) applied very thinly on paan leaves. Use sparingly, keep the lid closed and store out of children's reach.",
+    "tags": [
+      "chuna",
+      "slaked lime",
+      "paan chuna",
+      "paan ingredients"
+    ],
+    "image": {
+      "wiki": "Calcium hydroxide"
+    },
+    "orderable": true
+  }
+]

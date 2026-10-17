@@ -27,6 +27,7 @@ the service that powers it in production, and the free or open-source stand-in u
 | Automatic rider assignment: nearest free online rider when packing starts, decline hands over to the next, waiting orders picked up when a rider comes online or finishes | SQL trigger + `rider_decline_order` | Same | Same |
 | Admin: dashboard, orders board, inventory, products, categories, coupons, banners, stores, people | Next.js + staff RPCs | Same, local | Same |
 | Image upload (products, banners, categories) | Supabase Storage | Same, local | Same |
+| Catalog: departments, categories, subcategories, products on several shelves, "Coming soon" items | Postgres + admin CSV import | Same, seeded with 1,248 sample products (supabase/catalog) | Same |
 | Website and admin hosting | Cloudflare Pages | `next dev` on localhost | Same build |
 | App distribution | EAS Build + stores | Expo Go for everything except the native map (needs a free local or EAS development build) | Same |
 

@@ -1,0 +1,1001 @@
+[
+  {
+    "slug": "tata-tea-ctc-black-tea-500g",
+    "name": "Tata Tea CTC Black Tea",
+    "brand": "Tata Tea",
+    "subcategories": [
+      "tea-coffee-milk-drinks-tea"
+    ],
+    "unit_label": "500 g",
+    "mrp": 30000,
+    "price": 28900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Granular CTC black tea for strong, everyday milky chai. Boil with water, milk and sugar to taste; store in an airtight container.",
+    "tags": [
+      "chai patti",
+      "tea",
+      "black tea",
+      "ctc tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata tea",
+        "query": "tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "brooke-bond-red-label-black-tea-500g",
+    "name": "Brooke Bond Red Label Black Tea",
+    "brand": "Brooke Bond Red Label",
+    "subcategories": [
+      "tea-coffee-milk-drinks-tea"
+    ],
+    "unit_label": "500 g",
+    "mrp": 29000,
+    "price": 26000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "CTC black tea blend for a strong cup of milky chai. Brew with ginger or elaichi if you like; keep the pack sealed away from moisture.",
+    "tags": [
+      "chai patti",
+      "tea",
+      "red label",
+      "ctc tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "brooke bond red label",
+        "query": "red label tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-tea-masala-tea-250g",
+    "name": "Tata Tea Masala Tea",
+    "brand": "Tata Tea",
+    "subcategories": [
+      "tea-coffee-milk-drinks-tea"
+    ],
+    "unit_label": "250 g",
+    "mrp": 17000,
+    "price": 17000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Black tea blended with masala chai spices for a ready spiced brew. Boil with milk and sugar; store airtight to keep the aroma.",
+    "tags": [
+      "masala chai",
+      "masala tea",
+      "chai patti",
+      "spiced tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata tea",
+        "query": "masala tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "wagh-bakri-masala-tea-250g",
+    "name": "Wagh Bakri Masala Tea",
+    "brand": "Wagh Bakri",
+    "subcategories": [
+      "tea-coffee-milk-drinks-tea"
+    ],
+    "unit_label": "250 g",
+    "mrp": 16500,
+    "price": 15000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Black tea with masala spices for a warming cup of masala chai. Brew with milk and sugar to taste; keep the pack closed tightly.",
+    "tags": [
+      "masala chai",
+      "masala tea",
+      "chai patti",
+      "spiced tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "wagh bakri",
+        "query": "masala tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nescafe-instant-coffee-100g",
+    "name": "Nescafe Instant Coffee",
+    "brand": "Nescafe",
+    "subcategories": [
+      "tea-coffee-milk-drinks-coffee"
+    ],
+    "unit_label": "100 g",
+    "mrp": 36000,
+    "price": 31900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant coffee granules that dissolve quickly in hot water or milk. Use for hot coffee or whisk for frothy coffee; close the jar after each use.",
+    "tags": [
+      "instant coffee",
+      "coffee",
+      "nescafe classic",
+      "coffee powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "nescafe",
+        "query": "instant coffee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bru-instant-coffee-100g",
+    "name": "Bru Instant Coffee",
+    "brand": "Bru",
+    "subcategories": [
+      "tea-coffee-milk-drinks-coffee"
+    ],
+    "unit_label": "100 g",
+    "mrp": 30000,
+    "price": 28000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant coffee and chicory blend for a quick cup of milky coffee. Stir into hot milk with sugar; store in a dry place.",
+    "tags": [
+      "instant coffee",
+      "coffee",
+      "bru coffee",
+      "coffee powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "bru",
+        "query": "instant coffee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cothas-filter-coffee-powder-500g",
+    "name": "Cothas Filter Coffee Powder",
+    "brand": "Cothas",
+    "subcategories": [
+      "tea-coffee-milk-drinks-coffee"
+    ],
+    "unit_label": "500 g",
+    "mrp": 35000,
+    "price": 31900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Roast and ground coffee with chicory for South Indian filter coffee. Brew in a filter, then mix the decoction with hot milk; store airtight.",
+    "tags": [
+      "filter coffee",
+      "coffee powder",
+      "south indian coffee",
+      "kaapi"
+    ],
+    "image": {
+      "off": {
+        "brand": "cothas",
+        "query": "filter coffee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "narasus-filter-coffee-powder-500g",
+    "name": "Narasu's Filter Coffee Powder",
+    "brand": "Narasu's",
+    "subcategories": [
+      "tea-coffee-milk-drinks-coffee"
+    ],
+    "unit_label": "500 g",
+    "mrp": 34000,
+    "price": 32900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Ground coffee blend for traditional filter coffee. Brew a decoction and mix with frothy hot milk; keep the pack sealed after opening.",
+    "tags": [
+      "filter coffee",
+      "coffee powder",
+      "south indian coffee",
+      "kaapi"
+    ],
+    "image": {
+      "off": {
+        "brand": "narasu's",
+        "query": "filter coffee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "blue-tokai-whole-bean-coffee-250g",
+    "name": "Blue Tokai Whole Bean Coffee",
+    "brand": "Blue Tokai",
+    "subcategories": [
+      "tea-coffee-milk-drinks-coffee"
+    ],
+    "unit_label": "250 g",
+    "mrp": 65000,
+    "price": 60000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Roasted whole coffee beans from Indian estates. Grind just before brewing for pour-over, French press or espresso; store away from light and air.",
+    "tags": [
+      "coffee beans",
+      "whole bean coffee",
+      "arabica",
+      "roasted coffee"
+    ],
+    "image": {
+      "off": {
+        "brand": "blue tokai",
+        "query": "coffee beans"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "third-wave-coffee-whole-bean-coffee-250g",
+    "name": "Third Wave Coffee Whole Bean Coffee",
+    "brand": "Third Wave Coffee",
+    "subcategories": [
+      "tea-coffee-milk-drinks-coffee"
+    ],
+    "unit_label": "250 g",
+    "mrp": 60000,
+    "price": 60000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Roasted whole coffee beans to grind at home. Suits pour-over, French press and espresso; keep in an airtight container.",
+    "tags": [
+      "coffee beans",
+      "whole bean coffee",
+      "roasted coffee",
+      "arabica"
+    ],
+    "image": {
+      "off": {
+        "brand": "third wave coffee",
+        "query": "coffee beans"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cadbury-hot-chocolate-mix-200g",
+    "name": "Cadbury Hot Chocolate Mix",
+    "brand": "Cadbury",
+    "subcategories": [
+      "tea-coffee-milk-drinks-hot-chocolate"
+    ],
+    "unit_label": "200 g",
+    "mrp": 22000,
+    "price": 20000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Drinking chocolate powder for a hot cup of cocoa or a chocolate milkshake. Mix with warm or cold milk; keep the lid tightly closed.",
+    "tags": [
+      "hot chocolate",
+      "drinking chocolate",
+      "cocoa drink",
+      "chocolate powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "cadbury",
+        "query": "drinking chocolate"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hersheys-hot-chocolate-mix-250g",
+    "name": "Hershey's Hot Chocolate Mix",
+    "brand": "Hershey's",
+    "subcategories": [
+      "tea-coffee-milk-drinks-hot-chocolate"
+    ],
+    "unit_label": "250 g",
+    "mrp": 25000,
+    "price": 22000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Cocoa drink mix for hot chocolate and shakes. Stir into hot milk to taste; store in a cool, dry place.",
+    "tags": [
+      "hot chocolate",
+      "cocoa drink",
+      "chocolate powder",
+      "drinking chocolate"
+    ],
+    "image": {
+      "off": {
+        "brand": "hershey's",
+        "query": "hot chocolate"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "weikfield-cocoa-powder-150g",
+    "name": "Weikfield Cocoa Powder",
+    "brand": "Weikfield",
+    "subcategories": [
+      "tea-coffee-milk-drinks-hot-chocolate"
+    ],
+    "unit_label": "150 g",
+    "mrp": 15000,
+    "price": 13900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Cocoa powder for cakes, cookies, puddings and chocolate drinks. Sift before using in baking; keep sealed away from moisture.",
+    "tags": [
+      "cocoa powder",
+      "baking cocoa",
+      "chocolate powder",
+      "cocoa"
+    ],
+    "image": {
+      "off": {
+        "brand": "weikfield",
+        "query": "cocoa powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lipton-green-tea-25pcs",
+    "name": "Lipton Green Tea",
+    "brand": "Lipton",
+    "subcategories": [
+      "tea-coffee-milk-drinks-green-tea"
+    ],
+    "unit_label": "25 pcs",
+    "mrp": 17500,
+    "price": 17500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Green tea bags for a light, refreshing cup. Steep a bag in hot, not boiling, water for 2 to 3 minutes; store in a dry place.",
+    "tags": [
+      "green tea",
+      "tea bags",
+      "hari chai",
+      "lipton"
+    ],
+    "image": {
+      "off": {
+        "brand": "lipton",
+        "query": "green tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tetley-green-tea-30pcs",
+    "name": "Tetley Green Tea",
+    "brand": "Tetley",
+    "subcategories": [
+      "tea-coffee-milk-drinks-green-tea"
+    ],
+    "unit_label": "30 pcs",
+    "mrp": 19000,
+    "price": 17900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Green tea bags for a quick, light brew. Steep in hot water for a few minutes and add lemon or honey if you like.",
+    "tags": [
+      "green tea",
+      "tea bags",
+      "hari chai",
+      "tetley"
+    ],
+    "image": {
+      "off": {
+        "brand": "tetley",
+        "query": "green tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tea-trunk-matcha-30g",
+    "name": "Tea Trunk Matcha",
+    "brand": "Tea Trunk",
+    "subcategories": [
+      "tea-coffee-milk-drinks-green-tea"
+    ],
+    "unit_label": "30 g",
+    "mrp": 65000,
+    "price": 57000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Powdered green tea for whisking into matcha tea or lattes and for baking. Whisk with hot water or milk; refrigerate once opened.",
+    "tags": [
+      "matcha",
+      "green tea powder",
+      "matcha latte",
+      "japanese tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "tea trunk",
+        "query": "matcha"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vahdam-matcha-50g",
+    "name": "Vahdam Matcha",
+    "brand": "Vahdam",
+    "subcategories": [
+      "tea-coffee-milk-drinks-green-tea"
+    ],
+    "unit_label": "50 g",
+    "mrp": 89900,
+    "price": 84900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Matcha green tea powder for lattes, smoothies and desserts. Whisk with hot water or milk; keep sealed in a cool, dark place.",
+    "tags": [
+      "matcha",
+      "green tea powder",
+      "matcha latte",
+      "japanese tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "vahdam",
+        "query": "matcha"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bournvita-chocolate-malt-drink-mix-500g",
+    "name": "Bournvita Chocolate Malt Drink Mix",
+    "brand": "Bournvita",
+    "subcategories": [
+      "tea-coffee-milk-drinks-milk-drinks"
+    ],
+    "unit_label": "500 g",
+    "mrp": 25000,
+    "price": 22900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chocolate malt powder to mix into hot or cold milk. Stir in as directed on the pack; keep the jar tightly closed in a dry place.",
+    "tags": [
+      "bournvita",
+      "malt drink",
+      "chocolate drink",
+      "milk mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "bournvita",
+        "query": "chocolate malt drink"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "horlicks-malt-drink-mix-500g",
+    "name": "Horlicks Malt Drink Mix",
+    "brand": "Horlicks",
+    "subcategories": [
+      "tea-coffee-milk-drinks-milk-drinks"
+    ],
+    "unit_label": "500 g",
+    "mrp": 26000,
+    "price": 25000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Malted milk drink powder to stir into warm or cold milk. Follow the pack for serving size; store the jar closed in a dry place.",
+    "tags": [
+      "horlicks",
+      "malt drink",
+      "milk mix",
+      "health drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "horlicks",
+        "query": "malt drink"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-flavoured-milk-200ml",
+    "name": "Amul Flavoured Milk",
+    "brand": "Amul",
+    "subcategories": [
+      "tea-coffee-milk-drinks-milk-drinks"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 3000,
+    "price": 2800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready-to-drink flavoured milk in a single-serve pack. Serve chilled; refrigerate after opening and drink the same day.",
+    "tags": [
+      "flavoured milk",
+      "milkshake",
+      "chocolate milk",
+      "doodh"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "flavoured milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "heritage-flavoured-milk-200ml",
+    "name": "Heritage Flavoured Milk",
+    "brand": "Heritage",
+    "subcategories": [
+      "tea-coffee-milk-drinks-milk-drinks"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 3000,
+    "price": 3000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Flavoured milk in a ready-to-drink bottle. Best served chilled; keep refrigerated and consume soon after opening.",
+    "tags": [
+      "flavoured milk",
+      "milkshake",
+      "badam milk",
+      "doodh"
+    ],
+    "image": {
+      "off": {
+        "brand": "heritage",
+        "query": "flavoured milk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ensure-nutrition-drink-powder-400g",
+    "name": "Ensure Nutrition Drink Powder",
+    "brand": "Ensure",
+    "subcategories": [
+      "tea-coffee-milk-drinks-milk-drinks"
+    ],
+    "unit_label": "400 g",
+    "mrp": 75000,
+    "price": 68000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Milk-based nutrition powder for adults, mixed with water as directed. Read the label for serving guidance; store closed in a cool, dry place.",
+    "tags": [
+      "ensure",
+      "nutrition drink",
+      "adult nutrition",
+      "milk powder drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "ensure",
+        "query": "nutrition powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pediasure-nutrition-drink-powder-400g",
+    "name": "PediaSure Nutrition Drink Powder",
+    "brand": "PediaSure",
+    "subcategories": [
+      "tea-coffee-milk-drinks-milk-drinks"
+    ],
+    "unit_label": "400 g",
+    "mrp": 75000,
+    "price": 66900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Milk-based nutrition powder for children, prepared as directed on the pack. Follow label instructions; keep the tin closed after use.",
+    "tags": [
+      "pediasure",
+      "kids nutrition",
+      "nutrition drink",
+      "milk powder drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "pediasure",
+        "query": "nutrition powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "taj-mahal-tea-bags-50pcs",
+    "name": "Taj Mahal Tea Bags",
+    "brand": "Taj Mahal",
+    "subcategories": [
+      "tea-coffee-milk-drinks-bags-premixes"
+    ],
+    "unit_label": "50 pcs",
+    "mrp": 25000,
+    "price": 23900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Black tea bags for a quick cup without straining. Steep in hot water and add milk and sugar to taste; store in a dry place.",
+    "tags": [
+      "tea bags",
+      "black tea",
+      "chai",
+      "dip tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "taj mahal",
+        "query": "tea bags"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tetley-tea-bags-50pcs",
+    "name": "Tetley Tea Bags",
+    "brand": "Tetley",
+    "subcategories": [
+      "tea-coffee-milk-drinks-bags-premixes"
+    ],
+    "unit_label": "50 pcs",
+    "mrp": 20000,
+    "price": 18000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Black tea bags for an easy cup at home or work. Brew in hot water for a few minutes; add milk or lemon as you like.",
+    "tags": [
+      "tea bags",
+      "black tea",
+      "chai",
+      "dip tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "tetley",
+        "query": "tea bags"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nescafe-coffee-premix-10sachets",
+    "name": "Nescafe Coffee Premix",
+    "brand": "Nescafe",
+    "subcategories": [
+      "tea-coffee-milk-drinks-bags-premixes"
+    ],
+    "unit_label": "10 sachets",
+    "mrp": 13000,
+    "price": 13000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Single-serve coffee premix sachets with coffee, milk solids and sugar. Empty a sachet into hot water and stir; store in a dry place.",
+    "tags": [
+      "coffee premix",
+      "3 in 1 coffee",
+      "instant coffee",
+      "coffee sachet"
+    ],
+    "image": {
+      "off": {
+        "brand": "nescafe",
+        "query": "coffee premix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bru-coffee-premix-10sachets",
+    "name": "Bru Coffee Premix",
+    "brand": "Bru",
+    "subcategories": [
+      "tea-coffee-milk-drinks-bags-premixes"
+    ],
+    "unit_label": "10 sachets",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant coffee premix sachets for a quick milky cup. Mix one sachet with hot water as directed on the pack.",
+    "tags": [
+      "coffee premix",
+      "3 in 1 coffee",
+      "instant coffee",
+      "coffee sachet"
+    ],
+    "image": {
+      "off": {
+        "brand": "bru",
+        "query": "coffee premix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "girnar-masala-chai-premix-10sachets",
+    "name": "Girnar Masala Chai Premix",
+    "brand": "Girnar",
+    "subcategories": [
+      "tea-coffee-milk-drinks-bags-premixes"
+    ],
+    "unit_label": "10 sachets",
+    "mrp": 15000,
+    "price": 13000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant masala chai premix sachets with tea, milk solids, sugar and spices. Add hot water, stir and serve; keep away from moisture.",
+    "tags": [
+      "masala chai",
+      "chai premix",
+      "instant tea",
+      "tea sachet"
+    ],
+    "image": {
+      "off": {
+        "brand": "girnar",
+        "query": "masala chai premix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "wagh-bakri-masala-chai-premix-10sachets",
+    "name": "Wagh Bakri Masala Chai Premix",
+    "brand": "Wagh Bakri",
+    "subcategories": [
+      "tea-coffee-milk-drinks-bags-premixes"
+    ],
+    "unit_label": "10 sachets",
+    "mrp": 14000,
+    "price": 13000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Single-serve masala chai premix for a quick cup at home or office. Empty into a cup, add hot water and stir.",
+    "tags": [
+      "masala chai",
+      "chai premix",
+      "instant tea",
+      "tea sachet"
+    ],
+    "image": {
+      "off": {
+        "brand": "wagh bakri",
+        "query": "instant tea premix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vahdam-whole-leaf-black-tea-100g",
+    "name": "Vahdam Whole Leaf Black Tea",
+    "brand": "Vahdam",
+    "subcategories": [
+      "tea-coffee-milk-drinks-premium"
+    ],
+    "unit_label": "100 g",
+    "mrp": 49900,
+    "price": 44900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Whole leaf black tea for brewing a full-flavoured cup. Steep in freshly boiled water for 3 to 4 minutes; store airtight away from light.",
+    "tags": [
+      "whole leaf tea",
+      "darjeeling tea",
+      "premium tea",
+      "loose leaf tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "vahdam",
+        "query": "black tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tea-trunk-whole-leaf-black-tea-100g",
+    "name": "Tea Trunk Whole Leaf Black Tea",
+    "brand": "Tea Trunk",
+    "subcategories": [
+      "tea-coffee-milk-drinks-premium"
+    ],
+    "unit_label": "100 g",
+    "mrp": 45000,
+    "price": 43000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Loose whole leaf black tea for teapot brewing. Steep in hot water for a few minutes and serve plain or with milk; keep sealed.",
+    "tags": [
+      "whole leaf tea",
+      "assam tea",
+      "premium tea",
+      "loose leaf tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "tea trunk",
+        "query": "black tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "blue-tokai-single-origin-ground-coffee-250g",
+    "name": "Blue Tokai Single-Origin Ground Coffee",
+    "brand": "Blue Tokai",
+    "subcategories": [
+      "tea-coffee-milk-drinks-premium"
+    ],
+    "unit_label": "250 g",
+    "mrp": 65000,
+    "price": 60000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Single-estate roasted coffee, ground for home brewing. Pick the grind that suits your method; store in an airtight container away from light.",
+    "tags": [
+      "ground coffee",
+      "single origin coffee",
+      "specialty coffee",
+      "coffee powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "blue tokai",
+        "query": "ground coffee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "third-wave-coffee-single-origin-ground-coffee-250g",
+    "name": "Third Wave Coffee Single-Origin Ground Coffee",
+    "brand": "Third Wave Coffee",
+    "subcategories": [
+      "tea-coffee-milk-drinks-premium"
+    ],
+    "unit_label": "250 g",
+    "mrp": 60000,
+    "price": 60000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Ground single-origin coffee for French press, pour-over or moka pot. Keep the pack sealed and use within a few weeks of opening.",
+    "tags": [
+      "ground coffee",
+      "single origin coffee",
+      "specialty coffee",
+      "coffee powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "third wave coffee",
+        "query": "ground coffee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-india-tulsi-tea-25pcs",
+    "name": "Organic India Tulsi Tea",
+    "brand": "Organic India",
+    "subcategories": [
+      "tea-coffee-milk-drinks-herbal-infusion"
+    ],
+    "unit_label": "25 pcs",
+    "mrp": 17500,
+    "price": 15900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Tulsi (holy basil) infusion bags for a caffeine-free herbal brew. Steep in hot water for a few minutes; store in a cool, dry place.",
+    "tags": [
+      "tulsi tea",
+      "herbal tea",
+      "holy basil",
+      "infusion"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic india",
+        "query": "tulsi tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "twinings-chamomile-herbal-tea-25pcs",
+    "name": "Twinings Chamomile Herbal Tea",
+    "brand": "Twinings",
+    "subcategories": [
+      "tea-coffee-milk-drinks-herbal-infusion"
+    ],
+    "unit_label": "25 pcs",
+    "mrp": 37500,
+    "price": 33000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chamomile flower infusion bags for a gentle evening cup. Steep in freshly boiled water for 3 to 5 minutes; keep the box closed.",
+    "tags": [
+      "chamomile tea",
+      "herbal tea",
+      "infusion",
+      "tea bags"
+    ],
+    "image": {
+      "off": {
+        "brand": "twinings",
+        "query": "chamomile tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-india-ginger-herbal-infusion-25pcs",
+    "name": "Organic India Ginger Herbal Infusion",
+    "brand": "Organic India",
+    "subcategories": [
+      "tea-coffee-milk-drinks-herbal-infusion"
+    ],
+    "unit_label": "25 pcs",
+    "mrp": 19000,
+    "price": 18000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Herbal infusion bags with ginger for a warming caffeine-free cup. Steep in hot water and add honey or lemon to taste.",
+    "tags": [
+      "ginger tea",
+      "herbal tea",
+      "adrak chai",
+      "infusion"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic india",
+        "query": "ginger infusion"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tea-trunk-hibiscus-herbal-infusion-50g",
+    "name": "Tea Trunk Hibiscus Herbal Infusion",
+    "brand": "Tea Trunk",
+    "subcategories": [
+      "tea-coffee-milk-drinks-herbal-infusion"
+    ],
+    "unit_label": "50 g",
+    "mrp": 45000,
+    "price": 40900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Loose hibiscus herbal blend that brews a ruby-red, tangy cup. Steep in hot water or cold brew for iced tea; store airtight.",
+    "tags": [
+      "hibiscus tea",
+      "herbal tea",
+      "gudhal tea",
+      "infusion"
+    ],
+    "image": {
+      "off": {
+        "brand": "tea trunk",
+        "query": "hibiscus tea"
+      }
+    },
+    "orderable": true
+  }
+]

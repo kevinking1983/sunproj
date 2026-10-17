@@ -1,0 +1,1300 @@
+[
+  {
+    "slug": "ponds-face-moisturiser-100ml",
+    "name": "Pond's Face Moisturiser",
+    "brand": "Pond's",
+    "subcategories": [
+      "skin-face-face-moisturisers"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 29900,
+    "price": 29900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Lightweight face moisturiser for daily use. Smooth a small amount over a clean face and neck, morning or night.",
+    "tags": [
+      "face cream",
+      "moisturiser",
+      "moisturizer",
+      "ponds"
+    ],
+    "image": {
+      "off": {
+        "brand": "pond's",
+        "query": "face moisturiser"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nivea-face-cream-100ml",
+    "name": "Nivea Face Cream",
+    "brand": "Nivea",
+    "subcategories": [
+      "skin-face-face-moisturisers"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 29500,
+    "price": 27100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Light moisturising cream for face, hands and body. Apply to clean skin as needed and close the tub tightly after use.",
+    "tags": [
+      "face cream",
+      "moisturiser",
+      "cold cream",
+      "nivea"
+    ],
+    "image": {
+      "off": {
+        "brand": "nivea",
+        "query": "face cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cerave-moisturising-cream-177ml",
+    "name": "CeraVe Moisturising Cream",
+    "brand": "CeraVe",
+    "subcategories": [
+      "skin-face-face-moisturisers"
+    ],
+    "unit_label": "177 ml",
+    "mrp": 125000,
+    "price": 110000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Rich moisturising cream with ceramides for face and body. Apply to clean skin as often as needed and close the lid after use.",
+    "tags": [
+      "moisturising cream",
+      "ceramide cream",
+      "moisturizer",
+      "cerave"
+    ],
+    "image": {
+      "off": {
+        "brand": "cerave",
+        "query": "moisturising cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cetaphil-moisturising-cream-80g",
+    "name": "Cetaphil Moisturising Cream",
+    "brand": "Cetaphil",
+    "subcategories": [
+      "skin-face-face-moisturisers"
+    ],
+    "unit_label": "80 g",
+    "mrp": 69900,
+    "price": 59400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Thick moisturising cream for face and body in a tub. Apply to clean skin, ideally after bathing, and close the lid after use.",
+    "tags": [
+      "moisturising cream",
+      "moisturizer",
+      "face cream",
+      "cetaphil"
+    ],
+    "image": {
+      "off": {
+        "brand": "cetaphil",
+        "query": "moisturising cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vaseline-body-lotion-400ml",
+    "name": "Vaseline Body Lotion",
+    "brand": "Vaseline",
+    "subcategories": [
+      "skin-face-body-lotions-oils",
+      "bath-body-body-lotions-oils"
+    ],
+    "unit_label": "400 ml",
+    "mrp": 42900,
+    "price": 40300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Body lotion for everyday moisturising. Apply over the body after a bath while skin is still slightly damp, using more on elbows and knees.",
+    "tags": [
+      "body lotion",
+      "moisturiser",
+      "lotion",
+      "vaseline"
+    ],
+    "image": {
+      "off": {
+        "brand": "vaseline",
+        "query": "body lotion"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nivea-body-lotion-400ml",
+    "name": "Nivea Body Lotion",
+    "brand": "Nivea",
+    "subcategories": [
+      "skin-face-body-lotions-oils",
+      "bath-body-body-lotions-oils"
+    ],
+    "unit_label": "400 ml",
+    "mrp": 44900,
+    "price": 40400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Pump-bottle body lotion for daily use after bathing. Massage into skin until absorbed and keep the pump closed when travelling.",
+    "tags": [
+      "body lotion",
+      "moisturiser",
+      "lotion",
+      "nivea"
+    ],
+    "image": {
+      "off": {
+        "brand": "nivea",
+        "query": "body lotion"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parachute-body-oil-250ml",
+    "name": "Parachute Body Oil",
+    "brand": "Parachute",
+    "subcategories": [
+      "skin-face-body-lotions-oils",
+      "bath-body-body-lotions-oils"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 19900,
+    "price": 19300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Coconut-based body oil for massage or after-bath moisturising. Warm a little between palms and massage into skin.",
+    "tags": [
+      "body oil",
+      "massage oil",
+      "nariyal tel",
+      "parachute"
+    ],
+    "image": {
+      "off": {
+        "brand": "parachute",
+        "query": "body oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dabur-massage-oil-200ml",
+    "name": "Dabur Massage Oil",
+    "brand": "Dabur",
+    "subcategories": [
+      "skin-face-body-lotions-oils",
+      "bath-body-body-lotions-oils"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 22900,
+    "price": 20800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Body massage oil for a relaxing oil massage before a bath. Massage gently into skin and wash off with a mild soap or body wash.",
+    "tags": [
+      "massage oil",
+      "body oil",
+      "malish tel",
+      "dabur"
+    ],
+    "image": {
+      "off": {
+        "brand": "dabur",
+        "query": "massage oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "neutrogena-sunscreen-lotion-88ml",
+    "name": "Neutrogena Sunscreen Lotion",
+    "brand": "Neutrogena",
+    "subcategories": [
+      "skin-face-sunscreen"
+    ],
+    "unit_label": "88 ml",
+    "mrp": 84900,
+    "price": 80600,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Face and body sunscreen lotion for daytime use. Apply generously 15 minutes before going out and reapply as directed on the pack.",
+    "tags": [
+      "sunscreen",
+      "sunblock",
+      "sun cream",
+      "spf"
+    ],
+    "image": {
+      "off": {
+        "brand": "neutrogena",
+        "query": "sunscreen"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-sunscreen-50ml",
+    "name": "Lakme Sunscreen",
+    "brand": "Lakme",
+    "subcategories": [
+      "skin-face-sunscreen"
+    ],
+    "unit_label": "50 ml",
+    "mrp": 42500,
+    "price": 38200,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Daily sunscreen for the face, used as the last step of a morning skincare routine. Reapply during long hours outdoors as directed on the pack.",
+    "tags": [
+      "sunscreen",
+      "sunblock",
+      "sun cream",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "sunscreen"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "neutrogena-sunscreen-spray-150ml",
+    "name": "Neutrogena Sunscreen Spray",
+    "brand": "Neutrogena",
+    "subcategories": [
+      "skin-face-sunscreen"
+    ],
+    "unit_label": "150 ml",
+    "mrp": 109900,
+    "price": 109900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Spray-on sunscreen for the body, handy for arms, legs and back. Shake well, spray evenly and rub in; reapply as directed on the can.",
+    "tags": [
+      "sunscreen spray",
+      "sunblock",
+      "spf spray",
+      "neutrogena"
+    ],
+    "image": {
+      "off": {
+        "brand": "neutrogena",
+        "query": "sunscreen spray"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "minimalist-sunscreen-stick-20g",
+    "name": "Minimalist Sunscreen Stick",
+    "brand": "Minimalist",
+    "subcategories": [
+      "skin-face-sunscreen"
+    ],
+    "unit_label": "20 g",
+    "mrp": 59900,
+    "price": 55100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Solid sunscreen stick for quick top-ups over the face and exposed areas. Glide evenly over skin and reapply through the day as the label directs.",
+    "tags": [
+      "sunscreen stick",
+      "sunblock",
+      "spf stick",
+      "minimalist"
+    ],
+    "image": {
+      "off": {
+        "brand": "minimalist",
+        "query": "sunscreen stick"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cetaphil-gentle-skin-cleanser-125ml",
+    "name": "Cetaphil Gentle Skin Cleanser",
+    "brand": "Cetaphil",
+    "subcategories": [
+      "skin-face-face-cleaning",
+      "bath-body-face-cleaning"
+    ],
+    "unit_label": "125 ml",
+    "mrp": 48900,
+    "price": 43000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Gentle liquid cleanser for face and body. Massage onto damp skin and rinse, or wipe off with a soft cloth.",
+    "tags": [
+      "face cleanser",
+      "face wash",
+      "cleanser",
+      "cetaphil"
+    ],
+    "image": {
+      "off": {
+        "brand": "cetaphil",
+        "query": "gentle skin cleanser"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "simple-face-wash-150ml",
+    "name": "Simple Face Wash",
+    "brand": "Simple",
+    "subcategories": [
+      "skin-face-face-cleaning",
+      "bath-body-face-cleaning"
+    ],
+    "unit_label": "150 ml",
+    "mrp": 39900,
+    "price": 33900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Gel face wash for daily cleansing, morning and night. Lather a small amount with water, massage over the face and rinse.",
+    "tags": [
+      "face wash",
+      "facewash",
+      "cleanser",
+      "simple"
+    ],
+    "image": {
+      "off": {
+        "brand": "simple",
+        "query": "face wash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "garnier-micellar-water-125ml",
+    "name": "Garnier Micellar Water",
+    "brand": "Garnier",
+    "subcategories": [
+      "skin-face-face-cleaning",
+      "bath-body-face-cleaning",
+      "beauty-cosmetics-cleansers-toners"
+    ],
+    "unit_label": "125 ml",
+    "mrp": 22500,
+    "price": 21100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Micellar cleansing water for removing makeup and daily grime. Soak a cotton pad and wipe gently over face, eyes and lips.",
+    "tags": [
+      "micellar water",
+      "makeup remover",
+      "cleansing water",
+      "garnier"
+    ],
+    "image": {
+      "off": {
+        "brand": "garnier",
+        "query": "micellar water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bioderma-micellar-water-100ml",
+    "name": "Bioderma Micellar Water",
+    "brand": "Bioderma",
+    "subcategories": [
+      "skin-face-face-cleaning",
+      "bath-body-face-cleaning",
+      "beauty-cosmetics-cleansers-toners"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 54900,
+    "price": 49400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Micellar water for cleansing the face and taking off makeup. Apply with a cotton pad, wipe without rubbing and repeat until the pad comes away clean.",
+    "tags": [
+      "micellar water",
+      "makeup remover",
+      "cleansing water",
+      "bioderma"
+    ],
+    "image": {
+      "off": {
+        "brand": "bioderma",
+        "query": "micellar water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "minimalist-niacinamide-face-serum-30ml",
+    "name": "Minimalist Niacinamide Face Serum",
+    "brand": "Minimalist",
+    "subcategories": [
+      "skin-face-face-oil-serum-essence"
+    ],
+    "unit_label": "30 ml",
+    "mrp": 59900,
+    "price": 58100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Water-based face serum with niacinamide, used after cleansing. Apply 2-3 drops to the face and follow with moisturiser, plus sunscreen in the day.",
+    "tags": [
+      "face serum",
+      "niacinamide serum",
+      "serum",
+      "minimalist"
+    ],
+    "image": {
+      "off": {
+        "brand": "minimalist",
+        "query": "niacinamide serum"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-ordinary-hyaluronic-acid-serum-30ml",
+    "name": "The Ordinary Hyaluronic Acid Serum",
+    "brand": "The Ordinary",
+    "subcategories": [
+      "skin-face-face-oil-serum-essence"
+    ],
+    "unit_label": "30 ml",
+    "mrp": 99900,
+    "price": 90900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Hyaluronic acid face serum for morning and evening routines. Apply a few drops to damp, clean skin before moisturiser.",
+    "tags": [
+      "face serum",
+      "hyaluronic acid",
+      "serum",
+      "the ordinary"
+    ],
+    "image": {
+      "off": {
+        "brand": "the ordinary",
+        "query": "hyaluronic acid serum"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-ordinary-squalane-face-oil-30ml",
+    "name": "The Ordinary Squalane Face Oil",
+    "brand": "The Ordinary",
+    "subcategories": [
+      "skin-face-face-oil-serum-essence"
+    ],
+    "unit_label": "30 ml",
+    "mrp": 109900,
+    "price": 104400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Lightweight plant-derived squalane oil for the face. Press a few drops into skin after serums or mix with your moisturiser.",
+    "tags": [
+      "face oil",
+      "squalane",
+      "facial oil",
+      "the ordinary"
+    ],
+    "image": {
+      "off": {
+        "brand": "the ordinary",
+        "query": "squalane"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "minimalist-face-oil-30ml",
+    "name": "Minimalist Face Oil",
+    "brand": "Minimalist",
+    "subcategories": [
+      "skin-face-face-oil-serum-essence"
+    ],
+    "unit_label": "30 ml",
+    "mrp": 69900,
+    "price": 62900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Face oil for use as the final step of a night routine. Warm 2-3 drops between fingertips and press gently onto the face.",
+    "tags": [
+      "face oil",
+      "facial oil",
+      "minimalist"
+    ],
+    "image": {
+      "off": {
+        "brand": "minimalist",
+        "query": "face oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nivea-lip-balm-4-8g",
+    "name": "Nivea Lip Balm",
+    "brand": "Nivea",
+    "subcategories": [
+      "skin-face-lip-eye-care"
+    ],
+    "unit_label": "4.8 g",
+    "mrp": 19900,
+    "price": 19900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Lip balm in a twist-up stick for dry lips. Apply as often as needed, especially in cold or dry weather.",
+    "tags": [
+      "lip balm",
+      "chapstick",
+      "lip care",
+      "nivea"
+    ],
+    "image": {
+      "off": {
+        "brand": "nivea",
+        "query": "lip balm"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vaseline-lip-balm-8g",
+    "name": "Vaseline Lip Balm",
+    "brand": "Vaseline",
+    "subcategories": [
+      "skin-face-lip-eye-care"
+    ],
+    "unit_label": "8 g",
+    "mrp": 17500,
+    "price": 16100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Petroleum jelly-based lip balm in a pocket tin. Dab onto lips with a fingertip whenever they feel dry and close the lid after use.",
+    "tags": [
+      "lip balm",
+      "lip care",
+      "vaseline",
+      "chapstick"
+    ],
+    "image": {
+      "off": {
+        "brand": "vaseline",
+        "query": "lip balm"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-derma-co-under-eye-cream-15ml",
+    "name": "The Derma Co. Under Eye Cream",
+    "brand": "The Derma Co.",
+    "subcategories": [
+      "skin-face-lip-eye-care"
+    ],
+    "unit_label": "15 ml",
+    "mrp": 54900,
+    "price": 48300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Light cream for the under-eye area, used morning and night. Dab a small amount with the ring finger, avoiding contact with the eyes.",
+    "tags": [
+      "under eye cream",
+      "eye cream",
+      "the derma co"
+    ],
+    "image": {
+      "off": {
+        "brand": "the derma co.",
+        "query": "under eye cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "plum-under-eye-gel-15ml",
+    "name": "Plum Under Eye Gel",
+    "brand": "Plum",
+    "subcategories": [
+      "skin-face-lip-eye-care"
+    ],
+    "unit_label": "15 ml",
+    "mrp": 59900,
+    "price": 50900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Cooling-texture gel for the skin around the eyes. Pat on gently after cleansing, keep away from the eyes and store with the cap closed.",
+    "tags": [
+      "under eye gel",
+      "eye gel",
+      "eye cream",
+      "plum"
+    ],
+    "image": {
+      "off": {
+        "brand": "plum",
+        "query": "under eye gel"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "himalaya-face-pack-100g",
+    "name": "Himalaya Face Pack",
+    "brand": "Himalaya",
+    "subcategories": [
+      "skin-face-face-masks-packs"
+    ],
+    "unit_label": "100 g",
+    "mrp": 18500,
+    "price": 17300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Clay face pack for a weekly at-home facial routine. Spread a thin layer on a clean face, let it dry for about 10 minutes and rinse with water.",
+    "tags": [
+      "face pack",
+      "face mask",
+      "clay mask",
+      "himalaya"
+    ],
+    "image": {
+      "off": {
+        "brand": "himalaya",
+        "query": "face pack"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mamaearth-face-mask-100g",
+    "name": "Mamaearth Face Mask",
+    "brand": "Mamaearth",
+    "subcategories": [
+      "skin-face-face-masks-packs"
+    ],
+    "unit_label": "100 g",
+    "mrp": 52500,
+    "price": 47200,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Clay face mask for weekly use. Apply an even layer to clean skin, avoid the eye area, leave until set and wash off with lukewarm water.",
+    "tags": [
+      "face mask",
+      "clay mask",
+      "face pack",
+      "mamaearth"
+    ],
+    "image": {
+      "off": {
+        "brand": "mamaearth",
+        "query": "clay mask"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "garnier-sheet-mask-1pc",
+    "name": "Garnier Sheet Mask",
+    "brand": "Garnier",
+    "subcategories": [
+      "skin-face-face-masks-packs"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 9900,
+    "price": 9600,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Single-use serum-soaked sheet mask for a quick at-home skincare session. Unfold onto a clean face, leave for about 15 minutes, then remove and pat in the leftover serum.",
+    "tags": [
+      "sheet mask",
+      "face mask",
+      "garnier"
+    ],
+    "image": {
+      "off": {
+        "brand": "garnier",
+        "query": "sheet mask"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-face-shop-sheet-mask-1pc",
+    "name": "The Face Shop Sheet Mask",
+    "brand": "The Face Shop",
+    "subcategories": [
+      "skin-face-face-masks-packs"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 12500,
+    "price": 11300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Single-use sheet mask soaked in essence. Place on clean skin for 15-20 minutes, peel off and pat the remaining essence into the skin.",
+    "tags": [
+      "sheet mask",
+      "face mask",
+      "korean mask"
+    ],
+    "image": {
+      "off": {
+        "brand": "the face shop",
+        "query": "sheet mask"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "khadi-natural-multani-mitti-200g",
+    "name": "Khadi Natural Multani Mitti",
+    "brand": "Khadi Natural",
+    "subcategories": [
+      "skin-face-face-masks-packs"
+    ],
+    "unit_label": "200 g",
+    "mrp": 17900,
+    "price": 17000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Multani mitti (fuller's earth) powder for traditional face packs. Mix with rose water or plain water into a paste, apply, let dry and wash off.",
+    "tags": [
+      "multani mitti",
+      "fullers earth",
+      "face pack powder",
+      "clay"
+    ],
+    "image": {
+      "off": {
+        "brand": "khadi natural",
+        "query": "multani mitti"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "patanjali-multani-mitti-100g",
+    "name": "Patanjali Multani Mitti",
+    "brand": "Patanjali",
+    "subcategories": [
+      "skin-face-face-masks-packs"
+    ],
+    "unit_label": "100 g",
+    "mrp": 6500,
+    "price": 5800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Fuller's earth face pack powder for home use. Blend with water, curd or rose water, apply to the face and rinse once it dries.",
+    "tags": [
+      "multani mitti",
+      "fullers earth",
+      "face pack powder",
+      "patanjali"
+    ],
+    "image": {
+      "off": {
+        "brand": "patanjali",
+        "query": "multani mitti"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "plum-face-toner-200ml",
+    "name": "Plum Face Toner",
+    "brand": "Plum",
+    "subcategories": [
+      "skin-face-toners-mists",
+      "beauty-cosmetics-cleansers-toners"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 42500,
+    "price": 42500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Face toner used after cleansing and before serum or moisturiser. Sweep over the face with a cotton pad or pat in with palms.",
+    "tags": [
+      "toner",
+      "face toner",
+      "plum"
+    ],
+    "image": {
+      "off": {
+        "brand": "plum",
+        "query": "toner"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "minimalist-face-toner-120ml",
+    "name": "Minimalist Face Toner",
+    "brand": "Minimalist",
+    "subcategories": [
+      "skin-face-toners-mists",
+      "beauty-cosmetics-cleansers-toners"
+    ],
+    "unit_label": "120 ml",
+    "mrp": 39900,
+    "price": 36700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Water-light face toner for the step between cleansing and moisturising. Apply with a cotton pad or palms to clean skin, morning or night.",
+    "tags": [
+      "toner",
+      "face toner",
+      "minimalist"
+    ],
+    "image": {
+      "off": {
+        "brand": "minimalist",
+        "query": "toner"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dabur-gulabari-rose-water-250ml",
+    "name": "Dabur Gulabari Rose Water",
+    "brand": "Dabur Gulabari",
+    "subcategories": [
+      "skin-face-toners-mists"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 12500,
+    "price": 11000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Rose water for use as a face mist or toner, or mixed into homemade face packs. Splash or spray onto clean skin and store in a cool place.",
+    "tags": [
+      "rose water",
+      "gulab jal",
+      "gulabjal",
+      "face mist"
+    ],
+    "image": {
+      "off": {
+        "brand": "dabur gulabari",
+        "query": "rose water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kama-ayurveda-rose-water-200ml",
+    "name": "Kama Ayurveda Rose Water",
+    "brand": "Kama Ayurveda",
+    "subcategories": [
+      "skin-face-toners-mists"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 115000,
+    "price": 97700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Rose water in a spray bottle for misting the face through the day or after cleansing. Keep the bottle away from direct sunlight.",
+    "tags": [
+      "rose water",
+      "gulab jal",
+      "face mist",
+      "kama"
+    ],
+    "image": {
+      "off": {
+        "brand": "kama ayurveda",
+        "query": "rose water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "minimalist-salicylic-acid-face-wash-100ml",
+    "name": "Minimalist Salicylic Acid Face Wash",
+    "brand": "Minimalist",
+    "subcategories": [
+      "skin-face-acne-blackhead-fixers"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 31900,
+    "price": 29900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Gel face wash with salicylic acid, suited to oily and combination skin. Massage onto damp skin for 30-60 seconds and rinse, avoiding the eye area.",
+    "tags": [
+      "salicylic face wash",
+      "face wash",
+      "oily skin face wash",
+      "minimalist"
+    ],
+    "image": {
+      "off": {
+        "brand": "minimalist",
+        "query": "salicylic acid cleanser"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-derma-co-salicylic-acid-face-wash-100ml",
+    "name": "The Derma Co. Salicylic Acid Face Wash",
+    "brand": "The Derma Co.",
+    "subcategories": [
+      "skin-face-acne-blackhead-fixers"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 34900,
+    "price": 31400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Salicylic acid gel face wash for daily cleansing of oily skin. Use a small amount with water, rinse well and follow with a moisturiser.",
+    "tags": [
+      "salicylic face wash",
+      "face wash",
+      "oily skin face wash",
+      "the derma co"
+    ],
+    "image": {
+      "off": {
+        "brand": "the derma co.",
+        "query": "salicylic acid face wash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cosrx-pimple-patches-24pcs",
+    "name": "COSRX Pimple Patches",
+    "brand": "COSRX",
+    "subcategories": [
+      "skin-face-acne-blackhead-fixers"
+    ],
+    "unit_label": "24 pcs",
+    "mrp": 49900,
+    "price": 48400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Thin hydrocolloid patches that cover individual spots. Apply to clean, dry skin and leave on for several hours or overnight before peeling off.",
+    "tags": [
+      "pimple patch",
+      "acne patch",
+      "spot patch",
+      "hydrocolloid"
+    ],
+    "image": {
+      "off": {
+        "brand": "cosrx",
+        "query": "pimple patch"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-derma-co-pimple-patches-24pcs",
+    "name": "The Derma Co. Pimple Patches",
+    "brand": "The Derma Co.",
+    "subcategories": [
+      "skin-face-acne-blackhead-fixers"
+    ],
+    "unit_label": "24 pcs",
+    "mrp": 39900,
+    "price": 36300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Small adhesive spot patches to wear over a pimple. Place on clean, dry skin, press for a few seconds and peel off when the patch turns opaque.",
+    "tags": [
+      "pimple patch",
+      "acne patch",
+      "spot patch"
+    ],
+    "image": {
+      "off": {
+        "brand": "the derma co.",
+        "query": "pimple patch"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "biore-blackhead-strips-6pcs",
+    "name": "Bioré Blackhead Strips",
+    "brand": "Bioré",
+    "subcategories": [
+      "skin-face-acne-blackhead-fixers"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 59900,
+    "price": 56900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Adhesive pore strips for the nose. Wet the nose, apply a strip, let it dry for 10-15 minutes and peel off slowly from the edges.",
+    "tags": [
+      "nose strips",
+      "blackhead strips",
+      "pore strips"
+    ],
+    "image": {
+      "off": {
+        "brand": "bioré",
+        "query": "pore strips"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hiphop-blackhead-strips-6pcs",
+    "name": "HipHop Blackhead Strips",
+    "brand": "HipHop",
+    "subcategories": [
+      "skin-face-acne-blackhead-fixers"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 24900,
+    "price": 22400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Peel-off nose strips for an occasional pore-cleansing routine. Apply to a damp nose, leave until stiff and remove gently.",
+    "tags": [
+      "nose strips",
+      "blackhead strips",
+      "pore strips"
+    ],
+    "image": {
+      "off": {
+        "brand": "hiphop",
+        "query": "nose strips"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "beardo-beard-oil-30ml",
+    "name": "Beardo Beard Oil",
+    "brand": "Beardo",
+    "subcategories": [
+      "skin-face-men-s-grooming"
+    ],
+    "unit_label": "30 ml",
+    "mrp": 39900,
+    "price": 39900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Beard oil for daily beard grooming. Massage a few drops into the beard and the skin underneath, then comb through.",
+    "tags": [
+      "beard oil",
+      "beard care",
+      "dadhi tel",
+      "beardo"
+    ],
+    "image": {
+      "off": {
+        "brand": "beardo",
+        "query": "beard oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ustraa-beard-oil-35ml",
+    "name": "Ustraa Beard Oil",
+    "brand": "Ustraa",
+    "subcategories": [
+      "skin-face-men-s-grooming"
+    ],
+    "unit_label": "35 ml",
+    "mrp": 37500,
+    "price": 34500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Beard oil for keeping facial hair groomed and easier to comb. Warm a few drops in your palms and work into the beard after washing.",
+    "tags": [
+      "beard oil",
+      "beard care",
+      "dadhi tel",
+      "ustraa"
+    ],
+    "image": {
+      "off": {
+        "brand": "ustraa",
+        "query": "beard oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "gillette-razor-1pc",
+    "name": "Gillette Razor",
+    "brand": "Gillette",
+    "subcategories": [
+      "skin-face-men-s-grooming"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 22500,
+    "price": 19800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Manual shaving razor with replaceable cartridges. Shave over a lather of foam or gel, rinse the blade often and store it dry.",
+    "tags": [
+      "razor",
+      "shaving razor",
+      "shaving blade",
+      "gillette"
+    ],
+    "image": {
+      "off": {
+        "brand": "gillette",
+        "query": "razor"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "park-avenue-shaving-foam-225ml",
+    "name": "Park Avenue Shaving Foam",
+    "brand": "Park Avenue",
+    "subcategories": [
+      "skin-face-men-s-grooming"
+    ],
+    "unit_label": "225 ml",
+    "mrp": 21900,
+    "price": 18600,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Aerosol shaving foam that builds a rich lather for wet shaving. Shake well, dispense a small amount and spread over damp stubble before shaving.",
+    "tags": [
+      "shaving foam",
+      "shaving cream",
+      "park avenue"
+    ],
+    "image": {
+      "off": {
+        "brand": "park avenue",
+        "query": "shaving foam"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "garnier-men-face-wash-100g",
+    "name": "Garnier Men Face Wash",
+    "brand": "Garnier Men",
+    "subcategories": [
+      "skin-face-men-s-grooming"
+    ],
+    "unit_label": "100 g",
+    "mrp": 24900,
+    "price": 23400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Face wash for a men's daily cleansing routine. Lather with water, massage over the face, especially around the nose and forehead, and rinse.",
+    "tags": [
+      "mens face wash",
+      "face wash",
+      "facewash",
+      "garnier men"
+    ],
+    "image": {
+      "off": {
+        "brand": "garnier men",
+        "query": "men face wash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nivea-men-face-wash-100g",
+    "name": "Nivea Men Face Wash",
+    "brand": "Nivea Men",
+    "subcategories": [
+      "skin-face-men-s-grooming"
+    ],
+    "unit_label": "100 g",
+    "mrp": 25900,
+    "price": 23300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Everyday face wash for men, used morning and evening. Work into a foam on wet skin and rinse thoroughly with water.",
+    "tags": [
+      "mens face wash",
+      "face wash",
+      "facewash",
+      "nivea men"
+    ],
+    "image": {
+      "off": {
+        "brand": "nivea men",
+        "query": "men face wash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vega-tweezers-1pc",
+    "name": "Vega Tweezers",
+    "brand": "Vega",
+    "subcategories": [
+      "skin-face-women-s-grooming"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 14900,
+    "price": 14400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Metal tweezers for shaping eyebrows and removing stray hairs. Clean the tips with an alcohol wipe and store them in a case.",
+    "tags": [
+      "tweezers",
+      "eyebrow tweezer",
+      "chimti",
+      "vega"
+    ],
+    "image": {
+      "off": {
+        "brand": "vega",
+        "query": "tweezers"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kai-facial-razor-pack-of-3",
+    "name": "Kai Facial Razor",
+    "brand": "Kai",
+    "subcategories": [
+      "skin-face-women-s-grooming"
+    ],
+    "unit_label": "Pack of 3",
+    "mrp": 22500,
+    "price": 20400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Small facial razors for tidying eyebrows and fine facial hair. Use on clean, dry skin with short, light strokes and replace when the blade dulls.",
+    "tags": [
+      "facial razor",
+      "eyebrow razor",
+      "face razor",
+      "kai"
+    ],
+    "image": {
+      "off": {
+        "brand": "kai",
+        "query": "facial razor"
+      }
+    },
+    "orderable": true
+  }
+]

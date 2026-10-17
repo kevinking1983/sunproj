@@ -1,0 +1,1082 @@
+[
+  {
+    "slug": "maggi-masala-instant-noodles-280g",
+    "name": "Maggi Masala Instant Noodles",
+    "brand": "Maggi",
+    "subcategories": [
+      "instant-food-noodles"
+    ],
+    "unit_label": "280 g",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant noodles with a masala tastemaker, ready in about two minutes. Add vegetables for a fuller meal; store in a dry place.",
+    "tags": [
+      "maggi",
+      "instant noodles",
+      "masala noodles",
+      "2 minute noodles"
+    ],
+    "image": {
+      "off": {
+        "brand": "maggi",
+        "query": "masala noodles"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sunfeast-yippee-masala-instant-noodles-280g",
+    "name": "Sunfeast YiPPee! Masala Instant Noodles",
+    "brand": "Sunfeast YiPPee!",
+    "subcategories": [
+      "instant-food-noodles"
+    ],
+    "unit_label": "280 g",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Round-block instant noodles with a masala seasoning, cooked in a few minutes. Toss in veggies if you like; keep the pack dry.",
+    "tags": [
+      "yippee",
+      "instant noodles",
+      "masala noodles",
+      "noodles"
+    ],
+    "image": {
+      "off": {
+        "brand": "sunfeast yippee!",
+        "query": "masala noodles"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "samyang-spicy-ramen-140g",
+    "name": "Samyang Spicy Ramen",
+    "brand": "Samyang",
+    "subcategories": [
+      "instant-food-noodles"
+    ],
+    "unit_label": "140 g",
+    "mrp": 14000,
+    "price": 14000,
+    "tax_rate": 18,
+    "is_veg": false,
+    "description": "Korean-style instant ramen with a very spicy sauce. Cook as directed on the pack and adjust the sauce to your spice level.",
+    "tags": [
+      "ramen",
+      "korean noodles",
+      "spicy noodles",
+      "instant ramen"
+    ],
+    "image": {
+      "off": {
+        "brand": "samyang",
+        "query": "spicy ramen"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nongshim-spicy-ramen-120g",
+    "name": "Nongshim Spicy Ramen",
+    "brand": "Nongshim",
+    "subcategories": [
+      "instant-food-noodles"
+    ],
+    "unit_label": "120 g",
+    "mrp": 13000,
+    "price": 12000,
+    "tax_rate": 18,
+    "is_veg": false,
+    "description": "Korean instant ramen with a spicy soup base. Boil with the seasoning for a quick bowl; add egg or vegetables if you like.",
+    "tags": [
+      "ramen",
+      "korean noodles",
+      "spicy noodles",
+      "instant ramen"
+    ],
+    "image": {
+      "off": {
+        "brand": "nongshim",
+        "query": "ramen"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "chings-secret-hakka-noodles-150g",
+    "name": "Ching's Secret Hakka Noodles",
+    "brand": "Ching's Secret",
+    "subcategories": [
+      "instant-food-noodles"
+    ],
+    "unit_label": "150 g",
+    "mrp": 4500,
+    "price": 4000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Dried hakka noodles for Indo-Chinese stir-fries. Boil, drain and toss with vegetables and sauces; store in a dry place.",
+    "tags": [
+      "hakka noodles",
+      "chowmein",
+      "noodles",
+      "chinese noodles"
+    ],
+    "image": {
+      "off": {
+        "brand": "ching's secret",
+        "query": "hakka noodles"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "keya-hakka-noodles-150g",
+    "name": "Keya Hakka Noodles",
+    "brand": "Keya",
+    "subcategories": [
+      "instant-food-noodles"
+    ],
+    "unit_label": "150 g",
+    "mrp": 4500,
+    "price": 4200,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Dried hakka noodles for quick veg or chicken chowmein. Boil until just tender, rinse and stir-fry; keep the pack sealed.",
+    "tags": [
+      "hakka noodles",
+      "chowmein",
+      "noodles",
+      "chinese noodles"
+    ],
+    "image": {
+      "off": {
+        "brand": "keya",
+        "query": "hakka noodles"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mccain-french-fries-750g",
+    "name": "McCain French Fries",
+    "brand": "McCain",
+    "subcategories": [
+      "instant-food-frozen-veg-snacks"
+    ],
+    "unit_label": "750 g",
+    "mrp": 22000,
+    "price": 19900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Frozen pre-cut potato fries to fry, bake or air fry from frozen. Keep frozen at -18 C and do not refreeze after thawing.",
+    "tags": [
+      "french fries",
+      "frozen fries",
+      "potato fries",
+      "finger chips"
+    ],
+    "image": {
+      "off": {
+        "brand": "mccain",
+        "query": "french fries"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "itc-master-chef-french-fries-400g",
+    "name": "ITC Master Chef French Fries",
+    "brand": "ITC Master Chef",
+    "subcategories": [
+      "instant-food-frozen-veg-snacks"
+    ],
+    "unit_label": "400 g",
+    "mrp": 14000,
+    "price": 13000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Frozen potato fries ready to cook from the freezer. Fry, bake or air fry until golden; keep frozen until use.",
+    "tags": [
+      "french fries",
+      "frozen fries",
+      "potato fries",
+      "finger chips"
+    ],
+    "image": {
+      "off": {
+        "brand": "itc master chef",
+        "query": "french fries"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mccain-veg-nuggets-400g",
+    "name": "McCain Veg Nuggets",
+    "brand": "McCain",
+    "subcategories": [
+      "instant-food-frozen-veg-snacks"
+    ],
+    "unit_label": "400 g",
+    "mrp": 20000,
+    "price": 18900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Frozen vegetable nuggets with a crumb coating. Fry, bake or air fry from frozen for a quick snack; store at -18 C.",
+    "tags": [
+      "veg nuggets",
+      "frozen snacks",
+      "nuggets",
+      "party snacks"
+    ],
+    "image": {
+      "off": {
+        "brand": "mccain",
+        "query": "veg nuggets"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "itc-master-chef-veg-nuggets-400g",
+    "name": "ITC Master Chef Veg Nuggets",
+    "brand": "ITC Master Chef",
+    "subcategories": [
+      "instant-food-frozen-veg-snacks"
+    ],
+    "unit_label": "400 g",
+    "mrp": 19000,
+    "price": 19000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Breaded frozen veg nuggets to cook straight from the freezer. Serve with ketchup or dips; keep frozen until cooking.",
+    "tags": [
+      "veg nuggets",
+      "frozen snacks",
+      "nuggets",
+      "party snacks"
+    ],
+    "image": {
+      "off": {
+        "brand": "itc master chef",
+        "query": "veg nuggets"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "prasuma-veg-momos-pack-of-10",
+    "name": "Prasuma Veg Momos",
+    "brand": "Prasuma",
+    "subcategories": [
+      "instant-food-frozen-veg-snacks"
+    ],
+    "unit_label": "Pack of 10",
+    "mrp": 20000,
+    "price": 18000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Frozen vegetable momos to steam, pan-fry or air fry from frozen. Serve with spicy chutney; keep frozen at -18 C.",
+    "tags": [
+      "momos",
+      "veg momos",
+      "dumplings",
+      "frozen momos"
+    ],
+    "image": {
+      "off": {
+        "brand": "prasuma",
+        "query": "veg momos"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "licious-veg-momos-pack-of-10",
+    "name": "Licious Veg Momos",
+    "brand": "Licious",
+    "subcategories": [
+      "instant-food-frozen-veg-snacks"
+    ],
+    "unit_label": "Pack of 10",
+    "mrp": 20000,
+    "price": 17900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Frozen veg momos ready to steam or fry. Cook from frozen as directed on the pack; serve hot with red chutney.",
+    "tags": [
+      "momos",
+      "veg momos",
+      "dumplings",
+      "frozen momos"
+    ],
+    "image": {
+      "off": {
+        "brand": "licious",
+        "query": "veg momos"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "del-monte-penne-pasta-500g",
+    "name": "Del Monte Penne Pasta",
+    "brand": "Del Monte",
+    "subcategories": [
+      "instant-food-pasta"
+    ],
+    "unit_label": "500 g",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Durum wheat penne pasta for red sauce, white sauce or baked dishes. Boil in salted water until al dente; store in a dry place.",
+    "tags": [
+      "pasta",
+      "penne",
+      "durum wheat pasta",
+      "italian"
+    ],
+    "image": {
+      "off": {
+        "brand": "del monte",
+        "query": "penne pasta"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bambino-macaroni-pasta-500g",
+    "name": "Bambino Macaroni Pasta",
+    "brand": "Bambino",
+    "subcategories": [
+      "instant-food-pasta"
+    ],
+    "unit_label": "500 g",
+    "mrp": 8000,
+    "price": 7000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Macaroni pasta for masala macaroni, mac and cheese or salads. Boil until tender, drain and toss with sauce; keep the pack dry.",
+    "tags": [
+      "macaroni",
+      "pasta",
+      "elbow pasta",
+      "italian"
+    ],
+    "image": {
+      "off": {
+        "brand": "bambino",
+        "query": "macaroni"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maggi-pazzta-instant-pasta-64g",
+    "name": "Maggi Pazzta Instant Pasta",
+    "brand": "Maggi Pazzta",
+    "subcategories": [
+      "instant-food-pasta"
+    ],
+    "unit_label": "64 g",
+    "mrp": 3000,
+    "price": 3000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant pasta with a seasoning sachet, cooked in a few minutes. Follow the pack for water quantity; a quick snack for kids.",
+    "tags": [
+      "instant pasta",
+      "pasta",
+      "maggi pasta",
+      "masala pasta"
+    ],
+    "image": {
+      "off": {
+        "brand": "maggi pazzta",
+        "query": "instant pasta"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sunfeast-pasta-treat-instant-pasta-70g",
+    "name": "Sunfeast Pasta Treat Instant Pasta",
+    "brand": "Sunfeast Pasta Treat",
+    "subcategories": [
+      "instant-food-pasta"
+    ],
+    "unit_label": "70 g",
+    "mrp": 3000,
+    "price": 2800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant pasta with a tastemaker for a quick snack. Cook as directed on the pack and add vegetables if you like.",
+    "tags": [
+      "instant pasta",
+      "pasta",
+      "masala pasta",
+      "snack"
+    ],
+    "image": {
+      "off": {
+        "brand": "sunfeast pasta treat",
+        "query": "instant pasta"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "knorr-tomato-soup-mix-53g",
+    "name": "Knorr Tomato Soup Mix",
+    "brand": "Knorr",
+    "subcategories": [
+      "instant-food-soup"
+    ],
+    "unit_label": "53 g",
+    "mrp": 6500,
+    "price": 5900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant tomato soup powder that makes several bowls. Whisk into water, boil and simmer as directed; store in a dry place.",
+    "tags": [
+      "tomato soup",
+      "soup mix",
+      "instant soup",
+      "soup"
+    ],
+    "image": {
+      "off": {
+        "brand": "knorr",
+        "query": "tomato soup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maggi-tomato-soup-mix-50g",
+    "name": "Maggi Tomato Soup Mix",
+    "brand": "Maggi",
+    "subcategories": [
+      "instant-food-soup"
+    ],
+    "unit_label": "50 g",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Tomato soup powder for a quick, warm bowl. Mix with water, bring to a boil and simmer for a few minutes.",
+    "tags": [
+      "tomato soup",
+      "soup mix",
+      "instant soup",
+      "soup"
+    ],
+    "image": {
+      "off": {
+        "brand": "maggi",
+        "query": "tomato soup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "knorr-ready-vegetable-soup-300ml",
+    "name": "Knorr Ready Vegetable Soup",
+    "brand": "Knorr",
+    "subcategories": [
+      "instant-food-soup"
+    ],
+    "unit_label": "300 ml",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Ready vegetable soup to heat and serve. Warm in a pan or microwave-safe bowl; refrigerate leftovers and use within a day.",
+    "tags": [
+      "vegetable soup",
+      "ready soup",
+      "soup",
+      "veg soup"
+    ],
+    "image": {
+      "off": {
+        "brand": "knorr",
+        "query": "vegetable soup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "campbells-ready-vegetable-soup-305g",
+    "name": "Campbell's Ready Vegetable Soup",
+    "brand": "Campbell's",
+    "subcategories": [
+      "instant-food-soup"
+    ],
+    "unit_label": "305 g",
+    "mrp": 19900,
+    "price": 19000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Canned vegetable soup to heat and serve. Pour into a pan, add water if the label says so, and warm through; refrigerate leftovers.",
+    "tags": [
+      "vegetable soup",
+      "canned soup",
+      "soup",
+      "ready soup"
+    ],
+    "image": {
+      "off": {
+        "brand": "campbell's",
+        "query": "vegetable soup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-ready-to-eat-dal-makhani-300g",
+    "name": "MTR Ready to Eat Dal Makhani",
+    "brand": "MTR",
+    "subcategories": [
+      "instant-food-ready-to-eat"
+    ],
+    "unit_label": "300 g",
+    "mrp": 14000,
+    "price": 13000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready-to-eat dal makhani in a retort pouch. Heat the pouch in boiling water or empty into a bowl and microwave; serve with rice or roti.",
+    "tags": [
+      "dal makhani",
+      "ready to eat",
+      "instant meal",
+      "dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "dal makhani"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-ready-to-eat-dal-makhani-300g",
+    "name": "Haldiram's Ready to Eat Dal Makhani",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "instant-food-ready-to-eat"
+    ],
+    "unit_label": "300 g",
+    "mrp": 13000,
+    "price": 13000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Heat-and-eat dal makhani in a shelf-stable pouch. Warm as directed and serve with rice, naan or roti.",
+    "tags": [
+      "dal makhani",
+      "ready to eat",
+      "instant meal",
+      "dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "dal makhani"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-instant-upma-mix-180g",
+    "name": "MTR Instant Upma Mix",
+    "brand": "MTR",
+    "subcategories": [
+      "instant-food-ready-to-eat"
+    ],
+    "unit_label": "180 g",
+    "mrp": 7000,
+    "price": 6000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant upma breakfast mix of roasted rava and spices. Add hot water, cook as directed and serve; store in a dry place.",
+    "tags": [
+      "upma",
+      "breakfast mix",
+      "instant upma",
+      "rava upma"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "upma mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "gits-instant-upma-mix-200g",
+    "name": "Gits Instant Upma Mix",
+    "brand": "Gits",
+    "subcategories": [
+      "instant-food-ready-to-eat"
+    ],
+    "unit_label": "200 g",
+    "mrp": 7500,
+    "price": 6900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Ready mix for quick upma at breakfast. Cook with water as directed on the pack; garnish with coriander and serve hot.",
+    "tags": [
+      "upma",
+      "breakfast mix",
+      "instant upma",
+      "rava upma"
+    ],
+    "image": {
+      "off": {
+        "brand": "gits",
+        "query": "upma mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kitchens-of-india-veg-biryani-250g",
+    "name": "Kitchens of India Veg Biryani",
+    "brand": "Kitchens of India",
+    "subcategories": [
+      "instant-food-ready-to-eat"
+    ],
+    "unit_label": "250 g",
+    "mrp": 19900,
+    "price": 18900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready-to-eat vegetable biryani in a retort pack. Heat the pouch and serve with raita; no refrigeration needed until opened.",
+    "tags": [
+      "veg biryani",
+      "ready to eat",
+      "biryani",
+      "instant meal"
+    ],
+    "image": {
+      "off": {
+        "brand": "kitchens of india",
+        "query": "veg biryani"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-veg-biryani-250g",
+    "name": "Haldiram's Veg Biryani",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "instant-food-ready-to-eat"
+    ],
+    "unit_label": "250 g",
+    "mrp": 15000,
+    "price": 13900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Heat-and-eat vegetable biryani in a shelf-stable pouch. Warm as directed and serve with raita or salan.",
+    "tags": [
+      "veg biryani",
+      "ready to eat",
+      "biryani",
+      "instant meal"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "veg biryani"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "id-fresh-idli-and-dosa-batter-1kg",
+    "name": "iD Fresh Idli & Dosa Batter",
+    "brand": "iD Fresh",
+    "subcategories": [
+      "instant-food-idli-dosa-batter"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 9900,
+    "price": 9900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Fresh fermented rice and urad dal batter for soft idlis and crisp dosas. Keep refrigerated and use by the date on the pack.",
+    "tags": [
+      "idli batter",
+      "dosa batter",
+      "maavu",
+      "fresh batter"
+    ],
+    "image": {
+      "off": {
+        "brand": "id fresh",
+        "query": "idli dosa batter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-idli-and-dosa-batter-1kg",
+    "name": "MTR Idli & Dosa Batter",
+    "brand": "MTR",
+    "subcategories": [
+      "instant-food-idli-dosa-batter"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 9500,
+    "price": 8900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Fresh idli and dosa batter, ready to use. Stir before use, keep refrigerated and finish within the date on the pack.",
+    "tags": [
+      "idli batter",
+      "dosa batter",
+      "maavu",
+      "fresh batter"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "idli dosa batter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-rava-idli-mix-500g",
+    "name": "MTR Rava Idli Mix",
+    "brand": "MTR",
+    "subcategories": [
+      "instant-food-idli-dosa-batter"
+    ],
+    "unit_label": "500 g",
+    "mrp": 14000,
+    "price": 12000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Dry mix for making rava idli without grinding or fermenting. Mix with curd and water as directed, steam and serve with chutney.",
+    "tags": [
+      "rava idli mix",
+      "idli mix",
+      "instant idli",
+      "breakfast mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "rava idli mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "gits-rava-idli-mix-500g",
+    "name": "Gits Rava Idli Mix",
+    "brand": "Gits",
+    "subcategories": [
+      "instant-food-idli-dosa-batter"
+    ],
+    "unit_label": "500 g",
+    "mrp": 14000,
+    "price": 13000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant rava idli mix for quick breakfasts. Add curd and water as directed, rest briefly and steam; store in a dry place.",
+    "tags": [
+      "rava idli mix",
+      "idli mix",
+      "instant idli",
+      "breakfast mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "gits",
+        "query": "rava idli mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "gits-gulab-jamun-mix-200g",
+    "name": "Gits Gulab Jamun Mix",
+    "brand": "Gits",
+    "subcategories": [
+      "instant-food-dessert-cake-mixes"
+    ],
+    "unit_label": "200 g",
+    "mrp": 12500,
+    "price": 11000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Dry mix for making gulab jamun at home. Knead into a soft dough, fry the balls and soak in sugar syrup as directed.",
+    "tags": [
+      "gulab jamun mix",
+      "dessert mix",
+      "instant mix",
+      "mithai mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "gits",
+        "query": "gulab jamun mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-gulab-jamun-mix-175g",
+    "name": "MTR Gulab Jamun Mix",
+    "brand": "MTR",
+    "subcategories": [
+      "instant-food-dessert-cake-mixes"
+    ],
+    "unit_label": "175 g",
+    "mrp": 11000,
+    "price": 10900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant gulab jamun mix for festive desserts. Make a dough, fry on low heat and soak in warm syrup; store the pack dry.",
+    "tags": [
+      "gulab jamun mix",
+      "dessert mix",
+      "instant mix",
+      "mithai mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "gulab jamun mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "betty-crocker-chocolate-cake-mix-475g",
+    "name": "Betty Crocker Chocolate Cake Mix",
+    "brand": "Betty Crocker",
+    "subcategories": [
+      "instant-food-dessert-cake-mixes"
+    ],
+    "unit_label": "475 g",
+    "mrp": 29900,
+    "price": 27900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chocolate cake mix for baking at home. Combine with the ingredients listed on the box and bake in an oven; store in a cool, dry place.",
+    "tags": [
+      "cake mix",
+      "chocolate cake",
+      "baking mix",
+      "premix"
+    ],
+    "image": {
+      "off": {
+        "brand": "betty crocker",
+        "query": "chocolate cake mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pillsbury-chocolate-cake-mix-285g",
+    "name": "Pillsbury Chocolate Cake Mix",
+    "brand": "Pillsbury",
+    "subcategories": [
+      "instant-food-dessert-cake-mixes"
+    ],
+    "unit_label": "285 g",
+    "mrp": 17500,
+    "price": 17500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chocolate cake mix for oven or cooker baking. Follow the method on the pack for best results.",
+    "tags": [
+      "cake mix",
+      "chocolate cake",
+      "baking mix",
+      "eggless cake mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "pillsbury",
+        "query": "chocolate cake mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "weikfield-jelly-crystals-90g",
+    "name": "Weikfield Jelly Crystals",
+    "brand": "Weikfield",
+    "subcategories": [
+      "instant-food-dessert-cake-mixes"
+    ],
+    "unit_label": "90 g",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Fruit-flavoured jelly crystals for a simple set dessert. Dissolve in hot water, pour into moulds and chill until set.",
+    "tags": [
+      "jelly",
+      "jelly crystals",
+      "dessert mix",
+      "pudding"
+    ],
+    "image": {
+      "off": {
+        "brand": "weikfield",
+        "query": "jelly crystals"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "gits-jelly-mix-100g",
+    "name": "Gits Jelly Mix",
+    "brand": "Gits",
+    "subcategories": [
+      "instant-food-dessert-cake-mixes"
+    ],
+    "unit_label": "100 g",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Jelly mix for kids' desserts and trifles. Dissolve as directed, pour into a bowl and refrigerate until firm.",
+    "tags": [
+      "jelly",
+      "jelly mix",
+      "dessert mix",
+      "pudding"
+    ],
+    "image": {
+      "off": {
+        "brand": "gits",
+        "query": "jelly"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "slurrp-farm-millet-noodles-192g",
+    "name": "Slurrp Farm Millet Noodles",
+    "brand": "Slurrp Farm",
+    "subcategories": [
+      "instant-food-organic-premium"
+    ],
+    "unit_label": "192 g",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Instant-style noodles made with millets and wheat, cooked in minutes. Add vegetables for a fuller meal; store in a dry place.",
+    "tags": [
+      "millet noodles",
+      "ragi noodles",
+      "healthy noodles",
+      "noodles"
+    ],
+    "image": {
+      "off": {
+        "brand": "slurrp farm",
+        "query": "millet noodles"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-wholegrain-pasta-500g",
+    "name": "24 Mantra Organic Wholegrain Pasta",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "instant-food-organic-premium"
+    ],
+    "unit_label": "500 g",
+    "mrp": 18000,
+    "price": 16000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Organic wholegrain pasta for everyday pasta dishes. Boil in salted water until al dente and toss with sauce; keep the pack dry.",
+    "tags": [
+      "organic pasta",
+      "wholegrain pasta",
+      "whole wheat pasta",
+      "pasta"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "pasta"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "koka-ramen-meal-kit-pack-of-4",
+    "name": "Koka Ramen Meal Kit",
+    "brand": "Koka",
+    "subcategories": [
+      "instant-food-organic-premium"
+    ],
+    "unit_label": "Pack of 4",
+    "mrp": 20000,
+    "price": 20000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Pack of instant ramen-style noodles with seasoning for quick bowls. Cook as directed and top with vegetables, egg or tofu.",
+    "tags": [
+      "ramen",
+      "noodles",
+      "meal kit",
+      "instant noodles"
+    ],
+    "image": {
+      "off": {
+        "brand": "koka",
+        "query": "noodles"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "samyang-ramen-meal-kit-pack-of-5",
+    "name": "Samyang Ramen Meal Kit",
+    "brand": "Samyang",
+    "subcategories": [
+      "instant-food-organic-premium"
+    ],
+    "unit_label": "Pack of 5",
+    "mrp": 65000,
+    "price": 59900,
+    "tax_rate": 18,
+    "is_veg": false,
+    "description": "Multipack of Korean-style ramen with sauce sachets. Cook one pack as directed and adjust sauce to taste; store in a dry place.",
+    "tags": [
+      "ramen",
+      "korean noodles",
+      "meal kit",
+      "spicy noodles"
+    ],
+    "image": {
+      "off": {
+        "brand": "samyang",
+        "query": "ramen multipack"
+      }
+    },
+    "orderable": true
+  }
+]

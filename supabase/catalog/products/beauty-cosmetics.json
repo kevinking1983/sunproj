@@ -1,0 +1,1067 @@
+[
+  {
+    "slug": "lakme-lipstick-3-6g",
+    "name": "Lakme Lipstick",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-lipstick-gloss"
+    ],
+    "unit_label": "3.6 g",
+    "mrp": 54900,
+    "price": 52100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Bullet lipstick for everyday and occasion wear in a range of shades. Apply directly or with a lip brush and cap tightly after use.",
+    "tags": [
+      "lipstick",
+      "lip colour",
+      "lip color",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "lipstick"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-lipstick-3-9g",
+    "name": "Maybelline Lipstick",
+    "brand": "Maybelline",
+    "subcategories": [
+      "beauty-cosmetics-lipstick-gloss"
+    ],
+    "unit_label": "3.9 g",
+    "mrp": 47500,
+    "price": 42700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Lipstick available in multiple shades for daily wear. Line the lips first if you like, then apply from the centre outwards.",
+    "tags": [
+      "lipstick",
+      "lip colour",
+      "lip color",
+      "maybelline"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline",
+        "query": "lipstick"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-lip-gloss-5-4ml",
+    "name": "Maybelline Lip Gloss",
+    "brand": "Maybelline",
+    "subcategories": [
+      "beauty-cosmetics-lipstick-gloss"
+    ],
+    "unit_label": "5.4 ml",
+    "mrp": 74900,
+    "price": 74900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Lip gloss with a doe-foot applicator, worn alone or over lipstick. Apply to the centre of the lips and blend outwards.",
+    "tags": [
+      "lip gloss",
+      "gloss",
+      "lip shine",
+      "maybelline"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline",
+        "query": "lip gloss"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-lip-gloss-5ml",
+    "name": "Lakme Lip Gloss",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-lipstick-gloss"
+    ],
+    "unit_label": "5 ml",
+    "mrp": 39900,
+    "price": 36700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Glossy lip colour for a shiny finish, worn alone or layered over lipstick. Close the wand tightly to keep it from drying out.",
+    "tags": [
+      "lip gloss",
+      "gloss",
+      "lip shine",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "lip gloss"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-foundation-30ml",
+    "name": "Maybelline Foundation",
+    "brand": "Maybelline",
+    "subcategories": [
+      "beauty-cosmetics-foundation-compact"
+    ],
+    "unit_label": "30 ml",
+    "mrp": 64900,
+    "price": 57100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Liquid foundation available in multiple shades. Dot onto the face and blend outwards with a damp sponge or brush; shake before use.",
+    "tags": [
+      "foundation",
+      "liquid foundation",
+      "base makeup",
+      "maybelline"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline",
+        "query": "foundation"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-foundation-30ml",
+    "name": "Lakme Foundation",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-foundation-compact"
+    ],
+    "unit_label": "30 ml",
+    "mrp": 69900,
+    "price": 59400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Liquid foundation in a pump bottle for everyday makeup. Pick a shade close to your neck tone and blend evenly over moisturised skin.",
+    "tags": [
+      "foundation",
+      "liquid foundation",
+      "base makeup",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "foundation"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-compact-powder-9g",
+    "name": "Lakme Compact Powder",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-foundation-compact"
+    ],
+    "unit_label": "9 g",
+    "mrp": 29900,
+    "price": 28100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Pressed compact powder with a mirror and puff for touch-ups on the go. Press lightly over the face after foundation or on bare skin.",
+    "tags": [
+      "compact",
+      "compact powder",
+      "face powder",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "compact powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-compact-powder-8g",
+    "name": "Maybelline Compact Powder",
+    "brand": "Maybelline",
+    "subcategories": [
+      "beauty-cosmetics-foundation-compact"
+    ],
+    "unit_label": "8 g",
+    "mrp": 34900,
+    "price": 31400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Pressed face powder in a portable compact for setting makeup. Pat on with the sponge or a powder brush, focusing on the T-zone.",
+    "tags": [
+      "compact",
+      "compact powder",
+      "face powder",
+      "maybelline"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline",
+        "query": "compact powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-blush-4-5g",
+    "name": "Maybelline Blush",
+    "brand": "Maybelline",
+    "subcategories": [
+      "beauty-cosmetics-blush-highlighters"
+    ],
+    "unit_label": "4.5 g",
+    "mrp": 49900,
+    "price": 48400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Powder blush for adding colour to the cheeks. Sweep lightly onto the apples of the cheeks with a blush brush and build up gradually.",
+    "tags": [
+      "blush",
+      "blusher",
+      "cheek colour",
+      "maybelline"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline",
+        "query": "blush"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-blush-6g",
+    "name": "Lakme Blush",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-blush-highlighters"
+    ],
+    "unit_label": "6 g",
+    "mrp": 59900,
+    "price": 54500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Pressed blush in wearable shades for everyday makeup. Tap off excess from the brush and blend upwards along the cheekbones.",
+    "tags": [
+      "blush",
+      "blusher",
+      "cheek colour",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "blush"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-highlighter-8g",
+    "name": "Maybelline Highlighter",
+    "brand": "Maybelline",
+    "subcategories": [
+      "beauty-cosmetics-blush-highlighters"
+    ],
+    "unit_label": "8 g",
+    "mrp": 69900,
+    "price": 66400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Powder highlighter for the high points of the face such as cheekbones and brow bone. Apply with a fan or small brush and blend.",
+    "tags": [
+      "highlighter",
+      "illuminator",
+      "glow powder",
+      "maybelline"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline",
+        "query": "highlighter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-highlighter-5g",
+    "name": "Lakme Highlighter",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-blush-highlighters"
+    ],
+    "unit_label": "5 g",
+    "mrp": 59900,
+    "price": 53900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Highlighter for adding shimmer to cheekbones, nose bridge and cupid's bow. Use a light hand and blend edges with a clean brush.",
+    "tags": [
+      "highlighter",
+      "illuminator",
+      "glow powder",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "highlighter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-face-primer-30ml",
+    "name": "Lakme Face Primer",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-primer-concealer"
+    ],
+    "unit_label": "30 ml",
+    "mrp": 59900,
+    "price": 59900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Face primer applied after moisturiser and before foundation. Smooth a thin layer over the face and let it set for a minute before makeup.",
+    "tags": [
+      "primer",
+      "face primer",
+      "makeup base",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "face primer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-face-primer-30ml",
+    "name": "Maybelline Face Primer",
+    "brand": "Maybelline",
+    "subcategories": [
+      "beauty-cosmetics-primer-concealer"
+    ],
+    "unit_label": "30 ml",
+    "mrp": 64900,
+    "price": 59700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Makeup primer worn under foundation or alone. Spread a pea-sized amount over clean, moisturised skin and allow it to dry.",
+    "tags": [
+      "primer",
+      "face primer",
+      "makeup base",
+      "maybelline"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline",
+        "query": "face primer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-concealer-6ml",
+    "name": "Maybelline Concealer",
+    "brand": "Maybelline",
+    "subcategories": [
+      "beauty-cosmetics-primer-concealer"
+    ],
+    "unit_label": "6 ml",
+    "mrp": 69900,
+    "price": 61500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Liquid concealer for targeted coverage. Dab onto the areas that need it, blend with a fingertip or sponge, and set with powder if desired.",
+    "tags": [
+      "concealer",
+      "liquid concealer",
+      "corrector",
+      "maybelline"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline",
+        "query": "concealer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "la-girl-concealer-8g",
+    "name": "LA Girl Concealer",
+    "brand": "LA Girl",
+    "subcategories": [
+      "beauty-cosmetics-primer-concealer"
+    ],
+    "unit_label": "8 g",
+    "mrp": 59900,
+    "price": 50900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Liquid concealer with a wand applicator in several shades. Apply in small dots and blend out gently with a damp sponge.",
+    "tags": [
+      "concealer",
+      "liquid concealer",
+      "corrector",
+      "la girl"
+    ],
+    "image": {
+      "off": {
+        "brand": "la girl",
+        "query": "concealer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-eyeconic-kajal-0-35g",
+    "name": "Lakme Eyeconic Kajal",
+    "brand": "Lakme Eyeconic",
+    "subcategories": [
+      "beauty-cosmetics-kajal-eyeliners"
+    ],
+    "unit_label": "0.35 g",
+    "mrp": 25900,
+    "price": 24300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Twist-up kajal pencil for lining the eyes. Glide along the waterline or lash line, twist up only a little at a time and cap after use.",
+    "tags": [
+      "kajal",
+      "kohl",
+      "kaajal",
+      "eye pencil"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme eyeconic",
+        "query": "kajal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-colossal-kajal-0-35g",
+    "name": "Maybelline Colossal Kajal",
+    "brand": "Maybelline Colossal",
+    "subcategories": [
+      "beauty-cosmetics-kajal-eyeliners"
+    ],
+    "unit_label": "0.35 g",
+    "mrp": 27900,
+    "price": 25100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Black kajal pencil in a retractable twist-up format. Draw along the lash line or waterline and smudge if you want a softer look.",
+    "tags": [
+      "kajal",
+      "kohl",
+      "kaajal",
+      "eye pencil"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline colossal",
+        "query": "kajal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-eyeliner-4-5ml",
+    "name": "Lakme Eyeliner",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-kajal-eyeliners"
+    ],
+    "unit_label": "4.5 ml",
+    "mrp": 29900,
+    "price": 29000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Liquid eyeliner with a fine brush for defining the lash line. Let it dry before blinking and close the cap tightly so it does not dry out.",
+    "tags": [
+      "eyeliner",
+      "liquid liner",
+      "eye liner",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "eyeliner"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-eyeliner-3ml",
+    "name": "Maybelline Eyeliner",
+    "brand": "Maybelline",
+    "subcategories": [
+      "beauty-cosmetics-kajal-eyeliners"
+    ],
+    "unit_label": "3 ml",
+    "mrp": 32900,
+    "price": 29900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Liquid eyeliner for sharp lines and wings. Start from the inner corner with short strokes and remove with an eye makeup remover.",
+    "tags": [
+      "eyeliner",
+      "liquid liner",
+      "eye liner",
+      "maybelline"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline",
+        "query": "eyeliner"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maybelline-mascara-9-2ml",
+    "name": "Maybelline Mascara",
+    "brand": "Maybelline",
+    "subcategories": [
+      "beauty-cosmetics-kajal-eyeliners"
+    ],
+    "unit_label": "9.2 ml",
+    "mrp": 52500,
+    "price": 49800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Mascara with a brush wand for coating the lashes. Wiggle from root to tip, add a second coat if desired and replace a few months after opening.",
+    "tags": [
+      "mascara",
+      "eyelash",
+      "lash mascara",
+      "maybelline"
+    ],
+    "image": {
+      "off": {
+        "brand": "maybelline",
+        "query": "mascara"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-mascara-9ml",
+    "name": "Lakme Mascara",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-kajal-eyeliners"
+    ],
+    "unit_label": "9 ml",
+    "mrp": 44900,
+    "price": 40400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Black mascara for everyday eye makeup. Sweep through upper and lower lashes, and close the tube tightly after each use.",
+    "tags": [
+      "mascara",
+      "eyelash",
+      "lash mascara",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "mascara"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "shilpa-bindi-10sheets",
+    "name": "Shilpa Bindi",
+    "brand": "Shilpa",
+    "subcategories": [
+      "beauty-cosmetics-bindi-bangles-others"
+    ],
+    "unit_label": "10 sheets",
+    "mrp": 6000,
+    "price": 6000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Self-adhesive sticker bindis in assorted sizes for daily wear and festive dressing. Peel one off the sheet and press gently onto clean, dry skin.",
+    "tags": [
+      "bindi",
+      "tikli",
+      "sticker bindi",
+      "kumkum"
+    ],
+    "image": {
+      "off": {
+        "brand": "shilpa",
+        "query": "bindi"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "glass-bangles-1dozen",
+    "name": "Glass Bangles",
+    "brand": null,
+    "subcategories": [
+      "beauty-cosmetics-bindi-bangles-others"
+    ],
+    "unit_label": "1 dozen",
+    "mrp": 15000,
+    "price": 13800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Set of glass bangles for festive and everyday wear. Check the bangle size before buying and store them separately to avoid chips.",
+    "tags": [
+      "bangles",
+      "chudi",
+      "choodi",
+      "kangan"
+    ],
+    "image": {
+      "wiki": "Bangle"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "metal-bangles-4pcs",
+    "name": "Metal Bangles",
+    "brand": null,
+    "subcategories": [
+      "beauty-cosmetics-bindi-bangles-others"
+    ],
+    "unit_label": "4 pcs",
+    "mrp": 24900,
+    "price": 21900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Metal bangles to go with everyday and festive outfits. Choose your usual bangle size and wipe them dry after contact with water.",
+    "tags": [
+      "bangles",
+      "kada",
+      "kangan",
+      "metal bangles"
+    ],
+    "image": {
+      "wiki": "Bangle"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "plastic-bangles-1dozen",
+    "name": "Plastic Bangles",
+    "brand": null,
+    "subcategories": [
+      "beauty-cosmetics-bindi-bangles-others"
+    ],
+    "unit_label": "1 dozen",
+    "mrp": 9900,
+    "price": 8400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Lightweight plastic bangles in assorted colours for daily wear. Easy to wash with mild soap and water; check the size before buying.",
+    "tags": [
+      "bangles",
+      "chudi",
+      "choodi",
+      "plastic bangles"
+    ],
+    "image": {
+      "wiki": "Bangle"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "artificial-hair-flowers-1pc",
+    "name": "Artificial Hair Flowers",
+    "brand": null,
+    "subcategories": [
+      "beauty-cosmetics-bindi-bangles-others"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 9900,
+    "price": 9300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Reusable artificial flower hair accessory in the style of a gajra, for festive looks. Pin it around a bun or braid with bobby pins.",
+    "tags": [
+      "gajra",
+      "hair flowers",
+      "veni",
+      "hair accessory"
+    ],
+    "image": {
+      "wiki": "Gajra"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "decorative-forehead-stickers-pack-of-5",
+    "name": "Decorative Forehead Stickers",
+    "brand": null,
+    "subcategories": [
+      "beauty-cosmetics-bindi-bangles-others"
+    ],
+    "unit_label": "Pack of 5",
+    "mrp": 7500,
+    "price": 6700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Decorative self-adhesive forehead stickers for festive and bridal looks. Apply to clean, dry skin and peel off gently; not reusable.",
+    "tags": [
+      "forehead sticker",
+      "bindi",
+      "bridal bindi",
+      "tikli"
+    ],
+    "image": {
+      "wiki": "Bindi"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-nail-polish-9ml",
+    "name": "Lakme Nail Polish",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-nail-paints-accessories"
+    ],
+    "unit_label": "9 ml",
+    "mrp": 25900,
+    "price": 25100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Nail paint in a glass bottle with a brush applicator. Apply two thin coats on clean nails, letting each dry, and close the cap tightly.",
+    "tags": [
+      "nail polish",
+      "nail paint",
+      "nail colour",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "nail polish"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "colorbar-nail-polish-12ml",
+    "name": "Colorbar Nail Polish",
+    "brand": "Colorbar",
+    "subcategories": [
+      "beauty-cosmetics-nail-paints-accessories"
+    ],
+    "unit_label": "12 ml",
+    "mrp": 39900,
+    "price": 36300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Nail lacquer in a wide range of shades. Shake gently, paint in three strokes per nail and finish with a top coat if you like.",
+    "tags": [
+      "nail polish",
+      "nail paint",
+      "nail colour",
+      "colorbar"
+    ],
+    "image": {
+      "off": {
+        "brand": "colorbar",
+        "query": "nail polish"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lakme-nail-polish-remover-27ml",
+    "name": "Lakme Nail Polish Remover",
+    "brand": "Lakme",
+    "subcategories": [
+      "beauty-cosmetics-nail-paints-accessories"
+    ],
+    "unit_label": "27 ml",
+    "mrp": 9900,
+    "price": 9400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Nail polish remover for taking off nail paint at home. Soak a cotton pad, press on the nail for a few seconds and wipe; use in a ventilated room.",
+    "tags": [
+      "nail polish remover",
+      "nail remover",
+      "nail paint remover",
+      "lakme"
+    ],
+    "image": {
+      "off": {
+        "brand": "lakme",
+        "query": "nail polish remover"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "colorbar-nail-polish-remover-110ml",
+    "name": "Colorbar Nail Polish Remover",
+    "brand": "Colorbar",
+    "subcategories": [
+      "beauty-cosmetics-nail-paints-accessories"
+    ],
+    "unit_label": "110 ml",
+    "mrp": 24900,
+    "price": 22400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Liquid remover for nail paint. Moisten a cotton ball, hold on each nail briefly, wipe away the colour and wash hands afterwards.",
+    "tags": [
+      "nail polish remover",
+      "nail remover",
+      "nail paint remover",
+      "colorbar"
+    ],
+    "image": {
+      "off": {
+        "brand": "colorbar",
+        "query": "nail polish remover"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vega-nail-clipper-1pc",
+    "name": "Vega Nail Clipper",
+    "brand": "Vega",
+    "subcategories": [
+      "beauty-cosmetics-nail-paints-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 12900,
+    "price": 12900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Nail clipper for trimming fingernails and toenails. Clip straight across and smooth the edges with a file.",
+    "tags": [
+      "nail clipper",
+      "nail cutter",
+      "nail trimmer",
+      "vega"
+    ],
+    "image": {
+      "off": {
+        "brand": "vega",
+        "query": "nail clipper"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "miniso-nail-file-pack-of-2",
+    "name": "Miniso Nail File",
+    "brand": "Miniso",
+    "subcategories": [
+      "beauty-cosmetics-nail-paints-accessories"
+    ],
+    "unit_label": "Pack of 2",
+    "mrp": 9900,
+    "price": 9100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Nail files for shaping and smoothing nail edges after clipping. File in one direction for a cleaner finish.",
+    "tags": [
+      "nail file",
+      "nail filer",
+      "manicure",
+      "miniso"
+    ],
+    "image": {
+      "off": {
+        "brand": "miniso",
+        "query": "nail file"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vega-makeup-brush-set-1set",
+    "name": "Vega Makeup Brush Set",
+    "brand": "Vega",
+    "subcategories": [
+      "beauty-cosmetics-beauty-accessories"
+    ],
+    "unit_label": "1 set",
+    "mrp": 59900,
+    "price": 52700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Set of makeup brushes for applying powder, blush and eyeshadow. Wash the bristles with mild shampoo regularly and dry them flat.",
+    "tags": [
+      "makeup brushes",
+      "brush set",
+      "makeup brush",
+      "vega"
+    ],
+    "image": {
+      "off": {
+        "brand": "vega",
+        "query": "makeup brush"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "swiss-beauty-makeup-brush-set-1set",
+    "name": "Swiss Beauty Makeup Brush Set",
+    "brand": "Swiss Beauty",
+    "subcategories": [
+      "beauty-cosmetics-beauty-accessories"
+    ],
+    "unit_label": "1 set",
+    "mrp": 49900,
+    "price": 42400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Makeup brush set for face and eye makeup. Clean the brushes weekly and store them upright in a cup or pouch.",
+    "tags": [
+      "makeup brushes",
+      "brush set",
+      "makeup brush",
+      "swiss beauty"
+    ],
+    "image": {
+      "off": {
+        "brand": "swiss beauty",
+        "query": "makeup brush"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pac-makeup-sponge-1pc",
+    "name": "PAC Makeup Sponge",
+    "brand": "PAC",
+    "subcategories": [
+      "beauty-cosmetics-beauty-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 34900,
+    "price": 32800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Makeup blending sponge for foundation and concealer. Dampen and squeeze out excess water before use; wash after every few uses.",
+    "tags": [
+      "makeup sponge",
+      "beauty blender",
+      "blending sponge",
+      "pac"
+    ],
+    "image": {
+      "off": {
+        "brand": "pac",
+        "query": "makeup sponge"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vega-makeup-sponge-1pc",
+    "name": "Vega Makeup Sponge",
+    "brand": "Vega",
+    "subcategories": [
+      "beauty-cosmetics-beauty-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 19900,
+    "price": 17900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Blending sponge for applying liquid and cream makeup. Use damp for a sheerer finish and let it air-dry fully after washing.",
+    "tags": [
+      "makeup sponge",
+      "beauty blender",
+      "blending sponge",
+      "vega"
+    ],
+    "image": {
+      "off": {
+        "brand": "vega",
+        "query": "makeup sponge"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "miniso-makeup-mirror-1pc",
+    "name": "Miniso Makeup Mirror",
+    "brand": "Miniso",
+    "subcategories": [
+      "beauty-cosmetics-beauty-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 29900,
+    "price": 29000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Tabletop makeup mirror for the dressing table or desk. Wipe clean with a soft, dry cloth.",
+    "tags": [
+      "makeup mirror",
+      "mirror",
+      "vanity mirror",
+      "shisha"
+    ],
+    "image": {
+      "off": {
+        "brand": "miniso",
+        "query": "makeup mirror"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ikea-cosmetic-organiser-1pc",
+    "name": "IKEA Cosmetic Organiser",
+    "brand": "IKEA",
+    "subcategories": [
+      "beauty-cosmetics-beauty-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 49900,
+    "price": 45400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Organiser for storing lipsticks, brushes and skincare on a dressing table. Wipe it with a damp cloth to keep it dust-free.",
+    "tags": [
+      "makeup organiser",
+      "cosmetic organizer",
+      "vanity box",
+      "storage"
+    ],
+    "image": {
+      "off": {
+        "brand": "ikea",
+        "query": "organiser"
+      }
+    },
+    "orderable": true
+  }
+]

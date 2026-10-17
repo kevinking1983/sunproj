@@ -72,7 +72,7 @@ function OrderDetail() {
     if (!storeId) return;
     const cart = useCart.getState();
     for (const i of o.order_items) {
-      cart.add({ id: i.product_id, slug: "", name: i.name, description: null, unit_label: i.unit_label, mrp: i.mrp, price: i.unit_price, images: i.image_url ? [i.image_url] : [], is_veg: null, category_id: "", brand_name: null, available: 50 }, storeId);
+      cart.add({ id: i.product_id, slug: "", name: i.name, description: null, unit_label: i.unit_label, mrp: i.mrp, price: i.unit_price, images: i.image_url ? [i.image_url] : [], is_veg: null, category_id: "", brand_name: null, available: 50, orderable: true }, storeId);
       for (let n = 1; n < i.quantity; n++) cart.increment(i.product_id);
     }
     cart.setOpen(true);

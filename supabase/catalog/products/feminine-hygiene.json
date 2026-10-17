@@ -1,0 +1,811 @@
+[
+  {
+    "slug": "whisper-sanitary-pads-15pcs",
+    "name": "Whisper Sanitary Pads",
+    "brand": "Whisper",
+    "subcategories": [
+      "feminine-hygiene-sanitary-pads"
+    ],
+    "unit_label": "15 pcs",
+    "mrp": 21500,
+    "price": 20400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Disposable sanitary pads for everyday period use. Change every 4-6 hours, wrap the used pad and dispose of it in a bin.",
+    "tags": [
+      "sanitary pads",
+      "sanitary napkin",
+      "period pads",
+      "whisper"
+    ],
+    "image": {
+      "off": {
+        "brand": "whisper",
+        "query": "sanitary pads"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "stayfree-sanitary-pads-20pcs",
+    "name": "Stayfree Sanitary Pads",
+    "brand": "Stayfree",
+    "subcategories": [
+      "feminine-hygiene-sanitary-pads"
+    ],
+    "unit_label": "20 pcs",
+    "mrp": 22500,
+    "price": 20200,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Sanitary napkins for regular period use. Change the pad every few hours, wrap it in the wrapper or paper and dispose of it in a bin; do not flush.",
+    "tags": [
+      "sanitary pads",
+      "sanitary napkin",
+      "period pads",
+      "stayfree"
+    ],
+    "image": {
+      "off": {
+        "brand": "stayfree",
+        "query": "sanitary pads"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "carefree-pantyliners-20pcs",
+    "name": "Carefree Pantyliners",
+    "brand": "Carefree",
+    "subcategories": [
+      "feminine-hygiene-sanitary-pads"
+    ],
+    "unit_label": "20 pcs",
+    "mrp": 15000,
+    "price": 15000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Thin daily pantyliners for light days and everyday freshness. Change through the day as needed and dispose of in a bin.",
+    "tags": [
+      "panty liners",
+      "pantyliner",
+      "daily liners",
+      "carefree"
+    ],
+    "image": {
+      "off": {
+        "brand": "carefree",
+        "query": "pantyliners"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "whisper-pantyliners-20pcs",
+    "name": "Whisper Pantyliners",
+    "brand": "Whisper",
+    "subcategories": [
+      "feminine-hygiene-sanitary-pads"
+    ],
+    "unit_label": "20 pcs",
+    "mrp": 12900,
+    "price": 11800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Individually wrapped pantyliners for daily use or the start and end of a period. Change regularly and do not flush.",
+    "tags": [
+      "panty liners",
+      "pantyliner",
+      "daily liners",
+      "whisper"
+    ],
+    "image": {
+      "off": {
+        "brand": "whisper",
+        "query": "pantyliners"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tampax-tampons-10pcs",
+    "name": "Tampax Tampons",
+    "brand": "Tampax",
+    "subcategories": [
+      "feminine-hygiene-tampons-menstrual-cups"
+    ],
+    "unit_label": "10 pcs",
+    "mrp": 32900,
+    "price": 28900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Tampons for period use. Read the leaflet before first use, choose the lowest absorbency you need and change every 4-8 hours.",
+    "tags": [
+      "tampons",
+      "tampon",
+      "period care",
+      "tampax"
+    ],
+    "image": {
+      "off": {
+        "brand": "tampax",
+        "query": "tampons"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ob-tampons-16pcs",
+    "name": "o.b. Tampons",
+    "brand": "o.b.",
+    "subcategories": [
+      "feminine-hygiene-tampons-menstrual-cups"
+    ],
+    "unit_label": "16 pcs",
+    "mrp": 29900,
+    "price": 25400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Compact non-applicator tampons that fit in a small pouch. Wash hands before insertion, follow the leaflet and change every 4-8 hours.",
+    "tags": [
+      "tampons",
+      "tampon",
+      "period care",
+      "ob"
+    ],
+    "image": {
+      "off": {
+        "brand": "o.b.",
+        "query": "tampons"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sirona-menstrual-cup-1pc",
+    "name": "Sirona Menstrual Cup",
+    "brand": "Sirona",
+    "subcategories": [
+      "feminine-hygiene-tampons-menstrual-cups"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 49900,
+    "price": 46900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Reusable menstrual cup available in several sizes. Sterilise in boiling water before first use and between cycles, and read the size guide on the pack.",
+    "tags": [
+      "menstrual cup",
+      "period cup",
+      "reusable cup",
+      "sirona"
+    ],
+    "image": {
+      "off": {
+        "brand": "sirona",
+        "query": "menstrual cup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pee-safe-menstrual-cup-1pc",
+    "name": "Pee Safe Menstrual Cup",
+    "brand": "Pee Safe",
+    "subcategories": [
+      "feminine-hygiene-tampons-menstrual-cups"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 44900,
+    "price": 40400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Reusable silicone menstrual cup with a storage pouch. Boil to clean before each cycle, empty and rinse every few hours, and pick your size from the chart.",
+    "tags": [
+      "menstrual cup",
+      "period cup",
+      "reusable cup",
+      "pee safe"
+    ],
+    "image": {
+      "off": {
+        "brand": "pee safe",
+        "query": "menstrual cup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "healthfab-gopadfree-period-underwear-1pc",
+    "name": "HealthFab GoPadFree Period Underwear",
+    "brand": "HealthFab GoPadFree",
+    "subcategories": [
+      "feminine-hygiene-period-panty"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 79900,
+    "price": 77500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Reusable period underwear with a built-in absorbent layer, worn on its own or as backup. Rinse in cold water after use, then wash.",
+    "tags": [
+      "period panty",
+      "period underwear",
+      "reusable period wear"
+    ],
+    "image": {
+      "off": {
+        "brand": "healthfab gopadfree",
+        "query": "period underwear"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mahina-period-underwear-1pc",
+    "name": "Mahina Period Underwear",
+    "brand": "Mahina",
+    "subcategories": [
+      "feminine-hygiene-period-panty"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 69900,
+    "price": 63600,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Washable period underwear for use during menstruation. Check the size chart, rinse in cold water after wearing and line-dry out of direct heat.",
+    "tags": [
+      "period panty",
+      "period underwear",
+      "reusable period wear",
+      "mahina"
+    ],
+    "image": {
+      "off": {
+        "brand": "mahina",
+        "query": "period underwear"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sirona-heat-patches-pack-of-5",
+    "name": "Sirona Heat Patches",
+    "brand": "Sirona",
+    "subcategories": [
+      "feminine-hygiene-period-pain-relief"
+    ],
+    "unit_label": "Pack of 5",
+    "mrp": 29900,
+    "price": 28400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Disposable self-heating patches that stick onto clothing over the lower abdomen or back for warmth. Do not apply directly to skin; follow the time limit on the pack.",
+    "tags": [
+      "heat patch",
+      "heating pad",
+      "period patch",
+      "sirona"
+    ],
+    "image": {
+      "off": {
+        "brand": "sirona",
+        "query": "heat patch"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pee-safe-heat-patches-pack-of-5",
+    "name": "Pee Safe Heat Patches",
+    "brand": "Pee Safe",
+    "subcategories": [
+      "feminine-hygiene-period-pain-relief"
+    ],
+    "unit_label": "Pack of 5",
+    "mrp": 27500,
+    "price": 24700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Air-activated warming patches for period days. Open the sachet, stick the patch onto underwear or clothing, never on bare skin, and remove after the time on the pack.",
+    "tags": [
+      "heat patch",
+      "heating pad",
+      "period patch",
+      "pee safe"
+    ],
+    "image": {
+      "off": {
+        "brand": "pee safe",
+        "query": "heat patch"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "flamingo-hot-water-bag-1pc",
+    "name": "Flamingo Hot Water Bag",
+    "brand": "Flamingo",
+    "subcategories": [
+      "feminine-hygiene-period-pain-relief"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 34900,
+    "price": 34900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Rubber hot water bag for warmth on cold nights or on the stomach and back. Fill two-thirds with hot (not boiling) water, release the air and screw the stopper tight.",
+    "tags": [
+      "hot water bag",
+      "hot water bottle",
+      "garam pani ki thaili",
+      "sek"
+    ],
+    "image": {
+      "off": {
+        "brand": "flamingo",
+        "query": "hot water bag"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tynor-hot-water-bag-1pc",
+    "name": "Tynor Hot Water Bag",
+    "brand": "Tynor",
+    "subcategories": [
+      "feminine-hygiene-period-pain-relief"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 39900,
+    "price": 36700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Hot water bag for warm compresses at home. Do not overfill, check the stopper for leaks and wrap in a towel before placing against the body.",
+    "tags": [
+      "hot water bag",
+      "hot water bottle",
+      "garam pani ki thaili",
+      "sek"
+    ],
+    "image": {
+      "off": {
+        "brand": "tynor",
+        "query": "hot water bag"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vwash-intimate-wash-100ml",
+    "name": "VWash Intimate Wash",
+    "brand": "VWash",
+    "subcategories": [
+      "feminine-hygiene-intimate-wash-wipes"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 22500,
+    "price": 19800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Mild liquid wash for external intimate hygiene, used in place of regular soap. Use a small amount with water during a bath and rinse well; external use only.",
+    "tags": [
+      "intimate wash",
+      "feminine wash",
+      "vwash"
+    ],
+    "image": {
+      "off": {
+        "brand": "vwash",
+        "query": "intimate wash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pee-safe-intimate-wash-100ml",
+    "name": "Pee Safe Intimate Wash",
+    "brand": "Pee Safe",
+    "subcategories": [
+      "feminine-hygiene-intimate-wash-wipes"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 19900,
+    "price": 16900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Intimate wash for daily external use in the shower. Apply a little with water, rinse off thoroughly and keep the cap closed.",
+    "tags": [
+      "intimate wash",
+      "feminine wash",
+      "pee safe"
+    ],
+    "image": {
+      "off": {
+        "brand": "pee safe",
+        "query": "intimate wash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pee-safe-intimate-wipes-10pcs",
+    "name": "Pee Safe Intimate Wipes",
+    "brand": "Pee Safe",
+    "subcategories": [
+      "feminine-hygiene-intimate-wash-wipes"
+    ],
+    "unit_label": "10 pcs",
+    "mrp": 11900,
+    "price": 11100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Pocket pack of wipes for freshening up while travelling or at work. Use once and dispose of in a bin; do not flush.",
+    "tags": [
+      "intimate wipes",
+      "feminine wipes",
+      "wet wipes",
+      "pee safe"
+    ],
+    "image": {
+      "off": {
+        "brand": "pee safe",
+        "query": "intimate wipes"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sirona-intimate-wipes-10pcs",
+    "name": "Sirona Intimate Wipes",
+    "brand": "Sirona",
+    "subcategories": [
+      "feminine-hygiene-intimate-wash-wipes"
+    ],
+    "unit_label": "10 pcs",
+    "mrp": 9900,
+    "price": 8900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Unscented intimate wipes in a resealable travel pack. Reseal after each use to keep the wipes moist, and throw used wipes in the bin.",
+    "tags": [
+      "intimate wipes",
+      "feminine wipes",
+      "wet wipes",
+      "sirona"
+    ],
+    "image": {
+      "off": {
+        "brand": "sirona",
+        "query": "intimate wipes"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "veet-hair-removal-cream-50g",
+    "name": "Veet Hair Removal Cream",
+    "brand": "Veet",
+    "subcategories": [
+      "feminine-hygiene-hair-removal",
+      "skin-face-women-s-grooming"
+    ],
+    "unit_label": "50 g",
+    "mrp": 12900,
+    "price": 12500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Depilatory cream for removing hair from legs, arms and underarms. Do a patch test 24 hours before use, follow the timing on the pack and rinse off completely.",
+    "tags": [
+      "hair removal cream",
+      "depilatory cream",
+      "veet",
+      "unwanted hair"
+    ],
+    "image": {
+      "off": {
+        "brand": "veet",
+        "query": "hair removal cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "anne-french-hair-removal-cream-50g",
+    "name": "Anne French Hair Removal Cream",
+    "brand": "Anne French",
+    "subcategories": [
+      "feminine-hygiene-hair-removal"
+    ],
+    "unit_label": "50 g",
+    "mrp": 11900,
+    "price": 10800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Hair removal cream for at-home use on arms and legs. Patch test first, spread evenly, wipe off within the time on the pack and rinse with water.",
+    "tags": [
+      "hair removal cream",
+      "depilatory cream",
+      "anne french"
+    ],
+    "image": {
+      "off": {
+        "brand": "anne french",
+        "query": "hair removal cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "veet-wax-strips-20pcs",
+    "name": "Veet Wax Strips",
+    "brand": "Veet",
+    "subcategories": [
+      "feminine-hygiene-hair-removal",
+      "skin-face-women-s-grooming"
+    ],
+    "unit_label": "20 pcs",
+    "mrp": 34900,
+    "price": 33100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Ready-to-use cold wax strips for at-home hair removal on legs and arms. Warm a strip between palms, press on in the direction of hair growth and pull off quickly against it.",
+    "tags": [
+      "wax strips",
+      "waxing strips",
+      "cold wax",
+      "veet"
+    ],
+    "image": {
+      "off": {
+        "brand": "veet",
+        "query": "wax strips"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "rica-wax-800ml",
+    "name": "Rica Wax",
+    "brand": "Rica",
+    "subcategories": [
+      "feminine-hygiene-hair-removal"
+    ],
+    "unit_label": "800 ml",
+    "mrp": 139900,
+    "price": 125900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Hair removal wax in a tin for use with a wax heater and strips. Test the temperature on a small area before applying and follow the instructions on the label.",
+    "tags": [
+      "wax",
+      "waxing",
+      "hair removal wax",
+      "rica"
+    ],
+    "image": {
+      "off": {
+        "brand": "rica",
+        "query": "wax"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "gillette-venus-razor-1pc",
+    "name": "Gillette Venus Razor",
+    "brand": "Gillette Venus",
+    "subcategories": [
+      "feminine-hygiene-hair-removal",
+      "skin-face-women-s-grooming"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 29900,
+    "price": 29900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Women's shaving razor with replaceable cartridges. Shave on wet skin with gel or foam, rinse the blade often and store it dry.",
+    "tags": [
+      "razor",
+      "womens razor",
+      "shaving razor",
+      "venus"
+    ],
+    "image": {
+      "off": {
+        "brand": "gillette venus",
+        "query": "razor"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "philips-body-trimmer-1pc",
+    "name": "Philips Body Trimmer",
+    "brand": "Philips",
+    "subcategories": [
+      "feminine-hygiene-hair-removal"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 179900,
+    "price": 165500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Compact electric trimmer for body grooming. Use on dry skin, clean the head after each use and follow the charging or battery instructions in the manual.",
+    "tags": [
+      "trimmer",
+      "body trimmer",
+      "bikini trimmer",
+      "philips"
+    ],
+    "image": {
+      "off": {
+        "brand": "philips",
+        "query": "trimmer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "whisper-maternity-pads-20pcs",
+    "name": "Whisper Maternity Pads",
+    "brand": "Whisper",
+    "subcategories": [
+      "feminine-hygiene-mom-care"
+    ],
+    "unit_label": "20 pcs",
+    "mrp": 32900,
+    "price": 28900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Extra-long maternity pads for use after childbirth. Change frequently, wrap used pads and dispose of them in a bin.",
+    "tags": [
+      "maternity pads",
+      "postpartum pads",
+      "delivery pads",
+      "whisper"
+    ],
+    "image": {
+      "off": {
+        "brand": "whisper",
+        "query": "maternity pads"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sirona-maternity-pads-10pcs",
+    "name": "Sirona Maternity Pads",
+    "brand": "Sirona",
+    "subcategories": [
+      "feminine-hygiene-mom-care"
+    ],
+    "unit_label": "10 pcs",
+    "mrp": 24900,
+    "price": 21100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Maternity pads designed for the weeks after delivery. Keep a pack in the hospital bag and change them regularly through the day.",
+    "tags": [
+      "maternity pads",
+      "postpartum pads",
+      "delivery pads",
+      "sirona"
+    ],
+    "image": {
+      "off": {
+        "brand": "sirona",
+        "query": "maternity pads"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "philips-avent-breast-pads-24pcs",
+    "name": "Philips Avent Breast Pads",
+    "brand": "Philips Avent",
+    "subcategories": [
+      "feminine-hygiene-mom-care"
+    ],
+    "unit_label": "24 pcs",
+    "mrp": 59900,
+    "price": 56300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Disposable breast pads worn inside the bra during breastfeeding. Change whenever damp and discard after use.",
+    "tags": [
+      "breast pads",
+      "nursing pads",
+      "feeding pads",
+      "avent"
+    ],
+    "image": {
+      "off": {
+        "brand": "philips avent",
+        "query": "breast pads"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pigeon-breast-pads-36pcs",
+    "name": "Pigeon Breast Pads",
+    "brand": "Pigeon",
+    "subcategories": [
+      "feminine-hygiene-mom-care"
+    ],
+    "unit_label": "36 pcs",
+    "mrp": 54900,
+    "price": 49400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Individually wrapped disposable nursing pads for new mothers. Peel off the backing, place inside the bra and replace as often as needed.",
+    "tags": [
+      "breast pads",
+      "nursing pads",
+      "feeding pads",
+      "pigeon"
+    ],
+    "image": {
+      "off": {
+        "brand": "pigeon",
+        "query": "breast pads"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "palmers-belly-butter-125g",
+    "name": "Palmer's Belly Butter",
+    "brand": "Palmer's",
+    "subcategories": [
+      "feminine-hygiene-mom-care"
+    ],
+    "unit_label": "125 g",
+    "mrp": 99900,
+    "price": 96900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Rich cocoa butter-based balm for massaging onto the belly, hips and thighs during and after pregnancy. Massage in daily after a bath.",
+    "tags": [
+      "belly butter",
+      "body butter",
+      "maternity cream",
+      "palmers"
+    ],
+    "image": {
+      "off": {
+        "brand": "palmer's",
+        "query": "cocoa butter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mamaearth-belly-butter-100ml",
+    "name": "Mamaearth Belly Butter",
+    "brand": "Mamaearth",
+    "subcategories": [
+      "feminine-hygiene-mom-care"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 49900,
+    "price": 45400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Moisturising body butter for the belly and hips during pregnancy and after childbirth. Massage gently onto clean skin once or twice a day.",
+    "tags": [
+      "belly butter",
+      "body butter",
+      "maternity cream",
+      "mamaearth"
+    ],
+    "image": {
+      "off": {
+        "brand": "mamaearth",
+        "query": "body butter"
+      }
+    },
+    "orderable": true
+  }
+]

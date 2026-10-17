@@ -1,0 +1,1513 @@
+[
+  {
+    "slug": "milton-steel-water-bottle-1pc",
+    "name": "Milton Steel Water Bottle",
+    "brand": "Milton",
+    "subcategories": [
+      "kitchenware-appliances-bottles-flasks"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 60000,
+    "price": 54000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Stainless steel water bottle for school, office or the gym. Wash with warm soapy water and dry with the cap open.",
+    "tags": [
+      "water bottle",
+      "steel bottle",
+      "bottle"
+    ],
+    "image": {
+      "off": {
+        "brand": "milton",
+        "query": "steel water bottle"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-plastic-water-bottles-pack-of-3",
+    "name": "Cello Plastic Water Bottles",
+    "brand": "Cello",
+    "subcategories": [
+      "kitchenware-appliances-bottles-flasks"
+    ],
+    "unit_label": "Pack of 3",
+    "mrp": 40000,
+    "price": 36000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Set of lightweight plastic fridge bottles for chilled water at home. Hand wash and avoid filling with boiling water.",
+    "tags": [
+      "fridge bottle",
+      "plastic bottle",
+      "water bottle"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "plastic bottle"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milton-vacuum-flask-1pc",
+    "name": "Milton Vacuum Flask",
+    "brand": "Milton",
+    "subcategories": [
+      "kitchenware-appliances-bottles-flasks"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 90000,
+    "price": 82000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Double-walled steel vacuum flask that keeps tea, coffee or water hot or cold for hours. Rinse after each use.",
+    "tags": [
+      "flask",
+      "thermos",
+      "vacuum flask"
+    ],
+    "image": {
+      "off": {
+        "brand": "milton",
+        "query": "vacuum flask"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-vacuum-flask-1pc",
+    "name": "Cello Vacuum Flask",
+    "brand": "Cello",
+    "subcategories": [
+      "kitchenware-appliances-bottles-flasks"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 80000,
+    "price": 72000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Insulated stainless steel flask for carrying hot or cold drinks on the go. Hand wash and dry before storing.",
+    "tags": [
+      "flask",
+      "thermos",
+      "vacuum flask"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "flask"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "prestige-vegetable-peeler-1pc",
+    "name": "Prestige Vegetable Peeler",
+    "brand": "Prestige",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 20000,
+    "price": 18000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Steel-blade peeler for potatoes, carrots and other vegetables. Rinse and dry after use to keep the blade sharp.",
+    "tags": [
+      "peeler",
+      "vegetable peeler",
+      "kitchen tool"
+    ],
+    "image": {
+      "off": {
+        "brand": "prestige",
+        "query": "peeler"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pigeon-grater-1pc",
+    "name": "Pigeon Grater",
+    "brand": "Pigeon",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 25000,
+    "price": 22000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Multi-side grater for cheese, carrots, ginger and coconut. Clean with a brush and dry before storing.",
+    "tags": [
+      "grater",
+      "kaddukas",
+      "kitchen tool"
+    ],
+    "image": {
+      "off": {
+        "brand": "pigeon",
+        "query": "grater"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milton-kitchen-funnel-1pc",
+    "name": "Milton Kitchen Funnel",
+    "brand": "Milton",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 15000,
+    "price": 13500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Food-safe funnel for pouring oil, liquids and grains into bottles and jars without spills. Wash after each use.",
+    "tags": [
+      "funnel",
+      "kitchen funnel",
+      "oil funnel"
+    ],
+    "image": {
+      "off": {
+        "brand": "milton",
+        "query": "funnel"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "wonderchef-measuring-spoons-1set",
+    "name": "Wonderchef Measuring Spoons",
+    "brand": "Wonderchef",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-accessories"
+    ],
+    "unit_label": "1 set",
+    "mrp": 30000,
+    "price": 27000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Set of measuring spoons for baking and following recipes accurately. Hand wash and hang to dry.",
+    "tags": [
+      "measuring spoons",
+      "baking tools",
+      "kitchen tool"
+    ],
+    "image": {
+      "off": {
+        "brand": "wonderchef",
+        "query": "measuring spoons"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pigeon-steel-sieve-1pc",
+    "name": "Pigeon Steel Sieve",
+    "brand": "Pigeon",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 25000,
+    "price": 22000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Fine mesh steel sieve for sifting flour, straining tea and rinsing grains. Rinse and dry thoroughly after use.",
+    "tags": [
+      "sieve",
+      "chalni",
+      "strainer",
+      "channi"
+    ],
+    "image": {
+      "off": {
+        "brand": "pigeon",
+        "query": "sieve"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "borosil-glass-tumblers-6pcs",
+    "name": "Borosil Glass Tumblers",
+    "brand": "Borosil",
+    "subcategories": [
+      "kitchenware-appliances-mugs-glasses"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 60000,
+    "price": 54000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Set of clear glass tumblers for water, juice and everyday drinks. Dishwasher-safe; avoid sudden temperature changes.",
+    "tags": [
+      "glasses",
+      "tumblers",
+      "drinking glass"
+    ],
+    "image": {
+      "off": {
+        "brand": "borosil",
+        "query": "glass tumbler"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-steel-tumblers-6pcs",
+    "name": "Cello Steel Tumblers",
+    "brand": "Cello",
+    "subcategories": [
+      "kitchenware-appliances-mugs-glasses"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 50000,
+    "price": 45000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Stainless steel tumblers for water, lassi and buttermilk at home or picnics. Wash and wipe dry to avoid water marks.",
+    "tags": [
+      "steel glass",
+      "tumbler",
+      "gilas"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "steel tumbler"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "borosil-glass-coffee-mugs-pack-of-2",
+    "name": "Borosil Glass Coffee Mugs",
+    "brand": "Borosil",
+    "subcategories": [
+      "kitchenware-appliances-mugs-glasses"
+    ],
+    "unit_label": "Pack of 2",
+    "mrp": 50000,
+    "price": 45000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Clear glass mugs for coffee, tea and hot chocolate. Suitable for microwave use; hand wash or use a dishwasher.",
+    "tags": [
+      "coffee mug",
+      "glass mug",
+      "tea mug"
+    ],
+    "image": {
+      "off": {
+        "brand": "borosil",
+        "query": "coffee mug"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-travel-mug-1pc",
+    "name": "Cello Travel Mug",
+    "brand": "Cello",
+    "subcategories": [
+      "kitchenware-appliances-mugs-glasses"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 45000,
+    "price": 40000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Insulated travel mug with a lid for coffee or tea on the commute. Hand wash and dry with the lid off.",
+    "tags": [
+      "travel mug",
+      "sipper",
+      "coffee mug"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "travel mug"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "prestige-kadai-1pc",
+    "name": "Prestige Kadai",
+    "brand": "Prestige",
+    "subcategories": [
+      "kitchenware-appliances-cookware-sets"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 150000,
+    "price": 135000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Deep kadai for sabzis, deep frying and gravies, with sturdy handles. Clean with a soft sponge and avoid metal scrubbers on coated surfaces.",
+    "tags": [
+      "kadai",
+      "kadhai",
+      "wok",
+      "cookware"
+    ],
+    "image": {
+      "off": {
+        "brand": "prestige",
+        "query": "kadai"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hawkins-tawa-1pc",
+    "name": "Hawkins Tawa",
+    "brand": "Hawkins",
+    "subcategories": [
+      "kitchenware-appliances-cookware-sets"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 130000,
+    "price": 118000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Flat tawa for rotis, parathas and dosas. Heat gradually and clean once it cools down.",
+    "tags": [
+      "tawa",
+      "tava",
+      "roti tawa",
+      "dosa tawa"
+    ],
+    "image": {
+      "off": {
+        "brand": "hawkins",
+        "query": "tawa"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "prestige-pressure-cooker-1pc",
+    "name": "Prestige Pressure Cooker",
+    "brand": "Prestige",
+    "subcategories": [
+      "kitchenware-appliances-cookware-sets"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 220000,
+    "price": 195000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Pressure cooker for dal, rice and curries, sized for a small family. Check the gasket and vent regularly and follow the manual.",
+    "tags": [
+      "pressure cooker",
+      "cooker",
+      "cookware"
+    ],
+    "image": {
+      "off": {
+        "brand": "prestige",
+        "query": "pressure cooker"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hawkins-pressure-cooker-1pc",
+    "name": "Hawkins Pressure Cooker",
+    "brand": "Hawkins",
+    "subcategories": [
+      "kitchenware-appliances-cookware-sets"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 210000,
+    "price": 190000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Everyday pressure cooker for quick dal, chana and rice. Replace the gasket when worn and keep the vent clean.",
+    "tags": [
+      "pressure cooker",
+      "cooker",
+      "cookware"
+    ],
+    "image": {
+      "off": {
+        "brand": "hawkins",
+        "query": "pressure cooker"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "prestige-cookware-set-1set",
+    "name": "Prestige Cookware Set",
+    "brand": "Prestige",
+    "subcategories": [
+      "kitchenware-appliances-cookware-sets"
+    ],
+    "unit_label": "1 set",
+    "mrp": 350000,
+    "price": 310000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Cookware set with essential pans for daily cooking. Wash with mild detergent and a soft sponge after use.",
+    "tags": [
+      "cookware set",
+      "pots and pans",
+      "cookware"
+    ],
+    "image": {
+      "off": {
+        "brand": "prestige",
+        "query": "cookware set"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vinod-steel-saucepan-1pc",
+    "name": "Vinod Steel Saucepan",
+    "brand": "Vinod",
+    "subcategories": [
+      "kitchenware-appliances-cookware-sets"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 90000,
+    "price": 82000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Stainless steel saucepan for boiling milk, tea and making sauces. Clean with a non-abrasive scrubber.",
+    "tags": [
+      "saucepan",
+      "milk pan",
+      "patila",
+      "cookware"
+    ],
+    "image": {
+      "off": {
+        "brand": "vinod",
+        "query": "saucepan"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milton-steel-storage-containers-pack-of-3",
+    "name": "Milton Steel Storage Containers",
+    "brand": "Milton",
+    "subcategories": [
+      "kitchenware-appliances-storage-containers"
+    ],
+    "unit_label": "Pack of 3",
+    "mrp": 80000,
+    "price": 72000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Stainless steel containers with lids for storing dals, snacks and leftovers. Wash and dry fully before refilling.",
+    "tags": [
+      "storage container",
+      "dabba",
+      "steel container"
+    ],
+    "image": {
+      "off": {
+        "brand": "milton",
+        "query": "steel container"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-plastic-storage-containers-pack-of-3",
+    "name": "Cello Plastic Storage Containers",
+    "brand": "Cello",
+    "subcategories": [
+      "kitchenware-appliances-storage-containers"
+    ],
+    "unit_label": "Pack of 3",
+    "mrp": 50000,
+    "price": 45000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Food-grade plastic containers with lids for pantry and fridge storage. Hand wash and avoid very hot liquids.",
+    "tags": [
+      "storage container",
+      "dabba",
+      "plastic container"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "plastic container"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "borosil-glass-storage-jars-pack-of-3",
+    "name": "Borosil Glass Storage Jars",
+    "brand": "Borosil",
+    "subcategories": [
+      "kitchenware-appliances-storage-containers"
+    ],
+    "unit_label": "Pack of 3",
+    "mrp": 90000,
+    "price": 82000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Clear glass jars for cereals, pasta and dry snacks so contents are easy to see. Wash and dry before filling.",
+    "tags": [
+      "glass jar",
+      "storage jar",
+      "barni"
+    ],
+    "image": {
+      "off": {
+        "brand": "borosil",
+        "query": "glass jar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-spice-jars-6pcs",
+    "name": "Cello Spice Jars",
+    "brand": "Cello",
+    "subcategories": [
+      "kitchenware-appliances-storage-containers"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 40000,
+    "price": 36000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Small jars for organising masalas and spices on the kitchen shelf. Keep dry inside to prevent clumping.",
+    "tags": [
+      "spice jars",
+      "masala dabba",
+      "jars"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "spice jars"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "borosil-cocktail-shaker-1pc",
+    "name": "Borosil Cocktail Shaker",
+    "brand": "Borosil",
+    "subcategories": [
+      "kitchenware-appliances-barware"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 80000,
+    "price": 72000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Stainless steel shaker for mocktails, cold coffee and lemonades. Rinse right after use and dry well.",
+    "tags": [
+      "cocktail shaker",
+      "shaker",
+      "bar tools"
+    ],
+    "image": {
+      "off": {
+        "brand": "borosil",
+        "query": "cocktail shaker"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ocean-bar-measure-1pc",
+    "name": "Ocean Bar Measure",
+    "brand": "Ocean",
+    "subcategories": [
+      "kitchenware-appliances-barware"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 30000,
+    "price": 27000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Double-sided measuring jigger for mixing drinks and mocktails accurately. Hand wash and dry after use.",
+    "tags": [
+      "jigger",
+      "bar measure",
+      "peg measure"
+    ],
+    "image": {
+      "off": {
+        "brand": "ocean",
+        "query": "jigger"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ocean-highball-glasses-6pcs",
+    "name": "Ocean Highball Glasses",
+    "brand": "Ocean",
+    "subcategories": [
+      "kitchenware-appliances-barware"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 80000,
+    "price": 72000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Tall highball glasses for juices, mocktails and iced drinks. Hand wash or use a dishwasher on a gentle cycle.",
+    "tags": [
+      "highball glass",
+      "glassware",
+      "tall glass"
+    ],
+    "image": {
+      "off": {
+        "brand": "ocean",
+        "query": "highball glass"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "borosil-shot-glasses-6pcs",
+    "name": "Borosil Shot Glasses",
+    "brand": "Borosil",
+    "subcategories": [
+      "kitchenware-appliances-barware"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 50000,
+    "price": 45000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Small glasses for shots, tasting portions or serving desserts. Wash gently and store upright.",
+    "tags": [
+      "shot glasses",
+      "glassware",
+      "small glass"
+    ],
+    "image": {
+      "off": {
+        "brand": "borosil",
+        "query": "shot glass"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milton-ice-bucket-1pc",
+    "name": "Milton Ice Bucket",
+    "brand": "Milton",
+    "subcategories": [
+      "kitchenware-appliances-barware"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 70000,
+    "price": 64000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Insulated ice bucket that keeps ice from melting quickly at parties. Empty, wash and dry after each use.",
+    "tags": [
+      "ice bucket",
+      "ice box",
+      "party"
+    ],
+    "image": {
+      "off": {
+        "brand": "milton",
+        "query": "ice bucket"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-ice-cube-trays-pack-of-2",
+    "name": "Cello Ice Cube Trays",
+    "brand": "Cello",
+    "subcategories": [
+      "kitchenware-appliances-barware"
+    ],
+    "unit_label": "Pack of 2",
+    "mrp": 25000,
+    "price": 22000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Flexible ice cube trays for the freezer. Twist gently to release cubes and wash with mild soap.",
+    "tags": [
+      "ice tray",
+      "ice mould",
+      "ice cube tray"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "ice tray"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milton-steel-lunch-box-1pc",
+    "name": "Milton Steel Lunch Box",
+    "brand": "Milton",
+    "subcategories": [
+      "kitchenware-appliances-lunch-boxes"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 70000,
+    "price": 64000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Stainless steel lunch box with containers for roti, sabzi and dal. Wash every container after use.",
+    "tags": [
+      "lunch box",
+      "tiffin",
+      "dabba"
+    ],
+    "image": {
+      "off": {
+        "brand": "milton",
+        "query": "lunch box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-insulated-lunch-box-1pc",
+    "name": "Cello Insulated Lunch Box",
+    "brand": "Cello",
+    "subcategories": [
+      "kitchenware-appliances-lunch-boxes"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 90000,
+    "price": 82000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Insulated tiffin that helps keep food warm until lunch. Remove inner containers to wash.",
+    "tags": [
+      "insulated lunch box",
+      "tiffin",
+      "hot case"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "insulated lunch box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milton-kids-lunch-box-1pc",
+    "name": "Milton Kids Lunch Box",
+    "brand": "Milton",
+    "subcategories": [
+      "kitchenware-appliances-lunch-boxes"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 40000,
+    "price": 36000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Compact lunch box for school with a compartment for snacks. Hand wash and dry with the lid open.",
+    "tags": [
+      "kids lunch box",
+      "school tiffin",
+      "tiffin"
+    ],
+    "image": {
+      "off": {
+        "brand": "milton",
+        "query": "kids lunch box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-kids-lunch-box-1pc",
+    "name": "Cello Kids Lunch Box",
+    "brand": "Cello",
+    "subcategories": [
+      "kitchenware-appliances-lunch-boxes"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 35000,
+    "price": 32000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Colourful compartment lunch box for school meals and snacks. Wash after use and avoid very hot water.",
+    "tags": [
+      "kids lunch box",
+      "school tiffin",
+      "tiffin"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "kids lunch box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "victorinox-paring-knife-1pc",
+    "name": "Victorinox Paring Knife",
+    "brand": "Victorinox",
+    "subcategories": [
+      "kitchenware-appliances-cutting-chopping"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 60000,
+    "price": 56000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Small sharp knife for peeling, trimming and fine cutting. Hand wash, dry immediately and store safely.",
+    "tags": [
+      "paring knife",
+      "knife",
+      "chaku"
+    ],
+    "image": {
+      "off": {
+        "brand": "victorinox",
+        "query": "paring knife"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "prestige-utility-knife-1pc",
+    "name": "Prestige Utility Knife",
+    "brand": "Prestige",
+    "subcategories": [
+      "kitchenware-appliances-cutting-chopping"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 40000,
+    "price": 36000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "All-purpose kitchen knife for vegetables, fruits and herbs. Wash by hand and keep away from children.",
+    "tags": [
+      "kitchen knife",
+      "utility knife",
+      "chaku"
+    ],
+    "image": {
+      "off": {
+        "brand": "prestige",
+        "query": "kitchen knife"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "joseph-joseph-chopping-board-1pc",
+    "name": "Joseph Joseph Chopping Board",
+    "brand": "Joseph Joseph",
+    "subcategories": [
+      "kitchenware-appliances-cutting-chopping"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 150000,
+    "price": 138000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Chopping board for vegetables, fruits and meat prep. Wash with hot soapy water and dry upright.",
+    "tags": [
+      "chopping board",
+      "cutting board",
+      "chopping pad"
+    ],
+    "image": {
+      "off": {
+        "brand": "joseph joseph",
+        "query": "chopping board"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ikea-chopping-board-1pc",
+    "name": "IKEA Chopping Board",
+    "brand": "IKEA",
+    "subcategories": [
+      "kitchenware-appliances-cutting-chopping"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 60000,
+    "price": 56000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Everyday chopping board for slicing and dicing. Clean after each use and let it air dry fully.",
+    "tags": [
+      "chopping board",
+      "cutting board"
+    ],
+    "image": {
+      "off": {
+        "brand": "ikea",
+        "query": "chopping board"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pigeon-manual-chopper-1pc",
+    "name": "Pigeon Manual Chopper",
+    "brand": "Pigeon",
+    "subcategories": [
+      "kitchenware-appliances-cutting-chopping"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 50000,
+    "price": 44000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Pull-cord chopper for onions, tomatoes and herbs without electricity. Take apart to wash the blades carefully.",
+    "tags": [
+      "vegetable chopper",
+      "onion chopper",
+      "manual chopper"
+    ],
+    "image": {
+      "off": {
+        "brand": "pigeon",
+        "query": "chopper"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "prestige-electric-chopper-1pc",
+    "name": "Prestige Electric Chopper",
+    "brand": "Prestige",
+    "subcategories": [
+      "kitchenware-appliances-cutting-chopping"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 200000,
+    "price": 180000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Electric chopper for quickly chopping vegetables, nuts and herbs. Unplug before cleaning and wash only the detachable bowl and blade.",
+    "tags": [
+      "electric chopper",
+      "vegetable chopper",
+      "chopper"
+    ],
+    "image": {
+      "off": {
+        "brand": "prestige",
+        "query": "electric chopper"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "la-opala-dinner-set-1set",
+    "name": "La Opala Dinner Set",
+    "brand": "La Opala",
+    "subcategories": [
+      "kitchenware-appliances-dining-serveware"
+    ],
+    "unit_label": "1 set",
+    "mrp": 400000,
+    "price": 360000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Opal glass dinner set with plates and bowls for family meals. Microwave and dishwasher friendly; handle with care.",
+    "tags": [
+      "dinner set",
+      "plates",
+      "crockery"
+    ],
+    "image": {
+      "off": {
+        "brand": "la opala",
+        "query": "dinner set"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "corelle-dinner-set-1set",
+    "name": "Corelle Dinner Set",
+    "brand": "Corelle",
+    "subcategories": [
+      "kitchenware-appliances-dining-serveware"
+    ],
+    "unit_label": "1 set",
+    "mrp": 500000,
+    "price": 450000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Lightweight, chip-resistant dinnerware set for daily dining. Suitable for dishwasher use; avoid direct flame.",
+    "tags": [
+      "dinner set",
+      "plates",
+      "crockery"
+    ],
+    "image": {
+      "off": {
+        "brand": "corelle",
+        "query": "dinnerware"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milton-casserole-1pc",
+    "name": "Milton Casserole",
+    "brand": "Milton",
+    "subcategories": [
+      "kitchenware-appliances-dining-serveware"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 90000,
+    "price": 82000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Insulated casserole that keeps rotis and rice warm at the table. Wipe the outer body and wash the inner steel bowl.",
+    "tags": [
+      "casserole",
+      "hot pot",
+      "roti box"
+    ],
+    "image": {
+      "off": {
+        "brand": "milton",
+        "query": "casserole"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "borosil-glass-serving-bowl-1pc",
+    "name": "Borosil Glass Serving Bowl",
+    "brand": "Borosil",
+    "subcategories": [
+      "kitchenware-appliances-dining-serveware"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 60000,
+    "price": 54000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Glass bowl for serving salads, dals and desserts. Microwave safe without the lid; wash gently.",
+    "tags": [
+      "serving bowl",
+      "glass bowl",
+      "katori"
+    ],
+    "image": {
+      "off": {
+        "brand": "borosil",
+        "query": "serving bowl"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vinod-steel-spoons-6pcs",
+    "name": "Vinod Steel Spoons",
+    "brand": "Vinod",
+    "subcategories": [
+      "kitchenware-appliances-dining-serveware"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 30000,
+    "price": 27000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Stainless steel table spoons for everyday meals. Wash after use and dry to keep them shiny.",
+    "tags": [
+      "spoons",
+      "chammach",
+      "cutlery"
+    ],
+    "image": {
+      "off": {
+        "brand": "vinod",
+        "query": "spoons"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "borosil-cutlery-set-1set",
+    "name": "Borosil Cutlery Set",
+    "brand": "Borosil",
+    "subcategories": [
+      "kitchenware-appliances-dining-serveware"
+    ],
+    "unit_label": "1 set",
+    "mrp": 100000,
+    "price": 90000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Stainless steel cutlery set with spoons and forks for the dining table. Wash and dry after use.",
+    "tags": [
+      "cutlery set",
+      "spoons",
+      "forks"
+    ],
+    "image": {
+      "off": {
+        "brand": "borosil",
+        "query": "cutlery set"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "preethi-mixer-grinder-1pc",
+    "name": "Preethi Mixer Grinder",
+    "brand": "Preethi",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 500000,
+    "price": 440000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Mixer grinder with jars for chutneys, masalas and batters. Do not overfill jars and clean them right after use.",
+    "tags": [
+      "mixer grinder",
+      "mixie",
+      "grinder"
+    ],
+    "image": {
+      "off": {
+        "brand": "preethi",
+        "query": "mixer grinder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "philips-mixer-grinder-1pc",
+    "name": "Philips Mixer Grinder",
+    "brand": "Philips",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 550000,
+    "price": 480000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Mixer grinder for wet and dry grinding, smoothies and chutneys. Unplug before cleaning and follow the manual.",
+    "tags": [
+      "mixer grinder",
+      "mixie",
+      "blender"
+    ],
+    "image": {
+      "off": {
+        "brand": "philips",
+        "query": "mixer grinder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "prestige-induction-cooktop-1pc",
+    "name": "Prestige Induction Cooktop",
+    "brand": "Prestige",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 300000,
+    "price": 265000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Induction cooktop for quick, flame-free cooking with induction-compatible vessels. Wipe the glass top once cool.",
+    "tags": [
+      "induction",
+      "induction stove",
+      "cooktop"
+    ],
+    "image": {
+      "off": {
+        "brand": "prestige",
+        "query": "induction cooktop"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pigeon-electric-kettle-1pc",
+    "name": "Pigeon Electric Kettle",
+    "brand": "Pigeon",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 120000,
+    "price": 105000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Electric kettle for boiling water for tea, coffee and instant noodles. Descale regularly and never immerse the base in water.",
+    "tags": [
+      "electric kettle",
+      "kettle",
+      "water boiler"
+    ],
+    "image": {
+      "off": {
+        "brand": "pigeon",
+        "query": "electric kettle"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "philips-toaster-1pc",
+    "name": "Philips Toaster",
+    "brand": "Philips",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 250000,
+    "price": 220000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Pop-up toaster for evenly browned bread slices at breakfast. Empty the crumb tray regularly.",
+    "tags": [
+      "toaster",
+      "bread toaster",
+      "pop up toaster"
+    ],
+    "image": {
+      "off": {
+        "brand": "philips",
+        "query": "toaster"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bajaj-sandwich-maker-1pc",
+    "name": "Bajaj Sandwich Maker",
+    "brand": "Bajaj",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 180000,
+    "price": 159000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Sandwich maker for grilled and toasted sandwiches in minutes. Let the plates cool before wiping them clean.",
+    "tags": [
+      "sandwich maker",
+      "sandwich toaster",
+      "grill"
+    ],
+    "image": {
+      "off": {
+        "brand": "bajaj",
+        "query": "sandwich maker"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "prestige-juicer-1pc",
+    "name": "Prestige Juicer",
+    "brand": "Prestige",
+    "subcategories": [
+      "kitchenware-appliances-kitchen-appliances"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 350000,
+    "price": 310000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Electric juicer for fresh fruit and vegetable juices at home. Clean the mesh and jar immediately after use.",
+    "tags": [
+      "juicer",
+      "juice maker",
+      "juicer machine"
+    ],
+    "image": {
+      "off": {
+        "brand": "prestige",
+        "query": "juicer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "origami-kitchen-towel-2rolls",
+    "name": "Origami Kitchen Towel",
+    "brand": "Origami",
+    "subcategories": [
+      "kitchenware-appliances-tissues-disposables"
+    ],
+    "unit_label": "2 rolls",
+    "mrp": 15000,
+    "price": 13500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Absorbent kitchen towel rolls for wiping spills and draining fried food. Store in a dry place.",
+    "tags": [
+      "kitchen towel",
+      "kitchen roll",
+      "paper towel"
+    ],
+    "image": {
+      "off": {
+        "brand": "origami",
+        "query": "kitchen towel"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "premier-facial-tissues-200sheets",
+    "name": "Premier Facial Tissues",
+    "brand": "Premier",
+    "subcategories": [
+      "kitchenware-appliances-tissues-disposables"
+    ],
+    "unit_label": "200 sheets",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Soft facial tissue box for home, car or office use. Keep the box away from moisture.",
+    "tags": [
+      "facial tissue",
+      "tissue box",
+      "tissues"
+    ],
+    "image": {
+      "off": {
+        "brand": "premier",
+        "query": "facial tissues"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "chuk-disposable-plates-25pcs",
+    "name": "CHUK Disposable Plates",
+    "brand": "CHUK",
+    "subcategories": [
+      "kitchenware-appliances-tissues-disposables"
+    ],
+    "unit_label": "25 pcs",
+    "mrp": 25000,
+    "price": 23000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Disposable plates made from sugarcane bagasse for parties, picnics and pujas. Store in a dry place.",
+    "tags": [
+      "disposable plates",
+      "party plates",
+      "paper plates"
+    ],
+    "image": {
+      "off": {
+        "brand": "chuk",
+        "query": "disposable plates"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ecoware-disposable-bowls-25pcs",
+    "name": "Ecoware Disposable Bowls",
+    "brand": "Ecoware",
+    "subcategories": [
+      "kitchenware-appliances-tissues-disposables"
+    ],
+    "unit_label": "25 pcs",
+    "mrp": 22000,
+    "price": 19900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Disposable bowls for serving snacks, curries and desserts at gatherings. Keep the pack dry until use.",
+    "tags": [
+      "disposable bowls",
+      "party bowls",
+      "paper bowls"
+    ],
+    "image": {
+      "off": {
+        "brand": "ecoware",
+        "query": "disposable bowls"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "freshwrapp-aluminium-foil-9m",
+    "name": "Freshwrapp Aluminium Foil",
+    "brand": "Freshwrapp",
+    "subcategories": [
+      "kitchenware-appliances-tissues-disposables"
+    ],
+    "unit_label": "9 m",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Food-grade aluminium foil roll for wrapping rotis, packing lunches and baking. Store away from moisture.",
+    "tags": [
+      "aluminium foil",
+      "foil paper",
+      "silver foil"
+    ],
+    "image": {
+      "off": {
+        "brand": "freshwrapp",
+        "query": "aluminium foil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "oddy-cling-wrap-30m",
+    "name": "Oddy Cling Wrap",
+    "brand": "Oddy",
+    "subcategories": [
+      "kitchenware-appliances-tissues-disposables"
+    ],
+    "unit_label": "30 m",
+    "mrp": 20000,
+    "price": 18000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Cling film for covering bowls and wrapping cut fruits and leftovers in the fridge. Do not use in direct heat.",
+    "tags": [
+      "cling wrap",
+      "cling film",
+      "food wrap"
+    ],
+    "image": {
+      "off": {
+        "brand": "oddy",
+        "query": "cling wrap"
+      }
+    },
+    "orderable": true
+  }
+]

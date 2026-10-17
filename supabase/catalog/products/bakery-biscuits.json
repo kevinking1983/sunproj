@@ -1,0 +1,1266 @@
+[
+  {
+    "slug": "britannia-good-day-butter-cookies-200g",
+    "name": "Britannia Good Day Butter Cookies",
+    "brand": "Britannia Good Day",
+    "subcategories": [
+      "bakery-biscuits-cookies"
+    ],
+    "unit_label": "200 g",
+    "mrp": 5000,
+    "price": 4700,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crumbly butter cookies for tea-time or a quick snack. Keep the pack sealed after opening so the cookies stay crisp.",
+    "tags": [
+      "butter cookies",
+      "biscuits",
+      "good day",
+      "chai biscuit"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia good day",
+        "query": "good day butter cookies"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "unibic-butter-cookies-150g",
+    "name": "Unibic Butter Cookies",
+    "brand": "Unibic",
+    "subcategories": [
+      "bakery-biscuits-cookies"
+    ],
+    "unit_label": "150 g",
+    "mrp": 6000,
+    "price": 5500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Rich, melt-in-the-mouth butter cookies that pair well with tea or coffee. Store in a cool, dry place away from sunlight.",
+    "tags": [
+      "butter cookies",
+      "biscuits",
+      "cookies"
+    ],
+    "image": {
+      "off": {
+        "brand": "unibic",
+        "query": "butter cookies"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parle-hide-seek-chocolate-cookies-200g",
+    "name": "Parle Hide & Seek Chocolate Cookies",
+    "brand": "Parle Hide & Seek",
+    "subcategories": [
+      "bakery-biscuits-cookies"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 5500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crunchy cookies studded with chocolate chips, a lunch-box and tea-time favourite. Reseal the pack to keep them crunchy.",
+    "tags": [
+      "chocolate cookies",
+      "choco chip",
+      "biscuits",
+      "hide and seek"
+    ],
+    "image": {
+      "off": {
+        "brand": "parle hide & seek",
+        "query": "hide seek chocolate chip"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-chocolate-cookies-200g",
+    "name": "Britannia Chocolate Cookies",
+    "brand": "Britannia",
+    "subcategories": [
+      "bakery-biscuits-cookies"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 5600,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chocolate-flavoured cookies for an anytime snack or a quick dessert with milk. Store sealed in a cool, dry place.",
+    "tags": [
+      "chocolate cookies",
+      "biscuits",
+      "cookies"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia",
+        "query": "chocolate cookies"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-nutrichoice-oat-cookies-150g",
+    "name": "Britannia NutriChoice Oat Cookies",
+    "brand": "Britannia NutriChoice",
+    "subcategories": [
+      "bakery-biscuits-cookies"
+    ],
+    "unit_label": "150 g",
+    "mrp": 4500,
+    "price": 4200,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Oat-based cookies for a lighter tea-time snack. Keep the pack closed after opening to retain crunch.",
+    "tags": [
+      "oat cookies",
+      "oats biscuits",
+      "nutrichoice",
+      "cookies"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia nutrichoice",
+        "query": "nutrichoice oats cookies"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-soulfull-millet-cookies-150g",
+    "name": "Tata Soulfull Millet Cookies",
+    "brand": "Tata Soulfull",
+    "subcategories": [
+      "bakery-biscuits-cookies"
+    ],
+    "unit_label": "150 g",
+    "mrp": 6000,
+    "price": 5500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Cookies made with millets such as ragi for a wholesome-tasting snack. Store in an airtight jar once opened.",
+    "tags": [
+      "millet cookies",
+      "ragi cookies",
+      "nachni",
+      "cookies"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata soulfull",
+        "query": "millet cookies"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-treat-cream-biscuits-150g",
+    "name": "Britannia Treat Cream Biscuits",
+    "brand": "Britannia Treat",
+    "subcategories": [
+      "bakery-biscuits-cream-biscuits"
+    ],
+    "unit_label": "150 g",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Sandwich biscuits with a sweet cream filling, popular with kids. Keep away from heat so the cream does not soften.",
+    "tags": [
+      "cream biscuits",
+      "sandwich biscuits",
+      "treat",
+      "biscuit"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia treat",
+        "query": "treat cream biscuits"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parle-sandwich-cream-biscuits-150g",
+    "name": "Parle Sandwich Cream Biscuits",
+    "brand": "Parle",
+    "subcategories": [
+      "bakery-biscuits-cream-biscuits"
+    ],
+    "unit_label": "150 g",
+    "mrp": 3500,
+    "price": 3300,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crisp biscuits sandwiched with a sweet cream layer, good for snack time. Store in a cool, dry place after opening.",
+    "tags": [
+      "cream biscuits",
+      "sandwich biscuits",
+      "biscuit"
+    ],
+    "image": {
+      "off": {
+        "brand": "parle",
+        "query": "cream biscuits"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-bourbon-cream-biscuits-150g",
+    "name": "Britannia Bourbon Cream Biscuits",
+    "brand": "Britannia Bourbon",
+    "subcategories": [
+      "bakery-biscuits-cream-biscuits"
+    ],
+    "unit_label": "150 g",
+    "mrp": 4000,
+    "price": 3700,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chocolate biscuits with a chocolate cream centre and a light sugar topping. Enjoy with milk or tea; keep the pack sealed.",
+    "tags": [
+      "bourbon",
+      "chocolate cream biscuits",
+      "cream biscuits"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia bourbon",
+        "query": "bourbon biscuits"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sunfeast-dark-fantasy-filled-biscuits-75g",
+    "name": "Sunfeast Dark Fantasy Filled Biscuits",
+    "brand": "Sunfeast Dark Fantasy",
+    "subcategories": [
+      "bakery-biscuits-cream-biscuits"
+    ],
+    "unit_label": "75 g",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chocolate-flavoured biscuits with a soft filled centre for an indulgent snack. Store away from heat to keep the filling smooth.",
+    "tags": [
+      "dark fantasy",
+      "filled biscuits",
+      "choco fills",
+      "cream biscuits"
+    ],
+    "image": {
+      "off": {
+        "brand": "sunfeast dark fantasy",
+        "query": "dark fantasy"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-nutrichoice-digestive-biscuits-250g",
+    "name": "Britannia NutriChoice Digestive Biscuits",
+    "brand": "Britannia NutriChoice",
+    "subcategories": [
+      "bakery-biscuits-healthy-digestive"
+    ],
+    "unit_label": "250 g",
+    "mrp": 6000,
+    "price": 5600,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Wheat-based digestive biscuits with a mildly sweet, crumbly bite. Good with morning tea; reseal the pack after use.",
+    "tags": [
+      "digestive biscuits",
+      "wheat biscuits",
+      "nutrichoice",
+      "atta biscuits"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia nutrichoice",
+        "query": "digestive biscuits"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mcvities-digestive-biscuits-250g",
+    "name": "McVitie's Digestive Biscuits",
+    "brand": "McVitie's",
+    "subcategories": [
+      "bakery-biscuits-healthy-digestive"
+    ],
+    "unit_label": "250 g",
+    "mrp": 7000,
+    "price": 6500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Classic wholewheat digestive biscuits with a crumbly texture. Enjoy with tea or coffee and store sealed in a dry place.",
+    "tags": [
+      "digestive biscuits",
+      "wholewheat biscuits",
+      "mcvities"
+    ],
+    "image": {
+      "off": {
+        "brand": "mcvitie's",
+        "query": "digestive"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-soulfull-millet-biscuits-150g",
+    "name": "Tata Soulfull Millet Biscuits",
+    "brand": "Tata Soulfull",
+    "subcategories": [
+      "bakery-biscuits-healthy-digestive"
+    ],
+    "unit_label": "150 g",
+    "mrp": 5500,
+    "price": 5000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Biscuits made with millets like ragi for a hearty tea-time snack. Keep in an airtight container once opened.",
+    "tags": [
+      "millet biscuits",
+      "ragi biscuits",
+      "nachni",
+      "multigrain"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata soulfull",
+        "query": "millet biscuits"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-multigrain-biscuits-200g",
+    "name": "Britannia Multigrain Biscuits",
+    "brand": "Britannia",
+    "subcategories": [
+      "bakery-biscuits-healthy-digestive"
+    ],
+    "unit_label": "200 g",
+    "mrp": 5000,
+    "price": 4700,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Biscuits baked with a mix of grains for a nutty, wholesome taste. Store sealed in a cool, dry cupboard.",
+    "tags": [
+      "multigrain biscuits",
+      "grain biscuits",
+      "healthy biscuits"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia",
+        "query": "multigrain biscuits"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-50-50-salted-crackers-150g",
+    "name": "Britannia 50-50 Salted Crackers",
+    "brand": "Britannia 50-50",
+    "subcategories": [
+      "bakery-biscuits-sweet-salty"
+    ],
+    "unit_label": "150 g",
+    "mrp": 3000,
+    "price": 2800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Light, crisp salted crackers that go well with tea or a cheese spread. Reseal the pack to keep them crunchy.",
+    "tags": [
+      "salted crackers",
+      "salty biscuits",
+      "50 50",
+      "namkeen biscuit"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia 50-50",
+        "query": "50 50 crackers"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parle-krackjack-crackers-200g",
+    "name": "Parle Krackjack Crackers",
+    "brand": "Parle Krackjack",
+    "subcategories": [
+      "bakery-biscuits-sweet-salty"
+    ],
+    "unit_label": "200 g",
+    "mrp": 3500,
+    "price": 3300,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crunchy crackers with a sweet and salty taste, a tea-time staple. Store in a dry place after opening.",
+    "tags": [
+      "krackjack",
+      "crackers",
+      "salty biscuits",
+      "sweet salty biscuits"
+    ],
+    "image": {
+      "off": {
+        "brand": "parle krackjack",
+        "query": "krackjack"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-50-50-sweet-salty-biscuits-120g",
+    "name": "Britannia 50-50 Sweet & Salty Biscuits",
+    "brand": "Britannia 50-50",
+    "subcategories": [
+      "bakery-biscuits-sweet-salty"
+    ],
+    "unit_label": "120 g",
+    "mrp": 3000,
+    "price": 2800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crisp biscuits with a balance of sweet and salty flavours. A handy snack with chai; keep the pack sealed.",
+    "tags": [
+      "sweet salty biscuits",
+      "50 50",
+      "maska chaska",
+      "biscuits"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia 50-50",
+        "query": "50 50 sweet salty"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parle-sweet-salty-biscuits-150g",
+    "name": "Parle Sweet & Salty Biscuits",
+    "brand": "Parle",
+    "subcategories": [
+      "bakery-biscuits-sweet-salty"
+    ],
+    "unit_label": "150 g",
+    "mrp": 3000,
+    "price": 2800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Light biscuits sprinkled with salt for a sweet-salty bite. Pairs well with tea; store in a cool, dry place.",
+    "tags": [
+      "sweet salty biscuits",
+      "salted biscuits",
+      "biscuits"
+    ],
+    "image": {
+      "off": {
+        "brand": "parle",
+        "query": "salted biscuits"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parle-g-glucose-biscuits-800g",
+    "name": "Parle-G Glucose Biscuits",
+    "brand": "Parle-G",
+    "subcategories": [
+      "bakery-biscuits-glucose-marie"
+    ],
+    "unit_label": "800 g",
+    "mrp": 9000,
+    "price": 8500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Classic glucose biscuits loved for dunking in tea or milk. The family pack is handy for daily use; keep it in a dry jar.",
+    "tags": [
+      "glucose biscuits",
+      "parle g",
+      "chai biscuit",
+      "biscuits"
+    ],
+    "image": {
+      "off": {
+        "brand": "parle-g",
+        "query": "parle g glucose"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-tiger-glucose-biscuits-500g",
+    "name": "Britannia Tiger Glucose Biscuits",
+    "brand": "Britannia Tiger",
+    "subcategories": [
+      "bakery-biscuits-glucose-marie"
+    ],
+    "unit_label": "500 g",
+    "mrp": 6000,
+    "price": 5700,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Everyday glucose biscuits for tea-time and school snacks. Store in an airtight container to keep them crisp.",
+    "tags": [
+      "glucose biscuits",
+      "tiger",
+      "chai biscuit"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia tiger",
+        "query": "tiger glucose"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-marie-gold-biscuits-250g",
+    "name": "Britannia Marie Gold Biscuits",
+    "brand": "Britannia Marie Gold",
+    "subcategories": [
+      "bakery-biscuits-glucose-marie"
+    ],
+    "unit_label": "250 g",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Light, thin Marie biscuits that are mildly sweet and perfect with tea. Reseal the pack after use.",
+    "tags": [
+      "marie biscuits",
+      "marie gold",
+      "tea biscuits"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia marie gold",
+        "query": "marie gold"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parle-marie-biscuits-250g",
+    "name": "Parle Marie Biscuits",
+    "brand": "Parle Marie",
+    "subcategories": [
+      "bakery-biscuits-glucose-marie"
+    ],
+    "unit_label": "250 g",
+    "mrp": 3500,
+    "price": 3300,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crisp, lightly sweet Marie biscuits for dunking in chai or coffee. Store in a dry place once opened.",
+    "tags": [
+      "marie biscuits",
+      "tea biscuits",
+      "parle marie"
+    ],
+    "image": {
+      "off": {
+        "brand": "parle marie",
+        "query": "marie biscuits"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-rusk-300g",
+    "name": "Britannia Rusk",
+    "brand": "Britannia",
+    "subcategories": [
+      "bakery-biscuits-rusks-wafers"
+    ],
+    "unit_label": "300 g",
+    "mrp": 6000,
+    "price": 5600,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Twice-baked crunchy rusk, a classic partner for morning chai. Keep in an airtight jar so it stays crisp.",
+    "tags": [
+      "rusk",
+      "toast",
+      "suji rusk",
+      "chai toast"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia",
+        "query": "rusk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parle-rusk-300g",
+    "name": "Parle Rusk",
+    "brand": "Parle",
+    "subcategories": [
+      "bakery-biscuits-rusks-wafers"
+    ],
+    "unit_label": "300 g",
+    "mrp": 5500,
+    "price": 5200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Crunchy baked rusk toast for dipping in tea or milk. Store sealed in a cool, dry place after opening.",
+    "tags": [
+      "rusk",
+      "toast",
+      "chai toast"
+    ],
+    "image": {
+      "off": {
+        "brand": "parle",
+        "query": "rusk"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nestle-munch-wafer-biscuits-pack-of-5",
+    "name": "Nestle Munch Wafer Biscuits",
+    "brand": "Nestle Munch",
+    "subcategories": [
+      "bakery-biscuits-rusks-wafers"
+    ],
+    "unit_label": "Pack of 5",
+    "mrp": 5000,
+    "price": 4800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crunchy wafer biscuits coated in a chocolatey layer, sold as a multipack of single bars. Store away from heat.",
+    "tags": [
+      "wafer",
+      "munch",
+      "chocolate wafer",
+      "wafer biscuits"
+    ],
+    "image": {
+      "off": {
+        "brand": "nestle munch",
+        "query": "munch wafer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kitkat-wafer-biscuits-pack-of-4",
+    "name": "KitKat Wafer Biscuits",
+    "brand": "KitKat",
+    "subcategories": [
+      "bakery-biscuits-rusks-wafers"
+    ],
+    "unit_label": "Pack of 4",
+    "mrp": 8000,
+    "price": 7600,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crisp wafer fingers covered in milk chocolate, sold as a multipack. Keep in a cool place so the chocolate does not melt.",
+    "tags": [
+      "kitkat",
+      "chocolate wafer",
+      "wafer biscuits"
+    ],
+    "image": {
+      "off": {
+        "brand": "kitkat",
+        "query": "kitkat wafer"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-fruit-cake-250g",
+    "name": "Britannia Fruit Cake",
+    "brand": "Britannia",
+    "subcategories": [
+      "bakery-biscuits-cakes-rolls"
+    ],
+    "unit_label": "250 g",
+    "mrp": 9000,
+    "price": 8500,
+    "tax_rate": 18,
+    "is_veg": false,
+    "description": "Soft packaged cake with bits of candied fruit, ready to slice for tea-time. Keep the pack closed and consume within a few days of opening.",
+    "tags": [
+      "fruit cake",
+      "cake",
+      "plum cake",
+      "tea cake"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia",
+        "query": "fruit cake"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "monginis-chocolate-cake-200g",
+    "name": "Monginis Chocolate Cake",
+    "brand": "Monginis",
+    "subcategories": [
+      "bakery-biscuits-cakes-rolls"
+    ],
+    "unit_label": "200 g",
+    "mrp": 8000,
+    "price": 7600,
+    "tax_rate": 18,
+    "is_veg": false,
+    "description": "Packaged chocolate sponge cake for a quick dessert or snack. Store in a cool, dry place and check the pack for best-before date.",
+    "tags": [
+      "chocolate cake",
+      "cake",
+      "sponge cake"
+    ],
+    "image": {
+      "off": {
+        "brand": "monginis",
+        "query": "chocolate cake"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-swiss-roll-150g",
+    "name": "Britannia Swiss Roll",
+    "brand": "Britannia",
+    "subcategories": [
+      "bakery-biscuits-cakes-rolls"
+    ],
+    "unit_label": "150 g",
+    "mrp": 5000,
+    "price": 4700,
+    "tax_rate": 18,
+    "is_veg": false,
+    "description": "Soft sponge rolled with a sweet cream filling, sliced for snacks or lunch boxes. Store in a cool place and finish soon after opening.",
+    "tags": [
+      "swiss roll",
+      "cake roll",
+      "cream roll"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia",
+        "query": "swiss roll"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "monginis-swiss-roll-200g",
+    "name": "Monginis Swiss Roll",
+    "brand": "Monginis",
+    "subcategories": [
+      "bakery-biscuits-cakes-rolls"
+    ],
+    "unit_label": "200 g",
+    "mrp": 7000,
+    "price": 6600,
+    "tax_rate": 18,
+    "is_veg": false,
+    "description": "Sponge cake rolled with a cream or jam filling, ready to slice and serve. Keep it cool and consume within the date on the pack.",
+    "tags": [
+      "swiss roll",
+      "cake roll",
+      "jam roll"
+    ],
+    "image": {
+      "off": {
+        "brand": "monginis",
+        "query": "swiss roll"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "monginis-chocolate-muffins-pack-of-4",
+    "name": "Monginis Chocolate Muffins",
+    "brand": "Monginis",
+    "subcategories": [
+      "bakery-biscuits-cakes-rolls"
+    ],
+    "unit_label": "Pack of 4",
+    "mrp": 12000,
+    "price": 11200,
+    "tax_rate": 18,
+    "is_veg": false,
+    "description": "Soft chocolate muffins packed individually, handy for breakfast or snack boxes. Store in a cool, dry place.",
+    "tags": [
+      "muffins",
+      "cupcakes",
+      "chocolate muffin"
+    ],
+    "image": {
+      "off": {
+        "brand": "monginis",
+        "query": "chocolate muffins"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-chocolate-muffins-pack-of-6",
+    "name": "Britannia Chocolate Muffins",
+    "brand": "Britannia",
+    "subcategories": [
+      "bakery-biscuits-cakes-rolls"
+    ],
+    "unit_label": "Pack of 6",
+    "mrp": 9000,
+    "price": 8500,
+    "tax_rate": 18,
+    "is_veg": false,
+    "description": "Individually wrapped chocolate muffins for lunch boxes and tea-time. Keep the pack sealed and away from heat.",
+    "tags": [
+      "muffins",
+      "cupcakes",
+      "chocolate muffin"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia",
+        "query": "muffills chocolate"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "weikfield-baking-powder-100g",
+    "name": "Weikfield Baking Powder",
+    "brand": "Weikfield",
+    "subcategories": [
+      "bakery-biscuits-baking-ingredients"
+    ],
+    "unit_label": "100 g",
+    "mrp": 5000,
+    "price": 4700,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Double-acting raising agent for cakes, muffins and dhoklas. Close the lid tightly after use and keep away from moisture.",
+    "tags": [
+      "baking powder",
+      "raising agent",
+      "leavening"
+    ],
+    "image": {
+      "off": {
+        "brand": "weikfield",
+        "query": "baking powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "blue-bird-baking-powder-100g",
+    "name": "Blue Bird Baking Powder",
+    "brand": "Blue Bird",
+    "subcategories": [
+      "bakery-biscuits-baking-ingredients"
+    ],
+    "unit_label": "100 g",
+    "mrp": 4500,
+    "price": 4300,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Baking powder that helps cakes, cookies and bhaturas rise evenly. Store in a dry place with the lid closed.",
+    "tags": [
+      "baking powder",
+      "raising agent",
+      "leavening"
+    ],
+    "image": {
+      "off": {
+        "brand": "blue bird",
+        "query": "baking powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "weikfield-cocoa-powder-50g",
+    "name": "Weikfield Cocoa Powder",
+    "brand": "Weikfield",
+    "subcategories": [
+      "bakery-biscuits-baking-ingredients"
+    ],
+    "unit_label": "50 g",
+    "mrp": 7000,
+    "price": 6600,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Unsweetened cocoa powder for cakes, brownies and hot chocolate. Store airtight in a cool, dry place.",
+    "tags": [
+      "cocoa powder",
+      "baking cocoa",
+      "chocolate powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "weikfield",
+        "query": "cocoa powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hersheys-cocoa-powder-225g",
+    "name": "Hershey's Cocoa Powder",
+    "brand": "Hershey's",
+    "subcategories": [
+      "bakery-biscuits-baking-ingredients",
+      "tea-coffee-milk-drinks-hot-chocolate"
+    ],
+    "unit_label": "225 g",
+    "mrp": 28000,
+    "price": 26000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Natural unsweetened cocoa for baking, desserts and chocolate drinks. Keep the tin closed and away from humidity.",
+    "tags": [
+      "cocoa powder",
+      "baking cocoa",
+      "chocolate powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "hershey's",
+        "query": "cocoa"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "urban-platter-sprinkles-100g",
+    "name": "Urban Platter Sprinkles",
+    "brand": "Urban Platter",
+    "subcategories": [
+      "bakery-biscuits-baking-ingredients"
+    ],
+    "unit_label": "100 g",
+    "mrp": 15000,
+    "price": 13900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Colourful sugar sprinkles for decorating cakes, cupcakes and cookies. Store in a cool, dry place away from sunlight.",
+    "tags": [
+      "sprinkles",
+      "cake decoration",
+      "sugar strands"
+    ],
+    "image": {
+      "off": {
+        "brand": "urban platter",
+        "query": "sprinkles"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "weikfield-icing-sugar-100g",
+    "name": "Weikfield Icing Sugar",
+    "brand": "Weikfield",
+    "subcategories": [
+      "bakery-biscuits-baking-ingredients"
+    ],
+    "unit_label": "100 g",
+    "mrp": 4500,
+    "price": 4200,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Fine powdered sugar for frostings, glazes and dusting desserts. Keep it sealed so it does not form lumps.",
+    "tags": [
+      "icing sugar",
+      "powdered sugar",
+      "frosting sugar"
+    ],
+    "image": {
+      "off": {
+        "brand": "weikfield",
+        "query": "icing sugar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pillsbury-cake-mix-285g",
+    "name": "Pillsbury Cake Mix",
+    "brand": "Pillsbury",
+    "subcategories": [
+      "bakery-biscuits-baking-ingredients"
+    ],
+    "unit_label": "285 g",
+    "mrp": 14000,
+    "price": 13000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Ready cake mix that can be baked in an oven or pressure cooker by following the pack directions. Store in a cool, dry place.",
+    "tags": [
+      "cake mix",
+      "eggless cake mix",
+      "baking mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "pillsbury",
+        "query": "cake mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "betty-crocker-brownie-mix-500g",
+    "name": "Betty Crocker Brownie Mix",
+    "brand": "Betty Crocker",
+    "subcategories": [
+      "bakery-biscuits-baking-ingredients"
+    ],
+    "unit_label": "500 g",
+    "mrp": 45000,
+    "price": 42000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Brownie mix for fudgy, homemade-style brownies; follow the pack directions for added ingredients. Keep sealed once opened.",
+    "tags": [
+      "brownie mix",
+      "baking mix",
+      "chocolate brownie"
+    ],
+    "image": {
+      "off": {
+        "brand": "betty crocker",
+        "query": "brownie mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-bakers-dozen-sourdough-bread-400g",
+    "name": "The Baker's Dozen Sourdough Bread",
+    "brand": "The Baker's Dozen",
+    "subcategories": [
+      "bakery-biscuits-gourmet-bakery"
+    ],
+    "unit_label": "400 g",
+    "mrp": 16000,
+    "price": 15000,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Naturally leavened sourdough loaf with a chewy crumb, good for toast and sandwiches. Refrigerate after opening and use within a few days.",
+    "tags": [
+      "sourdough",
+      "artisan bread",
+      "bread"
+    ],
+    "image": {
+      "off": {
+        "brand": "the baker's dozen",
+        "query": "sourdough"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "theobroma-croissant-pack-of-2",
+    "name": "Theobroma Croissant",
+    "brand": "Theobroma",
+    "subcategories": [
+      "bakery-biscuits-gourmet-bakery"
+    ],
+    "unit_label": "Pack of 2",
+    "mrp": 20000,
+    "price": 19000,
+    "tax_rate": 18,
+    "is_veg": false,
+    "description": "Flaky, buttery croissants for breakfast or a cafe-style snack. Warm briefly before serving and consume within a day or two.",
+    "tags": [
+      "croissant",
+      "pastry",
+      "bakery"
+    ],
+    "image": {
+      "off": {
+        "brand": "theobroma",
+        "query": "croissant"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "unibic-choco-chip-cookies-150g",
+    "name": "Unibic Choco Chip Cookies",
+    "brand": "Unibic",
+    "subcategories": [
+      "bakery-biscuits-gourmet-bakery"
+    ],
+    "unit_label": "150 g",
+    "mrp": 6000,
+    "price": 5600,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crunchy cookies loaded with chocolate chips for a richer tea-time treat. Store in an airtight container after opening.",
+    "tags": [
+      "choco chip cookies",
+      "chocolate cookies",
+      "premium cookies"
+    ],
+    "image": {
+      "off": {
+        "brand": "unibic",
+        "query": "choco chip cookies"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "theobroma-chocolate-chip-cookies-250g",
+    "name": "Theobroma Chocolate Chip Cookies",
+    "brand": "Theobroma",
+    "subcategories": [
+      "bakery-biscuits-gourmet-bakery"
+    ],
+    "unit_label": "250 g",
+    "mrp": 40000,
+    "price": 38000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Bakery-style cookies with chunks of chocolate, good for gifting or snacking. Keep in an airtight box to retain texture.",
+    "tags": [
+      "chocolate chip cookies",
+      "premium cookies",
+      "bakery cookies"
+    ],
+    "image": {
+      "off": {
+        "brand": "theobroma",
+        "query": "chocolate chip cookies"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "britannia-assorted-biscuits-gift-pack-400g",
+    "name": "Britannia Assorted Biscuits Gift Pack",
+    "brand": "Britannia",
+    "subcategories": [
+      "bakery-biscuits-biscuit-gift-pack"
+    ],
+    "unit_label": "400 g",
+    "mrp": 25000,
+    "price": 23000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "A box of assorted biscuits and cookies, suitable for festive gifting or guests. Store in a cool, dry place.",
+    "tags": [
+      "biscuit gift pack",
+      "assorted biscuits",
+      "diwali gift"
+    ],
+    "image": {
+      "off": {
+        "brand": "britannia",
+        "query": "assorted biscuits"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parle-assorted-biscuits-gift-pack-400g",
+    "name": "Parle Assorted Biscuits Gift Pack",
+    "brand": "Parle",
+    "subcategories": [
+      "bakery-biscuits-biscuit-gift-pack"
+    ],
+    "unit_label": "400 g",
+    "mrp": 20000,
+    "price": 18500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Assorted family pack of biscuits for sharing at home or gifting during festivals. Reseal after opening.",
+    "tags": [
+      "biscuit gift pack",
+      "assorted biscuits",
+      "family pack"
+    ],
+    "image": {
+      "off": {
+        "brand": "parle",
+        "query": "assorted biscuits"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "unibic-cookie-hamper-500g",
+    "name": "Unibic Cookie Hamper",
+    "brand": "Unibic",
+    "subcategories": [
+      "bakery-biscuits-biscuit-gift-pack"
+    ],
+    "unit_label": "500 g",
+    "mrp": 45000,
+    "price": 42000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Gift tin of assorted cookies for festivals, celebrations and corporate gifting. Keep the lid closed to retain freshness.",
+    "tags": [
+      "cookie hamper",
+      "cookie gift tin",
+      "gift pack"
+    ],
+    "image": {
+      "off": {
+        "brand": "unibic",
+        "query": "cookies gift"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "theobroma-cookie-hamper-500g",
+    "name": "Theobroma Cookie Hamper",
+    "brand": "Theobroma",
+    "subcategories": [
+      "bakery-biscuits-biscuit-gift-pack"
+    ],
+    "unit_label": "500 g",
+    "mrp": 90000,
+    "price": 86000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "A gift box of assorted bakery cookies for festive or special occasions. Store in a cool, dry place and consume within the date on the box.",
+    "tags": [
+      "cookie hamper",
+      "gift box",
+      "bakery cookies"
+    ],
+    "image": {
+      "off": {
+        "brand": "theobroma",
+        "query": "cookies"
+      }
+    },
+    "orderable": true
+  }
+]

@@ -1,0 +1,1190 @@
+[
+  {
+    "slug": "kissan-tomato-ketchup-950g",
+    "name": "Kissan Tomato Ketchup",
+    "brand": "Kissan",
+    "subcategories": [
+      "sauces-spreads-tomato-ketchup"
+    ],
+    "unit_label": "950 g",
+    "mrp": 16000,
+    "price": 15000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Tomato ketchup for samosas, fries, sandwiches and snacks. Shake before use and refrigerate after opening.",
+    "tags": [
+      "ketchup",
+      "tomato sauce",
+      "kissan",
+      "sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "kissan",
+        "query": "tomato ketchup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maggi-tomato-ketchup-1kg",
+    "name": "Maggi Tomato Ketchup",
+    "brand": "Maggi",
+    "subcategories": [
+      "sauces-spreads-tomato-ketchup"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 17000,
+    "price": 15000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Tomato ketchup in a squeezable bottle for snacks and cooking. Keep the cap clean and refrigerate after opening.",
+    "tags": [
+      "ketchup",
+      "tomato sauce",
+      "maggi",
+      "sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "maggi",
+        "query": "tomato ketchup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kissan-mixed-fruit-jam-500g",
+    "name": "Kissan Mixed Fruit Jam",
+    "brand": "Kissan",
+    "subcategories": [
+      "sauces-spreads-jam-spreads"
+    ],
+    "unit_label": "500 g",
+    "mrp": 17500,
+    "price": 17500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Mixed fruit jam for bread, toast and parathas. Use a clean, dry spoon and refrigerate after opening.",
+    "tags": [
+      "jam",
+      "mixed fruit jam",
+      "fruit spread",
+      "bread spread"
+    ],
+    "image": {
+      "off": {
+        "brand": "kissan",
+        "query": "mixed fruit jam"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mapro-mixed-fruit-jam-500g",
+    "name": "Mapro Mixed Fruit Jam",
+    "brand": "Mapro",
+    "subcategories": [
+      "sauces-spreads-jam-spreads"
+    ],
+    "unit_label": "500 g",
+    "mrp": 18000,
+    "price": 16900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Mixed fruit jam from Mahabaleshwar's Mapro, for toast and sandwiches. Spread with a clean spoon; refrigerate once opened.",
+    "tags": [
+      "jam",
+      "mixed fruit jam",
+      "fruit spread",
+      "bread spread"
+    ],
+    "image": {
+      "off": {
+        "brand": "mapro",
+        "query": "mixed fruit jam"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nutella-hazelnut-cocoa-spread-350g",
+    "name": "Nutella Hazelnut Cocoa Spread",
+    "brand": "Nutella",
+    "subcategories": [
+      "sauces-spreads-jam-spreads"
+    ],
+    "unit_label": "350 g",
+    "mrp": 38000,
+    "price": 33000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Sweet hazelnut spread with cocoa for toast, pancakes and desserts. Store at room temperature with the lid closed; no need to refrigerate.",
+    "tags": [
+      "nutella",
+      "chocolate spread",
+      "hazelnut spread",
+      "bread spread"
+    ],
+    "image": {
+      "off": {
+        "brand": "nutella",
+        "query": "hazelnut spread"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hersheys-chocolate-spread-350g",
+    "name": "Hershey's Chocolate Spread",
+    "brand": "Hershey's",
+    "subcategories": [
+      "sauces-spreads-jam-spreads"
+    ],
+    "unit_label": "350 g",
+    "mrp": 29900,
+    "price": 28000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Cocoa spread for bread, rotis, crepes and desserts. Spread straight from the jar; keep the lid tight and store in a cool place.",
+    "tags": [
+      "chocolate spread",
+      "cocoa spread",
+      "bread spread",
+      "hersheys"
+    ],
+    "image": {
+      "off": {
+        "brand": "hershey's",
+        "query": "spreads cocoa"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "st-dalfour-orange-marmalade-284g",
+    "name": "St Dalfour Orange Marmalade",
+    "brand": "St Dalfour",
+    "subcategories": [
+      "sauces-spreads-jam-spreads"
+    ],
+    "unit_label": "284 g",
+    "mrp": 45000,
+    "price": 40900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "French orange marmalade with pieces of peel for toast and baking. Refrigerate after opening and use a clean spoon.",
+    "tags": [
+      "marmalade",
+      "orange marmalade",
+      "fruit preserve",
+      "jam"
+    ],
+    "image": {
+      "off": {
+        "brand": "st dalfour",
+        "query": "orange marmalade"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bonne-maman-orange-marmalade-370g",
+    "name": "Bonne Maman Orange Marmalade",
+    "brand": "Bonne Maman",
+    "subcategories": [
+      "sauces-spreads-jam-spreads"
+    ],
+    "unit_label": "370 g",
+    "mrp": 55000,
+    "price": 52900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Orange marmalade in a glass jar with a gingham lid, for toast, croissants and glazes. Refrigerate after opening.",
+    "tags": [
+      "marmalade",
+      "orange marmalade",
+      "fruit preserve",
+      "jam"
+    ],
+    "image": {
+      "off": {
+        "brand": "bonne maman",
+        "query": "orange marmalade"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "veeba-eggless-mayonnaise-250g",
+    "name": "Veeba Eggless Mayonnaise",
+    "brand": "Veeba",
+    "subcategories": [
+      "sauces-spreads-mayonnaise"
+    ],
+    "unit_label": "250 g",
+    "mrp": 9900,
+    "price": 9000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Creamy eggless mayonnaise for sandwiches, burgers, wraps and dips. Refrigerate after opening and use a clean spoon.",
+    "tags": [
+      "mayonnaise",
+      "mayo",
+      "eggless mayo",
+      "veg mayonnaise"
+    ],
+    "image": {
+      "off": {
+        "brand": "veeba",
+        "query": "eggless mayonnaise"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "funfoods-eggless-mayonnaise-275g",
+    "name": "FunFoods Eggless Mayonnaise",
+    "brand": "FunFoods",
+    "subcategories": [
+      "sauces-spreads-mayonnaise"
+    ],
+    "unit_label": "275 g",
+    "mrp": 10500,
+    "price": 10500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Eggless mayonnaise for sandwiches, salads and rolls. Keep refrigerated once opened and finish within the period on the label.",
+    "tags": [
+      "mayonnaise",
+      "mayo",
+      "eggless mayo",
+      "veg mayonnaise"
+    ],
+    "image": {
+      "off": {
+        "brand": "funfoods",
+        "query": "veg mayonnaise"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "veeba-tandoori-mayonnaise-250g",
+    "name": "Veeba Tandoori Mayonnaise",
+    "brand": "Veeba",
+    "subcategories": [
+      "sauces-spreads-mayonnaise"
+    ],
+    "unit_label": "250 g",
+    "mrp": 11000,
+    "price": 10000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Eggless mayonnaise with tandoori spices for wraps, momos and sandwiches. Refrigerate after opening.",
+    "tags": [
+      "tandoori mayo",
+      "flavoured mayonnaise",
+      "mayo",
+      "dip"
+    ],
+    "image": {
+      "off": {
+        "brand": "veeba",
+        "query": "tandoori mayonnaise"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "funfoods-tandoori-mayonnaise-245g",
+    "name": "FunFoods Tandoori Mayonnaise",
+    "brand": "FunFoods",
+    "subcategories": [
+      "sauces-spreads-mayonnaise"
+    ],
+    "unit_label": "245 g",
+    "mrp": 11500,
+    "price": 10000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Tandoori-spiced eggless mayonnaise for rolls, burgers and as a dip. Keep refrigerated once opened.",
+    "tags": [
+      "tandoori mayo",
+      "flavoured mayonnaise",
+      "mayo",
+      "dip"
+    ],
+    "image": {
+      "off": {
+        "brand": "funfoods",
+        "query": "tandoori mayonnaise"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mothers-recipe-mango-pickle-500g",
+    "name": "Mother's Recipe Mango Pickle",
+    "brand": "Mother's Recipe",
+    "subcategories": [
+      "sauces-spreads-chutney-pickle"
+    ],
+    "unit_label": "500 g",
+    "mrp": 15000,
+    "price": 14000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Spicy raw mango pickle in oil with mustard and chilli, made to go with dal-rice and parathas. Always use a dry spoon.",
+    "tags": [
+      "mango pickle",
+      "aam ka achar",
+      "achar",
+      "pickle"
+    ],
+    "image": {
+      "off": {
+        "brand": "mother's recipe",
+        "query": "mango pickle"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "priya-mango-pickle-300g",
+    "name": "Priya Mango Pickle",
+    "brand": "Priya",
+    "subcategories": [
+      "sauces-spreads-chutney-pickle"
+    ],
+    "unit_label": "300 g",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Andhra-style cut mango pickle with chilli and mustard. Serve with rice, curd rice or rotis; use a dry spoon and keep the lid tight.",
+    "tags": [
+      "mango pickle",
+      "avakaya",
+      "achar",
+      "pickle"
+    ],
+    "image": {
+      "off": {
+        "brand": "priya",
+        "query": "mango pickle"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "priya-tomato-chutney-300g",
+    "name": "Priya Tomato Chutney",
+    "brand": "Priya",
+    "subcategories": [
+      "sauces-spreads-chutney-pickle"
+    ],
+    "unit_label": "300 g",
+    "mrp": 11000,
+    "price": 11000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready tomato chutney with chilli and spices. Serve with idli, dosa, rice or rotis; refrigerate after opening.",
+    "tags": [
+      "tomato chutney",
+      "chutney",
+      "thokku",
+      "pachadi"
+    ],
+    "image": {
+      "off": {
+        "brand": "priya",
+        "query": "tomato chutney"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mothers-recipe-tamarind-chutney-250g",
+    "name": "Mother's Recipe Tamarind Chutney",
+    "brand": "Mother's Recipe",
+    "subcategories": [
+      "sauces-spreads-chutney-pickle"
+    ],
+    "unit_label": "250 g",
+    "mrp": 9500,
+    "price": 8900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Sweet and tangy tamarind chutney for chaat, samosa and pakoras. Refrigerate after opening.",
+    "tags": [
+      "imli chutney",
+      "tamarind chutney",
+      "saunth",
+      "chaat chutney"
+    ],
+    "image": {
+      "off": {
+        "brand": "mother's recipe",
+        "query": "tamarind chutney"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "priya-gunpowder-podi-100g",
+    "name": "Priya Gunpowder Podi",
+    "brand": "Priya",
+    "subcategories": [
+      "sauces-spreads-chutney-pickle"
+    ],
+    "unit_label": "100 g",
+    "mrp": 7000,
+    "price": 6000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Spicy lentil and chilli powder (podi) for idli and dosa. Mix with ghee or sesame oil before serving; store airtight.",
+    "tags": [
+      "gunpowder",
+      "podi",
+      "idli podi",
+      "chutney powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "priya",
+        "query": "podi"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-chutney-podi-200g",
+    "name": "MTR Chutney Podi",
+    "brand": "MTR",
+    "subcategories": [
+      "sauces-spreads-chutney-pickle"
+    ],
+    "unit_label": "200 g",
+    "mrp": 9900,
+    "price": 9000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Dry chutney powder made from roasted lentils and spices. Mix with oil or ghee and serve with idli, dosa or rice.",
+    "tags": [
+      "chutney powder",
+      "podi",
+      "idli podi",
+      "milagai podi"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "chutney powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pintola-creamy-peanut-butter-350g",
+    "name": "Pintola Creamy Peanut Butter",
+    "brand": "Pintola",
+    "subcategories": [
+      "sauces-spreads-peanut-butter"
+    ],
+    "unit_label": "350 g",
+    "mrp": 19900,
+    "price": 17900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Smooth peanut butter for toast, smoothies and snacks. Stir if oil separates; store in a cool, dry place with the lid closed.",
+    "tags": [
+      "peanut butter",
+      "creamy peanut butter",
+      "moongphali",
+      "spread"
+    ],
+    "image": {
+      "off": {
+        "brand": "pintola",
+        "query": "peanut butter creamy"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "alpino-creamy-peanut-butter-400g",
+    "name": "Alpino Creamy Peanut Butter",
+    "brand": "Alpino",
+    "subcategories": [
+      "sauces-spreads-peanut-butter"
+    ],
+    "unit_label": "400 g",
+    "mrp": 23000,
+    "price": 22000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Creamy peanut butter for sandwiches, oats and shakes. Natural oil separation can occur; stir well before use.",
+    "tags": [
+      "peanut butter",
+      "creamy peanut butter",
+      "moongphali",
+      "spread"
+    ],
+    "image": {
+      "off": {
+        "brand": "alpino",
+        "query": "peanut butter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pintola-chocolate-peanut-butter-350g",
+    "name": "Pintola Chocolate Peanut Butter",
+    "brand": "Pintola",
+    "subcategories": [
+      "sauces-spreads-peanut-butter"
+    ],
+    "unit_label": "350 g",
+    "mrp": 23000,
+    "price": 21000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Peanut butter blended with chocolate for toast, pancakes and shakes. Store with the lid closed in a cool place.",
+    "tags": [
+      "chocolate peanut butter",
+      "peanut butter",
+      "spread",
+      "choco spread"
+    ],
+    "image": {
+      "off": {
+        "brand": "pintola",
+        "query": "chocolate peanut butter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "alpino-chocolate-peanut-butter-400g",
+    "name": "Alpino Chocolate Peanut Butter",
+    "brand": "Alpino",
+    "subcategories": [
+      "sauces-spreads-peanut-butter"
+    ],
+    "unit_label": "400 g",
+    "mrp": 26000,
+    "price": 26000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Chocolate flavoured peanut butter for bread, fruit and desserts. Stir if needed and keep the jar tightly closed.",
+    "tags": [
+      "chocolate peanut butter",
+      "peanut butter",
+      "spread",
+      "choco spread"
+    ],
+    "image": {
+      "off": {
+        "brand": "alpino",
+        "query": "chocolate peanut butter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "chings-secret-dark-soy-sauce-200ml",
+    "name": "Ching's Secret Dark Soy Sauce",
+    "brand": "Ching's Secret",
+    "subcategories": [
+      "sauces-spreads-asian-sauces"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Dark soy sauce for colour and flavour in fried rice, noodles and Indo-Chinese gravies. Store in a cool place after opening.",
+    "tags": [
+      "soy sauce",
+      "dark soy",
+      "chinese sauce",
+      "noodle sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "ching's secret",
+        "query": "dark soy sauce"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kikkoman-soy-sauce-150ml",
+    "name": "Kikkoman Soy Sauce",
+    "brand": "Kikkoman",
+    "subcategories": [
+      "sauces-spreads-asian-sauces"
+    ],
+    "unit_label": "150 ml",
+    "mrp": 19900,
+    "price": 17900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Naturally brewed Japanese soy sauce for dipping, marinades and stir-fries. Refrigerate after opening for best flavour.",
+    "tags": [
+      "soy sauce",
+      "japanese soy",
+      "shoyu",
+      "asian sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "kikkoman",
+        "query": "soy sauce"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tabasco-hot-sauce-60ml",
+    "name": "Tabasco Hot Sauce",
+    "brand": "Tabasco",
+    "subcategories": [
+      "sauces-spreads-asian-sauces"
+    ],
+    "unit_label": "60 ml",
+    "mrp": 29900,
+    "price": 28000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Red pepper hot sauce; a few drops add heat to eggs, pizza, pasta and drinks. Store in a cool place after opening.",
+    "tags": [
+      "hot sauce",
+      "pepper sauce",
+      "chilli sauce",
+      "tabasco"
+    ],
+    "image": {
+      "off": {
+        "brand": "tabasco",
+        "query": "pepper sauce"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "veeba-sriracha-sauce-320g",
+    "name": "Veeba Sriracha Sauce",
+    "brand": "Veeba",
+    "subcategories": [
+      "sauces-spreads-asian-sauces"
+    ],
+    "unit_label": "320 g",
+    "mrp": 14000,
+    "price": 12900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Sriracha-style chilli garlic sauce for noodles, momos, burgers and dips. Shake well and refrigerate after opening.",
+    "tags": [
+      "sriracha",
+      "hot sauce",
+      "chilli sauce",
+      "chilli garlic sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "veeba",
+        "query": "sriracha"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lee-kum-kee-oyster-sauce-255g",
+    "name": "Lee Kum Kee Oyster Sauce",
+    "brand": "Lee Kum Kee",
+    "subcategories": [
+      "sauces-spreads-asian-sauces"
+    ],
+    "unit_label": "255 g",
+    "mrp": 25000,
+    "price": 25000,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Savoury oyster sauce for stir-fried vegetables, noodles and meat. Contains oyster extract; refrigerate after opening.",
+    "tags": [
+      "oyster sauce",
+      "chinese sauce",
+      "stir fry sauce",
+      "asian sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "lee kum kee",
+        "query": "oyster sauce"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kikkoman-teriyaki-sauce-250ml",
+    "name": "Kikkoman Teriyaki Sauce",
+    "brand": "Kikkoman",
+    "subcategories": [
+      "sauces-spreads-asian-sauces"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 35000,
+    "price": 32000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Teriyaki sauce for glazing and marinating paneer, tofu, vegetables or chicken. Refrigerate after opening.",
+    "tags": [
+      "teriyaki sauce",
+      "japanese sauce",
+      "marinade",
+      "asian sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "kikkoman",
+        "query": "teriyaki sauce"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dabur-honey-500g",
+    "name": "Dabur Honey",
+    "brand": "Dabur",
+    "subcategories": [
+      "sauces-spreads-chyawanprash-honey"
+    ],
+    "unit_label": "500 g",
+    "mrp": 24000,
+    "price": 21000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Pure honey in a squeeze-friendly bottle for tea, lemon water, toast and baking. Store at room temperature; crystallisation is natural.",
+    "tags": [
+      "honey",
+      "shahad",
+      "madhu",
+      "natural sweetener"
+    ],
+    "image": {
+      "off": {
+        "brand": "dabur",
+        "query": "honey"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "patanjali-honey-500g",
+    "name": "Patanjali Honey",
+    "brand": "Patanjali",
+    "subcategories": [
+      "sauces-spreads-chyawanprash-honey"
+    ],
+    "unit_label": "500 g",
+    "mrp": 21000,
+    "price": 19900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Honey for adding to warm water, tea, desserts and breakfast. Keep the lid closed; gently warm the jar if it crystallises.",
+    "tags": [
+      "honey",
+      "shahad",
+      "madhu",
+      "natural sweetener"
+    ],
+    "image": {
+      "off": {
+        "brand": "patanjali",
+        "query": "honey"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "veeba-thousand-island-dressing-300g",
+    "name": "Veeba Thousand Island Dressing",
+    "brand": "Veeba",
+    "subcategories": [
+      "sauces-spreads-dips-salad-dressings"
+    ],
+    "unit_label": "300 g",
+    "mrp": 14000,
+    "price": 12900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Creamy, tangy thousand island dressing for salads, burgers and sandwiches. Shake well and refrigerate after opening.",
+    "tags": [
+      "salad dressing",
+      "thousand island",
+      "dressing",
+      "sandwich sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "veeba",
+        "query": "thousand island"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "del-monte-thousand-island-dressing-300g",
+    "name": "Del Monte Thousand Island Dressing",
+    "brand": "Del Monte",
+    "subcategories": [
+      "sauces-spreads-dips-salad-dressings"
+    ],
+    "unit_label": "300 g",
+    "mrp": 15000,
+    "price": 14000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Thousand island salad dressing for salads, wraps and burgers. Refrigerate after opening and use within the time on the label.",
+    "tags": [
+      "salad dressing",
+      "thousand island",
+      "dressing",
+      "sandwich sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "del monte",
+        "query": "thousand island"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "veeba-cheese-dip-300g",
+    "name": "Veeba Cheese Dip",
+    "brand": "Veeba",
+    "subcategories": [
+      "sauces-spreads-dips-salad-dressings"
+    ],
+    "unit_label": "300 g",
+    "mrp": 15000,
+    "price": 13900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Creamy cheese dip for nachos, fries and veggie sticks. Serve at room temperature or warm slightly; refrigerate after opening.",
+    "tags": [
+      "cheese dip",
+      "nacho dip",
+      "dip",
+      "cheese sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "veeba",
+        "query": "cheese dip"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "wingreens-farms-hummus-150g",
+    "name": "Wingreens Farms Hummus",
+    "brand": "Wingreens Farms",
+    "subcategories": [
+      "sauces-spreads-dips-salad-dressings"
+    ],
+    "unit_label": "150 g",
+    "mrp": 15000,
+    "price": 15000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Chickpea and tahini hummus for pita, wraps and veggie sticks. Keep refrigerated and use within the date on the pack.",
+    "tags": [
+      "hummus",
+      "chickpea dip",
+      "dip",
+      "mezze"
+    ],
+    "image": {
+      "off": {
+        "brand": "wingreens farms",
+        "query": "hummus"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "del-monte-tomato-basil-pasta-sauce-400g",
+    "name": "Del Monte Tomato Basil Pasta Sauce",
+    "brand": "Del Monte",
+    "subcategories": [
+      "sauces-spreads-cooking-sauces"
+    ],
+    "unit_label": "400 g",
+    "mrp": 19900,
+    "price": 18000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Tomato and basil sauce for pasta, pizza and baked dishes. Heat and toss with cooked pasta; refrigerate after opening.",
+    "tags": [
+      "pasta sauce",
+      "tomato basil sauce",
+      "red sauce",
+      "marinara"
+    ],
+    "image": {
+      "off": {
+        "brand": "del monte",
+        "query": "pasta sauce"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "barilla-arrabbiata-pasta-sauce-400g",
+    "name": "Barilla Arrabbiata Pasta Sauce",
+    "brand": "Barilla",
+    "subcategories": [
+      "sauces-spreads-cooking-sauces"
+    ],
+    "unit_label": "400 g",
+    "mrp": 35000,
+    "price": 31000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Spicy Italian tomato sauce with chilli for penne arrabbiata. Warm through and toss with pasta; refrigerate after opening.",
+    "tags": [
+      "arrabbiata",
+      "pasta sauce",
+      "red sauce",
+      "spicy tomato sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "barilla",
+        "query": "arrabbiata"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kitchens-of-india-makhani-gravy-base-100g",
+    "name": "Kitchens of India Makhani Gravy Base",
+    "brand": "Kitchens of India",
+    "subcategories": [
+      "sauces-spreads-cooking-sauces"
+    ],
+    "unit_label": "100 g",
+    "mrp": 9900,
+    "price": 9000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready makhani gravy base for paneer, chicken or vegetable makhani. Add your main ingredient and simmer as directed.",
+    "tags": [
+      "makhani gravy",
+      "gravy base",
+      "curry paste",
+      "butter masala"
+    ],
+    "image": {
+      "off": {
+        "brand": "kitchens of india",
+        "query": "makhani gravy"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dabur-hommade-makhani-gravy-200g",
+    "name": "Dabur Hommade Makhani Gravy",
+    "brand": "Dabur Hommade",
+    "subcategories": [
+      "sauces-spreads-cooking-sauces"
+    ],
+    "unit_label": "200 g",
+    "mrp": 9900,
+    "price": 8900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready-to-cook makhani gravy for quick paneer or chicken makhani. Cook with your main ingredient as directed on the pack.",
+    "tags": [
+      "makhani gravy",
+      "gravy base",
+      "curry paste",
+      "butter masala"
+    ],
+    "image": {
+      "off": {
+        "brand": "dabur hommade",
+        "query": "makhani gravy"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "chings-secret-schezwan-chutney-250g",
+    "name": "Ching's Secret Schezwan Chutney",
+    "brand": "Ching's Secret",
+    "subcategories": [
+      "sauces-spreads-cooking-sauces"
+    ],
+    "unit_label": "250 g",
+    "mrp": 9900,
+    "price": 9900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Spicy Schezwan chutney for fried rice, noodles, momos and as a dip. Refrigerate after opening and use a dry spoon.",
+    "tags": [
+      "schezwan chutney",
+      "schezwan sauce",
+      "chinese sauce",
+      "chilli sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "ching's secret",
+        "query": "schezwan chutney"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "masterchow-stir-fry-sauce-230g",
+    "name": "MasterChow Stir-Fry Sauce",
+    "brand": "MasterChow",
+    "subcategories": [
+      "sauces-spreads-cooking-sauces"
+    ],
+    "unit_label": "230 g",
+    "mrp": 17500,
+    "price": 16000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready stir-fry sauce for vegetables, noodles and rice in a few minutes. Add at the end of cooking and toss; refrigerate after opening.",
+    "tags": [
+      "stir fry sauce",
+      "chinese sauce",
+      "wok sauce",
+      "asian sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "masterchow",
+        "query": "stir fry sauce"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "wingreens-farms-pesto-sauce-190g",
+    "name": "Wingreens Farms Pesto Sauce",
+    "brand": "Wingreens Farms",
+    "subcategories": [
+      "sauces-spreads-premium"
+    ],
+    "unit_label": "190 g",
+    "mrp": 25000,
+    "price": 22000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Basil pesto for pasta, sandwiches and dips. Stir before use, keep refrigerated after opening and use within a few days.",
+    "tags": [
+      "pesto",
+      "basil pesto",
+      "pasta sauce",
+      "gourmet sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "wingreens farms",
+        "query": "pesto"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "naagin-hot-sauce-230g",
+    "name": "Naagin Hot Sauce",
+    "brand": "Naagin",
+    "subcategories": [
+      "sauces-spreads-premium"
+    ],
+    "unit_label": "230 g",
+    "mrp": 29900,
+    "price": 28000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Indian-style hot sauce made with chillies for heat on snacks, eggs and meals. Shake well and refrigerate after opening.",
+    "tags": [
+      "hot sauce",
+      "chilli sauce",
+      "naagin",
+      "gourmet sauce"
+    ],
+    "image": {
+      "off": {
+        "brand": "naagin",
+        "query": "hot sauce"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "st-dalfour-fruit-spread-284g",
+    "name": "St Dalfour Fruit Spread",
+    "brand": "St Dalfour",
+    "subcategories": [
+      "sauces-spreads-premium"
+    ],
+    "unit_label": "284 g",
+    "mrp": 45000,
+    "price": 40900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "French fruit spread for toast, yoghurt and desserts. See the jar for the fruit; refrigerate after opening.",
+    "tags": [
+      "fruit spread",
+      "jam",
+      "imported jam",
+      "preserve"
+    ],
+    "image": {
+      "off": {
+        "brand": "st dalfour",
+        "query": "fruit spread"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bonne-maman-fruit-preserve-370g",
+    "name": "Bonne Maman Fruit Preserve",
+    "brand": "Bonne Maman",
+    "subcategories": [
+      "sauces-spreads-premium"
+    ],
+    "unit_label": "370 g",
+    "mrp": 55000,
+    "price": 52900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "French fruit preserve in a glass jar, for breakfast and baking. Refrigerate after opening; see the label for the fruit.",
+    "tags": [
+      "fruit preserve",
+      "jam",
+      "imported jam",
+      "conserve"
+    ],
+    "image": {
+      "off": {
+        "brand": "bonne maman",
+        "query": "preserve"
+      }
+    },
+    "orderable": true
+  }
+]

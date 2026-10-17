@@ -66,10 +66,15 @@ jobs:
           grant usage on schema public, extensions to anon, authenticated, service_role;
           create publication supabase_realtime;
           SQL
+      - name: Catalog data is valid and the seed is up to date
+        run: |
+          node scripts/catalog/build-seed.mjs
+          git diff --exit-code -- supabase/seeds/catalog.sql || (echo "supabase/seeds/catalog.sql is stale: run node scripts/catalog/build-seed.mjs and commit it" && exit 1)
       - name: Apply migrations and seed
         run: |
           for f in supabase/migrations/*.sql; do echo "== $f"; psql -v ON_ERROR_STOP=1 -d ration -f "$f"; done
           psql -v ON_ERROR_STOP=1 -d ration -f supabase/seed.sql
+          psql -v ON_ERROR_STOP=1 -d ration -f supabase/seeds/catalog.sql
       - name: Smoke
         run: psql -v ON_ERROR_STOP=1 -d ration -f supabase/tests/smoke.sql
 

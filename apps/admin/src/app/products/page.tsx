@@ -3,6 +3,7 @@
 import type { ProductRow } from "@ration/api";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import Image from "next/image";
+import Link from "next/link";
 import { useState } from "react";
 
 import { Button, Card, Checkbox, Field, Select, Spinner, Table, rupees, toPaise } from "@/components/ui";
@@ -88,6 +89,7 @@ export default function ProductsPage() {
       <div className="flex flex-wrap items-center gap-3">
         <h1 className="text-2xl font-bold">Products</h1>
         <input value={filter} onChange={(e) => setFilter(e.target.value)} placeholder="Search" className="ml-auto h-9 rounded-lg border border-border bg-surface px-3 text-sm" />
+        <Link href="/products/import" className="inline-flex h-9 items-center rounded-lg border border-border bg-surface px-3 text-sm font-semibold text-primary hover:bg-primary-tint">Import CSV</Link>
         <Button onClick={() => setEditing(empty(categories.data?.[0]?.id ?? ""))}>+ New product</Button>
       </div>
       {editing ? <Card title={editing.id ? "Edit product" : "New product"}><ProductForm initial={editing} onDone={() => setEditing(null)} /></Card> : null}

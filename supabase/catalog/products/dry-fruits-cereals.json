@@ -1,0 +1,1629 @@
+[
+  {
+    "slug": "happilo-california-almonds-500g",
+    "name": "Happilo California Almonds",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 65000,
+    "price": 59000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Whole California almonds for snacking, soaking overnight or adding to sweets. Store in an airtight jar in a cool place.",
+    "tags": [
+      "almonds",
+      "badam",
+      "dry fruits",
+      "california almonds"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "almonds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-california-almonds-500g",
+    "name": "Farmley California Almonds",
+    "brand": "Farmley",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 62000,
+    "price": 57000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Whole almonds for daily snacking, kheer or halwa toppings. Keep sealed and refrigerate in hot weather.",
+    "tags": [
+      "almonds",
+      "badam",
+      "dry fruits"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "almonds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-cashews-500g",
+    "name": "Happilo Cashews",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 70000,
+    "price": 64000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Whole cashew kernels for snacking, gravies and festive sweets. Store airtight in a cool, dry place.",
+    "tags": [
+      "cashews",
+      "kaju",
+      "cashew nuts",
+      "dry fruits"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "cashews"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-cashews-250g",
+    "name": "Farmley Cashews",
+    "brand": "Farmley",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "250 g",
+    "mrp": 36000,
+    "price": 33000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Whole cashews for munching or blending into rich curries and desserts. Keep the pack sealed after opening.",
+    "tags": [
+      "cashews",
+      "kaju",
+      "cashew nuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "cashews"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-raisins-250g",
+    "name": "Happilo Raisins",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "250 g",
+    "mrp": 16000,
+    "price": 14500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Sweet seedless raisins for kheer, pulao, baking or snacking. Store in an airtight container away from moisture.",
+    "tags": [
+      "raisins",
+      "kishmish",
+      "dry grapes",
+      "dry fruits"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "raisins"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-raisins-250g",
+    "name": "Farmley Raisins",
+    "brand": "Farmley",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "250 g",
+    "mrp": 15000,
+    "price": 13900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Seedless raisins to add natural sweetness to halwa, cereals and trail mixes. Refrigerate in humid weather.",
+    "tags": [
+      "raisins",
+      "kishmish",
+      "dry grapes"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "raisins"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-salted-pistachios-200g",
+    "name": "Happilo Salted Pistachios",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "200 g",
+    "mrp": 40000,
+    "price": 37000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Roasted and salted in-shell pistachios for snacking. Store sealed in a cool, dry place to keep them crunchy.",
+    "tags": [
+      "pistachios",
+      "pista",
+      "salted pista",
+      "dry fruits"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "salted pistachios"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-salted-pistachios-200g",
+    "name": "Farmley Salted Pistachios",
+    "brand": "Farmley",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "200 g",
+    "mrp": 38000,
+    "price": 35000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Roasted, lightly salted pistachios in shell, good for parties or desk snacking. Reseal the pack after use.",
+    "tags": [
+      "pistachios",
+      "pista",
+      "salted pista"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "pistachios"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-walnut-kernels-250g",
+    "name": "Happilo Walnut Kernels",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "250 g",
+    "mrp": 45000,
+    "price": 41000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Shelled walnut halves for snacking, baking or salads. Refrigerate after opening to keep them fresh longer.",
+    "tags": [
+      "walnuts",
+      "akhrot",
+      "walnut kernels",
+      "dry fruits"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "walnut kernels"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nutraj-walnut-kernels-250g",
+    "name": "Nutraj Walnut Kernels",
+    "brand": "Nutraj",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "250 g",
+    "mrp": 43000,
+    "price": 39900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Walnut kernels ready to eat or add to brownies and breakfast bowls. Store in an airtight jar in the fridge.",
+    "tags": [
+      "walnuts",
+      "akhrot",
+      "walnut kernels"
+    ],
+    "image": {
+      "off": {
+        "brand": "nutraj",
+        "query": "walnuts"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-dried-figs-200g",
+    "name": "Happilo Dried Figs",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "200 g",
+    "mrp": 40000,
+    "price": 37000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Soft dried figs to eat as is, soak overnight or use in desserts. Keep sealed in a cool, dry place.",
+    "tags": [
+      "figs",
+      "anjeer",
+      "dried figs",
+      "dry fruits"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "dried figs"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-dried-apricots-200g",
+    "name": "Farmley Dried Apricots",
+    "brand": "Farmley",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "200 g",
+    "mrp": 30000,
+    "price": 28000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Chewy dried apricots for snacking, salads or baking. Store in an airtight container away from heat.",
+    "tags": [
+      "apricots",
+      "khumani",
+      "dried apricots"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "dried apricots"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-macadamia-nuts-200g",
+    "name": "Happilo Macadamia Nuts",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "200 g",
+    "mrp": 70000,
+    "price": 65000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Creamy, buttery macadamia kernels for snacking or baking into cookies. Store in a cool, dry place once opened.",
+    "tags": [
+      "macadamia",
+      "macadamia nuts",
+      "nuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "macadamia"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-pecan-nuts-200g",
+    "name": "Happilo Pecan Nuts",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "200 g",
+    "mrp": 65000,
+    "price": 60000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Pecan halves with a mild, sweet flavour for baking, salads and snacking. Refrigerate after opening.",
+    "tags": [
+      "pecans",
+      "pecan nuts",
+      "nuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "pecan"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-hazelnuts-200g",
+    "name": "Happilo Hazelnuts",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits"
+    ],
+    "unit_label": "200 g",
+    "mrp": 55000,
+    "price": 51000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Whole hazelnuts to snack on or roast and chop into desserts. Keep in an airtight container in a cool place.",
+    "tags": [
+      "hazelnuts",
+      "hazelnut",
+      "nuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "hazelnuts"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-roasted-almonds-200g",
+    "name": "Happilo Roasted Almonds",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits-snacks"
+    ],
+    "unit_label": "200 g",
+    "mrp": 33000,
+    "price": 29900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Dry-roasted, lightly salted almonds for a crunchy snack. Reseal the pack to keep them crisp.",
+    "tags": [
+      "roasted almonds",
+      "salted badam",
+      "nuts snack"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "roasted almonds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-roasted-cashews-200g",
+    "name": "Farmley Roasted Cashews",
+    "brand": "Farmley",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits-snacks"
+    ],
+    "unit_label": "200 g",
+    "mrp": 34000,
+    "price": 31000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Roasted, lightly salted cashews for snacking at home or work. Store sealed in a cool, dry place.",
+    "tags": [
+      "roasted cashews",
+      "salted kaju",
+      "nuts snack"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "roasted cashews"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-trail-mix-200g",
+    "name": "Happilo Trail Mix",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits-snacks"
+    ],
+    "unit_label": "200 g",
+    "mrp": 30000,
+    "price": 27500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "A mix of nuts, seeds and dried fruit for on-the-go snacking. Keep the pack zipped after each use.",
+    "tags": [
+      "trail mix",
+      "mixed nuts",
+      "dry fruit mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "trail mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-coated-nuts-150g",
+    "name": "Happilo Coated Nuts",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits-snacks"
+    ],
+    "unit_label": "150 g",
+    "mrp": 20000,
+    "price": 18500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Seasoned coated nuts for a flavourful crunchy snack with tea or at parties. Reseal after opening.",
+    "tags": [
+      "coated nuts",
+      "masala nuts",
+      "flavoured nuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "coated nuts"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-coated-nuts-150g",
+    "name": "Farmley Coated Nuts",
+    "brand": "Farmley",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruits-snacks"
+    ],
+    "unit_label": "150 g",
+    "mrp": 19000,
+    "price": 17500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Flavoured coated nuts that make a handy snack for travel or movie nights. Keep in a cool, dry place.",
+    "tags": [
+      "coated nuts",
+      "masala nuts",
+      "flavoured nuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "coated nuts"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kelloggs-corn-flakes-475g",
+    "name": "Kellogg's Corn Flakes",
+    "brand": "Kellogg's",
+    "subcategories": [
+      "dry-fruits-cereals-corn-flakes-kids-cereals"
+    ],
+    "unit_label": "475 g",
+    "mrp": 22000,
+    "price": 20500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crisp toasted corn flakes for a quick breakfast with cold or warm milk. Fold the inner bag and close the box after use.",
+    "tags": [
+      "corn flakes",
+      "cornflakes",
+      "breakfast cereal"
+    ],
+    "image": {
+      "off": {
+        "brand": "kellogg's",
+        "query": "corn flakes"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bagrrys-corn-flakes-500g",
+    "name": "Bagrry's Corn Flakes",
+    "brand": "Bagrry's",
+    "subcategories": [
+      "dry-fruits-cereals-corn-flakes-kids-cereals"
+    ],
+    "unit_label": "500 g",
+    "mrp": 20000,
+    "price": 18500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Toasted corn flakes for breakfast bowls, chivda or snack mixes. Store airtight to keep them crunchy.",
+    "tags": [
+      "corn flakes",
+      "cornflakes",
+      "breakfast cereal"
+    ],
+    "image": {
+      "off": {
+        "brand": "bagrry's",
+        "query": "corn flakes"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kelloggs-kids-cereal-300g",
+    "name": "Kellogg's Kids Cereal",
+    "brand": "Kellogg's",
+    "subcategories": [
+      "dry-fruits-cereals-corn-flakes-kids-cereals"
+    ],
+    "unit_label": "300 g",
+    "mrp": 20000,
+    "price": 18500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crunchy breakfast cereal for kids, served with milk. Close the inner bag tightly after each use.",
+    "tags": [
+      "kids cereal",
+      "breakfast cereal",
+      "cereal"
+    ],
+    "image": {
+      "off": {
+        "brand": "kellogg's",
+        "query": "kids cereal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nestle-koko-krunch-kids-cereal-330g",
+    "name": "Nestle Koko Krunch Kids Cereal",
+    "brand": "Nestle Koko Krunch",
+    "subcategories": [
+      "dry-fruits-cereals-corn-flakes-kids-cereals"
+    ],
+    "unit_label": "330 g",
+    "mrp": 25000,
+    "price": 23500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chocolate-flavoured whole grain cereal for kids' breakfast with milk. Keep the pack sealed in a dry place.",
+    "tags": [
+      "koko krunch",
+      "chocolate cereal",
+      "kids cereal"
+    ],
+    "image": {
+      "off": {
+        "brand": "nestle koko krunch",
+        "query": "koko krunch"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kelloggs-chocos-cereal-375g",
+    "name": "Kellogg's Chocos Cereal",
+    "brand": "Kellogg's Chocos",
+    "subcategories": [
+      "dry-fruits-cereals-corn-flakes-kids-cereals"
+    ],
+    "unit_label": "375 g",
+    "mrp": 23000,
+    "price": 21500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chocolate-flavoured cereal for breakfast or an evening snack with milk. Close the inner bag to keep it crunchy.",
+    "tags": [
+      "chocos",
+      "chocolate cereal",
+      "kids cereal"
+    ],
+    "image": {
+      "off": {
+        "brand": "kellogg's chocos",
+        "query": "chocos"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-soulfull-cereal-pillows-250g",
+    "name": "Tata Soulfull Cereal Pillows",
+    "brand": "Tata Soulfull",
+    "subcategories": [
+      "dry-fruits-cereals-corn-flakes-kids-cereals"
+    ],
+    "unit_label": "250 g",
+    "mrp": 18000,
+    "price": 16500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crunchy filled cereal pillows to eat with milk or as a dry snack. Store in an airtight container once opened.",
+    "tags": [
+      "cereal pillows",
+      "filled cereal",
+      "choco fills",
+      "kids cereal"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata soulfull",
+        "query": "choco fills"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bagrrys-muesli-500g",
+    "name": "Bagrry's Muesli",
+    "brand": "Bagrry's",
+    "subcategories": [
+      "dry-fruits-cereals-muesli-granola"
+    ],
+    "unit_label": "500 g",
+    "mrp": 35000,
+    "price": 32500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Muesli with oats, flakes and dried fruit for a quick breakfast with milk or yogurt. Keep the pack sealed.",
+    "tags": [
+      "muesli",
+      "breakfast cereal",
+      "fruit and nut muesli"
+    ],
+    "image": {
+      "off": {
+        "brand": "bagrry's",
+        "query": "muesli"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kelloggs-muesli-500g",
+    "name": "Kellogg's Muesli",
+    "brand": "Kellogg's",
+    "subcategories": [
+      "dry-fruits-cereals-muesli-granola"
+    ],
+    "unit_label": "500 g",
+    "mrp": 38000,
+    "price": 35500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Ready-to-eat muesli with grains, nuts and fruit pieces for breakfast bowls. Store in a cool, dry place.",
+    "tags": [
+      "muesli",
+      "breakfast cereal",
+      "fruit nut muesli"
+    ],
+    "image": {
+      "off": {
+        "brand": "kellogg's",
+        "query": "muesli"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "yoga-bar-granola-400g",
+    "name": "Yoga Bar Granola",
+    "brand": "Yoga Bar",
+    "subcategories": [
+      "dry-fruits-cereals-muesli-granola"
+    ],
+    "unit_label": "400 g",
+    "mrp": 40000,
+    "price": 37000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Baked oat clusters with nuts, good with milk, yogurt or straight from the pack. Reseal after opening.",
+    "tags": [
+      "granola",
+      "oat clusters",
+      "breakfast cereal"
+    ],
+    "image": {
+      "off": {
+        "brand": "yoga bar",
+        "query": "granola"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "true-elements-granola-400g",
+    "name": "True Elements Granola",
+    "brand": "True Elements",
+    "subcategories": [
+      "dry-fruits-cereals-muesli-granola"
+    ],
+    "unit_label": "400 g",
+    "mrp": 38000,
+    "price": 35000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crunchy baked granola for breakfast bowls and smoothie toppings. Store airtight to keep it crisp.",
+    "tags": [
+      "granola",
+      "oat clusters",
+      "breakfast cereal"
+    ],
+    "image": {
+      "off": {
+        "brand": "true elements",
+        "query": "granola"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "quaker-oats-1kg",
+    "name": "Quaker Oats",
+    "brand": "Quaker",
+    "subcategories": [
+      "dry-fruits-cereals-oats-daliya"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 22000,
+    "price": 19900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Rolled oats that cook in minutes for porridge, upma or overnight oats. Transfer to an airtight jar after opening.",
+    "tags": [
+      "oats",
+      "rolled oats",
+      "porridge",
+      "jai"
+    ],
+    "image": {
+      "off": {
+        "brand": "quaker",
+        "query": "oats"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "saffola-oats-1kg",
+    "name": "Saffola Oats",
+    "brand": "Saffola",
+    "subcategories": [
+      "dry-fruits-cereals-oats-daliya"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 21000,
+    "price": 19500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Rolled oats for quick porridge, chillas and smoothies. Keep in a cool, dry place in a closed container.",
+    "tags": [
+      "oats",
+      "rolled oats",
+      "porridge"
+    ],
+    "image": {
+      "off": {
+        "brand": "saffola",
+        "query": "oats"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "saffola-masala-oats-500g",
+    "name": "Saffola Masala Oats",
+    "brand": "Saffola",
+    "subcategories": [
+      "dry-fruits-cereals-oats-daliya"
+    ],
+    "unit_label": "500 g",
+    "mrp": 20000,
+    "price": 18500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Savoury instant oats with Indian spices, ready in a few minutes with water. Store in a dry place after opening.",
+    "tags": [
+      "masala oats",
+      "instant oats",
+      "savoury oats"
+    ],
+    "image": {
+      "off": {
+        "brand": "saffola",
+        "query": "masala oats"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "quaker-masala-oats-500g",
+    "name": "Quaker Masala Oats",
+    "brand": "Quaker",
+    "subcategories": [
+      "dry-fruits-cereals-oats-daliya"
+    ],
+    "unit_label": "500 g",
+    "mrp": 19000,
+    "price": 17500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Spiced instant oats for a quick savoury breakfast or snack. Keep the pack sealed between uses.",
+    "tags": [
+      "masala oats",
+      "instant oats",
+      "savoury oats"
+    ],
+    "image": {
+      "off": {
+        "brand": "quaker",
+        "query": "masala oats"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-broken-wheat-daliya-500g",
+    "name": "Tata Sampann Broken Wheat Daliya",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "dry-fruits-cereals-oats-daliya"
+    ],
+    "unit_label": "500 g",
+    "mrp": 7000,
+    "price": 6500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Broken wheat for sweet or savoury daliya, upma and khichdi. Store airtight in a cool, dry place.",
+    "tags": [
+      "daliya",
+      "dalia",
+      "broken wheat",
+      "lapsi"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "daliya"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "rajdhani-broken-wheat-daliya-500g",
+    "name": "Rajdhani Broken Wheat Daliya",
+    "brand": "Rajdhani",
+    "subcategories": [
+      "dry-fruits-cereals-oats-daliya"
+    ],
+    "unit_label": "500 g",
+    "mrp": 6000,
+    "price": 5600,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Broken wheat grains for porridge, pulao-style daliya or sweet lapsi. Keep in an airtight jar.",
+    "tags": [
+      "daliya",
+      "dalia",
+      "broken wheat"
+    ],
+    "image": {
+      "off": {
+        "brand": "rajdhani",
+        "query": "dalia"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lion-dates-whole-dates-500g",
+    "name": "Lion Dates Whole Dates",
+    "brand": "Lion Dates",
+    "subcategories": [
+      "dry-fruits-cereals-dates"
+    ],
+    "unit_label": "500 g",
+    "mrp": 20000,
+    "price": 18500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Soft whole dates to eat as a snack, with milk or in desserts. Store in a cool, dry place or refrigerate.",
+    "tags": [
+      "dates",
+      "khajur",
+      "khajoor"
+    ],
+    "image": {
+      "off": {
+        "brand": "lion dates",
+        "query": "dates"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "date-crown-whole-dates-500g",
+    "name": "Date Crown Whole Dates",
+    "brand": "Date Crown",
+    "subcategories": [
+      "dry-fruits-cereals-dates"
+    ],
+    "unit_label": "500 g",
+    "mrp": 35000,
+    "price": 32500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Whole dates for snacking, iftar platters and sweets. Keep the box closed and away from heat.",
+    "tags": [
+      "dates",
+      "khajur",
+      "khajoor",
+      "imported dates"
+    ],
+    "image": {
+      "off": {
+        "brand": "date crown",
+        "query": "dates"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lion-dates-seedless-dates-500g",
+    "name": "Lion Dates Seedless Dates",
+    "brand": "Lion Dates",
+    "subcategories": [
+      "dry-fruits-cereals-dates"
+    ],
+    "unit_label": "500 g",
+    "mrp": 22000,
+    "price": 20500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Deseeded dates ready to eat or chop into laddoos, cakes and shakes. Refrigerate after opening.",
+    "tags": [
+      "seedless dates",
+      "khajur",
+      "pitted dates"
+    ],
+    "image": {
+      "off": {
+        "brand": "lion dates",
+        "query": "seedless dates"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "date-crown-seedless-dates-250g",
+    "name": "Date Crown Seedless Dates",
+    "brand": "Date Crown",
+    "subcategories": [
+      "dry-fruits-cereals-dates"
+    ],
+    "unit_label": "250 g",
+    "mrp": 25000,
+    "price": 23000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Pitted dates convenient for baking, smoothies and quick snacks. Store sealed in a cool place.",
+    "tags": [
+      "seedless dates",
+      "khajur",
+      "pitted dates"
+    ],
+    "image": {
+      "off": {
+        "brand": "date crown",
+        "query": "pitted dates"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "true-elements-chia-seeds-250g",
+    "name": "True Elements Chia Seeds",
+    "brand": "True Elements",
+    "subcategories": [
+      "dry-fruits-cereals-seeds"
+    ],
+    "unit_label": "250 g",
+    "mrp": 22000,
+    "price": 19900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Chia seeds to soak for puddings, add to smoothies or sprinkle on salads. Store in an airtight jar.",
+    "tags": [
+      "chia seeds",
+      "chia",
+      "seeds"
+    ],
+    "image": {
+      "off": {
+        "brand": "true elements",
+        "query": "chia seeds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "yoga-bar-chia-seeds-200g",
+    "name": "Yoga Bar Chia Seeds",
+    "brand": "Yoga Bar",
+    "subcategories": [
+      "dry-fruits-cereals-seeds"
+    ],
+    "unit_label": "200 g",
+    "mrp": 20000,
+    "price": 18500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Chia seeds for overnight puddings, drinks and baking. Keep the pack sealed in a cool, dry place.",
+    "tags": [
+      "chia seeds",
+      "chia",
+      "seeds"
+    ],
+    "image": {
+      "off": {
+        "brand": "yoga bar",
+        "query": "chia seeds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "true-elements-sunflower-seeds-250g",
+    "name": "True Elements Sunflower Seeds",
+    "brand": "True Elements",
+    "subcategories": [
+      "dry-fruits-cereals-seeds"
+    ],
+    "unit_label": "250 g",
+    "mrp": 20000,
+    "price": 18500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Sunflower kernels to snack on or toss into salads and granola. Store airtight to keep them fresh.",
+    "tags": [
+      "sunflower seeds",
+      "surajmukhi beej",
+      "seeds"
+    ],
+    "image": {
+      "off": {
+        "brand": "true elements",
+        "query": "sunflower seeds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-sunflower-seeds-200g",
+    "name": "Farmley Sunflower Seeds",
+    "brand": "Farmley",
+    "subcategories": [
+      "dry-fruits-cereals-seeds"
+    ],
+    "unit_label": "200 g",
+    "mrp": 18000,
+    "price": 16500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Sunflower seeds for snacking or topping breakfast bowls. Keep in a cool, dry place once opened.",
+    "tags": [
+      "sunflower seeds",
+      "surajmukhi beej",
+      "seeds"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "sunflower seeds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "true-elements-seed-mix-250g",
+    "name": "True Elements Seed Mix",
+    "brand": "True Elements",
+    "subcategories": [
+      "dry-fruits-cereals-seeds"
+    ],
+    "unit_label": "250 g",
+    "mrp": 25000,
+    "price": 23000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "A blend of edible seeds such as pumpkin, sunflower and flax for salads and smoothies. Store sealed in a dry place.",
+    "tags": [
+      "seed mix",
+      "mixed seeds",
+      "seeds blend"
+    ],
+    "image": {
+      "off": {
+        "brand": "true elements",
+        "query": "seeds mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "yoga-bar-seed-mix-200g",
+    "name": "Yoga Bar Seed Mix",
+    "brand": "Yoga Bar",
+    "subcategories": [
+      "dry-fruits-cereals-seeds"
+    ],
+    "unit_label": "200 g",
+    "mrp": 23000,
+    "price": 21000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Mixed seeds to sprinkle on breakfast bowls, salads or soups. Keep airtight after opening.",
+    "tags": [
+      "seed mix",
+      "mixed seeds",
+      "seeds blend"
+    ],
+    "image": {
+      "off": {
+        "brand": "yoga bar",
+        "query": "seed mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bambino-vermicelli-400g",
+    "name": "Bambino Vermicelli",
+    "brand": "Bambino",
+    "subcategories": [
+      "dry-fruits-cereals-vermicelli-poha"
+    ],
+    "unit_label": "400 g",
+    "mrp": 6000,
+    "price": 5600,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Thin wheat vermicelli for upma, kheer and savoury semiya. Store in a dry container away from moisture.",
+    "tags": [
+      "vermicelli",
+      "semiya",
+      "seviyan",
+      "sevai"
+    ],
+    "image": {
+      "off": {
+        "brand": "bambino",
+        "query": "vermicelli"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-vermicelli-440g",
+    "name": "MTR Vermicelli",
+    "brand": "MTR",
+    "subcategories": [
+      "dry-fruits-cereals-vermicelli-poha"
+    ],
+    "unit_label": "440 g",
+    "mrp": 6500,
+    "price": 6000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Roasted vermicelli that cooks quickly for upma or payasam. Keep the pack sealed after opening.",
+    "tags": [
+      "vermicelli",
+      "semiya",
+      "seviyan"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "vermicelli"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-poha-500g",
+    "name": "Tata Sampann Poha",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "dry-fruits-cereals-vermicelli-poha"
+    ],
+    "unit_label": "500 g",
+    "mrp": 7000,
+    "price": 6500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Flattened rice for kanda poha, chivda and quick breakfasts. Rinse lightly before cooking and store airtight.",
+    "tags": [
+      "poha",
+      "flattened rice",
+      "aval",
+      "chivda"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "poha"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-poha-500g",
+    "name": "24 Mantra Organic Poha",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "dry-fruits-cereals-vermicelli-poha"
+    ],
+    "unit_label": "500 g",
+    "mrp": 9000,
+    "price": 8400,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic flattened rice for poha, chivda and sweet aval dishes. Store in a cool, dry place.",
+    "tags": [
+      "poha",
+      "flattened rice",
+      "aval",
+      "organic poha"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "poha"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-semiya-payasam-mix-180g",
+    "name": "MTR Semiya Payasam Mix",
+    "brand": "MTR",
+    "subcategories": [
+      "dry-fruits-cereals-vermicelli-poha"
+    ],
+    "unit_label": "180 g",
+    "mrp": 9000,
+    "price": 8500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Ready mix for vermicelli payasam; just add milk and cook as per the pack. Store in a dry place.",
+    "tags": [
+      "payasam mix",
+      "semiya payasam",
+      "kheer mix",
+      "dessert mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "payasam mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bambino-semiya-kheer-mix-160g",
+    "name": "Bambino Semiya Kheer Mix",
+    "brand": "Bambino",
+    "subcategories": [
+      "dry-fruits-cereals-vermicelli-poha"
+    ],
+    "unit_label": "160 g",
+    "mrp": 8000,
+    "price": 7500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Vermicelli kheer mix for a quick sweet dish with milk. Follow pack directions and keep sealed after use.",
+    "tags": [
+      "kheer mix",
+      "semiya kheer",
+      "seviyan kheer",
+      "dessert mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "bambino",
+        "query": "kheer mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-almonds-250g",
+    "name": "24 Mantra Organic Almonds",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "dry-fruits-cereals-organic-premium"
+    ],
+    "unit_label": "250 g",
+    "mrp": 40000,
+    "price": 37000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Certified organic whole almonds for snacking or soaking. Store in an airtight jar in a cool place.",
+    "tags": [
+      "organic almonds",
+      "badam",
+      "almonds"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "organic almonds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-almonds-200g",
+    "name": "Organic Tattva Almonds",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "dry-fruits-cereals-organic-premium"
+    ],
+    "unit_label": "200 g",
+    "mrp": 35000,
+    "price": 32500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Organic almonds to eat as is or add to sweets and breakfast bowls. Refrigerate in hot, humid weather.",
+    "tags": [
+      "organic almonds",
+      "badam",
+      "almonds"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "almonds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bagrrys-steel-cut-oats-1kg",
+    "name": "Bagrry's Steel Cut Oats",
+    "brand": "Bagrry's",
+    "subcategories": [
+      "dry-fruits-cereals-organic-premium"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 35000,
+    "price": 32500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Chopped whole oat groats with a chewy texture for slow-cooked porridge. Store in a closed container.",
+    "tags": [
+      "steel cut oats",
+      "oats",
+      "porridge"
+    ],
+    "image": {
+      "off": {
+        "brand": "bagrry's",
+        "query": "steel cut oats"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "true-elements-steel-cut-oats-1kg",
+    "name": "True Elements Steel Cut Oats",
+    "brand": "True Elements",
+    "subcategories": [
+      "dry-fruits-cereals-organic-premium"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 33000,
+    "price": 30500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Steel cut oats for hearty porridge or savoury oat khichdi. Keep airtight in a cool, dry place.",
+    "tags": [
+      "steel cut oats",
+      "oats",
+      "porridge"
+    ],
+    "image": {
+      "off": {
+        "brand": "true elements",
+        "query": "steel cut oats"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "true-elements-hemp-seeds-150g",
+    "name": "True Elements Hemp Seeds",
+    "brand": "True Elements",
+    "subcategories": [
+      "dry-fruits-cereals-organic-premium"
+    ],
+    "unit_label": "150 g",
+    "mrp": 35000,
+    "price": 32500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Hulled hemp seeds with a nutty taste for smoothies, salads and yogurt bowls. Refrigerate after opening.",
+    "tags": [
+      "hemp seeds",
+      "hemp hearts",
+      "seeds"
+    ],
+    "image": {
+      "off": {
+        "brand": "true elements",
+        "query": "hemp seeds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "urban-platter-hemp-seeds-200g",
+    "name": "Urban Platter Hemp Seeds",
+    "brand": "Urban Platter",
+    "subcategories": [
+      "dry-fruits-cereals-organic-premium"
+    ],
+    "unit_label": "200 g",
+    "mrp": 45000,
+    "price": 42000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Shelled hemp seeds to sprinkle over breakfast, soups and salads. Store sealed in a cool place.",
+    "tags": [
+      "hemp seeds",
+      "hemp hearts",
+      "seeds"
+    ],
+    "image": {
+      "off": {
+        "brand": "urban platter",
+        "query": "hemp seeds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-dry-fruits-gift-box-500g",
+    "name": "Happilo Dry Fruits Gift Box",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruit-gift-packs"
+    ],
+    "unit_label": "500 g",
+    "mrp": 90000,
+    "price": 84000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Gift box of assorted dry fruits such as almonds, cashews, pistachios and raisins, suited to festivals. Store in a cool, dry place.",
+    "tags": [
+      "dry fruit gift box",
+      "diwali gift",
+      "mixed dry fruits"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "dry fruits gift"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-dry-fruits-gift-box-400g",
+    "name": "Farmley Dry Fruits Gift Box",
+    "brand": "Farmley",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruit-gift-packs"
+    ],
+    "unit_label": "400 g",
+    "mrp": 80000,
+    "price": 75000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Festive box with a mix of popular dry fruits for gifting family and friends. Keep the box closed after opening.",
+    "tags": [
+      "dry fruit gift box",
+      "festive gift",
+      "mixed dry fruits"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "dry fruits gift box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-nut-hamper-1pc",
+    "name": "Happilo Nut Hamper",
+    "brand": "Happilo",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruit-gift-packs"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 150000,
+    "price": 139900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Gift hamper with an assortment of roasted and flavoured nuts for festive or corporate gifting. Store in a cool, dry place.",
+    "tags": [
+      "nut hamper",
+      "gift hamper",
+      "dry fruits gift"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "nuts hamper"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-nut-hamper-1pc",
+    "name": "Farmley Nut Hamper",
+    "brand": "Farmley",
+    "subcategories": [
+      "dry-fruits-cereals-dry-fruit-gift-packs"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 140000,
+    "price": 129900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Assorted nut hamper presented for gifting on festivals and celebrations. Check contents and dates on the box.",
+    "tags": [
+      "nut hamper",
+      "gift hamper",
+      "dry fruits gift"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "nuts hamper"
+      }
+    },
+    "orderable": true
+  }
+]

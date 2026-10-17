@@ -146,6 +146,8 @@ export const describeOrderError = (e: unknown): string => {
     switch (e.code) {
       case "OUT_OF_STOCK":
         return `${e.message} is out of stock. Remove it to continue.`;
+      case "NOT_ORDERABLE":
+        return `${e.message} is coming soon and can't be ordered yet. Remove it to continue.`;
       case "STORE_CLOSED":
         return "The store is closed right now. Please try again later.";
       case "ADDRESS_NOT_SERVICEABLE":

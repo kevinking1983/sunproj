@@ -13,6 +13,11 @@ max_rows = 1000
 port = 54322
 major_version = 17
 
+# Stores and coupons first, then the generated catalog (scripts/catalog/build-seed.mjs).
+[db.seed]
+enabled = true
+sql_paths = ["./seed.sql", "./seeds/catalog.sql"]
+
 [db.pooler]
 enabled = false
 

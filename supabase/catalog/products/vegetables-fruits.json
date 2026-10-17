@@ -1,0 +1,4630 @@
+[
+  {
+    "slug": "potato-1kg",
+    "name": "Potato",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Everyday potatoes for sabzi, curries, parathas and fries. Store in a cool, dark, airy place, away from onions.",
+    "tags": [
+      "aloo",
+      "alu",
+      "potato",
+      "batata"
+    ],
+    "image": {
+      "wiki": "Potato"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "baby-potato-500g",
+    "name": "Baby Potato",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4500,
+    "price": 3500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Small, thin-skinned potatoes that cook whole for dum aloo, roasts and stir-fries. Keep in a cool, dry place and use within a week.",
+    "tags": [
+      "baby aloo",
+      "chhote aloo",
+      "small potato",
+      "dum aloo"
+    ],
+    "image": {
+      "wiki": "Potato"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "red-potato-1kg",
+    "name": "Red Potato",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Red-skinned potatoes with firm flesh that holds its shape in curries, salads and roasts. Store cool and dark; do not refrigerate.",
+    "tags": [
+      "red aloo",
+      "lal aloo",
+      "red potato",
+      "potato"
+    ],
+    "image": {
+      "wiki": "Potato"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "onion-1kg",
+    "name": "Onion",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 6000,
+    "price": 4500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Red onions for tadka, gravies, salads and raita. Keep in a dry, ventilated basket and away from potatoes to stop sprouting.",
+    "tags": [
+      "pyaz",
+      "pyaaz",
+      "kanda",
+      "onion",
+      "red onion"
+    ],
+    "image": {
+      "wiki": "Onion"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "white-onion-500g",
+    "name": "White Onion",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4500,
+    "price": 3500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Mild white onions that suit salads, soups and light gravies. Store in a dry, airy spot out of direct sunlight.",
+    "tags": [
+      "safed pyaz",
+      "white onion",
+      "pyaaz",
+      "kanda"
+    ],
+    "image": {
+      "wiki": "Onion"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sambar-onion-500g",
+    "name": "Sambar Onion",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Small sambar onions with a sweet, sharp flavour for sambar, kuzhambu and pickles. Store dry and loose; peel just before use.",
+    "tags": [
+      "small onion",
+      "chinna vengayam",
+      "shallots",
+      "sambar onion"
+    ],
+    "image": {
+      "wiki": "Shallot"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tomato-1kg",
+    "name": "Tomato",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Tangy desi tomatoes for dal, curries, chutneys and rasam. Ripen at room temperature, then refrigerate to keep a few days longer.",
+    "tags": [
+      "tamatar",
+      "tomato",
+      "desi tomato",
+      "thakkali"
+    ],
+    "image": {
+      "wiki": "Tomato"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hybrid-tomato-1kg",
+    "name": "Hybrid Tomato",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 5500,
+    "price": 4300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Firm, round hybrid tomatoes that slice cleanly for salads, sandwiches and gravies. Keep at room temperature until fully ripe.",
+    "tags": [
+      "hybrid tamatar",
+      "bangalore tomato",
+      "tomato",
+      "salad tomato"
+    ],
+    "image": {
+      "wiki": "Tomato"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cherry-tomato-200g",
+    "name": "Cherry Tomato",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Bite-sized tomatoes for salads, pasta and snacking. Rinse just before eating and store in the fridge once ripe.",
+    "tags": [
+      "cherry tomato",
+      "chota tamatar",
+      "salad tomato"
+    ],
+    "image": {
+      "wiki": "Cherry tomato"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "long-brinjal-500g",
+    "name": "Long Brinjal",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Slender purple brinjals for bhaji, sambar and stuffed curries. Store in the vegetable drawer and use within three to four days.",
+    "tags": [
+      "baingan",
+      "brinjal",
+      "eggplant",
+      "lamba baingan"
+    ],
+    "image": {
+      "wiki": "Eggplant"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "round-brinjal-500g",
+    "name": "Round Brinjal",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Large round purple brinjals, ideal for roasting over a flame for baingan bharta. Keep in a cool place and use within a few days.",
+    "tags": [
+      "bharta baingan",
+      "gol baingan",
+      "round brinjal",
+      "eggplant"
+    ],
+    "image": {
+      "wiki": "Eggplant"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "green-brinjal-500g",
+    "name": "Green Brinjal",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4500,
+    "price": 3500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Green-skinned brinjals with a mild taste for curries, gotsu and stir-fries. Refrigerate in the crisper and use within a few days.",
+    "tags": [
+      "hara baingan",
+      "green brinjal",
+      "vankaya",
+      "eggplant"
+    ],
+    "image": {
+      "wiki": "Eggplant"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tender-lady-finger-250g",
+    "name": "Tender Lady Finger",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "250 g",
+    "mrp": 3000,
+    "price": 2300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Young, tender okra pods for crisp bhindi fry and masala bhindi. Wipe dry before cutting to avoid sliminess; refrigerate unwashed.",
+    "tags": [
+      "bhindi",
+      "okra",
+      "lady finger",
+      "vendakkai"
+    ],
+    "image": {
+      "wiki": "Okra"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lady-finger-500g",
+    "name": "Lady Finger",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh local okra for bhindi sabzi, sambar and kurkuri bhindi. Store dry in a paper bag in the fridge and use within two to three days.",
+    "tags": [
+      "bhindi",
+      "okra",
+      "lady finger",
+      "bhendi"
+    ],
+    "image": {
+      "wiki": "Okra"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "carrot-500g",
+    "name": "Carrot",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Crunchy orange carrots for salads, poriyal, soups and pulao. Remove any tops and refrigerate in a bag to keep them firm.",
+    "tags": [
+      "gajar",
+      "carrot",
+      "orange carrot",
+      "ooty carrot"
+    ],
+    "image": {
+      "wiki": "Carrot"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "red-carrot-500g",
+    "name": "Red Carrot",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4500,
+    "price": 3500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Juicy red Delhi carrots, a winter favourite for gajar ka halwa, kanji and salads. Refrigerate in a bag and use within a week.",
+    "tags": [
+      "lal gajar",
+      "delhi carrot",
+      "red carrot",
+      "gajar"
+    ],
+    "image": {
+      "wiki": "Carrot"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "baby-carrot-200g",
+    "name": "Baby Carrot",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Small, sweet carrots to steam, roast whole or eat raw with dips. Keep refrigerated in a covered container.",
+    "tags": [
+      "baby gajar",
+      "baby carrot",
+      "snack carrot"
+    ],
+    "image": {
+      "wiki": "Baby carrot"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cucumber-500g",
+    "name": "Cucumber",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 3000,
+    "price": 2300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Local cucumbers for salads, raita and kachumber. Store in the fridge and use within a few days.",
+    "tags": [
+      "kheera",
+      "kakdi",
+      "cucumber",
+      "vellarikka"
+    ],
+    "image": {
+      "wiki": "Cucumber"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "english-cucumber-500g",
+    "name": "English Cucumber",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Long, thin-skinned cucumbers with few seeds, good for slicing into salads and sandwiches. Refrigerate and use within four days.",
+    "tags": [
+      "english cucumber",
+      "long cucumber",
+      "kheera",
+      "salad cucumber"
+    ],
+    "image": {
+      "wiki": "Cucumber"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mini-cucumber-250g",
+    "name": "Mini Cucumber",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "250 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Small, crisp cucumbers that can be eaten whole as a snack or sliced into salads. Keep refrigerated.",
+    "tags": [
+      "mini kheera",
+      "baby cucumber",
+      "mini cucumber",
+      "snack cucumber"
+    ],
+    "image": {
+      "wiki": "Cucumber"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "green-capsicum-500g",
+    "name": "Green Capsicum",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Green bell peppers for stir-fries, pizzas, pulao and stuffed capsicum. Store unwashed in the fridge crisper.",
+    "tags": [
+      "shimla mirch",
+      "capsicum",
+      "bell pepper",
+      "green capsicum"
+    ],
+    "image": {
+      "wiki": "Bell pepper"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "red-capsicum-250g",
+    "name": "Red Capsicum",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "250 g",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet red bell peppers that add colour to salads, pasta and grills. Refrigerate whole and use within a week.",
+    "tags": [
+      "red bell pepper",
+      "lal shimla mirch",
+      "red capsicum",
+      "capsicum"
+    ],
+    "image": {
+      "wiki": "Bell pepper"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "yellow-capsicum-250g",
+    "name": "Yellow Capsicum",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "250 g",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet yellow bell peppers for salads, wraps and stir-fries. Keep whole and refrigerated until use.",
+    "tags": [
+      "yellow bell pepper",
+      "peeli shimla mirch",
+      "yellow capsicum",
+      "capsicum"
+    ],
+    "image": {
+      "wiki": "Bell pepper"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "french-beans-500g",
+    "name": "French Beans",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Tender green beans for poriyal, mixed veg, fried rice and soups. Refrigerate unwashed in a bag; trim the ends before cooking.",
+    "tags": [
+      "french beans",
+      "phalli",
+      "beans",
+      "green beans"
+    ],
+    "image": {
+      "wiki": "Green bean"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cluster-beans-500g",
+    "name": "Cluster Beans",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Cluster beans for gawar ki sabzi, sambar and poriyal. Store in the fridge and remove strings before cooking.",
+    "tags": [
+      "gawar",
+      "guar phali",
+      "cluster beans",
+      "kothavarangai"
+    ],
+    "image": {
+      "wiki": "Guar"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "broad-beans-500g",
+    "name": "Broad Beans",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Flat broad bean pods (sem/avarekai) for sabzi, sambar and usli. Refrigerate in a bag and use within a few days.",
+    "tags": [
+      "sem",
+      "avarekai",
+      "broad beans",
+      "papdi"
+    ],
+    "image": {
+      "wiki": "Lablab"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cabbage-1-pc",
+    "name": "Cabbage",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Green cabbage for sabzi, coleslaw, momos and stir-fries. Keep whole and refrigerated; peel off outer leaves before use.",
+    "tags": [
+      "patta gobhi",
+      "band gobhi",
+      "cabbage",
+      "muttaikose"
+    ],
+    "image": {
+      "wiki": "Cabbage"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "purple-cabbage-1-pc",
+    "name": "Purple Cabbage",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Purple cabbage that adds crunch and colour to salads, slaws and wraps. Store whole in the fridge.",
+    "tags": [
+      "red cabbage",
+      "purple cabbage",
+      "lal patta gobhi"
+    ],
+    "image": {
+      "wiki": "Red cabbage"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cauliflower-1-pc",
+    "name": "Cauliflower",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 4500,
+    "price": 3500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh cauliflower for aloo gobi, gobi paratha and Manchurian. Soak florets in warm salted water before cooking; refrigerate.",
+    "tags": [
+      "phool gobhi",
+      "gobi",
+      "cauliflower",
+      "gobhi"
+    ],
+    "image": {
+      "wiki": "Cauliflower"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "compact-cauliflower-1-pc",
+    "name": "Compact Cauliflower",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 5500,
+    "price": 4300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Smaller, tightly formed cauliflower heads suited to one or two meals. Wrap loosely and keep refrigerated.",
+    "tags": [
+      "small gobhi",
+      "compact cauliflower",
+      "phool gobhi"
+    ],
+    "image": {
+      "wiki": "Cauliflower"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bottle-gourd-1-pc",
+    "name": "Bottle Gourd",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Long bottle gourd for lauki chana dal, kofta and halwa. Store in a cool place and use within a few days.",
+    "tags": [
+      "lauki",
+      "ghiya",
+      "dudhi",
+      "bottle gourd",
+      "sorakaya"
+    ],
+    "image": {
+      "wiki": "Bottle gourd"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "round-bottle-gourd-1-pc",
+    "name": "Round Bottle Gourd",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Round variety of bottle gourd for sabzi, kofta and raita. Keep in a cool spot and refrigerate once cut.",
+    "tags": [
+      "gol lauki",
+      "round lauki",
+      "bottle gourd",
+      "ghiya"
+    ],
+    "image": {
+      "wiki": "Bottle gourd"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bitter-gourd-500g",
+    "name": "Bitter Gourd",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Bitter gourd for stuffed karela, fry and pitla. Salting the slices before cooking softens the bitterness. Refrigerate.",
+    "tags": [
+      "karela",
+      "bitter gourd",
+      "pavakkai",
+      "kakarakaya"
+    ],
+    "image": {
+      "wiki": "Momordica charantia"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "small-bitter-gourd-250g",
+    "name": "Small Bitter Gourd",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "250 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Small bitter gourds, good for stuffing whole with masala. Store in the fridge and use within three days.",
+    "tags": [
+      "chhota karela",
+      "small karela",
+      "baby bitter gourd"
+    ],
+    "image": {
+      "wiki": "Momordica charantia"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ridge-gourd-500g",
+    "name": "Ridge Gourd",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Ridge gourd for turai sabzi, kootu and chutney made with the peel. Refrigerate and use within a few days.",
+    "tags": [
+      "turai",
+      "tori",
+      "ridge gourd",
+      "peerkangai"
+    ],
+    "image": {
+      "wiki": "Luffa acutangula"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sponge-gourd-500g",
+    "name": "Sponge Gourd",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4500,
+    "price": 3500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Smooth-skinned sponge gourd for light sabzi and dal. Peel thinly before cooking; store in the fridge.",
+    "tags": [
+      "nenua",
+      "gilki",
+      "sponge gourd",
+      "ghiya tori"
+    ],
+    "image": {
+      "wiki": "Luffa aegyptiaca"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "yellow-pumpkin-500g",
+    "name": "Yellow Pumpkin",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 3000,
+    "price": 2300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet yellow pumpkin for kaddu sabzi, sambar and soups. Keep whole pieces cool; wrap and refrigerate once cut.",
+    "tags": [
+      "kaddu",
+      "sitaphal",
+      "pumpkin",
+      "parangikai"
+    ],
+    "image": {
+      "wiki": "Pumpkin"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "green-pumpkin-500g",
+    "name": "Green Pumpkin",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 3000,
+    "price": 2300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Green-skinned pumpkin for khatta meetha kaddu, curries and stews. Refrigerate cut pieces wrapped.",
+    "tags": [
+      "hara kaddu",
+      "green pumpkin",
+      "kaddu",
+      "pumpkin"
+    ],
+    "image": {
+      "wiki": "Pumpkin"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "beetroot-500g",
+    "name": "Beetroot",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Earthy beetroot for salads, poriyal, halwa and juice. Trim leaves and refrigerate in a bag.",
+    "tags": [
+      "chukandar",
+      "beetroot",
+      "beet",
+      "beetroot salad"
+    ],
+    "image": {
+      "wiki": "Beetroot"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "baby-beetroot-250g",
+    "name": "Baby Beetroot",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "250 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Small beetroots that roast or boil whole and suit salads. Keep refrigerated and scrub before cooking.",
+    "tags": [
+      "baby chukandar",
+      "baby beetroot",
+      "small beet"
+    ],
+    "image": {
+      "wiki": "Beetroot"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "radish-500g",
+    "name": "Radish",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 3000,
+    "price": 2300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "White radish for mooli paratha, sambar and salads. Wrap in paper and refrigerate; the leaves can be cooked too.",
+    "tags": [
+      "mooli",
+      "radish",
+      "mullangi",
+      "white radish"
+    ],
+    "image": {
+      "wiki": "Daikon"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "red-radish-250g",
+    "name": "Red Radish",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "250 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Small round red radishes with a peppery crunch for salads and garnishes. Refrigerate with the tops removed.",
+    "tags": [
+      "lal mooli",
+      "red radish",
+      "salad radish"
+    ],
+    "image": {
+      "wiki": "Radish"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sweet-potato-500g",
+    "name": "Sweet Potato",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "White-fleshed sweet potatoes to roast, boil for chaat or bake. Store in a cool, dry place, not in the fridge.",
+    "tags": [
+      "shakarkandi",
+      "sweet potato",
+      "genasu",
+      "ratalu"
+    ],
+    "image": {
+      "wiki": "Sweet potato"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "orange-sweet-potato-500g",
+    "name": "Orange Sweet Potato",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Orange-fleshed sweet potatoes for roasting, mash and soups. Keep in a cool, dark place and use within a week.",
+    "tags": [
+      "orange shakarkandi",
+      "sweet potato",
+      "orange sweet potato"
+    ],
+    "image": {
+      "wiki": "Sweet potato"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "green-peas-500g",
+    "name": "Green Peas",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "500 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh green peas in the pod for matar paneer, pulao and upma. Shell just before cooking; refrigerate the pods.",
+    "tags": [
+      "matar",
+      "hara matar",
+      "green peas",
+      "pattani"
+    ],
+    "image": {
+      "wiki": "Pea"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "shelled-green-peas-200g",
+    "name": "Shelled Green Peas",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "200 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Ready-shelled fresh peas that go straight into curries, pulao and poha. Refrigerate and use within two days.",
+    "tags": [
+      "matar dana",
+      "peeled peas",
+      "shelled peas",
+      "matar"
+    ],
+    "image": {
+      "wiki": "Pea"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "spinach-1-bunch",
+    "name": "Spinach",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 3000,
+    "price": 2300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh spinach for palak paneer, dal palak and soups. Wash well to remove grit and refrigerate wrapped in paper.",
+    "tags": [
+      "palak",
+      "spinach",
+      "pasalai keerai",
+      "palakura"
+    ],
+    "image": {
+      "wiki": "Spinach"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amaranth-leaves-1-bunch",
+    "name": "Amaranth Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 2500,
+    "price": 1900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Tender amaranth greens for saag, poriyal and dal. Rinse thoroughly and use within a day or two.",
+    "tags": [
+      "chaulai",
+      "lal saag",
+      "thotakura",
+      "amaranth",
+      "keerai"
+    ],
+    "image": {
+      "wiki": "Amaranth"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fenugreek-leaves-1-bunch",
+    "name": "Fenugreek Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 2500,
+    "price": 1900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh methi leaves for methi thepla, aloo methi and parathas. Pluck leaves from stems and refrigerate in a paper towel.",
+    "tags": [
+      "methi",
+      "methi saag",
+      "fenugreek leaves",
+      "vendhaya keerai"
+    ],
+    "image": {
+      "wiki": "Fenugreek"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "drumstick-250g",
+    "name": "Drumstick",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "250 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Drumsticks for sambar, avial and curries. Cut into finger-length pieces before cooking; refrigerate wrapped.",
+    "tags": [
+      "sahjan",
+      "murungakkai",
+      "drumstick",
+      "saragva"
+    ],
+    "image": {
+      "wiki": "Moringa oleifera"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "raw-banana-500g",
+    "name": "Raw Banana",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Green cooking bananas for chips, kofta, poriyal and bajji. Store at room temperature and cook before they turn yellow.",
+    "tags": [
+      "kachha kela",
+      "raw banana",
+      "plantain",
+      "vazhakkai"
+    ],
+    "image": {
+      "wiki": "Cooking banana"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "raw-papaya-1-pc",
+    "name": "Raw Papaya",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Green unripe papaya for sambharo, thoran, salads and kofta. Keep at room temperature and use before it ripens.",
+    "tags": [
+      "kachha papita",
+      "raw papaya",
+      "green papaya"
+    ],
+    "image": {
+      "wiki": "Papaya"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kashmiri-apple-1kg",
+    "name": "Kashmiri Apple",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 20000,
+    "price": 15900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Crisp red apples from Kashmir for snacking, fruit chaat and salads. Refrigerate to keep them crunchy for longer.",
+    "tags": [
+      "seb",
+      "kashmiri seb",
+      "apple",
+      "red apple"
+    ],
+    "image": {
+      "wiki": "Apple"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fuji-apple-1kg",
+    "name": "Fuji Apple",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 28000,
+    "price": 21900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet, juicy Fuji apples with a dense crunch, good for eating fresh or in salads. Store in the fridge.",
+    "tags": [
+      "fuji apple",
+      "imported apple",
+      "seb",
+      "apple"
+    ],
+    "image": {
+      "wiki": "Fuji (apple)"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "granny-smith-apple-1kg",
+    "name": "Granny Smith Apple",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 30000,
+    "price": 23900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Tart green apples for salads, juices and baking. Keep refrigerated and away from bananas.",
+    "tags": [
+      "green apple",
+      "granny smith",
+      "hara seb",
+      "apple"
+    ],
+    "image": {
+      "wiki": "Granny Smith"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "robusta-banana-1-dozen",
+    "name": "Robusta Banana",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 dozen",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Robusta bananas for breakfast, shakes and snacking. Keep at room temperature and hang to slow bruising.",
+    "tags": [
+      "kela",
+      "robusta banana",
+      "banana",
+      "pacha bale"
+    ],
+    "image": {
+      "wiki": "Banana"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "yelakki-banana-500g",
+    "name": "Yelakki Banana",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Small, sweet Yelakki bananas, popular for prasad and snacking. Store at room temperature, away from direct sunlight.",
+    "tags": [
+      "elaichi kela",
+      "yelakki",
+      "elakki banana",
+      "small banana"
+    ],
+    "image": {
+      "wiki": "Banana"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nendran-banana-1kg",
+    "name": "Nendran Banana",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 9000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Large Nendran bananas from Kerala, eaten ripe or used for chips and pazham pori. Ripen at room temperature.",
+    "tags": [
+      "nendran",
+      "kerala banana",
+      "ethakka",
+      "plantain"
+    ],
+    "image": {
+      "wiki": "Cooking banana"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "green-seedless-grapes-500g",
+    "name": "Green Seedless Grapes",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 8000,
+    "price": 6300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet green seedless grapes for snacking and fruit salads. Refrigerate unwashed and rinse just before eating.",
+    "tags": [
+      "angoor",
+      "hare angoor",
+      "green grapes",
+      "seedless grapes"
+    ],
+    "image": {
+      "wiki": "Grape"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "black-seedless-grapes-500g",
+    "name": "Black Seedless Grapes",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 10000,
+    "price": 7900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Juicy black seedless grapes for snacking and juices. Keep refrigerated in a ventilated box.",
+    "tags": [
+      "kale angoor",
+      "black grapes",
+      "seedless grapes",
+      "angoor"
+    ],
+    "image": {
+      "wiki": "Grape"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "red-globe-grapes-500g",
+    "name": "Red Globe Grapes",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 16000,
+    "price": 12500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Large, crunchy red globe grapes with seeds, good for fruit platters. Store unwashed in the fridge.",
+    "tags": [
+      "red grapes",
+      "red globe",
+      "laal angoor",
+      "angoor"
+    ],
+    "image": {
+      "wiki": "Grape"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "banganapalli-mango-1kg",
+    "name": "Banganapalli Mango",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 15000,
+    "price": 11900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Large, fibreless Banganapalli mangoes with sweet yellow flesh. Ripen at room temperature, then refrigerate for a day or two.",
+    "tags": [
+      "aam",
+      "banganapalli",
+      "benishan",
+      "mango"
+    ],
+    "image": {
+      "wiki": "Mango"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "alphonso-mango-6-pcs",
+    "name": "Alphonso Mango",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 60000,
+    "price": 47900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fragrant Alphonso mangoes with saffron-coloured flesh for eating fresh, aamras and milkshakes. Ripen at room temperature.",
+    "tags": [
+      "hapus",
+      "alphonso",
+      "aam",
+      "mango"
+    ],
+    "image": {
+      "wiki": "Alphonso mango"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kesar-mango-1kg",
+    "name": "Kesar Mango",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 20000,
+    "price": 15900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet Kesar mangoes from Gujarat with bright orange pulp, good for aamras and desserts. Ripen at room temperature.",
+    "tags": [
+      "kesar aam",
+      "kesar",
+      "aam",
+      "mango"
+    ],
+    "image": {
+      "wiki": "Mango"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nagpur-orange-1kg",
+    "name": "Nagpur Orange",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 10000,
+    "price": 7900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Loose-skinned, juicy Nagpur oranges that peel easily for snacking and fresh juice. Store in a cool place or the fridge.",
+    "tags": [
+      "santra",
+      "narangi",
+      "nagpur orange",
+      "orange"
+    ],
+    "image": {
+      "wiki": "Nagpur orange"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kinnow-1kg",
+    "name": "Kinnow",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 8000,
+    "price": 6300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Juicy Kinnow mandarins from Punjab, popular for fresh juice in winter. Keep in a cool, airy spot or refrigerate.",
+    "tags": [
+      "kinnow",
+      "kinu",
+      "mandarin",
+      "santra"
+    ],
+    "image": {
+      "wiki": "Kinnow"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "navel-orange-1kg",
+    "name": "Navel Orange",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 26000,
+    "price": 20900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Imported seedless navel oranges with sweet segments for eating and juicing. Refrigerate to keep them fresh for longer.",
+    "tags": [
+      "navel orange",
+      "imported orange",
+      "santra",
+      "orange"
+    ],
+    "image": {
+      "wiki": "Orange (fruit)"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mosambi-1kg",
+    "name": "Mosambi",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 9000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet lime for fresh juice and snacking. Store at room temperature for a few days or refrigerate for longer.",
+    "tags": [
+      "mosambi",
+      "musambi",
+      "sweet lime",
+      "sathukudi"
+    ],
+    "image": {
+      "wiki": "Citrus limetta"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "premium-mosambi-1kg",
+    "name": "Premium Mosambi",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 12000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Larger, hand-sorted sweet limes selected for juicing. Roll on the counter before cutting to get more juice.",
+    "tags": [
+      "mosambi",
+      "sweet lime",
+      "musambi",
+      "juice fruit"
+    ],
+    "image": {
+      "wiki": "Citrus limetta"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bhagwa-pomegranate-500g",
+    "name": "Bhagwa Pomegranate",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 13000,
+    "price": 9900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Bhagwa pomegranates with deep red, sweet arils for snacking, raita and salads. Store in a cool place or the fridge.",
+    "tags": [
+      "anar",
+      "pomegranate",
+      "bhagwa",
+      "dalimb"
+    ],
+    "image": {
+      "wiki": "Pomegranate"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ganesh-pomegranate-500g",
+    "name": "Ganesh Pomegranate",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 11000,
+    "price": 8500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Ganesh pomegranates with soft seeds and pinkish arils, good for juice and fruit bowls. Refrigerate whole.",
+    "tags": [
+      "anar",
+      "pomegranate",
+      "ganesh anar",
+      "dalimb"
+    ],
+    "image": {
+      "wiki": "Pomegranate"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "guava-500g",
+    "name": "Guava",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "White-fleshed guavas to eat with a pinch of salt and chilli or slice into fruit chaat. Ripen at room temperature.",
+    "tags": [
+      "amrood",
+      "peru",
+      "guava",
+      "koyya"
+    ],
+    "image": {
+      "wiki": "Guava"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pink-guava-500g",
+    "name": "Pink Guava",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fragrant pink-fleshed guavas for eating fresh, juices and jams. Refrigerate once ripe.",
+    "tags": [
+      "pink amrood",
+      "pink guava",
+      "peru",
+      "guava"
+    ],
+    "image": {
+      "wiki": "Guava"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "red-lady-papaya-1-pc",
+    "name": "Red Lady Papaya",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Red Lady papaya with sweet orange-red flesh for breakfast bowls and smoothies. Ripen at room temperature, then refrigerate.",
+    "tags": [
+      "papita",
+      "papaya",
+      "red lady papaya",
+      "pappali"
+    ],
+    "image": {
+      "wiki": "Papaya"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "papaya-1kg",
+    "name": "Papaya",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Local ripe papaya for breakfast and fruit salads. Keep at room temperature until soft, then chill before eating.",
+    "tags": [
+      "papita",
+      "papaya",
+      "pappali",
+      "boppayi"
+    ],
+    "image": {
+      "wiki": "Papaya"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "watermelon-1-pc",
+    "name": "Watermelon",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 9000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Striped watermelon with juicy red flesh, a summer staple for snacking and juice. Refrigerate once cut and cover with cling wrap.",
+    "tags": [
+      "tarbooz",
+      "kalingad",
+      "watermelon",
+      "tarbuj"
+    ],
+    "image": {
+      "wiki": "Watermelon"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "seedless-watermelon-1-pc",
+    "name": "Seedless Watermelon",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 12000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Dark-skinned seedless watermelon that is easy to cube for kids and fruit bowls. Chill before serving.",
+    "tags": [
+      "seedless tarbooz",
+      "watermelon",
+      "kalingad",
+      "tarbooz"
+    ],
+    "image": {
+      "wiki": "Watermelon"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "muskmelon-1-pc",
+    "name": "Muskmelon",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fragrant kharbuja with sweet orange flesh for eating chilled or blending into milkshakes. Refrigerate once cut.",
+    "tags": [
+      "kharbuja",
+      "kharbooja",
+      "muskmelon",
+      "melon"
+    ],
+    "image": {
+      "wiki": "Muskmelon"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cantaloupe-1-pc",
+    "name": "Cantaloupe",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 12000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Netted cantaloupe melon with sweet, fragrant flesh for breakfast and fruit platters. Ripen at room temperature, then chill.",
+    "tags": [
+      "cantaloupe",
+      "melon",
+      "kharbuja"
+    ],
+    "image": {
+      "wiki": "Cantaloupe"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "queen-pineapple-1-pc",
+    "name": "Queen Pineapple",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 9000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Small, sweet Queen pineapple for eating fresh, juices and salads. Store upside down for a day to spread the sweetness.",
+    "tags": [
+      "ananas",
+      "pineapple",
+      "queen pineapple"
+    ],
+    "image": {
+      "wiki": "Pineapple"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kew-pineapple-1-pc",
+    "name": "Kew Pineapple",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 10000,
+    "price": 7900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Large, juicy Kew pineapple for juice, fruit salads and pineapple sheera. Refrigerate once cut.",
+    "tags": [
+      "ananas",
+      "pineapple",
+      "kew pineapple"
+    ],
+    "image": {
+      "wiki": "Pineapple"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cricket-ball-chikoo-500g",
+    "name": "Cricket Ball Chikoo",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Large, round cricket ball sapota with sweet, grainy flesh for eating fresh and milkshakes. Ripen at room temperature.",
+    "tags": [
+      "chikoo",
+      "chiku",
+      "sapota",
+      "sapodilla"
+    ],
+    "image": {
+      "wiki": "Manilkara zapota"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kalipatti-chikoo-500g",
+    "name": "Kalipatti Chikoo",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Oval Kalipatti sapota with honey-sweet flesh. Eat when soft to the touch; refrigerate ripe fruit.",
+    "tags": [
+      "chikoo",
+      "chiku",
+      "sapota",
+      "kalipatti"
+    ],
+    "image": {
+      "wiki": "Manilkara zapota"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "indian-pear-500g",
+    "name": "Indian Pear",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 8000,
+    "price": 6300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Crisp Indian pears (nashpati) for snacking and fruit chaat. Store in a cool place and refrigerate once ripe.",
+    "tags": [
+      "nashpati",
+      "naspati",
+      "pear",
+      "indian pear"
+    ],
+    "image": {
+      "wiki": "Pear"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "chinese-pear-500g",
+    "name": "Chinese Pear",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 12000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Round, juicy Chinese pears with a crunchy, apple-like texture. Keep refrigerated.",
+    "tags": [
+      "chinese pear",
+      "sand pear",
+      "nashpati",
+      "pear"
+    ],
+    "image": {
+      "wiki": "Pyrus pyrifolia"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "imported-pear-500g",
+    "name": "Imported Pear",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "500 g",
+    "mrp": 18000,
+    "price": 13900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Imported pears with soft, buttery flesh when ripe, good for eating fresh or poaching. Ripen at room temperature.",
+    "tags": [
+      "imported pear",
+      "pear",
+      "nashpati"
+    ],
+    "image": {
+      "wiki": "Pear"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lime-250g",
+    "name": "Lime",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "250 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Juicy Indian limes for nimbu pani, dal, chaat and pickles. Store in the fridge in a bag to keep them from drying out.",
+    "tags": [
+      "nimbu",
+      "lemon",
+      "lime",
+      "elumichai"
+    ],
+    "image": {
+      "wiki": "Key lime"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "yellow-lemon-250g",
+    "name": "Yellow Lemon",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "250 g",
+    "mrp": 8000,
+    "price": 6300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Large yellow lemons with plenty of juice and zest for drinks, dressings and baking. Refrigerate.",
+    "tags": [
+      "yellow lemon",
+      "bada nimbu",
+      "lemon",
+      "lemon zest"
+    ],
+    "image": {
+      "wiki": "Lemon"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "coconut-1-pc",
+    "name": "Coconut",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 4500,
+    "price": 3500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Mature brown coconut for chutney, curries and grated coconut. Store at room temperature; refrigerate the flesh once opened.",
+    "tags": [
+      "nariyal",
+      "coconut",
+      "thengai",
+      "mature coconut"
+    ],
+    "image": {
+      "wiki": "Coconut"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "custard-apple-500g",
+    "name": "Custard Apple",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "500 g",
+    "mrp": 9000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet, creamy custard apples to eat with a spoon or use in rabri and shakes. Ripen at room temperature until soft.",
+    "tags": [
+      "sitaphal",
+      "sharifa",
+      "custard apple",
+      "seethapazham"
+    ],
+    "image": {
+      "wiki": "Annona squamosa"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "jamun-250g",
+    "name": "Jamun",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "250 g",
+    "mrp": 8000,
+    "price": 6300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Seasonal jamun with tangy-sweet purple flesh. Eat with a pinch of salt; refrigerate and use within two days.",
+    "tags": [
+      "jamun",
+      "java plum",
+      "black plum",
+      "naval pazham"
+    ],
+    "image": {
+      "wiki": "Syzygium cumini"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fig-200g",
+    "name": "Fig",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-fresh-fruits"
+    ],
+    "unit_label": "200 g",
+    "mrp": 9000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh figs with soft, honeyed flesh for snacking and desserts. Handle gently and keep refrigerated; best within two days.",
+    "tags": [
+      "anjeer",
+      "anjir",
+      "fresh fig",
+      "fig"
+    ],
+    "image": {
+      "wiki": "Common fig"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hass-avocado-1-pc",
+    "name": "Hass Avocado",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 15000,
+    "price": 11900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Creamy Hass avocado for guacamole, toast and salads. Ripen at room temperature until it yields to gentle pressure.",
+    "tags": [
+      "avocado",
+      "hass avocado",
+      "butter fruit"
+    ],
+    "image": {
+      "wiki": "Hass avocado"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "green-avocado-1-pc",
+    "name": "Green Avocado",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 10000,
+    "price": 7900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Green-skinned avocado with mild, smooth flesh for smoothies, salads and spreads. Ripen at room temperature.",
+    "tags": [
+      "butter fruit",
+      "green avocado",
+      "avocado"
+    ],
+    "image": {
+      "wiki": "Avocado"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "green-kiwi-pack-of-3",
+    "name": "Green Kiwi",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "Pack of 3",
+    "mrp": 12000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Tangy green kiwis to scoop with a spoon or slice into fruit bowls. Ripen at room temperature, then refrigerate.",
+    "tags": [
+      "kiwi",
+      "kiwifruit",
+      "green kiwi"
+    ],
+    "image": {
+      "wiki": "Kiwifruit"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "golden-kiwi-pack-of-3",
+    "name": "Golden Kiwi",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "Pack of 3",
+    "mrp": 18000,
+    "price": 13900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Smooth-skinned golden kiwis with sweeter yellow flesh. Eat when slightly soft; keep refrigerated once ripe.",
+    "tags": [
+      "golden kiwi",
+      "kiwi",
+      "kiwifruit",
+      "yellow kiwi"
+    ],
+    "image": {
+      "wiki": "Kiwifruit"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "white-dragon-fruit-1-pc",
+    "name": "White Dragon Fruit",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 9000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Dragon fruit with white, speckled flesh for smoothie bowls and fruit platters. Refrigerate and eat within a few days.",
+    "tags": [
+      "dragon fruit",
+      "pitaya",
+      "kamalam"
+    ],
+    "image": {
+      "wiki": "Pitaya"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "red-dragon-fruit-1-pc",
+    "name": "Red Dragon Fruit",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 12000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Dragon fruit with vivid magenta flesh for smoothies and bowls. Keep chilled; its juice can stain fabric.",
+    "tags": [
+      "red dragon fruit",
+      "dragon fruit",
+      "pitaya",
+      "kamalam"
+    ],
+    "image": {
+      "wiki": "Pitaya"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "strawberry-200g",
+    "name": "Strawberry",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics",
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "200 g",
+    "mrp": 10000,
+    "price": 7900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet strawberries for eating fresh, shakes and desserts. Refrigerate unwashed and rinse just before eating.",
+    "tags": [
+      "strawberry",
+      "strawberries",
+      "berries",
+      "mahabaleshwar strawberry"
+    ],
+    "image": {
+      "wiki": "Strawberry"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "blueberry-125g",
+    "name": "Blueberry",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "125 g",
+    "mrp": 35000,
+    "price": 27900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Plump blueberries for breakfast bowls, yoghurt and baking. Keep refrigerated and rinse just before use.",
+    "tags": [
+      "blueberry",
+      "blueberries",
+      "berries"
+    ],
+    "image": {
+      "wiki": "Blueberry"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "blackberry-125g",
+    "name": "Blackberry",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "125 g",
+    "mrp": 30000,
+    "price": 23900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Juicy blackberries for desserts, smoothies and snacking. Very delicate: refrigerate and eat within two days.",
+    "tags": [
+      "blackberry",
+      "blackberries",
+      "berries"
+    ],
+    "image": {
+      "wiki": "Blackberry"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "imported-green-seedless-grapes-500g",
+    "name": "Imported Green Seedless Grapes",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "500 g",
+    "mrp": 30000,
+    "price": 23900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Imported green seedless grapes with a firm, crisp bite. Refrigerate unwashed in the punnet.",
+    "tags": [
+      "imported grapes",
+      "green grapes",
+      "seedless grapes",
+      "angoor"
+    ],
+    "image": {
+      "wiki": "Grape"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "imported-red-seedless-grapes-500g",
+    "name": "Imported Red Seedless Grapes",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "500 g",
+    "mrp": 35000,
+    "price": 27900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Imported red seedless grapes, sweet and crunchy for snacking and cheese platters. Keep refrigerated.",
+    "tags": [
+      "imported grapes",
+      "red grapes",
+      "seedless grapes",
+      "angoor"
+    ],
+    "image": {
+      "wiki": "Grape"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "peach-500g",
+    "name": "Peach",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "500 g",
+    "mrp": 20000,
+    "price": 15900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fragrant peaches for eating fresh, salads and desserts. Ripen at room temperature, then refrigerate.",
+    "tags": [
+      "aadu",
+      "aaru",
+      "peach"
+    ],
+    "image": {
+      "wiki": "Peach"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "plum-500g",
+    "name": "Plum",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "500 g",
+    "mrp": 18000,
+    "price": 13900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Juicy plums with tart skin and sweet flesh. Ripen on the counter and refrigerate once soft.",
+    "tags": [
+      "aloo bukhara",
+      "plum",
+      "alubukhara"
+    ],
+    "image": {
+      "wiki": "Plum"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nectarine-500g",
+    "name": "Nectarine",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "500 g",
+    "mrp": 30000,
+    "price": 23900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Smooth-skinned nectarines for snacking and fruit salads. Ripen at room temperature until fragrant.",
+    "tags": [
+      "nectarine",
+      "stone fruit",
+      "imported nectarine"
+    ],
+    "image": {
+      "wiki": "Nectarine"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cherries-250g",
+    "name": "Cherries",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "250 g",
+    "mrp": 30000,
+    "price": 23900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet dark cherries for snacking and desserts. Refrigerate unwashed and remove stems just before eating.",
+    "tags": [
+      "cherry",
+      "cherries",
+      "imported cherries",
+      "cheri"
+    ],
+    "image": {
+      "wiki": "Cherry"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "passion-fruit-4-pcs",
+    "name": "Passion Fruit",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "4 pcs",
+    "mrp": 15000,
+    "price": 11900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Tangy passion fruit to scoop over yoghurt or blend into drinks. Ready when the skin is slightly wrinkled; refrigerate.",
+    "tags": [
+      "passion fruit",
+      "krishna phal",
+      "passionfruit"
+    ],
+    "image": {
+      "wiki": "Passiflora edulis"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "persimmon-2-pcs",
+    "name": "Persimmon",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "2 pcs",
+    "mrp": 20000,
+    "price": 15900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet, honey-like persimmons to eat when soft or slice when firm. Ripen at room temperature.",
+    "tags": [
+      "persimmon",
+      "japani phal",
+      "amlok",
+      "sharon fruit"
+    ],
+    "image": {
+      "wiki": "Persimmon"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "broccoli-1-pc",
+    "name": "Broccoli",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 9000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Green broccoli heads for stir-fries, soups and salads. Refrigerate in an open bag and use within four days.",
+    "tags": [
+      "broccoli",
+      "hari gobhi",
+      "green cauliflower"
+    ],
+    "image": {
+      "wiki": "Broccoli"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "zucchini-500g",
+    "name": "Zucchini",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "500 g",
+    "mrp": 12000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Mild zucchini for grilling, pasta, stir-fries and soups. Store unwashed in the fridge crisper.",
+    "tags": [
+      "zucchini",
+      "courgette",
+      "green zucchini"
+    ],
+    "image": {
+      "wiki": "Zucchini"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "asparagus-250g",
+    "name": "Asparagus",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "250 g",
+    "mrp": 35000,
+    "price": 27900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Tender asparagus spears to grill, saute or steam. Stand upright in a little water in the fridge.",
+    "tags": [
+      "asparagus",
+      "shatavari spears",
+      "green asparagus"
+    ],
+    "image": {
+      "wiki": "Asparagus"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "button-mushroom-200g",
+    "name": "Button Mushroom",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "White button mushrooms for mushroom masala, pizzas and soups. Keep refrigerated in a paper bag; wipe clean rather than soaking.",
+    "tags": [
+      "mushroom",
+      "khumb",
+      "button mushroom",
+      "khumbi"
+    ],
+    "image": {
+      "wiki": "Agaricus bisporus"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "oyster-mushroom-200g",
+    "name": "Oyster Mushroom",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "200 g",
+    "mrp": 12000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Delicate oyster mushrooms for stir-fries, soups and curries. Refrigerate and use within two to three days.",
+    "tags": [
+      "dhingri",
+      "oyster mushroom",
+      "mushroom"
+    ],
+    "image": {
+      "wiki": "Pleurotus ostreatus"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "shiitake-mushroom-100g",
+    "name": "Shiitake Mushroom",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "100 g",
+    "mrp": 25000,
+    "price": 19900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh shiitake mushrooms with an earthy flavour for noodles, broths and stir-fries. Refrigerate in a paper bag.",
+    "tags": [
+      "shiitake",
+      "shiitake mushroom",
+      "mushroom"
+    ],
+    "image": {
+      "wiki": "Shiitake"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "iceberg-lettuce-1-pc",
+    "name": "Iceberg Lettuce",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 12000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Crisp iceberg lettuce for burgers, wraps and salads. Refrigerate whole and tear leaves just before use.",
+    "tags": [
+      "iceberg",
+      "lettuce",
+      "salad patta",
+      "iceberg lettuce"
+    ],
+    "image": {
+      "wiki": "Iceberg lettuce"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "romaine-lettuce-200g",
+    "name": "Romaine Lettuce",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "200 g",
+    "mrp": 15000,
+    "price": 11900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Crunchy romaine leaves for Caesar salad, wraps and sandwiches. Keep refrigerated in a bag with a paper towel.",
+    "tags": [
+      "romaine",
+      "lettuce",
+      "cos lettuce",
+      "salad leaves"
+    ],
+    "image": {
+      "wiki": "Romaine lettuce"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "celery-250g",
+    "name": "Celery",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-exotics"
+    ],
+    "unit_label": "250 g",
+    "mrp": 10000,
+    "price": 7900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Crunchy celery stalks for soups, stir-fries and salads. Wrap in foil and refrigerate to keep crisp.",
+    "tags": [
+      "celery",
+      "ajmoda",
+      "celery sticks"
+    ],
+    "image": {
+      "wiki": "Celery"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "coriander-leaves-100g",
+    "name": "Coriander Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "100 g",
+    "mrp": 3000,
+    "price": 2300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh coriander to garnish curries, dal and chaat or blend into chutney. Store roots-down in water or wrapped in paper in the fridge.",
+    "tags": [
+      "dhania",
+      "hara dhania",
+      "kothamalli",
+      "coriander leaves",
+      "cilantro"
+    ],
+    "image": {
+      "wiki": "Coriander"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cleaned-coriander-leaves-100g",
+    "name": "Cleaned Coriander Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "100 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Coriander with roots removed and sorted, ready to wash and chop. Refrigerate in a container lined with paper towel.",
+    "tags": [
+      "dhania patta",
+      "cleaned coriander",
+      "hara dhania",
+      "kothamalli"
+    ],
+    "image": {
+      "wiki": "Coriander"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mint-leaves-1-bunch",
+    "name": "Mint Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 2500,
+    "price": 1900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh mint for chutney, raita, biryani and nimbu pani. Keep stems in a glass of water or refrigerate wrapped in paper.",
+    "tags": [
+      "pudina",
+      "pudhina",
+      "mint",
+      "mint leaves"
+    ],
+    "image": {
+      "wiki": "Mentha"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cleaned-mint-leaves-100g",
+    "name": "Cleaned Mint Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "100 g",
+    "mrp": 3500,
+    "price": 2700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Mint leaves picked from the stems and ready to rinse and use. Refrigerate and use within two days.",
+    "tags": [
+      "pudina patta",
+      "cleaned mint",
+      "mint leaves",
+      "pudina"
+    ],
+    "image": {
+      "wiki": "Mentha"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "curry-leaves-1-bunch",
+    "name": "Curry Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 1500,
+    "price": 1100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh curry leaves for tadka in sambar, poha, upma and chutneys. Refrigerate in an airtight box to keep them green.",
+    "tags": [
+      "kadi patta",
+      "kadipatta",
+      "curry leaves",
+      "karuveppilai"
+    ],
+    "image": {
+      "wiki": "Curry tree"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "green-chilli-100g",
+    "name": "Green Chilli",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "100 g",
+    "mrp": 2000,
+    "price": 1500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Small, hot green chillies for tadka, chutneys and curries. Remove stalks and refrigerate in a dry container.",
+    "tags": [
+      "hari mirch",
+      "green chilli",
+      "mirchi",
+      "pachai milagai"
+    ],
+    "image": {
+      "wiki": "Chili pepper"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "long-green-chilli-250g",
+    "name": "Long Green Chilli",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "250 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Long, mild green chillies for mirchi bajji, pakoda and stuffed chillies. Keep refrigerated.",
+    "tags": [
+      "bhavnagri mirch",
+      "long chilli",
+      "bajji mirchi",
+      "hari mirch"
+    ],
+    "image": {
+      "wiki": "Chili pepper"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ginger-250g",
+    "name": "Ginger",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "250 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh ginger for chai, tadka, ginger-garlic paste and curries. Store unpeeled in the fridge.",
+    "tags": [
+      "adrak",
+      "ginger",
+      "inji",
+      "allam"
+    ],
+    "image": {
+      "wiki": "Ginger"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tender-ginger-250g",
+    "name": "Tender Ginger",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "250 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Young ginger with thin skin and mild heat, ideal for pickles and salads. Refrigerate and use within a week.",
+    "tags": [
+      "new ginger",
+      "tender ginger",
+      "adrak",
+      "inji"
+    ],
+    "image": {
+      "wiki": "Ginger"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "garlic-250g",
+    "name": "Garlic",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "250 g",
+    "mrp": 8000,
+    "price": 6300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Indian garlic with small, pungent cloves for tadka, pastes and pickles. Store in a dry, airy place.",
+    "tags": [
+      "lehsun",
+      "lasun",
+      "garlic",
+      "poondu"
+    ],
+    "image": {
+      "wiki": "Garlic"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "large-clove-garlic-250g",
+    "name": "Large Clove Garlic",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "250 g",
+    "mrp": 10000,
+    "price": 7900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Garlic with big cloves that are quicker to peel, for pastes and roasting. Keep in a cool, dry place.",
+    "tags": [
+      "big garlic",
+      "lehsun",
+      "garlic",
+      "poondu"
+    ],
+    "image": {
+      "wiki": "Garlic"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lemongrass-1-bunch",
+    "name": "Lemongrass",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 3000,
+    "price": 2300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh lemongrass stalks for chai, Thai curries and soups. Bruise before use; refrigerate wrapped.",
+    "tags": [
+      "lemongrass",
+      "lemon grass",
+      "gavti chaha",
+      "hari chai"
+    ],
+    "image": {
+      "wiki": "Cymbopogon"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "basil-50g",
+    "name": "Basil",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "50 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sweet Italian basil for pasta, pizza and pesto. Keep stems in water at room temperature rather than in the fridge.",
+    "tags": [
+      "italian basil",
+      "sweet basil",
+      "basil"
+    ],
+    "image": {
+      "wiki": "Basil"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parsley-50g",
+    "name": "Parsley",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "50 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh parsley to garnish soups, pasta and salads. Refrigerate wrapped in a damp paper towel.",
+    "tags": [
+      "parsley",
+      "ajmood",
+      "curly parsley"
+    ],
+    "image": {
+      "wiki": "Parsley"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dill-leaves-1-bunch",
+    "name": "Dill Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 3000,
+    "price": 2300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh dill for suva bhaji, dal and dips. Rinse well and refrigerate wrapped in paper.",
+    "tags": [
+      "suva",
+      "shepu",
+      "sowa",
+      "dill",
+      "dill leaves"
+    ],
+    "image": {
+      "wiki": "Dill"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "spring-onion-1-bunch",
+    "name": "Spring Onion",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-coriander-others"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 3000,
+    "price": 2300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Spring onions for fried rice, noodles, salads and garnish. Refrigerate wrapped in paper; both bulbs and greens are used.",
+    "tags": [
+      "hara pyaz",
+      "spring onion",
+      "scallion",
+      "vengaya thal"
+    ],
+    "image": {
+      "wiki": "Scallion"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "curry-cut-vegetable-mix-250g",
+    "name": "Curry Cut Vegetable Mix",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "250 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Washed, cut mixed vegetables ready for a quick sabzi or curry. Refrigerate and cook within a day of opening.",
+    "tags": [
+      "cut vegetables",
+      "mixed sabzi",
+      "ready to cook",
+      "curry mix"
+    ],
+    "image": {
+      "wiki": "Vegetable"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "stir-fry-vegetable-mix-250g",
+    "name": "Stir-Fry Vegetable Mix",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "250 g",
+    "mrp": 8000,
+    "price": 6300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Cut vegetables sliced for stir-fries, fried rice and noodles. Keep refrigerated and use within a day.",
+    "tags": [
+      "stir fry vegetables",
+      "cut vegetables",
+      "chinese veg mix",
+      "ready to cook"
+    ],
+    "image": {
+      "wiki": "Stir frying"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sambar-vegetable-mix-250g",
+    "name": "Sambar Vegetable Mix",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "250 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Cut vegetables portioned for sambar, ready to add to cooked dal. Refrigerate and use within a day.",
+    "tags": [
+      "sambar vegetables",
+      "sambar mix",
+      "cut vegetables",
+      "ready to cook"
+    ],
+    "image": {
+      "wiki": "Sambar (dish)"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cut-watermelon-250g",
+    "name": "Cut Watermelon",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "250 g",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Freshly cut, deseeded watermelon cubes ready to eat. Keep chilled and finish the same day.",
+    "tags": [
+      "cut tarbooz",
+      "watermelon cubes",
+      "cut fruit",
+      "ready to eat"
+    ],
+    "image": {
+      "wiki": "Watermelon"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cut-papaya-250g",
+    "name": "Cut Papaya",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "250 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Ripe papaya peeled and cubed for a quick breakfast or snack. Refrigerate and eat within a day.",
+    "tags": [
+      "cut papita",
+      "papaya cubes",
+      "cut fruit",
+      "ready to eat"
+    ],
+    "image": {
+      "wiki": "Papaya"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cut-pineapple-250g",
+    "name": "Cut Pineapple",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "250 g",
+    "mrp": 8000,
+    "price": 6300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Peeled, cored pineapple chunks ready to eat or add to salads. Keep refrigerated and finish within a day.",
+    "tags": [
+      "cut ananas",
+      "pineapple chunks",
+      "cut fruit",
+      "ready to eat"
+    ],
+    "image": {
+      "wiki": "Pineapple"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mixed-seasonal-fruit-bowl-250g",
+    "name": "Mixed Seasonal Fruit Bowl",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "250 g",
+    "mrp": 12000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "An assortment of cut seasonal fruits in a ready-to-eat bowl. Keep chilled and eat the same day.",
+    "tags": [
+      "fruit bowl",
+      "cut fruits",
+      "fruit salad",
+      "seasonal fruits"
+    ],
+    "image": {
+      "wiki": "Fruit salad"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tropical-fruit-bowl-250g",
+    "name": "Tropical Fruit Bowl",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "250 g",
+    "mrp": 14000,
+    "price": 10900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Cut tropical fruits such as pineapple, papaya and melon in a ready-to-eat bowl. Refrigerate and eat the same day.",
+    "tags": [
+      "tropical fruit bowl",
+      "cut fruits",
+      "fruit salad",
+      "fruit bowl"
+    ],
+    "image": {
+      "wiki": "Fruit salad"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "moong-sprouts-200g",
+    "name": "Moong Sprouts",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "200 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sprouted green gram for usal, salads and chaat. Rinse before use, refrigerate and finish within two days.",
+    "tags": [
+      "moong sprouts",
+      "ankurit moong",
+      "sprouts",
+      "mung sprouts"
+    ],
+    "image": {
+      "wiki": "Bean sprout"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "matki-sprouts-200g",
+    "name": "Matki Sprouts",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "200 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sprouted moth beans for misal, usal and salads. Keep refrigerated and use within two days.",
+    "tags": [
+      "matki",
+      "moth bean sprouts",
+      "matki usal",
+      "sprouts"
+    ],
+    "image": {
+      "wiki": "Vigna aconitifolia"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mixed-sprouts-200g",
+    "name": "Mixed Sprouts",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "200 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "A mix of sprouted pulses for salads, chaat and stir-fries. Rinse before use and keep refrigerated.",
+    "tags": [
+      "mixed sprouts",
+      "ankurit dal",
+      "sprouts salad",
+      "sprouts"
+    ],
+    "image": {
+      "wiki": "Sprouting"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-whole-moong-500g",
+    "name": "Tata Sampann Whole Moong",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "500 g",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Whole green moong to soak and sprout at home, or cook as dal and khichdi. Store in an airtight container after opening.",
+    "tags": [
+      "whole moong",
+      "green gram",
+      "sabut moong",
+      "hara moong"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "whole moong"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-whole-moong-500g",
+    "name": "24 Mantra Organic Whole Moong",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "500 g",
+    "mrp": 13000,
+    "price": 11900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic whole green moong for sprouting, sundal and dal. Keep in a cool, dry place in an airtight jar once opened.",
+    "tags": [
+      "whole moong",
+      "green gram",
+      "sabut moong",
+      "organic moong"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "whole moong"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "peeled-garlic-100g",
+    "name": "Peeled Garlic",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "100 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Ready-peeled garlic cloves that save prep time for pastes and tadka. Refrigerate and use within a week.",
+    "tags": [
+      "chhila lehsun",
+      "peeled garlic",
+      "garlic cloves",
+      "poondu"
+    ],
+    "image": {
+      "wiki": "Garlic"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "peeled-shallots-200g",
+    "name": "Peeled Shallots",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Peeled small onions ready for sambar, kuzhambu and pickles. Keep refrigerated and use within three days.",
+    "tags": [
+      "peeled sambar onion",
+      "small onion",
+      "chinna vengayam",
+      "shallots"
+    ],
+    "image": {
+      "wiki": "Shallot"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "grated-coconut-200g",
+    "name": "Grated Coconut",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-freshly-cut-sprouts"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Freshly grated coconut for chutney, thoran and sweets. Refrigerate and use within two days, or freeze in portions.",
+    "tags": [
+      "kas nariyal",
+      "grated coconut",
+      "thuruviya thengai",
+      "fresh coconut"
+    ],
+    "image": {
+      "wiki": "Coconut"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tomato-500g",
+    "name": "Organic Tomato",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-trusted-organics"
+    ],
+    "unit_label": "500 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Organically grown tomatoes from certified supplier farms for curries, rasam and salads. Ripen at room temperature.",
+    "tags": [
+      "organic tamatar",
+      "organic tomato",
+      "tomato"
+    ],
+    "image": {
+      "wiki": "Tomato"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-potato-1kg",
+    "name": "Organic Potato",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-trusted-organics"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 8000,
+    "price": 6300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Organically grown potatoes from certified supplier farms for everyday cooking. Store in a cool, dark, airy place.",
+    "tags": [
+      "organic aloo",
+      "organic potato",
+      "potato"
+    ],
+    "image": {
+      "wiki": "Potato"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-spinach-1-bunch",
+    "name": "Organic Spinach",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-trusted-organics"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Organically grown spinach for palak dishes and soups. Wash thoroughly and refrigerate wrapped in paper.",
+    "tags": [
+      "organic palak",
+      "organic spinach",
+      "leafy greens",
+      "palak"
+    ],
+    "image": {
+      "wiki": "Spinach"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-banana-6-pcs",
+    "name": "Organic Banana",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-trusted-organics"
+    ],
+    "unit_label": "6 pcs",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Organically grown bananas for breakfast, smoothies and snacking. Keep at room temperature.",
+    "tags": [
+      "organic kela",
+      "organic banana",
+      "banana"
+    ],
+    "image": {
+      "wiki": "Banana"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-apple-1kg",
+    "name": "Organic Apple",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-trusted-organics"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 28000,
+    "price": 21900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Organically grown apples for snacking and salads. Refrigerate to keep them crisp.",
+    "tags": [
+      "organic seb",
+      "organic apple",
+      "apple"
+    ],
+    "image": {
+      "wiki": "Apple"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-papaya-1-pc",
+    "name": "Organic Papaya",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-trusted-organics"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 9000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Organically grown ripe papaya for breakfast bowls. Ripen at room temperature, then refrigerate.",
+    "tags": [
+      "organic papita",
+      "organic papaya",
+      "papaya"
+    ],
+    "image": {
+      "wiki": "Papaya"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-coriander-100g",
+    "name": "Organic Coriander",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-trusted-organics"
+    ],
+    "unit_label": "100 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Organically grown coriander bunch for garnish and chutneys. Store wrapped in paper in the fridge.",
+    "tags": [
+      "organic dhania",
+      "organic coriander",
+      "kothamalli"
+    ],
+    "image": {
+      "wiki": "Coriander"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-mint-100g",
+    "name": "Organic Mint",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-trusted-organics"
+    ],
+    "unit_label": "100 g",
+    "mrp": 3500,
+    "price": 2700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Organically grown mint for chutney, raita and drinks. Refrigerate wrapped in a paper towel.",
+    "tags": [
+      "organic pudina",
+      "organic mint",
+      "pudina"
+    ],
+    "image": {
+      "wiki": "Mentha"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-curry-leaves-1-bunch",
+    "name": "Organic Curry Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-trusted-organics"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 2000,
+    "price": 1500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Organically grown curry leaves for tadka and chutneys. Keep in an airtight box in the fridge.",
+    "tags": [
+      "organic kadi patta",
+      "organic curry leaves",
+      "karuveppilai"
+    ],
+    "image": {
+      "wiki": "Curry tree"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-moong-dal-500g",
+    "name": "24 Mantra Organic Moong Dal",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "vegetables-fruits-trusted-organics"
+    ],
+    "unit_label": "500 g",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic split yellow moong dal for dal tadka, khichdi and halwa. Store airtight in a cool, dry place after opening.",
+    "tags": [
+      "moong dal",
+      "organic dal",
+      "yellow moong",
+      "pasi paruppu"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "moong dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-moong-dal-500g",
+    "name": "Organic Tattva Moong Dal",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "vegetables-fruits-trusted-organics"
+    ],
+    "unit_label": "500 g",
+    "mrp": 12500,
+    "price": 11200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic split moong dal that cooks quickly for everyday dal and khichdi. Transfer to an airtight jar once opened.",
+    "tags": [
+      "moong dal",
+      "organic dal",
+      "yellow moong",
+      "dhuli moong"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "moong dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "marigold-flowers-250g",
+    "name": "Marigold Flowers",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "250 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Loose orange marigolds for pooja, rangoli and decoration. Sprinkle with water and keep in a cool place.",
+    "tags": [
+      "genda phool",
+      "marigold",
+      "sevanthi",
+      "pooja flowers"
+    ],
+    "image": {
+      "wiki": "Tagetes"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "jasmine-flowers-100g",
+    "name": "Jasmine Flowers",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "100 g",
+    "mrp": 8000,
+    "price": 6300,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Fragrant loose jasmine buds for pooja and stringing into hair garlands. Keep wrapped in a damp cloth in the fridge.",
+    "tags": [
+      "mogra",
+      "malli poo",
+      "jasmine",
+      "chameli"
+    ],
+    "image": {
+      "wiki": "Jasminum sambac"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "rose-flowers-100g",
+    "name": "Rose Flowers",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "100 g",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Loose roses for pooja, offerings and decoration. Store in a cool place and sprinkle with water to keep fresh.",
+    "tags": [
+      "gulab",
+      "rose petals",
+      "rose",
+      "pooja flowers"
+    ],
+    "image": {
+      "wiki": "Rose"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "marigold-garland-1-pc",
+    "name": "Marigold Garland",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Fresh marigold garland for pooja, doorways and festivals. Hang in a shaded spot and mist with water.",
+    "tags": [
+      "genda mala",
+      "marigold garland",
+      "phool mala",
+      "toran"
+    ],
+    "image": {
+      "wiki": "Garland"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "jasmine-garland-1-pc",
+    "name": "Jasmine Garland",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 7000,
+    "price": 5500,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Fresh jasmine garland for deities and pooja. Keep in a cool place wrapped in a damp cloth.",
+    "tags": [
+      "mogra mala",
+      "malli maalai",
+      "jasmine garland",
+      "gajra"
+    ],
+    "image": {
+      "wiki": "Garland"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mixed-flower-garland-1-pc",
+    "name": "Mixed Flower Garland",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 9000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Garland of mixed seasonal flowers for pooja and functions. Mist lightly and keep away from direct sun.",
+    "tags": [
+      "phool mala",
+      "flower garland",
+      "mixed garland",
+      "haar"
+    ],
+    "image": {
+      "wiki": "Garland"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mango-leaves-1-bunch",
+    "name": "Mango Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 2000,
+    "price": 1500,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Fresh mango leaves for toran, kalash and festival decoration. Keep in a cool place.",
+    "tags": [
+      "aam ke patte",
+      "mango leaves",
+      "toran",
+      "mavilai"
+    ],
+    "image": {
+      "wiki": "Mango"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "betel-leaves-10-pcs",
+    "name": "Betel Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "10 pcs",
+    "mrp": 3000,
+    "price": 2300,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh betel leaves for pooja, tambulam and paan. Wrap in a damp cloth and refrigerate.",
+    "tags": [
+      "paan",
+      "paan ke patte",
+      "vettrilai",
+      "betel leaves"
+    ],
+    "image": {
+      "wiki": "Betel"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tulsi-leaves-1-bunch",
+    "name": "Tulsi Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 2000,
+    "price": 1500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh tulsi (holy basil) for pooja and tulsi chai. Keep stems in water or refrigerate wrapped.",
+    "tags": [
+      "tulsi",
+      "tulasi",
+      "holy basil",
+      "pooja leaves"
+    ],
+    "image": {
+      "wiki": "Ocimum tenuiflorum"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "banana-leaf-5-pcs",
+    "name": "Banana Leaf",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "5 pcs",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Whole banana leaves for serving meals, steaming and festivals. Wipe clean before use and keep in a cool place.",
+    "tags": [
+      "kele ka patta",
+      "vazhai ilai",
+      "banana leaf",
+      "patravali"
+    ],
+    "image": {
+      "wiki": "Banana leaf"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cut-banana-leaves-10-pcs",
+    "name": "Cut Banana Leaves",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "10 pcs",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Banana leaves cut to plate size for serving meals and steaming patrode or idli. Keep cool and use within two days.",
+    "tags": [
+      "cut banana leaf",
+      "vazhai ilai",
+      "leaf plate",
+      "banana leaf"
+    ],
+    "image": {
+      "wiki": "Banana leaf"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pooja-coconut-1-pc",
+    "name": "Pooja Coconut",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 4500,
+    "price": 3500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Whole mature coconut for pooja, offerings and breaking at ceremonies. Store at room temperature.",
+    "tags": [
+      "pooja nariyal",
+      "shriphal",
+      "coconut",
+      "nariyal"
+    ],
+    "image": {
+      "wiki": "Coconut"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "rose-bunch-1-bunch",
+    "name": "Rose Bunch",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 15000,
+    "price": 11900,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "A bunch of fresh-cut roses for gifting and vases. Trim stems at an angle and change the water daily.",
+    "tags": [
+      "roses",
+      "gulab",
+      "rose bouquet",
+      "flower bunch"
+    ],
+    "image": {
+      "wiki": "Rose"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "chrysanthemum-bunch-1-bunch",
+    "name": "Chrysanthemum Bunch",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 12000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Fresh chrysanthemums for vases, pooja and decoration. Remove leaves below the waterline and refresh water daily.",
+    "tags": [
+      "guldaudi",
+      "shevanti",
+      "chrysanthemum",
+      "flower bunch"
+    ],
+    "image": {
+      "wiki": "Chrysanthemum"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tuberose-bunch-1-bunch",
+    "name": "Tuberose Bunch",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-flowers-leaves"
+    ],
+    "unit_label": "1 bunch",
+    "mrp": 10000,
+    "price": 7900,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Fragrant tuberose stems (rajnigandha) for vases and decoration. Trim stems and keep in fresh water.",
+    "tags": [
+      "rajnigandha",
+      "nishigandha",
+      "tuberose",
+      "sambangi"
+    ],
+    "image": {
+      "wiki": "Tuberose"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "colocasia-500g",
+    "name": "Colocasia",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-seasonal",
+      "vegetables-fruits-fresh-vegetables"
+    ],
+    "unit_label": "500 g",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Colocasia roots for arbi fry, curries and sabzi. Boil before peeling; store in a cool, dry place.",
+    "tags": [
+      "arbi",
+      "arvi",
+      "colocasia",
+      "seppankizhangu"
+    ],
+    "image": {
+      "wiki": "Taro"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sugarcane-1-pc",
+    "name": "Sugarcane",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Whole sugarcane stalk for Pongal, Sankranti and festival offerings. Store in a cool place and peel before chewing.",
+    "tags": [
+      "ganna",
+      "karumbu",
+      "sugarcane",
+      "oos"
+    ],
+    "image": {
+      "wiki": "Sugarcane"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sweet-corn-2-pcs",
+    "name": "Sweet Corn",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "2 pcs",
+    "mrp": 5000,
+    "price": 3900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Fresh sweet corn cobs to roast as bhutta, boil or add to salads. Keep the husk on and refrigerate.",
+    "tags": [
+      "bhutta",
+      "makka",
+      "sweet corn",
+      "corn on the cob"
+    ],
+    "image": {
+      "wiki": "Sweet corn"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "litchi-500g",
+    "name": "Litchi",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "500 g",
+    "mrp": 15000,
+    "price": 11900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Juicy seasonal litchis with fragrant white flesh. Refrigerate in a bag and eat within a few days.",
+    "tags": [
+      "litchi",
+      "lychee",
+      "lichi"
+    ],
+    "image": {
+      "wiki": "Lychee"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ber-250g",
+    "name": "Ber",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "250 g",
+    "mrp": 4000,
+    "price": 3100,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Tangy-sweet Indian jujube, a winter snack. Rinse and eat fresh; refrigerate for a few days.",
+    "tags": [
+      "ber",
+      "bor",
+      "indian jujube",
+      "elandai"
+    ],
+    "image": {
+      "wiki": "Ziziphus mauritiana"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "wood-apple-2-pcs",
+    "name": "Wood Apple",
+    "brand": null,
+    "subcategories": [
+      "vegetables-fruits-seasonal"
+    ],
+    "unit_label": "2 pcs",
+    "mrp": 6000,
+    "price": 4700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Hard-shelled wood apple with tangy pulp for chutney and sherbet. Crack open when ripe; store at room temperature.",
+    "tags": [
+      "kaith",
+      "kavath",
+      "wood apple",
+      "vilampazham"
+    ],
+    "image": {
+      "wiki": "Limonia acidissima"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "safal-frozen-peas-500g",
+    "name": "Safal Frozen Peas",
+    "brand": "Safal",
+    "subcategories": [
+      "vegetables-fruits-frozen-veg"
+    ],
+    "unit_label": "500 g",
+    "mrp": 12500,
+    "price": 11500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Frozen green peas for matar paneer, pulao and upma, used straight from the freezer. Keep frozen at -18 C; do not refreeze after thawing.",
+    "tags": [
+      "frozen matar",
+      "frozen peas",
+      "green peas",
+      "matar"
+    ],
+    "image": {
+      "off": {
+        "brand": "safal",
+        "query": "frozen green peas"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sumeru-frozen-peas-500g",
+    "name": "Sumeru Frozen Peas",
+    "brand": "Sumeru",
+    "subcategories": [
+      "vegetables-fruits-frozen-veg"
+    ],
+    "unit_label": "500 g",
+    "mrp": 13000,
+    "price": 11900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Frozen green peas that cook in minutes for curries, pulao and cutlets. Store frozen and reseal the pack after use.",
+    "tags": [
+      "frozen matar",
+      "frozen peas",
+      "green peas",
+      "matar"
+    ],
+    "image": {
+      "off": {
+        "brand": "sumeru",
+        "query": "frozen green peas"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "safal-frozen-sweet-corn-500g",
+    "name": "Safal Frozen Sweet Corn",
+    "brand": "Safal",
+    "subcategories": [
+      "vegetables-fruits-frozen-veg"
+    ],
+    "unit_label": "500 g",
+    "mrp": 15000,
+    "price": 13900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Frozen sweet corn kernels for chaat, soups, sandwiches and pizzas. Keep frozen and use straight from the pack.",
+    "tags": [
+      "frozen corn",
+      "sweet corn",
+      "makka dana",
+      "corn kernels"
+    ],
+    "image": {
+      "off": {
+        "brand": "safal",
+        "query": "frozen sweet corn"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sumeru-frozen-sweet-corn-500g",
+    "name": "Sumeru Frozen Sweet Corn",
+    "brand": "Sumeru",
+    "subcategories": [
+      "vegetables-fruits-frozen-veg"
+    ],
+    "unit_label": "500 g",
+    "mrp": 16000,
+    "price": 14500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Frozen sweet corn kernels for corn chaat, soups and pasta. Store at -18 C and reseal after opening.",
+    "tags": [
+      "frozen corn",
+      "sweet corn",
+      "makka dana",
+      "corn kernels"
+    ],
+    "image": {
+      "off": {
+        "brand": "sumeru",
+        "query": "frozen sweet corn"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "safal-frozen-mixed-vegetables-500g",
+    "name": "Safal Frozen Mixed Vegetables",
+    "brand": "Safal",
+    "subcategories": [
+      "vegetables-fruits-frozen-veg"
+    ],
+    "unit_label": "500 g",
+    "mrp": 13000,
+    "price": 11900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Frozen cut mixed vegetables for pulao, pav bhaji and fried rice. Cook from frozen; do not refreeze once thawed.",
+    "tags": [
+      "frozen mixed veg",
+      "mixed vegetables",
+      "frozen sabzi",
+      "mix veg"
+    ],
+    "image": {
+      "off": {
+        "brand": "safal",
+        "query": "frozen mixed vegetables"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sumeru-frozen-mixed-vegetables-500g",
+    "name": "Sumeru Frozen Mixed Vegetables",
+    "brand": "Sumeru",
+    "subcategories": [
+      "vegetables-fruits-frozen-veg"
+    ],
+    "unit_label": "500 g",
+    "mrp": 14000,
+    "price": 12900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Frozen mixed vegetables ready for biryani, upma and noodles. Keep frozen and reseal the pack after use.",
+    "tags": [
+      "frozen mixed veg",
+      "mixed vegetables",
+      "frozen sabzi",
+      "mix veg"
+    ],
+    "image": {
+      "off": {
+        "brand": "sumeru",
+        "query": "frozen mixed vegetables"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "safal-frozen-cut-beans-500g",
+    "name": "Safal Frozen Cut Beans",
+    "brand": "Safal",
+    "subcategories": [
+      "vegetables-fruits-frozen-veg"
+    ],
+    "unit_label": "500 g",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Frozen cut green beans for poriyal, mixed veg and fried rice. Cook straight from frozen and keep at -18 C.",
+    "tags": [
+      "frozen beans",
+      "french beans",
+      "cut beans",
+      "frozen sabzi"
+    ],
+    "image": {
+      "off": {
+        "brand": "safal",
+        "query": "frozen beans"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sumeru-frozen-cut-beans-500g",
+    "name": "Sumeru Frozen Cut Beans",
+    "brand": "Sumeru",
+    "subcategories": [
+      "vegetables-fruits-frozen-veg"
+    ],
+    "unit_label": "500 g",
+    "mrp": 12500,
+    "price": 11500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Frozen cut beans for stir-fries, soups and sabzi. Store frozen; do not refreeze after thawing.",
+    "tags": [
+      "frozen beans",
+      "french beans",
+      "cut beans",
+      "frozen sabzi"
+    ],
+    "image": {
+      "off": {
+        "brand": "sumeru",
+        "query": "frozen beans"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sumeru-frozen-spinach-500g",
+    "name": "Sumeru Frozen Spinach",
+    "brand": "Sumeru",
+    "subcategories": [
+      "vegetables-fruits-frozen-veg"
+    ],
+    "unit_label": "500 g",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Frozen spinach for palak paneer, dal palak and soups. Thaw or cook from frozen and keep the pack at -18 C.",
+    "tags": [
+      "frozen palak",
+      "frozen spinach",
+      "palak",
+      "spinach"
+    ],
+    "image": {
+      "off": {
+        "brand": "sumeru",
+        "query": "frozen spinach"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "safal-frozen-spinach-500g",
+    "name": "Safal Frozen Spinach",
+    "brand": "Safal",
+    "subcategories": [
+      "vegetables-fruits-frozen-veg"
+    ],
+    "unit_label": "500 g",
+    "mrp": 11500,
+    "price": 10500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Frozen spinach for quick palak dishes, parathas and soups. Use from frozen and reseal the pack after use.",
+    "tags": [
+      "frozen palak",
+      "frozen spinach",
+      "palak",
+      "spinach"
+    ],
+    "image": {
+      "off": {
+        "brand": "safal",
+        "query": "frozen spinach"
+      }
+    },
+    "orderable": true
+  }
+]

@@ -1,0 +1,833 @@
+[
+  {
+    "slug": "licious-chicken-curry-cut-500g",
+    "name": "Licious Chicken Curry Cut",
+    "brand": "Licious",
+    "subcategories": [
+      "chicken-meat-fish-fresh-meat"
+    ],
+    "unit_label": "500 g",
+    "mrp": 20000,
+    "price": 18500,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Fresh chicken cut into bone-in curry pieces, ready for gravies and biryani. Keep refrigerated and cook within a day or two.",
+    "tags": [
+      "chicken",
+      "curry cut",
+      "murgh",
+      "chicken pieces"
+    ],
+    "image": {
+      "off": {
+        "brand": "licious",
+        "query": "chicken curry cut"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "freshtohome-chicken-boneless-500g",
+    "name": "FreshToHome Chicken Boneless",
+    "brand": "FreshToHome",
+    "subcategories": [
+      "chicken-meat-fish-fresh-meat"
+    ],
+    "unit_label": "500 g",
+    "mrp": 28000,
+    "price": 26000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Fresh boneless chicken pieces for tikka, stir-fries and curries. Store at 0-4 C and use before the date on the pack.",
+    "tags": [
+      "boneless chicken",
+      "chicken",
+      "murgh"
+    ],
+    "image": {
+      "off": {
+        "brand": "freshtohome",
+        "query": "boneless chicken"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "licious-chicken-liver-250g",
+    "name": "Licious Chicken Liver",
+    "brand": "Licious",
+    "subcategories": [
+      "chicken-meat-fish-fresh-meat"
+    ],
+    "unit_label": "250 g",
+    "mrp": 10000,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Fresh chicken liver for quick fry or masala preparations. Keep chilled and cook within a day of delivery.",
+    "tags": [
+      "chicken liver",
+      "kaleji",
+      "offal"
+    ],
+    "image": {
+      "off": {
+        "brand": "licious",
+        "query": "chicken liver"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "freshtohome-chicken-gizzard-250g",
+    "name": "FreshToHome Chicken Gizzard",
+    "brand": "FreshToHome",
+    "subcategories": [
+      "chicken-meat-fish-fresh-meat"
+    ],
+    "unit_label": "250 g",
+    "mrp": 9000,
+    "price": 8500,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Cleaned chicken gizzards for slow-cooked curries and spicy fries. Refrigerate and cook soon after purchase.",
+    "tags": [
+      "chicken gizzard",
+      "pota",
+      "offal"
+    ],
+    "image": {
+      "off": {
+        "brand": "freshtohome",
+        "query": "chicken gizzard"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "duck-1kg",
+    "name": "Duck",
+    "brand": null,
+    "subcategories": [
+      "chicken-meat-fish-fresh-meat"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 70000,
+    "price": 65000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Fresh duck meat, popular in Kerala and North-East style roasts and curries. Keep refrigerated and cook within a day.",
+    "tags": [
+      "duck",
+      "duck meat",
+      "batak"
+    ],
+    "image": {
+      "wiki": "Duck as food"
+    },
+    "orderable": false
+  },
+  {
+    "slug": "turkey-1kg",
+    "name": "Turkey",
+    "brand": null,
+    "subcategories": [
+      "chicken-meat-fish-fresh-meat"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 90000,
+    "price": 85000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Speciality turkey meat for roasts and festive meals. Store chilled or frozen and thaw in the fridge before cooking.",
+    "tags": [
+      "turkey",
+      "turkey meat"
+    ],
+    "image": {
+      "wiki": "Turkey meat"
+    },
+    "orderable": false
+  },
+  {
+    "slug": "licious-rohu-fish-500g",
+    "name": "Licious Rohu Fish",
+    "brand": "Licious",
+    "subcategories": [
+      "chicken-meat-fish-fish-seafood"
+    ],
+    "unit_label": "500 g",
+    "mrp": 22000,
+    "price": 20500,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Fresh rohu cut into curry pieces, a freshwater favourite for Bengali and North Indian fish curries. Keep chilled and cook the same day.",
+    "tags": [
+      "rohu",
+      "rui",
+      "fish",
+      "machli"
+    ],
+    "image": {
+      "off": {
+        "brand": "licious",
+        "query": "rohu fish"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "freshtohome-catla-fish-500g",
+    "name": "FreshToHome Catla Fish",
+    "brand": "FreshToHome",
+    "subcategories": [
+      "chicken-meat-fish-fish-seafood"
+    ],
+    "unit_label": "500 g",
+    "mrp": 24000,
+    "price": 22000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Fresh catla steaks for frying or mustard curry. Refrigerate immediately and cook within a day.",
+    "tags": [
+      "catla",
+      "katla",
+      "fish",
+      "machli"
+    ],
+    "image": {
+      "off": {
+        "brand": "freshtohome",
+        "query": "catla fish"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "licious-seer-fish-500g",
+    "name": "Licious Seer Fish",
+    "brand": "Licious",
+    "subcategories": [
+      "chicken-meat-fish-fish-seafood"
+    ],
+    "unit_label": "500 g",
+    "mrp": 65000,
+    "price": 60000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Seer fish (vanjaram/surmai) steaks for tawa fry and coastal curries. Keep chilled and cook soon after delivery.",
+    "tags": [
+      "seer fish",
+      "surmai",
+      "vanjaram",
+      "king fish"
+    ],
+    "image": {
+      "off": {
+        "brand": "licious",
+        "query": "seer fish"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "freshtohome-pomfret-500g",
+    "name": "FreshToHome Pomfret",
+    "brand": "FreshToHome",
+    "subcategories": [
+      "chicken-meat-fish-fish-seafood"
+    ],
+    "unit_label": "500 g",
+    "mrp": 60000,
+    "price": 56000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Whole cleaned pomfret for tawa fry, tandoori or Goan curry. Store at 0-4 C and cook within a day.",
+    "tags": [
+      "pomfret",
+      "paplet",
+      "fish",
+      "machli"
+    ],
+    "image": {
+      "off": {
+        "brand": "freshtohome",
+        "query": "pomfret"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "licious-prawns-250g",
+    "name": "Licious Prawns",
+    "brand": "Licious",
+    "subcategories": [
+      "chicken-meat-fish-fish-seafood"
+    ],
+    "unit_label": "250 g",
+    "mrp": 35000,
+    "price": 32500,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Cleaned and deveined prawns for masala, biryani or stir-fry. Keep refrigerated and cook within a day.",
+    "tags": [
+      "prawns",
+      "jhinga",
+      "shrimp",
+      "seafood"
+    ],
+    "image": {
+      "off": {
+        "brand": "licious",
+        "query": "prawns"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "freshtohome-squid-250g",
+    "name": "FreshToHome Squid",
+    "brand": "FreshToHome",
+    "subcategories": [
+      "chicken-meat-fish-fish-seafood"
+    ],
+    "unit_label": "250 g",
+    "mrp": 25000,
+    "price": 23000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Cleaned squid rings and tubes for fry, roast or coastal-style curries. Store chilled and cook the same day.",
+    "tags": [
+      "squid",
+      "calamari",
+      "koonthal",
+      "seafood"
+    ],
+    "image": {
+      "off": {
+        "brand": "freshtohome",
+        "query": "squid"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "itc-master-chef-frozen-prawns-250g",
+    "name": "ITC Master Chef Frozen Prawns",
+    "brand": "ITC Master Chef",
+    "subcategories": [
+      "chicken-meat-fish-fish-seafood"
+    ],
+    "unit_label": "250 g",
+    "mrp": 40000,
+    "price": 37000,
+    "tax_rate": 5,
+    "is_veg": false,
+    "description": "Frozen cleaned prawns to cook straight from the freezer or after thawing in the fridge. Keep frozen at -18 C.",
+    "tags": [
+      "frozen prawns",
+      "jhinga",
+      "shrimp",
+      "seafood"
+    ],
+    "image": {
+      "off": {
+        "brand": "itc master chef",
+        "query": "frozen prawns"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "licious-frozen-fish-fillets-250g",
+    "name": "Licious Frozen Fish Fillets",
+    "brand": "Licious",
+    "subcategories": [
+      "chicken-meat-fish-fish-seafood"
+    ],
+    "unit_label": "250 g",
+    "mrp": 30000,
+    "price": 28000,
+    "tax_rate": 5,
+    "is_veg": false,
+    "description": "Boneless frozen fish fillets for pan-frying, baking or fish curry. Thaw in the refrigerator before cooking.",
+    "tags": [
+      "fish fillet",
+      "frozen fish",
+      "boneless fish"
+    ],
+    "image": {
+      "off": {
+        "brand": "licious",
+        "query": "fish fillet"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "licious-goat-meat-curry-cut-500g",
+    "name": "Licious Goat Meat Curry Cut",
+    "brand": "Licious",
+    "subcategories": [
+      "chicken-meat-fish-mutton"
+    ],
+    "unit_label": "500 g",
+    "mrp": 50000,
+    "price": 46000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Fresh goat meat cut into bone-in curry pieces for rogan josh, biryani and korma. Keep refrigerated and cook within a day.",
+    "tags": [
+      "mutton",
+      "goat meat",
+      "gosht",
+      "curry cut"
+    ],
+    "image": {
+      "off": {
+        "brand": "licious",
+        "query": "mutton curry cut"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "freshtohome-goat-meat-mince-500g",
+    "name": "FreshToHome Goat Meat Mince",
+    "brand": "FreshToHome",
+    "subcategories": [
+      "chicken-meat-fish-mutton"
+    ],
+    "unit_label": "500 g",
+    "mrp": 55000,
+    "price": 51000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Fresh minced goat meat (keema) for kebabs, keema matar and stuffed parathas. Store chilled and use quickly.",
+    "tags": [
+      "mutton keema",
+      "goat mince",
+      "keema",
+      "gosht"
+    ],
+    "image": {
+      "off": {
+        "brand": "freshtohome",
+        "query": "mutton mince"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "sheep-meat-curry-cut-500g",
+    "name": "Sheep Meat Curry Cut",
+    "brand": null,
+    "subcategories": [
+      "chicken-meat-fish-mutton"
+    ],
+    "unit_label": "500 g",
+    "mrp": 45000,
+    "price": 42000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Fresh bone-in sheep meat pieces for slow-cooked curries and stews. Refrigerate and cook within a day of purchase.",
+    "tags": [
+      "sheep meat",
+      "lamb",
+      "mutton",
+      "curry cut"
+    ],
+    "image": {
+      "wiki": "Lamb and mutton"
+    },
+    "orderable": false
+  },
+  {
+    "slug": "sheep-meat-boneless-500g",
+    "name": "Sheep Meat Boneless",
+    "brand": null,
+    "subcategories": [
+      "chicken-meat-fish-mutton"
+    ],
+    "unit_label": "500 g",
+    "mrp": 55000,
+    "price": 51000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Boneless sheep meat for kebabs, pepper fry and dry preparations. Keep chilled and use soon after delivery.",
+    "tags": [
+      "boneless mutton",
+      "sheep meat",
+      "lamb"
+    ],
+    "image": {
+      "wiki": "Lamb and mutton"
+    },
+    "orderable": false
+  },
+  {
+    "slug": "mutton-liver-250g",
+    "name": "Mutton Liver",
+    "brand": null,
+    "subcategories": [
+      "chicken-meat-fish-mutton"
+    ],
+    "unit_label": "250 g",
+    "mrp": 18000,
+    "price": 16500,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Fresh goat liver (kaleji) for quick masala fry. Keep refrigerated and cook on the day of purchase.",
+    "tags": [
+      "mutton liver",
+      "kaleji",
+      "offal"
+    ],
+    "image": {
+      "wiki": "Liver (food)"
+    },
+    "orderable": false
+  },
+  {
+    "slug": "mutton-trotters-pack-of-4",
+    "name": "Mutton Trotters",
+    "brand": null,
+    "subcategories": [
+      "chicken-meat-fish-mutton"
+    ],
+    "unit_label": "Pack of 4",
+    "mrp": 30000,
+    "price": 28000,
+    "tax_rate": 0,
+    "is_veg": false,
+    "description": "Cleaned goat trotters for slow-cooked paya soup and nihari. Refrigerate and cook within a day.",
+    "tags": [
+      "paya",
+      "trotters",
+      "goat legs",
+      "mutton paya"
+    ],
+    "image": {
+      "wiki": "Trotters"
+    },
+    "orderable": false
+  },
+  {
+    "slug": "yummiez-chicken-nuggets-400g",
+    "name": "Yummiez Chicken Nuggets",
+    "brand": "Yummiez",
+    "subcategories": [
+      "chicken-meat-fish-frozen-non-veg-snacks",
+      "instant-food-frozen-non-veg-snacks"
+    ],
+    "unit_label": "400 g",
+    "mrp": 28000,
+    "price": 26000,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Frozen breaded chicken nuggets to deep-fry, air-fry or bake straight from the freezer. Keep frozen at -18 C.",
+    "tags": [
+      "chicken nuggets",
+      "frozen snacks",
+      "nuggets"
+    ],
+    "image": {
+      "off": {
+        "brand": "yummiez",
+        "query": "chicken nuggets"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "itc-master-chef-chicken-nuggets-400g",
+    "name": "ITC Master Chef Chicken Nuggets",
+    "brand": "ITC Master Chef",
+    "subcategories": [
+      "chicken-meat-fish-frozen-non-veg-snacks",
+      "instant-food-frozen-non-veg-snacks"
+    ],
+    "unit_label": "400 g",
+    "mrp": 30000,
+    "price": 28000,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Ready-to-cook frozen chicken nuggets for quick snacks and party platters. Cook from frozen and do not refreeze once thawed.",
+    "tags": [
+      "chicken nuggets",
+      "frozen snacks",
+      "nuggets"
+    ],
+    "image": {
+      "off": {
+        "brand": "itc master chef",
+        "query": "chicken nuggets"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "licious-chicken-seekh-kebab-250g",
+    "name": "Licious Chicken Seekh Kebab",
+    "brand": "Licious",
+    "subcategories": [
+      "chicken-meat-fish-frozen-non-veg-snacks",
+      "instant-food-frozen-non-veg-snacks"
+    ],
+    "unit_label": "250 g",
+    "mrp": 25000,
+    "price": 23000,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Frozen chicken seekh kebabs to pan-fry, grill or air-fry for starters and wraps. Keep frozen until use.",
+    "tags": [
+      "seekh kebab",
+      "chicken kebab",
+      "frozen snacks"
+    ],
+    "image": {
+      "off": {
+        "brand": "licious",
+        "query": "chicken seekh kebab"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "itc-master-chef-chicken-seekh-kebab-300g",
+    "name": "ITC Master Chef Chicken Seekh Kebab",
+    "brand": "ITC Master Chef",
+    "subcategories": [
+      "chicken-meat-fish-frozen-non-veg-snacks",
+      "instant-food-frozen-non-veg-snacks"
+    ],
+    "unit_label": "300 g",
+    "mrp": 32000,
+    "price": 29900,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Ready-to-cook chicken seekh kebabs for quick starters. Cook from frozen as directed and store at -18 C.",
+    "tags": [
+      "seekh kebab",
+      "chicken kebab",
+      "frozen snacks"
+    ],
+    "image": {
+      "off": {
+        "brand": "itc master chef",
+        "query": "seekh kebab"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "itc-master-chef-fish-fingers-300g",
+    "name": "ITC Master Chef Fish Fingers",
+    "brand": "ITC Master Chef",
+    "subcategories": [
+      "chicken-meat-fish-frozen-non-veg-snacks",
+      "instant-food-frozen-non-veg-snacks"
+    ],
+    "unit_label": "300 g",
+    "mrp": 30000,
+    "price": 28000,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Frozen breaded fish fingers to fry or bake for snacks and lunch boxes. Keep frozen and cook straight from the pack.",
+    "tags": [
+      "fish fingers",
+      "frozen fish snacks",
+      "fish fry"
+    ],
+    "image": {
+      "off": {
+        "brand": "itc master chef",
+        "query": "fish fingers"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sumeru-fish-fingers-300g",
+    "name": "Sumeru Fish Fingers",
+    "brand": "Sumeru",
+    "subcategories": [
+      "chicken-meat-fish-frozen-non-veg-snacks",
+      "instant-food-frozen-non-veg-snacks"
+    ],
+    "unit_label": "300 g",
+    "mrp": 28000,
+    "price": 26000,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Crumb-coated frozen fish fingers for a quick evening snack. Fry or air-fry from frozen; do not refreeze after thawing.",
+    "tags": [
+      "fish fingers",
+      "frozen fish snacks",
+      "fish fry"
+    ],
+    "image": {
+      "off": {
+        "brand": "sumeru",
+        "query": "fish fingers"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "prasuma-chicken-sausages-250g",
+    "name": "Prasuma Chicken Sausages",
+    "brand": "Prasuma",
+    "subcategories": [
+      "chicken-meat-fish-sausage-salami-ham"
+    ],
+    "unit_label": "250 g",
+    "mrp": 22000,
+    "price": 20500,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Chicken sausages to grill, pan-fry or slice into pasta and breakfast plates. Keep refrigerated or frozen.",
+    "tags": [
+      "chicken sausage",
+      "sausages",
+      "breakfast meat"
+    ],
+    "image": {
+      "off": {
+        "brand": "prasuma",
+        "query": "chicken sausage"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "meatzza-chicken-sausages-250g",
+    "name": "Meatzza Chicken Sausages",
+    "brand": "Meatzza",
+    "subcategories": [
+      "chicken-meat-fish-sausage-salami-ham"
+    ],
+    "unit_label": "250 g",
+    "mrp": 20000,
+    "price": 18500,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Chicken sausages for breakfasts, hot dogs and stir-fries. Store chilled and use within the date on the pack.",
+    "tags": [
+      "chicken sausage",
+      "sausages",
+      "hot dog"
+    ],
+    "image": {
+      "off": {
+        "brand": "meatzza",
+        "query": "chicken sausage"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "prasuma-chicken-salami-200g",
+    "name": "Prasuma Chicken Salami",
+    "brand": "Prasuma",
+    "subcategories": [
+      "chicken-meat-fish-sausage-salami-ham"
+    ],
+    "unit_label": "200 g",
+    "mrp": 22000,
+    "price": 20500,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Sliced chicken salami for sandwiches, pizzas and cold platters. Keep refrigerated and reseal after opening.",
+    "tags": [
+      "chicken salami",
+      "salami",
+      "cold cuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "prasuma",
+        "query": "chicken salami"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "meatzza-chicken-salami-200g",
+    "name": "Meatzza Chicken Salami",
+    "brand": "Meatzza",
+    "subcategories": [
+      "chicken-meat-fish-sausage-salami-ham"
+    ],
+    "unit_label": "200 g",
+    "mrp": 20000,
+    "price": 18500,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Ready-to-eat chicken salami slices for sandwiches and wraps. Store chilled and consume soon after opening.",
+    "tags": [
+      "chicken salami",
+      "salami",
+      "cold cuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "meatzza",
+        "query": "salami"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "prasuma-ham-200g",
+    "name": "Prasuma Ham",
+    "brand": "Prasuma",
+    "subcategories": [
+      "chicken-meat-fish-sausage-salami-ham"
+    ],
+    "unit_label": "200 g",
+    "mrp": 30000,
+    "price": 28000,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Sliced pork ham for sandwiches, breakfast plates and salads. Keep refrigerated and use within a few days of opening.",
+    "tags": [
+      "ham",
+      "pork ham",
+      "cold cuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "prasuma",
+        "query": "ham"
+      }
+    },
+    "orderable": false
+  },
+  {
+    "slug": "meatzza-ham-200g",
+    "name": "Meatzza Ham",
+    "brand": "Meatzza",
+    "subcategories": [
+      "chicken-meat-fish-sausage-salami-ham"
+    ],
+    "unit_label": "200 g",
+    "mrp": 28000,
+    "price": 26000,
+    "tax_rate": 12,
+    "is_veg": false,
+    "description": "Sliced ham for sandwiches and cold platters. Store chilled and reseal the pack after each use.",
+    "tags": [
+      "ham",
+      "cold cuts",
+      "sliced ham"
+    ],
+    "image": {
+      "off": {
+        "brand": "meatzza",
+        "query": "ham"
+      }
+    },
+    "orderable": false
+  }
+]

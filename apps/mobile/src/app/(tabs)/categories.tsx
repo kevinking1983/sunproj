@@ -1,3 +1,4 @@
+import { buildCategoryTree, categoryIcon } from "@ration/api";
 import { useQuery } from "@tanstack/react-query";
 import { useMemo } from "react";
 import { ActivityIndicator, ScrollView, StyleSheet, View, useWindowDimensions } from "react-native";
@@ -12,13 +13,8 @@ import { queryKeys } from "@/lib/query";
 export default function CategoriesScreen() {
   const { width } = useWindowDimensions();
   const categories = useQuery({ queryKey: queryKeys.categories, queryFn: catalogApi.categories });
-
-  const groups = useMemo(() => {
-    const all = categories.data ?? [];
-    return all.filter((c) => !c.parent_id).map((parent) => ({ parent, children: all.filter((c) => c.parent_id === parent.id) }));
-  }, [categories.data]);
-
-  const tileWidth = Math.floor((width - spacing.lg * 2) / 3);
+  const tree = useMemo(() => buildCategoryTree(categories.data ?? []), [categories.data]);
+  const tileWidth = Math.floor((width - spacing.lg * 2) / 4);
 
   return (
     <Screen padded={false}>
@@ -27,13 +23,12 @@ export default function CategoriesScreen() {
         <ActivityIndicator color={colors.primary} />
       ) : (
         <ScrollView contentContainerStyle={styles.scroll} showsVerticalScrollIndicator={false}>
-          {groups.map(({ parent, children }) => (
-            <View key={parent.id}>
-              <Typography variant="heading" style={styles.heading}>{parent.name}</Typography>
+          {tree.map((dept) => (
+            <View key={dept.id}>
+              <Typography variant="heading" style={styles.heading}>{dept.name}</Typography>
               <View style={styles.grid}>
-                <CategoryTile category={parent} width={tileWidth} />
-                {children.map((c) => (
-                  <CategoryTile key={c.id} category={c} width={tileWidth} />
+                {dept.children.map((c) => (
+                  <CategoryTile key={c.id} category={c} width={tileWidth} icon={categoryIcon(tree, c.slug)} />
                 ))}
               </View>
             </View>

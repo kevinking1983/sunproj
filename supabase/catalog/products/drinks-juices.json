@@ -1,0 +1,1482 @@
+[
+  {
+    "slug": "coca-cola-soft-drink-750ml",
+    "name": "Coca-Cola Soft Drink",
+    "brand": "Coca-Cola",
+    "subcategories": [
+      "drinks-juices-soft-drinks"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Carbonated cola soft drink in a PET bottle. Serve chilled with ice; close the cap tightly after opening to keep the fizz.",
+    "tags": [
+      "coke",
+      "cola",
+      "cold drink",
+      "soft drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "coca-cola",
+        "query": "coca cola"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pepsi-soft-drink-750ml",
+    "name": "Pepsi Soft Drink",
+    "brand": "Pepsi",
+    "subcategories": [
+      "drinks-juices-soft-drinks"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 4000,
+    "price": 3600,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Carbonated cola soft drink in a PET bottle, best served chilled. Recap the bottle after pouring to retain carbonation.",
+    "tags": [
+      "pepsi",
+      "cola",
+      "cold drink",
+      "soft drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "pepsi",
+        "query": "pepsi cola"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sprite-lemon-lime-soft-drink-750ml",
+    "name": "Sprite Lemon-Lime Soft Drink",
+    "brand": "Sprite",
+    "subcategories": [
+      "drinks-juices-soft-drinks"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 4000,
+    "price": 4000,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Clear lemon-lime flavoured carbonated drink. Serve chilled or use as a mixer for mocktails; keep the cap tight after opening.",
+    "tags": [
+      "sprite",
+      "lemon soda",
+      "cold drink",
+      "soft drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "sprite",
+        "query": "lemon lime"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "7up-lemon-lime-soft-drink-750ml",
+    "name": "7UP Lemon-Lime Soft Drink",
+    "brand": "7UP",
+    "subcategories": [
+      "drinks-juices-soft-drinks"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 4000,
+    "price": 3700,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Lemon-lime flavoured carbonated soft drink. Serve chilled with ice or use in mocktails; recap tightly to keep it fizzy.",
+    "tags": [
+      "7up",
+      "lemon soda",
+      "cold drink",
+      "soft drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "7up",
+        "query": "7up lemon"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fanta-orange-soft-drink-750ml",
+    "name": "Fanta Orange Soft Drink",
+    "brand": "Fanta",
+    "subcategories": [
+      "drinks-juices-soft-drinks"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 4000,
+    "price": 3500,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Orange flavoured carbonated soft drink. Best served chilled at parties and meals; close the bottle well after opening.",
+    "tags": [
+      "fanta",
+      "orange soda",
+      "cold drink",
+      "soft drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "fanta",
+        "query": "fanta orange"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mirinda-orange-soft-drink-750ml",
+    "name": "Mirinda Orange Soft Drink",
+    "brand": "Mirinda",
+    "subcategories": [
+      "drinks-juices-soft-drinks"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Orange flavoured fizzy drink in a PET bottle. Serve chilled; recap tightly after pouring to retain the fizz.",
+    "tags": [
+      "mirinda",
+      "orange soda",
+      "cold drink",
+      "soft drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "mirinda",
+        "query": "mirinda orange"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "real-mixed-fruit-juice-1l",
+    "name": "Real Mixed Fruit Juice",
+    "brand": "Real",
+    "subcategories": [
+      "drinks-juices-fruit-juices"
+    ],
+    "unit_label": "1 L",
+    "mrp": 13000,
+    "price": 11900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Mixed fruit juice in a carton, ready to pour for breakfast or with snacks. Shake well, serve chilled and refrigerate after opening.",
+    "tags": [
+      "fruit juice",
+      "mixed fruit juice",
+      "juice",
+      "real juice"
+    ],
+    "image": {
+      "off": {
+        "brand": "real",
+        "query": "mixed fruit juice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tropicana-orange-juice-1l",
+    "name": "Tropicana Orange Juice",
+    "brand": "Tropicana",
+    "subcategories": [
+      "drinks-juices-fruit-juices"
+    ],
+    "unit_label": "1 L",
+    "mrp": 14000,
+    "price": 13000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Orange juice in a carton for breakfast and snacks. Shake well and serve chilled; refrigerate after opening and use within a few days.",
+    "tags": [
+      "orange juice",
+      "fruit juice",
+      "juice",
+      "santra juice"
+    ],
+    "image": {
+      "off": {
+        "brand": "tropicana",
+        "query": "orange juice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "real-guava-juice-1l",
+    "name": "Real Guava Juice",
+    "brand": "Real",
+    "subcategories": [
+      "drinks-juices-fruit-juices"
+    ],
+    "unit_label": "1 L",
+    "mrp": 13000,
+    "price": 12000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Guava fruit juice in a carton with a thick, fruity taste. Shake before pouring and serve chilled; refrigerate once opened.",
+    "tags": [
+      "guava juice",
+      "amrood juice",
+      "fruit juice",
+      "juice"
+    ],
+    "image": {
+      "off": {
+        "brand": "real",
+        "query": "guava juice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "b-natural-guava-juice-1l",
+    "name": "B Natural Guava Juice",
+    "brand": "B Natural",
+    "subcategories": [
+      "drinks-juices-fruit-juices"
+    ],
+    "unit_label": "1 L",
+    "mrp": 13000,
+    "price": 13000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Guava juice beverage in a carton, ready to drink. Serve chilled with meals or snacks; refrigerate after opening.",
+    "tags": [
+      "guava juice",
+      "amrood juice",
+      "fruit juice",
+      "juice"
+    ],
+    "image": {
+      "off": {
+        "brand": "b natural",
+        "query": "guava juice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "coca-cola-zero-sugar-soft-drink-300ml",
+    "name": "Coca-Cola Zero Sugar Soft Drink",
+    "brand": "Coca-Cola Zero Sugar",
+    "subcategories": [
+      "drinks-juices-zero-sugar-drinks"
+    ],
+    "unit_label": "300 ml",
+    "mrp": 4000,
+    "price": 3600,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Cola soft drink with no sugar, in a can. Serve chilled; check the label for the sweeteners used.",
+    "tags": [
+      "coke zero",
+      "zero sugar cola",
+      "diet cola",
+      "cold drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "coca-cola zero sugar",
+        "query": "zero sugar cola"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pepsi-black-soft-drink-300ml",
+    "name": "Pepsi Black Soft Drink",
+    "brand": "Pepsi Black",
+    "subcategories": [
+      "drinks-juices-zero-sugar-drinks"
+    ],
+    "unit_label": "300 ml",
+    "mrp": 4000,
+    "price": 3600,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Zero-sugar cola in a can, best served chilled. Check the label for sweetener details.",
+    "tags": [
+      "pepsi black",
+      "zero sugar cola",
+      "diet cola",
+      "cold drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "pepsi black",
+        "query": "pepsi black"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sprite-zero-soft-drink-300ml",
+    "name": "Sprite Zero Soft Drink",
+    "brand": "Sprite Zero",
+    "subcategories": [
+      "drinks-juices-zero-sugar-drinks"
+    ],
+    "unit_label": "300 ml",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Lemon-lime carbonated drink without sugar, in a can. Serve chilled or use in mocktails; see the label for sweeteners used.",
+    "tags": [
+      "sprite zero",
+      "zero sugar soda",
+      "lemon soda",
+      "diet soda"
+    ],
+    "image": {
+      "off": {
+        "brand": "sprite zero",
+        "query": "sprite zero"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "schweppes-zero-tonic-water-300ml",
+    "name": "Schweppes Zero Tonic Water",
+    "brand": "Schweppes Zero",
+    "subcategories": [
+      "drinks-juices-zero-sugar-drinks"
+    ],
+    "unit_label": "300 ml",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Sugar-free tonic water in a can for mixing with mocktails and drinks. Serve well chilled; see the label for sweetener details.",
+    "tags": [
+      "tonic water",
+      "zero sugar tonic",
+      "mixer",
+      "schweppes"
+    ],
+    "image": {
+      "off": {
+        "brand": "schweppes zero",
+        "query": "tonic water zero"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "red-bull-energy-drink-250ml",
+    "name": "Red Bull Energy Drink",
+    "brand": "Red Bull",
+    "subcategories": [
+      "drinks-juices-caffeinated-drinks"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 12500,
+    "price": 12500,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Caffeinated energy drink in a can. Serve chilled; not recommended for children, pregnant women or people sensitive to caffeine.",
+    "tags": [
+      "energy drink",
+      "red bull",
+      "caffeine drink",
+      "can"
+    ],
+    "image": {
+      "off": {
+        "brand": "red bull",
+        "query": "energy drink"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "monster-energy-drink-350ml",
+    "name": "Monster Energy Drink",
+    "brand": "Monster",
+    "subcategories": [
+      "drinks-juices-caffeinated-drinks"
+    ],
+    "unit_label": "350 ml",
+    "mrp": 12500,
+    "price": 11900,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Carbonated caffeinated energy drink in a large can. Serve chilled; not recommended for children or people sensitive to caffeine.",
+    "tags": [
+      "energy drink",
+      "monster",
+      "caffeine drink",
+      "can"
+    ],
+    "image": {
+      "off": {
+        "brand": "monster",
+        "query": "energy drink"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "coca-cola-soft-drink-300ml",
+    "name": "Coca-Cola Soft Drink",
+    "brand": "Coca-Cola",
+    "subcategories": [
+      "drinks-juices-caffeinated-drinks"
+    ],
+    "unit_label": "300 ml",
+    "mrp": 4000,
+    "price": 3500,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Classic caffeinated cola in a single-serve can. Chill before serving; a handy size for lunch boxes and parties.",
+    "tags": [
+      "coke can",
+      "cola",
+      "cold drink",
+      "soft drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "coca-cola",
+        "query": "coca cola can"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pepsi-soft-drink-300ml",
+    "name": "Pepsi Soft Drink",
+    "brand": "Pepsi",
+    "subcategories": [
+      "drinks-juices-caffeinated-drinks"
+    ],
+    "unit_label": "300 ml",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Caffeinated cola in a single-serve can. Serve chilled with snacks and meals; recycle the can after use.",
+    "tags": [
+      "pepsi can",
+      "cola",
+      "cold drink",
+      "soft drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "pepsi",
+        "query": "pepsi can"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "gatorade-sports-drink-500ml",
+    "name": "Gatorade Sports Drink",
+    "brand": "Gatorade",
+    "subcategories": [
+      "drinks-juices-hydration-drinks"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 5000,
+    "price": 4500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready-to-drink sports beverage with electrolytes for drinking during or after exercise. Serve chilled; check the label for flavour.",
+    "tags": [
+      "sports drink",
+      "electrolyte drink",
+      "gatorade",
+      "energy drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "gatorade",
+        "query": "sports drink"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "enerzal-electrolyte-drink-200ml",
+    "name": "Enerzal Electrolyte Drink",
+    "brand": "Enerzal",
+    "subcategories": [
+      "drinks-juices-hydration-drinks"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 3000,
+    "price": 2900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready-to-drink electrolyte beverage for hot days and active routines. Serve chilled; see the pack for flavour and directions.",
+    "tags": [
+      "electrolyte drink",
+      "sports drink",
+      "enerzal",
+      "hydration"
+    ],
+    "image": {
+      "off": {
+        "brand": "enerzal",
+        "query": "electrolyte drink"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "paper-boat-coconut-water-200ml",
+    "name": "Paper Boat Coconut Water",
+    "brand": "Paper Boat",
+    "subcategories": [
+      "drinks-juices-hydration-drinks"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 4000,
+    "price": 3700,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Packaged tender coconut water in a single-serve pack. A refreshing drink for summer days; shake well and serve chilled.",
+    "tags": [
+      "coconut water",
+      "nariyal pani",
+      "tender coconut",
+      "hydration"
+    ],
+    "image": {
+      "off": {
+        "brand": "paper boat",
+        "query": "coconut water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "raw-pressery-coconut-water-200ml",
+    "name": "Raw Pressery Coconut Water",
+    "brand": "Raw Pressery",
+    "subcategories": [
+      "drinks-juices-hydration-drinks"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 4500,
+    "price": 4500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Single-serve packaged coconut water. Keep refrigerated, shake before drinking and consume soon after opening.",
+    "tags": [
+      "coconut water",
+      "nariyal pani",
+      "tender coconut",
+      "hydration"
+    ],
+    "image": {
+      "off": {
+        "brand": "raw pressery",
+        "query": "coconut water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kinley-club-soda-750ml",
+    "name": "Kinley Club Soda",
+    "brand": "Kinley",
+    "subcategories": [
+      "drinks-juices-soda-mixers"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 2000,
+    "price": 1800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Carbonated club soda for mixing with lime, juices and mocktails. Serve chilled and recap tightly after opening.",
+    "tags": [
+      "soda",
+      "club soda",
+      "soda water",
+      "mixer"
+    ],
+    "image": {
+      "off": {
+        "brand": "kinley",
+        "query": "club soda"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "schweppes-soda-water-750ml",
+    "name": "Schweppes Soda Water",
+    "brand": "Schweppes",
+    "subcategories": [
+      "drinks-juices-soda-mixers"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 3000,
+    "price": 2700,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Sparkling soda water for nimbu soda, mocktails and mixers. Serve chilled; close the cap well to keep the fizz.",
+    "tags": [
+      "soda",
+      "soda water",
+      "club soda",
+      "mixer"
+    ],
+    "image": {
+      "off": {
+        "brand": "schweppes",
+        "query": "soda water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "schweppes-tonic-water-300ml",
+    "name": "Schweppes Tonic Water",
+    "brand": "Schweppes",
+    "subcategories": [
+      "drinks-juices-soda-mixers"
+    ],
+    "unit_label": "300 ml",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Classic tonic water with a bitter-sweet taste, used as a mixer. Serve over ice with lime; best kept chilled.",
+    "tags": [
+      "tonic water",
+      "mixer",
+      "schweppes",
+      "tonic"
+    ],
+    "image": {
+      "off": {
+        "brand": "schweppes",
+        "query": "tonic water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sepoy-and-co-tonic-water-200ml",
+    "name": "Sepoy & Co Tonic Water",
+    "brand": "Sepoy & Co",
+    "subcategories": [
+      "drinks-juices-soda-mixers"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 7000,
+    "price": 6000,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Indian craft tonic water for mixing and mocktails. Serve well chilled over ice with a citrus garnish.",
+    "tags": [
+      "tonic water",
+      "mixer",
+      "craft tonic",
+      "sepoy"
+    ],
+    "image": {
+      "off": {
+        "brand": "sepoy & co",
+        "query": "tonic water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bisleri-packaged-drinking-water-1l",
+    "name": "Bisleri Packaged Drinking Water",
+    "brand": "Bisleri",
+    "subcategories": [
+      "drinks-juices-water-ice-cubes"
+    ],
+    "unit_label": "1 L",
+    "mrp": 2000,
+    "price": 2000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Packaged drinking water in a sealed bottle. Keep in a cool place away from sunlight; drink soon after opening.",
+    "tags": [
+      "water",
+      "mineral water",
+      "drinking water",
+      "pani"
+    ],
+    "image": {
+      "off": {
+        "brand": "bisleri",
+        "query": "drinking water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kinley-packaged-drinking-water-1l",
+    "name": "Kinley Packaged Drinking Water",
+    "brand": "Kinley",
+    "subcategories": [
+      "drinks-juices-water-ice-cubes"
+    ],
+    "unit_label": "1 L",
+    "mrp": 2000,
+    "price": 1800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Sealed bottle of packaged drinking water for home, office or travel. Store away from sunlight and heat.",
+    "tags": [
+      "water",
+      "mineral water",
+      "drinking water",
+      "pani"
+    ],
+    "image": {
+      "off": {
+        "brand": "kinley",
+        "query": "drinking water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "perrier-sparkling-mineral-water-330ml",
+    "name": "Perrier Sparkling Mineral Water",
+    "brand": "Perrier",
+    "subcategories": [
+      "drinks-juices-water-ice-cubes"
+    ],
+    "unit_label": "330 ml",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Naturally sparkling mineral water from France in a glass bottle. Serve chilled with a slice of lemon or on its own.",
+    "tags": [
+      "sparkling water",
+      "mineral water",
+      "perrier",
+      "fizzy water"
+    ],
+    "image": {
+      "off": {
+        "brand": "perrier",
+        "query": "sparkling water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "schweppes-sparkling-water-300ml",
+    "name": "Schweppes Sparkling Water",
+    "brand": "Schweppes",
+    "subcategories": [
+      "drinks-juices-water-ice-cubes"
+    ],
+    "unit_label": "300 ml",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Sparkling water in a can for drinking chilled or mixing. Serve over ice with mint or lime.",
+    "tags": [
+      "sparkling water",
+      "fizzy water",
+      "soda water",
+      "schweppes"
+    ],
+    "image": {
+      "off": {
+        "brand": "schweppes",
+        "query": "sparkling water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ice-cubes-1kg",
+    "name": "Ice Cubes",
+    "brand": null,
+    "subcategories": [
+      "drinks-juices-water-ice-cubes"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 4000,
+    "price": 3600,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Packaged ice cubes made from potable water for drinks and coolers. Keep frozen and use straight from the bag.",
+    "tags": [
+      "ice",
+      "ice cubes",
+      "barf",
+      "party ice"
+    ],
+    "image": {
+      "wiki": "Ice cube"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "maaza-mango-drink-600ml",
+    "name": "Maaza Mango Drink",
+    "brand": "Maaza",
+    "subcategories": [
+      "drinks-juices-mango-drinks"
+    ],
+    "unit_label": "600 ml",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Mango fruit drink with a thick, sweet mango taste. Serve chilled; refrigerate after opening.",
+    "tags": [
+      "mango drink",
+      "aam drink",
+      "maaza",
+      "mango juice"
+    ],
+    "image": {
+      "off": {
+        "brand": "maaza",
+        "query": "mango drink"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "slice-mango-drink-600ml",
+    "name": "Slice Mango Drink",
+    "brand": "Slice",
+    "subcategories": [
+      "drinks-juices-mango-drinks"
+    ],
+    "unit_label": "600 ml",
+    "mrp": 4000,
+    "price": 3700,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Thick mango fruit drink in a bottle, best enjoyed chilled. Refrigerate after opening and finish soon.",
+    "tags": [
+      "mango drink",
+      "aam drink",
+      "slice",
+      "mango juice"
+    ],
+    "image": {
+      "off": {
+        "brand": "slice",
+        "query": "mango drink"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "b-natural-mango-juice-1l",
+    "name": "B Natural Mango Juice",
+    "brand": "B Natural",
+    "subcategories": [
+      "drinks-juices-mango-drinks"
+    ],
+    "unit_label": "1 L",
+    "mrp": 13000,
+    "price": 13000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Mango juice beverage in a carton, made from mango pulp. Shake well and serve chilled; refrigerate after opening.",
+    "tags": [
+      "mango juice",
+      "aam ras",
+      "fruit juice",
+      "juice"
+    ],
+    "image": {
+      "off": {
+        "brand": "b natural",
+        "query": "mango juice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "real-mango-juice-1l",
+    "name": "Real Mango Juice",
+    "brand": "Real",
+    "subcategories": [
+      "drinks-juices-mango-drinks"
+    ],
+    "unit_label": "1 L",
+    "mrp": 13000,
+    "price": 11900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Mango fruit juice in a carton, ready to pour. Shake before serving and keep refrigerated once opened.",
+    "tags": [
+      "mango juice",
+      "aam ras",
+      "fruit juice",
+      "juice"
+    ],
+    "image": {
+      "off": {
+        "brand": "real",
+        "query": "mango juice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nescafe-cold-coffee-180ml",
+    "name": "Nescafe Cold Coffee",
+    "brand": "Nescafe",
+    "subcategories": [
+      "drinks-juices-cold-coffee-iced-tea",
+      "tea-coffee-milk-drinks-cold-coffee-iced-tea"
+    ],
+    "unit_label": "180 ml",
+    "mrp": 5000,
+    "price": 4400,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready-to-drink milk coffee in a can, made to be served cold. Shake well and chill before drinking.",
+    "tags": [
+      "cold coffee",
+      "iced coffee",
+      "coffee drink",
+      "nescafe"
+    ],
+    "image": {
+      "off": {
+        "brand": "nescafe",
+        "query": "cold coffee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "starbucks-ready-to-drink-cold-coffee-200ml",
+    "name": "Starbucks Ready-to-Drink Cold Coffee",
+    "brand": "Starbucks",
+    "subcategories": [
+      "drinks-juices-cold-coffee-iced-tea",
+      "tea-coffee-milk-drinks-cold-coffee-iced-tea"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Bottled chilled coffee beverage with milk. Keep refrigerated, shake before opening and drink cold.",
+    "tags": [
+      "cold coffee",
+      "iced coffee",
+      "coffee drink",
+      "starbucks"
+    ],
+    "image": {
+      "off": {
+        "brand": "starbucks",
+        "query": "cold coffee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lipton-lemon-iced-tea-350ml",
+    "name": "Lipton Lemon Iced Tea",
+    "brand": "Lipton",
+    "subcategories": [
+      "drinks-juices-cold-coffee-iced-tea",
+      "tea-coffee-milk-drinks-cold-coffee-iced-tea"
+    ],
+    "unit_label": "350 ml",
+    "mrp": 4000,
+    "price": 3600,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Lemon-flavoured iced tea, ready to drink. Serve chilled over ice; refrigerate after opening.",
+    "tags": [
+      "iced tea",
+      "lemon iced tea",
+      "ice tea",
+      "cold tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "lipton",
+        "query": "lemon iced tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nestea-lemon-iced-tea-350ml",
+    "name": "Nestea Lemon Iced Tea",
+    "brand": "Nestea",
+    "subcategories": [
+      "drinks-juices-cold-coffee-iced-tea",
+      "tea-coffee-milk-drinks-cold-coffee-iced-tea"
+    ],
+    "unit_label": "350 ml",
+    "mrp": 4000,
+    "price": 4000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready-to-drink lemon iced tea. Serve well chilled with ice and a slice of lemon.",
+    "tags": [
+      "iced tea",
+      "lemon iced tea",
+      "ice tea",
+      "cold tea"
+    ],
+    "image": {
+      "off": {
+        "brand": "nestea",
+        "query": "lemon iced tea"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fresh-tender-coconut-1pc",
+    "name": "Fresh Tender Coconut",
+    "brand": null,
+    "subcategories": [
+      "drinks-juices-coconut-water"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Whole green tender coconut with sweet water inside. Cut open at the top, sip the water and scoop out the soft malai; keep in a cool place.",
+    "tags": [
+      "tender coconut",
+      "nariyal pani",
+      "coconut water",
+      "elaneer"
+    ],
+    "image": {
+      "wiki": "Coconut water"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "large-fresh-tender-coconut-1pc",
+    "name": "Large Fresh Tender Coconut",
+    "brand": null,
+    "subcategories": [
+      "drinks-juices-coconut-water"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 8000,
+    "price": 8000,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Large green tender coconut, chosen for more water. Cut open at the top to drink and scoop the soft flesh; use within a few days.",
+    "tags": [
+      "tender coconut",
+      "nariyal pani",
+      "coconut water",
+      "daab"
+    ],
+    "image": {
+      "wiki": "Coconut water"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "paper-boat-coconut-water-1l",
+    "name": "Paper Boat Coconut Water",
+    "brand": "Paper Boat",
+    "subcategories": [
+      "drinks-juices-coconut-water"
+    ],
+    "unit_label": "1 L",
+    "mrp": 16000,
+    "price": 15000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Packaged coconut water in a family-size carton. Shake well and serve chilled; refrigerate after opening.",
+    "tags": [
+      "coconut water",
+      "nariyal pani",
+      "tender coconut",
+      "packaged coconut water"
+    ],
+    "image": {
+      "off": {
+        "brand": "paper boat",
+        "query": "coconut water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "raw-pressery-coconut-water-1l",
+    "name": "Raw Pressery Coconut Water",
+    "brand": "Raw Pressery",
+    "subcategories": [
+      "drinks-juices-coconut-water"
+    ],
+    "unit_label": "1 L",
+    "mrp": 18000,
+    "price": 16000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Coconut water in a large bottle for the family. Keep refrigerated and shake before pouring.",
+    "tags": [
+      "coconut water",
+      "nariyal pani",
+      "tender coconut",
+      "packaged coconut water"
+    ],
+    "image": {
+      "off": {
+        "brand": "raw pressery",
+        "query": "coconut water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "rasna-orange-instant-drink-mix-500g",
+    "name": "Rasna Orange Instant Drink Mix",
+    "brand": "Rasna",
+    "subcategories": [
+      "drinks-juices-concentrates-syrups"
+    ],
+    "unit_label": "500 g",
+    "mrp": 15000,
+    "price": 14000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Orange flavoured powdered drink concentrate. Mix with chilled water as directed on the pack for a quick summer drink; keep the jar closed.",
+    "tags": [
+      "rasna",
+      "drink mix",
+      "orange drink",
+      "sharbat"
+    ],
+    "image": {
+      "off": {
+        "brand": "rasna",
+        "query": "orange drink mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tang-orange-instant-drink-mix-500g",
+    "name": "Tang Orange Instant Drink Mix",
+    "brand": "Tang",
+    "subcategories": [
+      "drinks-juices-concentrates-syrups"
+    ],
+    "unit_label": "500 g",
+    "mrp": 17500,
+    "price": 16000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Orange flavoured instant drink powder. Stir into cold water as directed for a quick drink; store airtight in a dry place.",
+    "tags": [
+      "tang",
+      "drink mix",
+      "orange drink",
+      "instant drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "tang",
+        "query": "orange drink powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hamdard-rooh-afza-sharbat-750ml",
+    "name": "Hamdard Rooh Afza Sharbat",
+    "brand": "Hamdard Rooh Afza",
+    "subcategories": [
+      "drinks-juices-concentrates-syrups"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 19900,
+    "price": 19900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Rose-flavoured sharbat syrup for summer coolers, falooda and milk drinks. Dilute with chilled water or milk; store in a cool place.",
+    "tags": [
+      "rooh afza",
+      "sharbat",
+      "rose syrup",
+      "summer drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "hamdard rooh afza",
+        "query": "rooh afza"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mapro-kokum-syrup-750ml",
+    "name": "Mapro Kokum Syrup",
+    "brand": "Mapro",
+    "subcategories": [
+      "drinks-juices-concentrates-syrups"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 19900,
+    "price": 18000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Kokum fruit syrup for making a tangy sherbet. Mix with chilled water as directed; refrigerate after opening.",
+    "tags": [
+      "kokum",
+      "kokum sharbat",
+      "syrup",
+      "summer drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "mapro",
+        "query": "kokum syrup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "raw-pressery-cold-pressed-juice-250ml",
+    "name": "Raw Pressery Cold-Pressed Juice",
+    "brand": "Raw Pressery",
+    "subcategories": [
+      "drinks-juices-premium"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 9900,
+    "price": 8900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Cold-pressed juice in a bottle. Keep refrigerated at all times, shake before drinking and consume by the date on the pack.",
+    "tags": [
+      "cold pressed juice",
+      "fresh juice",
+      "juice",
+      "premium juice"
+    ],
+    "image": {
+      "off": {
+        "brand": "raw pressery",
+        "query": "cold pressed juice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "paper-boat-fruit-juice-blend-250ml",
+    "name": "Paper Boat Fruit Juice Blend",
+    "brand": "Paper Boat",
+    "subcategories": [
+      "drinks-juices-premium"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 5000,
+    "price": 4800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Fruit juice blend in a single-serve pack. Shake well and serve chilled; see the pack for the fruits used.",
+    "tags": [
+      "juice blend",
+      "fruit juice",
+      "juice",
+      "paper boat"
+    ],
+    "image": {
+      "off": {
+        "brand": "paper boat",
+        "query": "juice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "svami-tonic-water-250ml",
+    "name": "Svami Tonic Water",
+    "brand": "Svami",
+    "subcategories": [
+      "drinks-juices-premium"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 7000,
+    "price": 6000,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Premium Indian tonic water in a can for mocktails and mixers. Serve well chilled over ice.",
+    "tags": [
+      "tonic water",
+      "premium mixer",
+      "svami",
+      "mixer"
+    ],
+    "image": {
+      "off": {
+        "brand": "svami",
+        "query": "tonic water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sepoy-and-co-tonic-water-4x200ml",
+    "name": "Sepoy & Co Tonic Water",
+    "brand": "Sepoy & Co",
+    "subcategories": [
+      "drinks-juices-premium"
+    ],
+    "unit_label": "4 x 200 ml",
+    "mrp": 26000,
+    "price": 26000,
+    "tax_rate": 28,
+    "is_veg": true,
+    "description": "Multipack of craft tonic water bottles for hosting. Chill before serving and pour over ice with citrus.",
+    "tags": [
+      "tonic water",
+      "premium mixer",
+      "craft tonic",
+      "mixer"
+    ],
+    "image": {
+      "off": {
+        "brand": "sepoy & co",
+        "query": "tonic water"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "real-juice-assorted-gift-pack-4x1l",
+    "name": "Real Juice Assorted Gift Pack",
+    "brand": "Real",
+    "subcategories": [
+      "drinks-juices-beverages-gift-packs"
+    ],
+    "unit_label": "4 x 1 L",
+    "mrp": 49900,
+    "price": 45900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Assorted pack of Real fruit juice cartons in different flavours, good for gifting or stocking up. Refrigerate each carton after opening.",
+    "tags": [
+      "juice gift pack",
+      "assorted juice",
+      "fruit juice",
+      "gift hamper"
+    ],
+    "image": {
+      "off": {
+        "brand": "real",
+        "query": "juice assorted"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tropicana-juice-assorted-gift-pack-4x1l",
+    "name": "Tropicana Juice Assorted Gift Pack",
+    "brand": "Tropicana",
+    "subcategories": [
+      "drinks-juices-beverages-gift-packs"
+    ],
+    "unit_label": "4 x 1 L",
+    "mrp": 54900,
+    "price": 48000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "A pack of assorted Tropicana juice cartons for gifting and parties. See the pack for flavours; refrigerate after opening.",
+    "tags": [
+      "juice gift pack",
+      "assorted juice",
+      "fruit juice",
+      "gift hamper"
+    ],
+    "image": {
+      "off": {
+        "brand": "tropicana",
+        "query": "juice assorted"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "starbucks-cold-coffee-gift-pack-4x200ml",
+    "name": "Starbucks Cold Coffee Gift Pack",
+    "brand": "Starbucks",
+    "subcategories": [
+      "drinks-juices-beverages-gift-packs"
+    ],
+    "unit_label": "4 x 200 ml",
+    "mrp": 48000,
+    "price": 45000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Gift pack of bottled ready-to-drink Starbucks coffee beverages. Keep refrigerated and shake before serving.",
+    "tags": [
+      "coffee gift pack",
+      "cold coffee",
+      "coffee hamper",
+      "starbucks"
+    ],
+    "image": {
+      "off": {
+        "brand": "starbucks",
+        "query": "ready to drink coffee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nescafe-cold-coffee-gift-pack-6x180ml",
+    "name": "Nescafe Cold Coffee Gift Pack",
+    "brand": "Nescafe",
+    "subcategories": [
+      "drinks-juices-beverages-gift-packs"
+    ],
+    "unit_label": "6 x 180 ml",
+    "mrp": 30000,
+    "price": 27000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Six cans of ready-to-drink Nescafe cold coffee for sharing or gifting. Chill before serving and shake well.",
+    "tags": [
+      "coffee gift pack",
+      "cold coffee",
+      "coffee hamper",
+      "nescafe"
+    ],
+    "image": {
+      "off": {
+        "brand": "nescafe",
+        "query": "cold coffee can"
+      }
+    },
+    "orderable": true
+  }
+]

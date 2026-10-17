@@ -1,4 +1,4 @@
-import type { OrderStatus } from "@ration/shared";
+import type { Json, OrderStatus } from "@ration/shared";
 
 import type { Client } from "./client";
 import { ORDER_COLUMNS, type Order } from "./orders";
@@ -20,6 +20,34 @@ export interface StoreRow {
   delivery_fee: number;
   free_delivery_above: number;
   promised_minutes: number;
+}
+
+export interface ProductImportRow {
+  /** CSV line number, echoed back in errors. */
+  row: number;
+  slug: string;
+  name: string;
+  brand: string | null;
+  subcategories: string[];
+  unit_label: string;
+  mrp: number;
+  price: number;
+  tax_rate: number;
+  description: string | null;
+  image_url: string | null;
+  image_credit: string | null;
+  is_veg: boolean | null;
+  tags: string[];
+  orderable: boolean;
+  is_active: boolean;
+  stock: number | null;
+}
+
+export interface ProductImportResult {
+  created: number;
+  updated: number;
+  brands_created: number;
+  errors: { row: number; message: string }[];
 }
 
 export interface ProductRow {
@@ -138,6 +166,12 @@ export const createAdminApi = (client: Client) => ({
   },
 
   products: {
+    /** Bulk create/update from the CSV import; at most 500 rows per call. Money in paise. */
+    import: async (rows: ProductImportRow[], storeId: string | null): Promise<ProductImportResult> => {
+      const { data, error } = await client.rpc("staff_import_products", { p_rows: rows as unknown as Json, p_store_id: storeId ?? undefined });
+      if (error) throw error;
+      return data as unknown as ProductImportResult;
+    },
     list: async (): Promise<ProductRow[]> => {
       const { data, error } = await client.from("products").select("id, category_id, brand_id, name, slug, description, unit_label, mrp, price, tax_rate, images, tags, is_veg, is_active").order("name");
       if (error) throw error;

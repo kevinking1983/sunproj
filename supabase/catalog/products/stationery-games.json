@@ -1,0 +1,1627 @@
+[
+  {
+    "slug": "classmate-ruled-notebook-pack-of-6",
+    "name": "Classmate Ruled Notebook",
+    "brand": "Classmate",
+    "subcategories": [
+      "stationery-games-notebooks-diaries"
+    ],
+    "unit_label": "Pack of 6",
+    "mrp": 42000,
+    "price": 39900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Ruled exercise notebooks for school and college class notes. Keep them away from damp so the pages stay flat.",
+    "tags": [
+      "notebook",
+      "copy",
+      "ruled notebook",
+      "exercise book",
+      "classmate"
+    ],
+    "image": {
+      "off": {
+        "brand": "classmate",
+        "query": "ruled notebook"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "navneet-ruled-notebook-pack-of-6",
+    "name": "Navneet Ruled Notebook",
+    "brand": "Navneet",
+    "subcategories": [
+      "stationery-games-notebooks-diaries"
+    ],
+    "unit_label": "Pack of 6",
+    "mrp": 36000,
+    "price": 33900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Ruled notebooks for homework, class notes and rough work. Cover them for longer use through the school year.",
+    "tags": [
+      "notebook",
+      "copy",
+      "exercise book",
+      "navneet"
+    ],
+    "image": {
+      "off": {
+        "brand": "navneet",
+        "query": "ruled notebook"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "paperkraft-undated-diary-1pc",
+    "name": "Paperkraft Undated Diary",
+    "brand": "Paperkraft",
+    "subcategories": [
+      "stationery-games-notebooks-diaries"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 34900,
+    "price": 31900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Undated diary for notes, to-do lists and journaling that can start on any day. Suits pens and pencils for daily writing.",
+    "tags": [
+      "diary",
+      "journal",
+      "notebook",
+      "paperkraft"
+    ],
+    "image": {
+      "off": {
+        "brand": "paperkraft",
+        "query": "diary"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "factor-notes-weekly-planner-1pc",
+    "name": "Factor Notes Weekly Planner",
+    "brand": "Factor Notes",
+    "subcategories": [
+      "stationery-games-notebooks-diaries"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 59900,
+    "price": 54900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Weekly planner for organising tasks, appointments and goals across the week. Undated pages let you begin any time of year.",
+    "tags": [
+      "planner",
+      "weekly planner",
+      "organiser",
+      "diary"
+    ],
+    "image": {
+      "off": {
+        "brand": "factor notes",
+        "query": "weekly planner"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "reynolds-ball-pen-blue-pack-of-10",
+    "name": "Reynolds Ball Pen (Blue)",
+    "brand": "Reynolds",
+    "subcategories": [
+      "stationery-games-pens-pencils"
+    ],
+    "unit_label": "Pack of 10",
+    "mrp": 10000,
+    "price": 9500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Blue ball pens for everyday writing at school, home and office. Recap after use to keep the tip from drying.",
+    "tags": [
+      "ball pen",
+      "pen",
+      "kalam",
+      "blue pen",
+      "reynolds"
+    ],
+    "image": {
+      "off": {
+        "brand": "reynolds",
+        "query": "ball pen"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-gel-pen-black-pack-of-5",
+    "name": "Cello Gel Pen (Black)",
+    "brand": "Cello",
+    "subcategories": [
+      "stationery-games-pens-pencils"
+    ],
+    "unit_label": "Pack of 5",
+    "mrp": 5000,
+    "price": 4800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Black gel pens for smooth writing in notebooks and exam sheets. Store capped and tip-down in hot weather.",
+    "tags": [
+      "gel pen",
+      "pen",
+      "kalam",
+      "black pen",
+      "cello"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "gel pen"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nataraj-hb-pencils-pack-of-10",
+    "name": "Nataraj HB Pencils",
+    "brand": "Nataraj",
+    "subcategories": [
+      "stationery-games-pens-pencils"
+    ],
+    "unit_label": "Pack of 10",
+    "mrp": 5000,
+    "price": 4800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "HB graphite pencils for writing and rough sketching at school. Sharpen gently to avoid breaking the lead.",
+    "tags": [
+      "pencil",
+      "hb pencil",
+      "school pencil",
+      "nataraj"
+    ],
+    "image": {
+      "off": {
+        "brand": "nataraj",
+        "query": "hb pencils"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "apsara-hb-pencils-pack-of-10",
+    "name": "Apsara HB Pencils",
+    "brand": "Apsara",
+    "subcategories": [
+      "stationery-games-pens-pencils"
+    ],
+    "unit_label": "Pack of 10",
+    "mrp": 6000,
+    "price": 5700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "HB pencils for neat writing and drawing in school notebooks. Keep in a pencil box so the lead does not snap.",
+    "tags": [
+      "pencil",
+      "hb pencil",
+      "school pencil",
+      "apsara"
+    ],
+    "image": {
+      "off": {
+        "brand": "apsara",
+        "query": "pencils"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "camlin-permanent-marker-black-pack-of-4",
+    "name": "Camlin Permanent Marker (Black)",
+    "brand": "Camlin",
+    "subcategories": [
+      "stationery-games-pens-pencils"
+    ],
+    "unit_label": "Pack of 4",
+    "mrp": 10000,
+    "price": 9500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Black permanent markers for labelling boxes, files, plastic and glass. Close the cap firmly after use to stop it drying out.",
+    "tags": [
+      "permanent marker",
+      "marker pen",
+      "labelling marker",
+      "camlin"
+    ],
+    "image": {
+      "off": {
+        "brand": "camlin",
+        "query": "permanent marker"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "faber-castell-highlighters-pack-of-5",
+    "name": "Faber-Castell Highlighters",
+    "brand": "Faber-Castell",
+    "subcategories": [
+      "stationery-games-pens-pencils"
+    ],
+    "unit_label": "Pack of 5",
+    "mrp": 20000,
+    "price": 18900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Neon highlighter pens in assorted colours for marking text in books and notes. Recap after use to keep the ink fresh.",
+    "tags": [
+      "highlighter",
+      "marker",
+      "neon pen",
+      "faber castell"
+    ],
+    "image": {
+      "off": {
+        "brand": "faber-castell",
+        "query": "highlighter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "apsara-eraser-pack-of-10",
+    "name": "Apsara Eraser",
+    "brand": "Apsara",
+    "subcategories": [
+      "stationery-games-pens-pencils"
+    ],
+    "unit_label": "Pack of 10",
+    "mrp": 5000,
+    "price": 4800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Soft erasers for removing pencil marks cleanly from notebook paper. Keep away from heat and ink.",
+    "tags": [
+      "eraser",
+      "rubber",
+      "school eraser",
+      "apsara"
+    ],
+    "image": {
+      "off": {
+        "brand": "apsara",
+        "query": "eraser"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nataraj-sharpener-pack-of-10",
+    "name": "Nataraj Sharpener",
+    "brand": "Nataraj",
+    "subcategories": [
+      "stationery-games-pens-pencils"
+    ],
+    "unit_label": "Pack of 10",
+    "mrp": 5000,
+    "price": 4800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Pencil sharpeners for standard wooden pencils. Empty shavings into a dustbin and replace once the blade turns blunt.",
+    "tags": [
+      "sharpener",
+      "pencil sharpener",
+      "school sharpener",
+      "nataraj"
+    ],
+    "image": {
+      "off": {
+        "brand": "nataraj",
+        "query": "sharpener"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "funskool-ludo-board-game-1set",
+    "name": "Funskool Ludo Board Game",
+    "brand": "Funskool",
+    "subcategories": [
+      "stationery-games-toys-games"
+    ],
+    "unit_label": "1 set",
+    "mrp": 39900,
+    "price": 35900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Ludo board game set for 2 to 4 players, a classic for family time. Check the age guidance on the box and keep small pieces away from toddlers.",
+    "tags": [
+      "ludo",
+      "board game",
+      "family game",
+      "funskool"
+    ],
+    "image": {
+      "off": {
+        "brand": "funskool",
+        "query": "ludo board game"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hasbro-monopoly-board-game-1set",
+    "name": "Hasbro Monopoly Board Game",
+    "brand": "Hasbro",
+    "subcategories": [
+      "stationery-games-toys-games"
+    ],
+    "unit_label": "1 set",
+    "mrp": 99900,
+    "price": 89900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Property trading board game for family and friends. Check the player count and age guidance on the box before buying.",
+    "tags": [
+      "monopoly",
+      "board game",
+      "family game",
+      "hasbro"
+    ],
+    "image": {
+      "off": {
+        "brand": "hasbro",
+        "query": "monopoly"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lego-building-bricks-set-1set",
+    "name": "Lego Building Bricks Set",
+    "brand": "Lego",
+    "subcategories": [
+      "stationery-games-toys-games"
+    ],
+    "unit_label": "1 set",
+    "mrp": 249900,
+    "price": 229900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Set of interlocking building bricks for open-ended construction play. See the box for age guidance; small parts are not for children under 3.",
+    "tags": [
+      "building blocks",
+      "lego",
+      "bricks",
+      "construction toy"
+    ],
+    "image": {
+      "off": {
+        "brand": "lego",
+        "query": "building bricks"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "funskool-jigsaw-puzzle-1set",
+    "name": "Funskool Jigsaw Puzzle",
+    "brand": "Funskool",
+    "subcategories": [
+      "stationery-games-toys-games"
+    ],
+    "unit_label": "1 set",
+    "mrp": 39900,
+    "price": 35900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Jigsaw puzzle for children and families to assemble on a table. Keep pieces in the box after play; check the age mark on the pack.",
+    "tags": [
+      "jigsaw puzzle",
+      "puzzle",
+      "kids puzzle",
+      "funskool"
+    ],
+    "image": {
+      "off": {
+        "brand": "funskool",
+        "query": "jigsaw puzzle"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "decathlon-flying-disc-1pc",
+    "name": "Decathlon Flying Disc",
+    "brand": "Decathlon",
+    "subcategories": [
+      "stationery-games-toys-games"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 34900,
+    "price": 32900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Flying disc for throwing and catching games in the park or on the beach. Play in open spaces away from roads.",
+    "tags": [
+      "frisbee",
+      "flying disc",
+      "outdoor toy",
+      "decathlon"
+    ],
+    "image": {
+      "off": {
+        "brand": "decathlon",
+        "query": "flying disc"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "funskool-play-ball-1pc",
+    "name": "Funskool Play Ball",
+    "brand": "Funskool",
+    "subcategories": [
+      "stationery-games-toys-games"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 29900,
+    "price": 26900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Soft play ball for outdoor and indoor games with children. Inflate to the level shown on the ball and keep away from sharp objects.",
+    "tags": [
+      "play ball",
+      "kids ball",
+      "outdoor toy",
+      "funskool"
+    ],
+    "image": {
+      "off": {
+        "brand": "funskool",
+        "query": "play ball"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fevicol-white-glue-100g",
+    "name": "Fevicol White Glue",
+    "brand": "Fevicol",
+    "subcategories": [
+      "stationery-games-glue-tape"
+    ],
+    "unit_label": "100 g",
+    "mrp": 4500,
+    "price": 4300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "White adhesive for paper, cardboard, wood and school craft projects. Spread a thin layer, press and allow to dry; close the nozzle after use.",
+    "tags": [
+      "fevicol",
+      "white glue",
+      "gond",
+      "adhesive"
+    ],
+    "image": {
+      "off": {
+        "brand": "fevicol",
+        "query": "white glue"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fevistik-glue-stick-15g",
+    "name": "Fevistik Glue Stick",
+    "brand": "Fevistik",
+    "subcategories": [
+      "stationery-games-glue-tape"
+    ],
+    "unit_label": "15 g",
+    "mrp": 5000,
+    "price": 4800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Glue stick for paper, photos and charts in school and office work. Twist up a little at a time and cap tightly to stop it drying.",
+    "tags": [
+      "glue stick",
+      "gond",
+      "school glue",
+      "fevistik"
+    ],
+    "image": {
+      "off": {
+        "brand": "fevistik",
+        "query": "glue stick"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "scotch-transparent-tape-2rolls",
+    "name": "Scotch Transparent Tape",
+    "brand": "Scotch",
+    "subcategories": [
+      "stationery-games-glue-tape"
+    ],
+    "unit_label": "2 rolls",
+    "mrp": 24900,
+    "price": 22900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Clear adhesive tape for sealing envelopes, wrapping gifts and mending paper. Store away from heat so the adhesive stays usable.",
+    "tags": [
+      "cello tape",
+      "sellotape",
+      "transparent tape",
+      "scotch"
+    ],
+    "image": {
+      "off": {
+        "brand": "scotch",
+        "query": "transparent tape"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "3m-masking-tape-2rolls",
+    "name": "3M Masking Tape",
+    "brand": "3M",
+    "subcategories": [
+      "stationery-games-glue-tape"
+    ],
+    "unit_label": "2 rolls",
+    "mrp": 14900,
+    "price": 13900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Paper masking tape for labelling, painting edges and temporary holding. Peels off most smooth surfaces; test on delicate paint first.",
+    "tags": [
+      "masking tape",
+      "paper tape",
+      "painter tape",
+      "3m"
+    ],
+    "image": {
+      "off": {
+        "brand": "3m",
+        "query": "masking tape"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "penguin-random-house-fiction-paperback-english-1pc",
+    "name": "Penguin Random House Fiction Paperback (English)",
+    "brand": "Penguin Random House",
+    "subcategories": [
+      "stationery-games-books-magazines"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 39900,
+    "price": 35900,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Fiction paperback in English from Penguin Random House, for leisure reading. Title may vary; store away from damp and direct sun.",
+    "tags": [
+      "book",
+      "novel",
+      "fiction",
+      "kitaab",
+      "paperback"
+    ],
+    "image": {
+      "off": {
+        "brand": "penguin random house",
+        "query": "fiction paperback"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "harpercollins-non-fiction-paperback-english-1pc",
+    "name": "HarperCollins Non-Fiction Paperback (English)",
+    "brand": "HarperCollins",
+    "subcategories": [
+      "stationery-games-books-magazines"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 49900,
+    "price": 44900,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Non-fiction paperback in English from HarperCollins on general-interest topics. Title may vary; keep on a dry shelf.",
+    "tags": [
+      "book",
+      "non fiction",
+      "kitaab",
+      "paperback"
+    ],
+    "image": {
+      "off": {
+        "brand": "harpercollins",
+        "query": "non fiction paperback"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "india-today-magazine-1pc",
+    "name": "India Today Magazine",
+    "brand": "India Today",
+    "subcategories": [
+      "stationery-games-books-magazines"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 7500,
+    "price": 7500,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Weekly news and current affairs magazine in English. Issue supplied is the latest available at the time of delivery.",
+    "tags": [
+      "magazine",
+      "current affairs",
+      "news magazine",
+      "patrika"
+    ],
+    "image": {
+      "off": {
+        "brand": "india today",
+        "query": "magazine"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "outlook-magazine-1pc",
+    "name": "Outlook Magazine",
+    "brand": "Outlook",
+    "subcategories": [
+      "stationery-games-books-magazines"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 7000,
+    "price": 7000,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "News and current affairs magazine in English with reports and opinion pieces. The latest available issue is supplied.",
+    "tags": [
+      "magazine",
+      "current affairs",
+      "news magazine",
+      "patrika"
+    ],
+    "image": {
+      "off": {
+        "brand": "outlook",
+        "query": "magazine"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "skybags-school-backpack-1pc",
+    "name": "Skybags School Backpack",
+    "brand": "Skybags",
+    "subcategories": [
+      "stationery-games-bags-school-needs"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 199900,
+    "price": 179900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Backpack for school with compartments for books, lunch box and water bottle. Wipe clean with a damp cloth; do not machine wash.",
+    "tags": [
+      "school bag",
+      "backpack",
+      "bag",
+      "basta",
+      "skybags"
+    ],
+    "image": {
+      "off": {
+        "brand": "skybags",
+        "query": "school backpack"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "american-tourister-school-backpack-1pc",
+    "name": "American Tourister School Backpack",
+    "brand": "American Tourister",
+    "subcategories": [
+      "stationery-games-bags-school-needs"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 249900,
+    "price": 219900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "School backpack with padded straps and multiple pockets for books and stationery. Spot clean only and avoid overloading.",
+    "tags": [
+      "school bag",
+      "backpack",
+      "bag",
+      "basta"
+    ],
+    "image": {
+      "off": {
+        "brand": "american tourister",
+        "query": "school backpack"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "camlin-geometry-box-1set",
+    "name": "Camlin Geometry Box",
+    "brand": "Camlin",
+    "subcategories": [
+      "stationery-games-bags-school-needs"
+    ],
+    "unit_label": "1 set",
+    "mrp": 14000,
+    "price": 13300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Geometry set with compass, divider, ruler, protractor and set squares for school maths. Keep the compass point capped when not in use.",
+    "tags": [
+      "geometry box",
+      "compass box",
+      "instrument box",
+      "camlin"
+    ],
+    "image": {
+      "off": {
+        "brand": "camlin",
+        "query": "geometry box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "classmate-geometry-box-1set",
+    "name": "Classmate Geometry Box",
+    "brand": "Classmate",
+    "subcategories": [
+      "stationery-games-bags-school-needs"
+    ],
+    "unit_label": "1 set",
+    "mrp": 15000,
+    "price": 14200,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Mathematical instrument box for school geometry work. Contents are listed on the pack; store in a school bag pocket to avoid bending.",
+    "tags": [
+      "geometry box",
+      "compass box",
+      "instrument box",
+      "classmate"
+    ],
+    "image": {
+      "off": {
+        "brand": "classmate",
+        "query": "geometry box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-pencil-box-1pc",
+    "name": "Cello Pencil Box",
+    "brand": "Cello",
+    "subcategories": [
+      "stationery-games-bags-school-needs"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 19900,
+    "price": 17900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Pencil box for keeping pens, pencils, eraser and sharpener together in a school bag. Wipe clean with a damp cloth.",
+    "tags": [
+      "pencil box",
+      "compass box",
+      "pencil case",
+      "cello"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "pencil box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milton-school-water-bottle-1pc",
+    "name": "Milton School Water Bottle",
+    "brand": "Milton",
+    "subcategories": [
+      "stationery-games-bags-school-needs"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 39900,
+    "price": 35900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Water bottle for school and outings that fits in a backpack side pocket. Wash with mild soap and dry with the cap open.",
+    "tags": [
+      "water bottle",
+      "school bottle",
+      "pani ki bottle",
+      "milton"
+    ],
+    "image": {
+      "off": {
+        "brand": "milton",
+        "query": "water bottle"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "scholastic-childrens-story-book-english-1pc",
+    "name": "Scholastic Children's Story Book (English)",
+    "brand": "Scholastic",
+    "subcategories": [
+      "stationery-games-children-s-books"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 29900,
+    "price": 27900,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Illustrated story book in English for young readers, good for reading aloud. Title may vary; check the age range printed on the cover.",
+    "tags": [
+      "children book",
+      "story book",
+      "kids book",
+      "kahani"
+    ],
+    "image": {
+      "off": {
+        "brand": "scholastic",
+        "query": "children story book"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "penguin-childrens-board-book-english-1pc",
+    "name": "Penguin Children's Board Book (English)",
+    "brand": "Penguin",
+    "subcategories": [
+      "stationery-games-children-s-books"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 34900,
+    "price": 31900,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Sturdy board book in English with thick pages for toddlers and early readers. Title may vary; wipe pages clean with a dry cloth.",
+    "tags": [
+      "board book",
+      "toddler book",
+      "picture book",
+      "kids book"
+    ],
+    "image": {
+      "off": {
+        "brand": "penguin",
+        "query": "board book"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dreamland-publications-activity-book-1pc",
+    "name": "Dreamland Publications Activity Book",
+    "brand": "Dreamland Publications",
+    "subcategories": [
+      "stationery-games-children-s-books"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 15000,
+    "price": 14000,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Activity book with tracing, colouring and puzzle pages for young children. Use with crayons or pencils; title may vary.",
+    "tags": [
+      "activity book",
+      "tracing book",
+      "colouring book",
+      "kids book"
+    ],
+    "image": {
+      "off": {
+        "brand": "dreamland publications",
+        "query": "activity book"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "navneet-colouring-activity-book-1pc",
+    "name": "Navneet Colouring Activity Book",
+    "brand": "Navneet",
+    "subcategories": [
+      "stationery-games-children-s-books"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 9900,
+    "price": 9500,
+    "tax_rate": 0,
+    "is_veg": null,
+    "description": "Colouring and activity book for children to practise with crayons and colour pencils. Title may vary; check the age range on the cover.",
+    "tags": [
+      "colouring book",
+      "drawing book",
+      "activity book",
+      "navneet"
+    ],
+    "image": {
+      "off": {
+        "brand": "navneet",
+        "query": "colouring book"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "camlin-wax-crayons-12pcs",
+    "name": "Camlin Wax Crayons",
+    "brand": "Camlin",
+    "subcategories": [
+      "stationery-games-arts-crafts"
+    ],
+    "unit_label": "12 pcs",
+    "mrp": 5000,
+    "price": 4800,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Wax crayons in assorted shades for colouring and drawing. Store in the box away from heat so they do not soften.",
+    "tags": [
+      "crayons",
+      "wax crayons",
+      "colours",
+      "camlin"
+    ],
+    "image": {
+      "off": {
+        "brand": "camlin",
+        "query": "wax crayons"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "faber-castell-colour-pencils-12pcs",
+    "name": "Faber-Castell Colour Pencils",
+    "brand": "Faber-Castell",
+    "subcategories": [
+      "stationery-games-arts-crafts"
+    ],
+    "unit_label": "12 pcs",
+    "mrp": 11000,
+    "price": 10500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Colour pencils in assorted shades for school projects and colouring books. Sharpen gently and keep in the box after use.",
+    "tags": [
+      "colour pencils",
+      "colours",
+      "drawing pencils",
+      "faber castell"
+    ],
+    "image": {
+      "off": {
+        "brand": "faber-castell",
+        "query": "colour pencils"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "camlin-watercolour-set-1set",
+    "name": "Camlin Watercolour Set",
+    "brand": "Camlin",
+    "subcategories": [
+      "stationery-games-arts-crafts"
+    ],
+    "unit_label": "1 set",
+    "mrp": 12000,
+    "price": 11400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Watercolour paint set for school art and painting practice. Use with a wet brush on drawing paper and close lids after use.",
+    "tags": [
+      "watercolour",
+      "paint",
+      "water colours",
+      "camlin"
+    ],
+    "image": {
+      "off": {
+        "brand": "camlin",
+        "query": "water colours"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fevicryl-acrylic-colours-1set",
+    "name": "Fevicryl Acrylic Colours",
+    "brand": "Fevicryl",
+    "subcategories": [
+      "stationery-games-arts-crafts"
+    ],
+    "unit_label": "1 set",
+    "mrp": 29900,
+    "price": 27900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Acrylic colour set for painting on paper, canvas, wood and craft surfaces. Wash brushes before the paint dries; keep caps tight.",
+    "tags": [
+      "acrylic paint",
+      "acrylic colours",
+      "craft paint",
+      "fevicryl"
+    ],
+    "image": {
+      "off": {
+        "brand": "fevicryl",
+        "query": "acrylic colours"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fevicryl-craft-glitter-1set",
+    "name": "Fevicryl Craft Glitter",
+    "brand": "Fevicryl",
+    "subcategories": [
+      "stationery-games-arts-crafts"
+    ],
+    "unit_label": "1 set",
+    "mrp": 19900,
+    "price": 17900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Glitter for decorating cards, crafts and school projects. Apply over glue and shake off the excess; supervise young children.",
+    "tags": [
+      "glitter",
+      "craft glitter",
+      "art and craft",
+      "fevicryl"
+    ],
+    "image": {
+      "off": {
+        "brand": "fevicryl",
+        "query": "glitter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "funskool-modelling-clay-1set",
+    "name": "Funskool Modelling Clay",
+    "brand": "Funskool",
+    "subcategories": [
+      "stationery-games-arts-crafts"
+    ],
+    "unit_label": "1 set",
+    "mrp": 29900,
+    "price": 26900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Soft modelling clay in assorted colours for shaping and creative play. Store in the closed tub so it does not dry; see age guidance on the pack.",
+    "tags": [
+      "clay",
+      "play dough",
+      "modelling clay",
+      "funskool"
+    ],
+    "image": {
+      "off": {
+        "brand": "funskool",
+        "query": "modelling clay"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "jk-copier-a4-paper-500sheets",
+    "name": "JK Copier A4 Paper",
+    "brand": "JK Copier",
+    "subcategories": [
+      "stationery-games-files-office-needs"
+    ],
+    "unit_label": "500 sheets",
+    "mrp": 44900,
+    "price": 39900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "A4 copier paper ream for printers, photocopiers and handwriting. Store flat in its wrapper to avoid curling and paper jams.",
+    "tags": [
+      "a4 paper",
+      "printer paper",
+      "copier paper",
+      "ream"
+    ],
+    "image": {
+      "off": {
+        "brand": "jk copier",
+        "query": "a4 copier paper"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "century-a4-copier-paper-500sheets",
+    "name": "Century A4 Copier Paper",
+    "brand": "Century",
+    "subcategories": [
+      "stationery-games-files-office-needs"
+    ],
+    "unit_label": "500 sheets",
+    "mrp": 42900,
+    "price": 38900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "A4 paper ream for home and office printing and photocopying. Keep in a dry place and fan the sheets before loading.",
+    "tags": [
+      "a4 paper",
+      "printer paper",
+      "copier paper",
+      "ream"
+    ],
+    "image": {
+      "off": {
+        "brand": "century",
+        "query": "a4 paper"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kangaro-stapler-1pc",
+    "name": "Kangaro Stapler",
+    "brand": "Kangaro",
+    "subcategories": [
+      "stationery-games-files-office-needs"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Desk stapler for binding paper sheets in school and office. Use the staple size printed on the stapler and keep away from children.",
+    "tags": [
+      "stapler",
+      "stapler machine",
+      "office supplies",
+      "kangaro"
+    ],
+    "image": {
+      "off": {
+        "brand": "kangaro",
+        "query": "stapler"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "deli-paper-punch-1pc",
+    "name": "Deli Paper Punch",
+    "brand": "Deli",
+    "subcategories": [
+      "stationery-games-files-office-needs"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 29900,
+    "price": 26900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Two-hole paper punch for filing documents in ring binders and files. Empty the punched waste tray regularly.",
+    "tags": [
+      "paper punch",
+      "hole punch",
+      "office supplies",
+      "deli"
+    ],
+    "image": {
+      "off": {
+        "brand": "deli",
+        "query": "paper punch"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "post-it-sticky-notes-100sheets",
+    "name": "Post-it Sticky Notes",
+    "brand": "Post-it",
+    "subcategories": [
+      "stationery-games-files-office-needs"
+    ],
+    "unit_label": "100 sheets",
+    "mrp": 15900,
+    "price": 14900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Repositionable sticky notes for reminders, bookmarks and quick messages. Peel from the edge for a cleaner stick.",
+    "tags": [
+      "sticky notes",
+      "post it",
+      "memo pad",
+      "office supplies"
+    ],
+    "image": {
+      "off": {
+        "brand": "post-it",
+        "query": "sticky notes"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "oddy-sticky-notes-pack-of-4",
+    "name": "Oddy Sticky Notes",
+    "brand": "Oddy",
+    "subcategories": [
+      "stationery-games-files-office-needs"
+    ],
+    "unit_label": "Pack of 4",
+    "mrp": 15000,
+    "price": 13900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Sticky note pads for marking pages, to-do lists and desk reminders. Keep pads away from heat and moisture.",
+    "tags": [
+      "sticky notes",
+      "memo pad",
+      "note pad",
+      "oddy"
+    ],
+    "image": {
+      "off": {
+        "brand": "oddy",
+        "query": "sticky notes"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hallmark-gift-wrapping-paper-5sheets",
+    "name": "Hallmark Gift Wrapping Paper",
+    "brand": "Hallmark",
+    "subcategories": [
+      "stationery-games-gift-wraps-bags"
+    ],
+    "unit_label": "5 sheets",
+    "mrp": 25000,
+    "price": 23500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Printed gift wrapping sheets for birthdays, festivals and occasions. Store rolled or flat to avoid creases.",
+    "tags": [
+      "gift wrap",
+      "wrapping paper",
+      "gift paper",
+      "hallmark"
+    ],
+    "image": {
+      "off": {
+        "brand": "hallmark",
+        "query": "gift wrapping paper"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "archies-gift-wrapping-roll-1pc",
+    "name": "Archies Gift Wrapping Roll",
+    "brand": "Archies",
+    "subcategories": [
+      "stationery-games-gift-wraps-bags"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 19900,
+    "price": 17900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Roll of gift wrapping paper for presents of different sizes. Cut to length with scissors and seal with clear tape.",
+    "tags": [
+      "gift wrap",
+      "wrapping paper",
+      "gift paper roll",
+      "archies"
+    ],
+    "image": {
+      "off": {
+        "brand": "archies",
+        "query": "gift wrap roll"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "archies-paper-gift-bag-1pc",
+    "name": "Archies Paper Gift Bag",
+    "brand": "Archies",
+    "subcategories": [
+      "stationery-games-gift-wraps-bags"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 14900,
+    "price": 13900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Paper gift bag with handles for packing presents quickly. Add tissue paper on top for a finished look.",
+    "tags": [
+      "gift bag",
+      "paper bag",
+      "present bag",
+      "archies"
+    ],
+    "image": {
+      "off": {
+        "brand": "archies",
+        "query": "gift bag"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hallmark-gift-box-1pc",
+    "name": "Hallmark Gift Box",
+    "brand": "Hallmark",
+    "subcategories": [
+      "stationery-games-gift-wraps-bags"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 29900,
+    "price": 26900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Rigid gift box for packing presents, sweets or keepsakes. Store flat and away from damp to keep its shape.",
+    "tags": [
+      "gift box",
+      "present box",
+      "gift packing",
+      "hallmark"
+    ],
+    "image": {
+      "off": {
+        "brand": "hallmark",
+        "query": "gift box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "itsy-bitsy-satin-ribbon-10m",
+    "name": "Itsy Bitsy Satin Ribbon",
+    "brand": "Itsy Bitsy",
+    "subcategories": [
+      "stationery-games-gift-wraps-bags"
+    ],
+    "unit_label": "10 m",
+    "mrp": 9900,
+    "price": 9500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Satin ribbon roll for tying gifts, decorating hampers and craft work. Seal cut ends with a dab of glue to prevent fraying.",
+    "tags": [
+      "ribbon",
+      "satin ribbon",
+      "gift ribbon",
+      "craft ribbon"
+    ],
+    "image": {
+      "off": {
+        "brand": "itsy bitsy",
+        "query": "satin ribbon"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hobby-ideas-gift-bows-pack-of-10",
+    "name": "Hobby Ideas Gift Bows",
+    "brand": "Hobby Ideas",
+    "subcategories": [
+      "stationery-games-gift-wraps-bags"
+    ],
+    "unit_label": "Pack of 10",
+    "mrp": 14900,
+    "price": 13900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Self-adhesive decorative bows for gift boxes and wrapped presents. Peel off the backing and press onto the package.",
+    "tags": [
+      "gift bows",
+      "ribbon bow",
+      "gift decoration",
+      "hobby ideas"
+    ],
+    "image": {
+      "off": {
+        "brand": "hobby ideas",
+        "query": "gift bows"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nivia-football-1pc",
+    "name": "Nivia Football",
+    "brand": "Nivia",
+    "subcategories": [
+      "stationery-games-sports-gym"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 99900,
+    "price": 89900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Football for practice and casual matches on grass or turf. Inflate to the pressure marked on the ball and store away from sharp objects.",
+    "tags": [
+      "football",
+      "soccer ball",
+      "sports ball",
+      "nivia"
+    ],
+    "image": {
+      "off": {
+        "brand": "nivia",
+        "query": "football"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cosco-cricket-tennis-ball-pack-of-6",
+    "name": "Cosco Cricket Tennis Ball",
+    "brand": "Cosco",
+    "subcategories": [
+      "stationery-games-sports-gym"
+    ],
+    "unit_label": "Pack of 6",
+    "mrp": 59900,
+    "price": 53900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Tennis balls for street and gully cricket practice. Keep dry when not in use so they keep their bounce.",
+    "tags": [
+      "tennis ball",
+      "cricket ball",
+      "gully cricket",
+      "cosco"
+    ],
+    "image": {
+      "off": {
+        "brand": "cosco",
+        "query": "cricket tennis ball"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "decathlon-yoga-mat-1pc",
+    "name": "Decathlon Yoga Mat",
+    "brand": "Decathlon",
+    "subcategories": [
+      "stationery-games-sports-gym"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 79900,
+    "price": 69900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Exercise mat for yoga, stretching and floor workouts at home. Wipe with a damp cloth and roll up to store.",
+    "tags": [
+      "yoga mat",
+      "exercise mat",
+      "fitness mat",
+      "decathlon"
+    ],
+    "image": {
+      "off": {
+        "brand": "decathlon",
+        "query": "yoga mat"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "strauss-resistance-bands-1set",
+    "name": "Strauss Resistance Bands",
+    "brand": "Strauss",
+    "subcategories": [
+      "stationery-games-sports-gym"
+    ],
+    "unit_label": "1 set",
+    "mrp": 69900,
+    "price": 59900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Set of resistance bands for strength and stretching exercises at home or the gym. Check bands for nicks before each use.",
+    "tags": [
+      "resistance bands",
+      "exercise bands",
+      "workout bands",
+      "strauss"
+    ],
+    "image": {
+      "off": {
+        "brand": "strauss",
+        "query": "resistance bands"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "decathlon-sweat-bands-pack-of-2",
+    "name": "Decathlon Sweat Bands",
+    "brand": "Decathlon",
+    "subcategories": [
+      "stationery-games-sports-gym"
+    ],
+    "unit_label": "Pack of 2",
+    "mrp": 19900,
+    "price": 17900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Wrist sweat bands for sports and workouts. Hand or machine wash after use and dry in shade.",
+    "tags": [
+      "sweat band",
+      "wrist band",
+      "sports accessories",
+      "decathlon"
+    ],
+    "image": {
+      "off": {
+        "brand": "decathlon",
+        "query": "wrist sweat band"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "boldfit-gym-shaker-bottle-1pc",
+    "name": "Boldfit Gym Shaker Bottle",
+    "brand": "Boldfit",
+    "subcategories": [
+      "stationery-games-sports-gym"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 44900,
+    "price": 39900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Shaker bottle for mixing drinks before or after a workout. Wash right after use and dry with the lid open.",
+    "tags": [
+      "shaker bottle",
+      "gym shaker",
+      "protein shaker",
+      "boldfit"
+    ],
+    "image": {
+      "off": {
+        "brand": "boldfit",
+        "query": "shaker bottle"
+      }
+    },
+    "orderable": true
+  }
+]

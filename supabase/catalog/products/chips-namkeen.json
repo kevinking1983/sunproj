@@ -1,0 +1,1164 @@
+[
+  {
+    "slug": "lays-salted-potato-chips-52g",
+    "name": "Lay's Salted Potato Chips",
+    "brand": "Lay's",
+    "subcategories": [
+      "chips-namkeen-chips-wafers"
+    ],
+    "unit_label": "52 g",
+    "mrp": 2000,
+    "price": 1900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Thin, crisp potato chips with a simple salted seasoning. Good with tea or packed in a lunch box; fold the pack shut after opening to keep them crunchy.",
+    "tags": [
+      "potato chips",
+      "wafers",
+      "aloo chips",
+      "salted chips"
+    ],
+    "image": {
+      "off": {
+        "brand": "lay's",
+        "query": "salted potato chips"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bingo-salted-potato-chips-52g",
+    "name": "Bingo! Salted Potato Chips",
+    "brand": "Bingo!",
+    "subcategories": [
+      "chips-namkeen-chips-wafers"
+    ],
+    "unit_label": "52 g",
+    "mrp": 2000,
+    "price": 1800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Lightly salted potato chips for quick snacking at home or on the go. Store in a cool, dry place and finish soon after opening.",
+    "tags": [
+      "potato chips",
+      "wafers",
+      "aloo chips",
+      "namkeen chips"
+    ],
+    "image": {
+      "off": {
+        "brand": "bingo!",
+        "query": "potato chips"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-banana-chips-200g",
+    "name": "Haldiram's Banana Chips",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "chips-namkeen-chips-wafers"
+    ],
+    "unit_label": "200 g",
+    "mrp": 7500,
+    "price": 7500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Crisp fried raw banana slices with a light salt seasoning. A popular tea-time snack; transfer to an airtight jar once opened.",
+    "tags": [
+      "banana chips",
+      "kela chips",
+      "kerala chips",
+      "nendran chips"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "banana chips"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "a1-chips-banana-chips-200g",
+    "name": "A1 Chips Banana Chips",
+    "brand": "A1 Chips",
+    "subcategories": [
+      "chips-namkeen-chips-wafers"
+    ],
+    "unit_label": "200 g",
+    "mrp": 9000,
+    "price": 8000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Kerala-style raw banana chips, thin and crunchy. Serve with evening chai or as a side with meals; keep the pack sealed to retain crispness.",
+    "tags": [
+      "banana chips",
+      "kerala banana chips",
+      "kela chips",
+      "upperi"
+    ],
+    "image": {
+      "off": {
+        "brand": "a1 chips",
+        "query": "banana chips"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kurkure-masala-corn-snack-90g",
+    "name": "Kurkure Masala Corn Snack",
+    "brand": "Kurkure",
+    "subcategories": [
+      "chips-namkeen-chips-wafers"
+    ],
+    "unit_label": "90 g",
+    "mrp": 3000,
+    "price": 2600,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Crunchy extruded corn and rice snack with a spicy masala coating. A party and travel favourite; reseal the pack between servings.",
+    "tags": [
+      "kurkure",
+      "corn snack",
+      "masala snack",
+      "puffs"
+    ],
+    "image": {
+      "off": {
+        "brand": "kurkure",
+        "query": "masala snack"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bingo-masala-corn-snack-90g",
+    "name": "Bingo! Masala Corn Snack",
+    "brand": "Bingo!",
+    "subcategories": [
+      "chips-namkeen-chips-wafers"
+    ],
+    "unit_label": "90 g",
+    "mrp": 3000,
+    "price": 2800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Twisty extruded corn snack tossed in a tangy masala seasoning. Enjoy straight from the pack; store away from heat and moisture.",
+    "tags": [
+      "corn snack",
+      "masala snack",
+      "extruded snack",
+      "puffs"
+    ],
+    "image": {
+      "off": {
+        "brand": "bingo!",
+        "query": "corn snack"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-aloo-bhujia-400g",
+    "name": "Haldiram's Aloo Bhujia",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "chips-namkeen-bhujia-mixtures"
+    ],
+    "unit_label": "400 g",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Fine, crisp potato and gram flour sev seasoned with spices. Eat as is or sprinkle over poha, chaat and sandwiches; keep airtight after opening.",
+    "tags": [
+      "aloo bhujia",
+      "bhujia",
+      "namkeen",
+      "sev"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "aloo bhujia"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bikaji-bikaneri-bhujia-400g",
+    "name": "Bikaji Bikaneri Bhujia",
+    "brand": "Bikaji",
+    "subcategories": [
+      "chips-namkeen-bhujia-mixtures"
+    ],
+    "unit_label": "400 g",
+    "mrp": 12500,
+    "price": 12000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Bikaner-style moth bean and gram flour bhujia with a peppery, spiced taste. A classic namkeen for tea time; store in an airtight container.",
+    "tags": [
+      "bikaneri bhujia",
+      "bhujia",
+      "namkeen",
+      "moth bhujia"
+    ],
+    "image": {
+      "off": {
+        "brand": "bikaji",
+        "query": "bikaneri bhujia"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-navratan-mixture-400g",
+    "name": "Haldiram's Navratan Mixture",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "chips-namkeen-bhujia-mixtures"
+    ],
+    "unit_label": "400 g",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "A savoury namkeen mix of sev, lentils, peanuts and crisp bits in a spiced seasoning. Serve with chai or to guests; keep the pack tightly closed.",
+    "tags": [
+      "navratan mixture",
+      "mixture",
+      "namkeen",
+      "chivda"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "navratan mixture"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bikaji-navratan-mixture-400g",
+    "name": "Bikaji Navratan Mixture",
+    "brand": "Bikaji",
+    "subcategories": [
+      "chips-namkeen-bhujia-mixtures"
+    ],
+    "unit_label": "400 g",
+    "mrp": 12000,
+    "price": 12000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Crunchy mixed namkeen with fried lentils, sev and nuts, seasoned with spices. A handy snack for tea time and festive trays; store airtight.",
+    "tags": [
+      "navratan mixture",
+      "mixture",
+      "namkeen",
+      "mix namkeen"
+    ],
+    "image": {
+      "off": {
+        "brand": "bikaji",
+        "query": "mixture namkeen"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-ratlami-sev-200g",
+    "name": "Haldiram's Ratlami Sev",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "chips-namkeen-bhujia-mixtures"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Thick gram flour sev with a spicy, clove-pepper flavour in the Ratlam style. Enjoy on its own or over bhel and poha; reseal after use.",
+    "tags": [
+      "ratlami sev",
+      "sev",
+      "namkeen",
+      "besan sev"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "ratlami sev"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bikaji-ratlami-sev-200g",
+    "name": "Bikaji Ratlami Sev",
+    "brand": "Bikaji",
+    "subcategories": [
+      "chips-namkeen-bhujia-mixtures"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Spiced gram flour sev in the Ratlami style, crisp and peppery. Use as a snack or as a crunchy topping for chaat; keep in a dry container.",
+    "tags": [
+      "ratlami sev",
+      "sev",
+      "namkeen",
+      "besan sev"
+    ],
+    "image": {
+      "off": {
+        "brand": "bikaji",
+        "query": "ratlami sev"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-moong-dal-200g",
+    "name": "Haldiram's Moong Dal",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "chips-namkeen-namkeen-snacks"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Fried, salted split moong lentils with a light, crunchy bite. A simple namkeen for tea time; store in an airtight jar after opening.",
+    "tags": [
+      "moong dal namkeen",
+      "salted moong dal",
+      "namkeen",
+      "dal snack"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "moong dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bikaji-moong-dal-200g",
+    "name": "Bikaji Moong Dal",
+    "brand": "Bikaji",
+    "subcategories": [
+      "chips-namkeen-namkeen-snacks"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Crisp salted moong dal, a light and popular lentil namkeen. Serve with chai or mix into bhel; close the pack well to keep it crunchy.",
+    "tags": [
+      "moong dal namkeen",
+      "salted moong dal",
+      "namkeen",
+      "dal snack"
+    ],
+    "image": {
+      "off": {
+        "brand": "bikaji",
+        "query": "moong dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-murukku-200g",
+    "name": "MTR Murukku",
+    "brand": "MTR",
+    "subcategories": [
+      "chips-namkeen-namkeen-snacks"
+    ],
+    "unit_label": "200 g",
+    "mrp": 7000,
+    "price": 7000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "South Indian spiral murukku made from rice and lentil flour, fried until crunchy. Enjoy with coffee or tea; store airtight to keep it crisp.",
+    "tags": [
+      "murukku",
+      "chakli",
+      "south indian snack",
+      "namkeen"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "murukku"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "a1-chips-murukku-200g",
+    "name": "A1 Chips Murukku",
+    "brand": "A1 Chips",
+    "subcategories": [
+      "chips-namkeen-namkeen-snacks"
+    ],
+    "unit_label": "200 g",
+    "mrp": 8000,
+    "price": 7000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Crunchy rice-flour murukku in the traditional South Indian style. A tea-time snack for the whole family; keep the pack sealed after opening.",
+    "tags": [
+      "murukku",
+      "chakli",
+      "kerala snack",
+      "namkeen"
+    ],
+    "image": {
+      "off": {
+        "brand": "a1 chips",
+        "query": "murukku"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "doritos-cheese-tortilla-chips-80g",
+    "name": "Doritos Cheese Tortilla Chips",
+    "brand": "Doritos",
+    "subcategories": [
+      "chips-namkeen-nachos"
+    ],
+    "unit_label": "80 g",
+    "mrp": 5000,
+    "price": 4400,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Triangle corn tortilla chips with a cheese seasoning. Eat as is or serve with salsa and dips at parties; reseal to keep them crisp.",
+    "tags": [
+      "nachos",
+      "tortilla chips",
+      "corn chips",
+      "cheese nachos"
+    ],
+    "image": {
+      "off": {
+        "brand": "doritos",
+        "query": "tortilla chips cheese"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cornitos-salted-tortilla-chips-150g",
+    "name": "Cornitos Salted Tortilla Chips",
+    "brand": "Cornitos",
+    "subcategories": [
+      "chips-namkeen-nachos"
+    ],
+    "unit_label": "150 g",
+    "mrp": 8500,
+    "price": 8000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Corn tortilla chips with a light salt finish, sturdy enough for dipping. Pair with salsa, cheese dip or use for loaded nachos.",
+    "tags": [
+      "nachos",
+      "tortilla chips",
+      "corn chips",
+      "salted nachos"
+    ],
+    "image": {
+      "off": {
+        "brand": "cornitos",
+        "query": "nacho crisps salted"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cornitos-nacho-chips-with-salsa-dip-pack-of-2",
+    "name": "Cornitos Nacho Chips with Salsa Dip",
+    "brand": "Cornitos",
+    "subcategories": [
+      "chips-namkeen-nachos"
+    ],
+    "unit_label": "Pack of 2",
+    "mrp": 16000,
+    "price": 14000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "A ready snack kit of corn nacho chips with a jar of salsa dip. Useful for movie nights and quick party platters; refrigerate the dip after opening.",
+    "tags": [
+      "nachos",
+      "nacho kit",
+      "salsa dip",
+      "tortilla chips"
+    ],
+    "image": {
+      "off": {
+        "brand": "cornitos",
+        "query": "nachos salsa dip"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "doritos-nacho-chips-with-cheese-dip-pack-of-2",
+    "name": "Doritos Nacho Chips with Cheese Dip",
+    "brand": "Doritos",
+    "subcategories": [
+      "chips-namkeen-nachos"
+    ],
+    "unit_label": "Pack of 2",
+    "mrp": 17000,
+    "price": 16000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Tortilla chips paired with a cheese dip for easy sharing. Serve at room temperature; keep the opened dip refrigerated and use within a few days.",
+    "tags": [
+      "nachos",
+      "nacho kit",
+      "cheese dip",
+      "tortilla chips"
+    ],
+    "image": {
+      "off": {
+        "brand": "doritos",
+        "query": "nachos cheese dip"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-roasted-makhana-80g",
+    "name": "Farmley Roasted Makhana",
+    "brand": "Farmley",
+    "subcategories": [
+      "chips-namkeen-healthy-snacks"
+    ],
+    "unit_label": "80 g",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Roasted fox nuts (makhana) with a light seasoning, crunchy and airy. A good tea-time snack; transfer to an airtight jar to keep it crisp.",
+    "tags": [
+      "makhana",
+      "fox nuts",
+      "roasted makhana",
+      "lotus seeds"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "roasted makhana"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-roasted-makhana-75g",
+    "name": "Happilo Roasted Makhana",
+    "brand": "Happilo",
+    "subcategories": [
+      "chips-namkeen-healthy-snacks"
+    ],
+    "unit_label": "75 g",
+    "mrp": 12500,
+    "price": 12500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Crunchy roasted makhana (fox nuts) seasoned for snacking. Eat from the pack or toss into trail mix; keep sealed away from moisture.",
+    "tags": [
+      "makhana",
+      "fox nuts",
+      "roasted makhana",
+      "phool makhana"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "roasted makhana"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ritebite-max-protein-chips-60g",
+    "name": "RiteBite Max Protein Chips",
+    "brand": "RiteBite Max Protein",
+    "subcategories": [
+      "chips-namkeen-healthy-snacks"
+    ],
+    "unit_label": "60 g",
+    "mrp": 5000,
+    "price": 4600,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Baked crisps made with added protein sources, sold as a savoury snack. Check the pack for flavour and nutrition details; store in a cool place.",
+    "tags": [
+      "protein chips",
+      "baked chips",
+      "protein snack",
+      "chips"
+    ],
+    "image": {
+      "off": {
+        "brand": "ritebite max protein",
+        "query": "protein chips"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-soulfull-millet-puffs-60g",
+    "name": "Tata Soulfull Millet Puffs",
+    "brand": "Tata Soulfull",
+    "subcategories": [
+      "chips-namkeen-healthy-snacks"
+    ],
+    "unit_label": "60 g",
+    "mrp": 4500,
+    "price": 4000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Light, crunchy puffs made with millets such as ragi and jowar. A handy snack for kids and adults; reseal the pack after opening.",
+    "tags": [
+      "millet puffs",
+      "ragi snack",
+      "millet snack",
+      "puffs"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata soulfull",
+        "query": "millet puffs"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-trail-mix-200g",
+    "name": "Farmley Trail Mix",
+    "brand": "Farmley",
+    "subcategories": [
+      "chips-namkeen-healthy-snacks",
+      "dry-fruits-cereals-dry-fruits-snacks"
+    ],
+    "unit_label": "200 g",
+    "mrp": 29900,
+    "price": 28000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "A mix of nuts, seeds and dried fruit for snacking between meals. Keep a handful in your bag; store in an airtight container in a cool place.",
+    "tags": [
+      "trail mix",
+      "dry fruit mix",
+      "nuts and seeds",
+      "mixed nuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "trail mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "yoga-bar-trail-mix-150g",
+    "name": "Yoga Bar Trail Mix",
+    "brand": "Yoga Bar",
+    "subcategories": [
+      "chips-namkeen-healthy-snacks"
+    ],
+    "unit_label": "150 g",
+    "mrp": 24900,
+    "price": 22000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Nut, seed and dried fruit blend packed for snacking. Eat as is or sprinkle over yoghurt and oats; reseal the pouch tightly after use.",
+    "tags": [
+      "trail mix",
+      "seed mix",
+      "nuts and seeds",
+      "dry fruit mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "yoga bar",
+        "query": "trail mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "4700bc-caramel-popcorn-60g",
+    "name": "4700BC Caramel Popcorn",
+    "brand": "4700BC",
+    "subcategories": [
+      "chips-namkeen-popcorn"
+    ],
+    "unit_label": "60 g",
+    "mrp": 9900,
+    "price": 9900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Ready-to-eat popcorn coated in sweet caramel. Open and serve for movie nights or gifting; keep the pouch sealed to avoid it turning sticky.",
+    "tags": [
+      "popcorn",
+      "caramel popcorn",
+      "sweet popcorn",
+      "makai"
+    ],
+    "image": {
+      "off": {
+        "brand": "4700bc",
+        "query": "caramel popcorn"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "act-ii-salted-ready-to-eat-popcorn-60g",
+    "name": "ACT II Salted Ready-to-Eat Popcorn",
+    "brand": "ACT II",
+    "subcategories": [
+      "chips-namkeen-popcorn"
+    ],
+    "unit_label": "60 g",
+    "mrp": 4000,
+    "price": 3700,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Popped and salted corn ready to eat straight from the pack. A light snack for watching films; store in a cool, dry place.",
+    "tags": [
+      "popcorn",
+      "salted popcorn",
+      "ready popcorn",
+      "makai"
+    ],
+    "image": {
+      "off": {
+        "brand": "act ii",
+        "query": "ready to eat popcorn"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "act-ii-butter-microwave-popcorn-90g",
+    "name": "ACT II Butter Microwave Popcorn",
+    "brand": "ACT II",
+    "subcategories": [
+      "chips-namkeen-popcorn"
+    ],
+    "unit_label": "90 g",
+    "mrp": 5500,
+    "price": 4800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Microwave popcorn bag with butter seasoning. Pop in the microwave following the pack timing and serve warm; do not reuse the bag.",
+    "tags": [
+      "microwave popcorn",
+      "butter popcorn",
+      "popcorn",
+      "makai"
+    ],
+    "image": {
+      "off": {
+        "brand": "act ii",
+        "query": "microwave popcorn butter"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "4700bc-butter-microwave-popcorn-85g",
+    "name": "4700BC Butter Microwave Popcorn",
+    "brand": "4700BC",
+    "subcategories": [
+      "chips-namkeen-popcorn"
+    ],
+    "unit_label": "85 g",
+    "mrp": 7000,
+    "price": 6900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Butter-flavoured popcorn kernels in a microwave bag. Follow the pack instructions for popping time; serve fresh for the best crunch.",
+    "tags": [
+      "microwave popcorn",
+      "butter popcorn",
+      "popcorn",
+      "makai"
+    ],
+    "image": {
+      "off": {
+        "brand": "4700bc",
+        "query": "microwave popcorn"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "act-ii-popcorn-kernels-500g",
+    "name": "ACT II Popcorn Kernels",
+    "brand": "ACT II",
+    "subcategories": [
+      "chips-namkeen-popcorn"
+    ],
+    "unit_label": "500 g",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Dried popcorn maize kernels for popping at home in a pan or popper. Add a little oil and salt; store in an airtight jar to keep them popping well.",
+    "tags": [
+      "popcorn kernels",
+      "makai dana",
+      "corn kernels",
+      "popping corn"
+    ],
+    "image": {
+      "off": {
+        "brand": "act ii",
+        "query": "popcorn kernels"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "urban-platter-mushroom-popcorn-kernels-500g",
+    "name": "Urban Platter Mushroom Popcorn Kernels",
+    "brand": "Urban Platter",
+    "subcategories": [
+      "chips-namkeen-popcorn"
+    ],
+    "unit_label": "500 g",
+    "mrp": 29900,
+    "price": 28900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Mushroom-type popcorn kernels that pop into round, sturdy pieces, suited to coating with caramel or chocolate. Store airtight in a dry place.",
+    "tags": [
+      "popcorn kernels",
+      "mushroom popcorn",
+      "makai dana",
+      "popping corn"
+    ],
+    "image": {
+      "off": {
+        "brand": "urban platter",
+        "query": "mushroom popcorn kernels"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lijjat-urad-papad-200g",
+    "name": "Lijjat Urad Papad",
+    "brand": "Lijjat",
+    "subcategories": [
+      "chips-namkeen-papad-fryums"
+    ],
+    "unit_label": "200 g",
+    "mrp": 7000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Thin urad dal papad, ready to roast over a flame or fry. Serve with dal-chawal or as a starter; keep in a dry, airtight container.",
+    "tags": [
+      "papad",
+      "urad papad",
+      "papadum",
+      "appalam"
+    ],
+    "image": {
+      "off": {
+        "brand": "lijjat",
+        "query": "urad papad"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-moong-papad-200g",
+    "name": "Haldiram's Moong Papad",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "chips-namkeen-papad-fryums"
+    ],
+    "unit_label": "200 g",
+    "mrp": 7500,
+    "price": 7500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Moong dal papad to roast, microwave or fry until crisp. A side for everyday meals; store away from moisture so it stays brittle.",
+    "tags": [
+      "papad",
+      "moong papad",
+      "papadum",
+      "appalam"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "papad"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bambino-fryums-400g",
+    "name": "Bambino Fryums",
+    "brand": "Bambino",
+    "subcategories": [
+      "chips-namkeen-papad-fryums"
+    ],
+    "unit_label": "400 g",
+    "mrp": 9000,
+    "price": 8000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Dried fryum pellets that puff up when deep fried in hot oil. Make a quick crunchy side or kids' snack; keep the pack sealed and dry.",
+    "tags": [
+      "fryums",
+      "fryms",
+      "papad",
+      "snack pellets"
+    ],
+    "image": {
+      "off": {
+        "brand": "bambino",
+        "query": "fryums"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pringles-potato-crisps-107g",
+    "name": "Pringles Potato Crisps",
+    "brand": "Pringles",
+    "subcategories": [
+      "chips-namkeen-premium"
+    ],
+    "unit_label": "107 g",
+    "mrp": 12500,
+    "price": 11000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Stackable potato crisps in a resealable can. Share at gatherings or keep for travel; replace the lid after opening to keep them crisp.",
+    "tags": [
+      "pringles",
+      "potato crisps",
+      "chips",
+      "imported chips"
+    ],
+    "image": {
+      "off": {
+        "brand": "pringles",
+        "query": "potato crisps"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cornitos-kettle-cooked-potato-chips-125g",
+    "name": "Cornitos Kettle Cooked Potato Chips",
+    "brand": "Cornitos",
+    "subcategories": [
+      "chips-namkeen-premium"
+    ],
+    "unit_label": "125 g",
+    "mrp": 9900,
+    "price": 9000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Thick-cut kettle-cooked potato chips with a hard, crunchy bite. Serve with dips or as a party snack; reseal the pack between uses.",
+    "tags": [
+      "kettle chips",
+      "potato chips",
+      "premium chips",
+      "wafers"
+    ],
+    "image": {
+      "off": {
+        "brand": "cornitos",
+        "query": "kettle chips"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-chilli-roasted-nuts-150g",
+    "name": "Happilo Chilli Roasted Nuts",
+    "brand": "Happilo",
+    "subcategories": [
+      "chips-namkeen-premium"
+    ],
+    "unit_label": "150 g",
+    "mrp": 24900,
+    "price": 22000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Roasted nuts finished with a chilli seasoning for a spicy snack. Serve with drinks or at gatherings; store in an airtight jar after opening.",
+    "tags": [
+      "flavoured nuts",
+      "chilli nuts",
+      "roasted nuts",
+      "masala nuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "flavoured nuts"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-chilli-roasted-nuts-150g",
+    "name": "Farmley Chilli Roasted Nuts",
+    "brand": "Farmley",
+    "subcategories": [
+      "chips-namkeen-premium"
+    ],
+    "unit_label": "150 g",
+    "mrp": 24900,
+    "price": 24900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Chilli-seasoned roasted nuts for a premium savoury snack. Good for party platters and gifting; keep sealed in a cool, dry place.",
+    "tags": [
+      "flavoured nuts",
+      "chilli nuts",
+      "roasted nuts",
+      "masala nuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "flavoured nuts"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-namkeen-gift-pack-1kg",
+    "name": "Haldiram's Namkeen Gift Pack",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "chips-namkeen-gift-packs"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 39900,
+    "price": 36900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "An assortment of popular namkeens packed together for gifting and festivals. Check the box for the included varieties; store each pack airtight once opened.",
+    "tags": [
+      "namkeen gift pack",
+      "diwali gift",
+      "snack hamper",
+      "namkeen"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "namkeen gift pack"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bikaji-namkeen-gift-pack-1kg",
+    "name": "Bikaji Namkeen Gift Pack",
+    "brand": "Bikaji",
+    "subcategories": [
+      "chips-namkeen-gift-packs"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 38000,
+    "price": 33000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Boxed selection of savoury namkeens suitable for festive gifting and guests. Contents are listed on the box; keep opened packs sealed.",
+    "tags": [
+      "namkeen gift pack",
+      "diwali gift",
+      "snack hamper",
+      "namkeen"
+    ],
+    "image": {
+      "off": {
+        "brand": "bikaji",
+        "query": "namkeen gift pack"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "farmley-snack-combo-pack-of-3",
+    "name": "Farmley Snack Combo",
+    "brand": "Farmley",
+    "subcategories": [
+      "chips-namkeen-gift-packs"
+    ],
+    "unit_label": "Pack of 3",
+    "mrp": 44900,
+    "price": 42000,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "A combo of three Farmley snack packs, such as nuts, makhana or trail mix, for sharing or gifting. See the pack for the exact contents.",
+    "tags": [
+      "snack combo",
+      "snack hamper",
+      "gift pack",
+      "dry fruit snacks"
+    ],
+    "image": {
+      "off": {
+        "brand": "farmley",
+        "query": "snack combo"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "happilo-snack-combo-pack-of-3",
+    "name": "Happilo Snack Combo",
+    "brand": "Happilo",
+    "subcategories": [
+      "chips-namkeen-gift-packs"
+    ],
+    "unit_label": "Pack of 3",
+    "mrp": 49900,
+    "price": 44900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Three Happilo snack packs bundled together, handy for gifting or stocking the pantry. Exact varieties are listed on the pack.",
+    "tags": [
+      "snack combo",
+      "snack hamper",
+      "gift pack",
+      "nuts"
+    ],
+    "image": {
+      "off": {
+        "brand": "happilo",
+        "query": "snack combo"
+      }
+    },
+    "orderable": true
+  }
+]

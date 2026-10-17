@@ -26,6 +26,7 @@ export function AddButton({ product, compact }: { product: Product; compact?: bo
   const { add, increment, decrement } = useCart();
   const storeId = useLocation((s) => s.store?.id);
   const h = compact ? "h-8" : "h-9";
+  if (product.orderable === false) return <span className={`inline-flex ${h} min-w-[76px] items-center justify-center rounded-lg border border-accent bg-accent-tint px-2 text-xs font-semibold text-gold-text`}>Coming soon</span>;
   if (product.available <= 0) return <span className={`inline-flex ${h} min-w-[76px] items-center justify-center rounded-lg border border-border bg-surface-muted px-2 text-xs text-muted`}>Out of stock</span>;
   if (quantity === 0) {
     return (

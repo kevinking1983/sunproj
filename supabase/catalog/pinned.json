@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "toor-dal",
+    "name": "Toor Dal",
+    "brand": null,
+    "subcategories": ["atta-rice-dal-dal"],
+    "unit_label": "1 kg",
+    "mrp": 19000,
+    "price": 16500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Split pigeon peas for everyday sambar and dal tadka. Rinse well before cooking; a short soak shortens cooking time.",
+    "tags": ["arhar dal", "tuvar dal", "pigeon pea", "dal"],
+    "image": {"wiki": "Pigeon pea"},
+    "orderable": true
+  },
+  {
+    "slug": "toned-milk",
+    "name": "Toned Milk",
+    "brand": null,
+    "subcategories": ["dairy-bread-eggs-milk"],
+    "unit_label": "500 ml",
+    "mrp": 2800,
+    "price": 2700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Pasteurised toned milk for tea, coffee and cooking. Keep refrigerated and use before the date on the pouch.",
+    "tags": ["doodh", "milk", "toned milk pouch"],
+    "image": {"wiki": "Milk"},
+    "orderable": true
+  },
+  {
+    "slug": "brown-bread",
+    "name": "Brown Bread",
+    "brand": null,
+    "subcategories": ["dairy-bread-eggs-bread-pav"],
+    "unit_label": "400 g",
+    "mrp": 5000,
+    "price": 4500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Sliced brown bread for sandwiches and toast. Store in a cool, dry place and consume within a few days of opening.",
+    "tags": ["bread", "sandwich bread", "atta bread"],
+    "image": {"wiki": "Brown bread"},
+    "orderable": true
+  }
+]

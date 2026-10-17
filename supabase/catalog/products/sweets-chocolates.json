@@ -1,0 +1,1090 @@
+[
+  {
+    "slug": "cadbury-dairy-milk-chocolate-50g",
+    "name": "Cadbury Dairy Milk Chocolate",
+    "brand": "Cadbury Dairy Milk",
+    "subcategories": [
+      "sweets-chocolates-chocolates"
+    ],
+    "unit_label": "50 g",
+    "mrp": 5000,
+    "price": 4800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Smooth milk chocolate bar for everyday treats and sharing. Store in a cool, dry place away from sunlight; refrigerate in hot weather.",
+    "tags": [
+      "milk chocolate",
+      "chocolate bar",
+      "dairy milk",
+      "chocolate"
+    ],
+    "image": {
+      "off": {
+        "brand": "cadbury dairy milk",
+        "query": "dairy milk chocolate"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nestle-milk-chocolate-50g",
+    "name": "Nestle Milk Chocolate",
+    "brand": "Nestle",
+    "subcategories": [
+      "sweets-chocolates-chocolates"
+    ],
+    "unit_label": "50 g",
+    "mrp": 5000,
+    "price": 4500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Creamy milk chocolate bar to enjoy on its own or share. Keep in a cool place; chill briefly if it softens in warm weather.",
+    "tags": [
+      "milk chocolate",
+      "chocolate bar",
+      "chocolate",
+      "nestle"
+    ],
+    "image": {
+      "off": {
+        "brand": "nestle",
+        "query": "milk chocolate"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kitkat-wafer-chocolate-bar-38g",
+    "name": "KitKat Wafer Chocolate Bar",
+    "brand": "KitKat",
+    "subcategories": [
+      "sweets-chocolates-chocolates"
+    ],
+    "unit_label": "38 g",
+    "mrp": 3000,
+    "price": 3000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crisp wafer fingers covered in milk chocolate, easy to snap and share. Store in a cool, dry place away from direct sunlight.",
+    "tags": [
+      "kitkat",
+      "wafer chocolate",
+      "chocolate bar",
+      "chocolate"
+    ],
+    "image": {
+      "off": {
+        "brand": "kitkat",
+        "query": "wafer chocolate"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "munch-wafer-chocolate-bar-38g",
+    "name": "Munch Wafer Chocolate Bar",
+    "brand": "Munch",
+    "subcategories": [
+      "sweets-chocolates-chocolates"
+    ],
+    "unit_label": "38 g",
+    "mrp": 2000,
+    "price": 1800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crunchy layered wafer bar coated in chocolate. A light snack for school bags and office breaks; keep away from heat.",
+    "tags": [
+      "munch",
+      "wafer chocolate",
+      "chocolate bar",
+      "chocolate"
+    ],
+    "image": {
+      "off": {
+        "brand": "munch",
+        "query": "wafer bar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cadbury-bournville-dark-chocolate-80g",
+    "name": "Cadbury Bournville Dark Chocolate",
+    "brand": "Cadbury Bournville",
+    "subcategories": [
+      "sweets-chocolates-chocolates"
+    ],
+    "unit_label": "80 g",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Dark chocolate bar with a rich cocoa taste and less sweetness than milk chocolate. Enjoy a few squares or melt for desserts; store cool.",
+    "tags": [
+      "dark chocolate",
+      "bournville",
+      "chocolate bar",
+      "cocoa"
+    ],
+    "image": {
+      "off": {
+        "brand": "cadbury bournville",
+        "query": "dark chocolate"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-dark-chocolate-150g",
+    "name": "Amul Dark Chocolate",
+    "brand": "Amul",
+    "subcategories": [
+      "sweets-chocolates-chocolates"
+    ],
+    "unit_label": "150 g",
+    "mrp": 15000,
+    "price": 14000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Dark chocolate bar with a bold cocoa flavour. Good for snacking or grating over desserts; keep in a cool, dry place.",
+    "tags": [
+      "dark chocolate",
+      "amul chocolate",
+      "chocolate bar",
+      "cocoa"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "dark chocolate"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kinder-joy-chocolate-with-toy-20g",
+    "name": "Kinder Joy Chocolate with Toy",
+    "brand": "Kinder Joy",
+    "subcategories": [
+      "sweets-chocolates-chocolates"
+    ],
+    "unit_label": "20 g",
+    "mrp": 5000,
+    "price": 4500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Egg-shaped treat with a sweet milky cream, cocoa wafer balls and a small toy in the other half. Toy is for supervised play; not for children under 3.",
+    "tags": [
+      "kinder joy",
+      "kids chocolate",
+      "surprise egg",
+      "chocolate toy"
+    ],
+    "image": {
+      "off": {
+        "brand": "kinder joy",
+        "query": "kinder joy"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cadbury-gems-chocolate-candies-18g",
+    "name": "Cadbury Gems Chocolate Candies",
+    "brand": "Cadbury Gems",
+    "subcategories": [
+      "sweets-chocolates-chocolates"
+    ],
+    "unit_label": "18 g",
+    "mrp": 1000,
+    "price": 1000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Colourful sugar-coated chocolate buttons loved by kids. Share as a small treat or use to decorate cakes; store away from heat.",
+    "tags": [
+      "gems",
+      "chocolate buttons",
+      "kids chocolate",
+      "candy"
+    ],
+    "image": {
+      "off": {
+        "brand": "cadbury gems",
+        "query": "gems chocolate"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cadbury-assorted-chocolate-share-pack-200g",
+    "name": "Cadbury Assorted Chocolate Share Pack",
+    "brand": "Cadbury",
+    "subcategories": [
+      "sweets-chocolates-chocolate-packs"
+    ],
+    "unit_label": "200 g",
+    "mrp": 19900,
+    "price": 18900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "A share pack of assorted Cadbury mini chocolates for family and guests. Keep in a cool place and close the pack between servings.",
+    "tags": [
+      "chocolate pack",
+      "assorted chocolates",
+      "mini chocolates",
+      "share pack"
+    ],
+    "image": {
+      "off": {
+        "brand": "cadbury",
+        "query": "assorted chocolates"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nestle-mini-chocolate-share-pack-200g",
+    "name": "Nestle Mini Chocolate Share Pack",
+    "brand": "Nestle",
+    "subcategories": [
+      "sweets-chocolates-chocolate-packs"
+    ],
+    "unit_label": "200 g",
+    "mrp": 19900,
+    "price": 19900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Assorted Nestle mini chocolate bars in a resealable share pack. Handy for parties and return gifts; store in a cool, dry spot.",
+    "tags": [
+      "chocolate pack",
+      "mini chocolates",
+      "assorted chocolates",
+      "share pack"
+    ],
+    "image": {
+      "off": {
+        "brand": "nestle",
+        "query": "mini chocolates"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cadbury-chocolate-family-pack-pack-of-5",
+    "name": "Cadbury Chocolate Family Pack",
+    "brand": "Cadbury",
+    "subcategories": [
+      "sweets-chocolates-chocolate-packs"
+    ],
+    "unit_label": "Pack of 5",
+    "mrp": 20000,
+    "price": 18000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Multipack of single Cadbury chocolate bars, handy for families and lunch boxes. Store in a cool place; refrigerate in hot weather.",
+    "tags": [
+      "chocolate multipack",
+      "family pack",
+      "chocolate bars",
+      "chocolate"
+    ],
+    "image": {
+      "off": {
+        "brand": "cadbury",
+        "query": "chocolate family pack"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kitkat-family-pack-pack-of-6",
+    "name": "KitKat Family Pack",
+    "brand": "KitKat",
+    "subcategories": [
+      "sweets-chocolates-chocolate-packs"
+    ],
+    "unit_label": "Pack of 6",
+    "mrp": 15000,
+    "price": 13000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "A multipack of KitKat wafer bars to keep at home or share. Each bar is individually wrapped; store in a cool, dry place.",
+    "tags": [
+      "kitkat",
+      "chocolate multipack",
+      "family pack",
+      "wafer chocolate"
+    ],
+    "image": {
+      "off": {
+        "brand": "kitkat",
+        "query": "kitkat multipack"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cadbury-celebrations-chocolate-gift-box-200g",
+    "name": "Cadbury Celebrations Chocolate Gift Box",
+    "brand": "Cadbury Celebrations",
+    "subcategories": [
+      "sweets-chocolates-chocolate-gift-pack"
+    ],
+    "unit_label": "200 g",
+    "mrp": 25000,
+    "price": 23900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Gift box of assorted Cadbury chocolates for festivals, birthdays and visits. Keep the box in a cool place away from sunlight.",
+    "tags": [
+      "celebrations",
+      "chocolate gift box",
+      "diwali gift",
+      "assorted chocolates"
+    ],
+    "image": {
+      "off": {
+        "brand": "cadbury celebrations",
+        "query": "celebrations gift box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ferrero-rocher-chocolate-gift-box-24pcs",
+    "name": "Ferrero Rocher Chocolate Gift Box",
+    "brand": "Ferrero Rocher",
+    "subcategories": [
+      "sweets-chocolates-chocolate-gift-pack"
+    ],
+    "unit_label": "24 pcs",
+    "mrp": 105000,
+    "price": 94900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Gift box of individually wrapped hazelnut chocolate pralines with a crisp wafer shell. A classic gift; store below 25 C away from sunlight.",
+    "tags": [
+      "ferrero rocher",
+      "chocolate gift box",
+      "pralines",
+      "hazelnut chocolate"
+    ],
+    "image": {
+      "off": {
+        "brand": "ferrero rocher",
+        "query": "ferrero rocher 24"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cadbury-festive-chocolate-hamper-1pack",
+    "name": "Cadbury Festive Chocolate Hamper",
+    "brand": "Cadbury",
+    "subcategories": [
+      "sweets-chocolates-chocolate-gift-pack"
+    ],
+    "unit_label": "1 pack",
+    "mrp": 49900,
+    "price": 49900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Festive hamper of assorted Cadbury chocolates for Diwali, Rakhi and other occasions. Check the box for contents; store cool.",
+    "tags": [
+      "chocolate hamper",
+      "festive gift",
+      "diwali chocolates",
+      "rakhi gift"
+    ],
+    "image": {
+      "off": {
+        "brand": "cadbury",
+        "query": "chocolate gift hamper"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ferrero-festive-chocolate-hamper-1pack",
+    "name": "Ferrero Festive Chocolate Hamper",
+    "brand": "Ferrero",
+    "subcategories": [
+      "sweets-chocolates-chocolate-gift-pack"
+    ],
+    "unit_label": "1 pack",
+    "mrp": 89900,
+    "price": 82900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Festive gift pack of assorted Ferrero chocolates. A ready gift for occasions and visits; keep in a cool, dry place out of direct sun.",
+    "tags": [
+      "chocolate hamper",
+      "festive gift",
+      "ferrero",
+      "pralines"
+    ],
+    "image": {
+      "off": {
+        "brand": "ferrero",
+        "query": "ferrero gift"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-peda-250g",
+    "name": "Haldiram's Peda",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "sweets-chocolates-indian-sweets"
+    ],
+    "unit_label": "250 g",
+    "mrp": 14000,
+    "price": 12000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Soft milk-based peda flavoured with cardamom, a traditional mithai for pooja and celebrations. Refrigerate after opening and eat within a few days.",
+    "tags": [
+      "peda",
+      "mithai",
+      "milk sweet",
+      "indian sweets"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "peda"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bikanervala-peda-250g",
+    "name": "Bikanervala Peda",
+    "brand": "Bikanervala",
+    "subcategories": [
+      "sweets-chocolates-indian-sweets"
+    ],
+    "unit_label": "250 g",
+    "mrp": 15000,
+    "price": 14000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Milk peda in a sealed pack, made for festivals, prasad and gifting. Store in a cool place and finish within the date on the pack.",
+    "tags": [
+      "peda",
+      "mithai",
+      "milk sweet",
+      "indian sweets"
+    ],
+    "image": {
+      "off": {
+        "brand": "bikanervala",
+        "query": "peda"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-gulab-jamun-1kg",
+    "name": "Haldiram's Gulab Jamun",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "sweets-chocolates-indian-sweets"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 22000,
+    "price": 19900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Soft gulab jamun soaked in sugar syrup in a ready-to-serve tin. Serve warm or chilled; move leftovers to a covered bowl in the fridge.",
+    "tags": [
+      "gulab jamun",
+      "mithai",
+      "indian sweets",
+      "syrup sweet"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "gulab jamun tin"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bikanervala-gulab-jamun-1kg",
+    "name": "Bikanervala Gulab Jamun",
+    "brand": "Bikanervala",
+    "subcategories": [
+      "sweets-chocolates-indian-sweets"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 23000,
+    "price": 22000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Tinned gulab jamun in sugar syrup, ready to serve after opening. Warm briefly for a classic dessert; refrigerate leftovers in a covered bowl.",
+    "tags": [
+      "gulab jamun",
+      "mithai",
+      "indian sweets",
+      "syrup sweet"
+    ],
+    "image": {
+      "off": {
+        "brand": "bikanervala",
+        "query": "gulab jamun"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-soan-papdi-500g",
+    "name": "Haldiram's Soan Papdi",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "sweets-chocolates-indian-sweets"
+    ],
+    "unit_label": "500 g",
+    "mrp": 15000,
+    "price": 13900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Flaky, melt-in-the-mouth soan papdi made with gram flour, sugar and ghee. A popular festive gift; keep the box closed and dry.",
+    "tags": [
+      "soan papdi",
+      "patisa",
+      "mithai",
+      "diwali sweets"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "soan papdi"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bikaji-soan-papdi-500g",
+    "name": "Bikaji Soan Papdi",
+    "brand": "Bikaji",
+    "subcategories": [
+      "sweets-chocolates-indian-sweets"
+    ],
+    "unit_label": "500 g",
+    "mrp": 14000,
+    "price": 14000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Light, flaky soan papdi in a gift-ready box. Serve with tea or share during festivals; store in a cool, dry place after opening.",
+    "tags": [
+      "soan papdi",
+      "patisa",
+      "mithai",
+      "diwali sweets"
+    ],
+    "image": {
+      "off": {
+        "brand": "bikaji",
+        "query": "soan papdi"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pulla-reddy-ariselu-250g",
+    "name": "Pulla Reddy Ariselu",
+    "brand": "Pulla Reddy",
+    "subcategories": [
+      "sweets-chocolates-indian-sweets"
+    ],
+    "unit_label": "250 g",
+    "mrp": 18000,
+    "price": 16000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Traditional Andhra sweet made from rice flour and jaggery, fried and topped with sesame. Popular at Sankranti; store airtight in a cool place.",
+    "tags": [
+      "ariselu",
+      "adhirasam",
+      "andhra sweets",
+      "mithai"
+    ],
+    "image": {
+      "off": {
+        "brand": "pulla reddy",
+        "query": "ariselu"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "almond-house-boondi-laddu-250g",
+    "name": "Almond House Boondi Laddu",
+    "brand": "Almond House",
+    "subcategories": [
+      "sweets-chocolates-indian-sweets"
+    ],
+    "unit_label": "250 g",
+    "mrp": 19000,
+    "price": 16900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Round laddus made from fried gram flour boondi bound with sugar syrup and ghee. Serve for pooja or celebrations; finish within a few days.",
+    "tags": [
+      "boondi laddu",
+      "laddoo",
+      "mithai",
+      "indian sweets"
+    ],
+    "image": {
+      "off": {
+        "brand": "almond house",
+        "query": "boondi laddu"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "alpenliebe-hard-candy-pack-of-50",
+    "name": "Alpenliebe Hard Candy",
+    "brand": "Alpenliebe",
+    "subcategories": [
+      "sweets-chocolates-candies-gum"
+    ],
+    "unit_label": "Pack of 50",
+    "mrp": 10000,
+    "price": 9900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Individually wrapped hard candies with a caramel-style flavour. Keep a few in your bag or desk; store away from heat and humidity.",
+    "tags": [
+      "candy",
+      "toffee",
+      "hard candy",
+      "sweets"
+    ],
+    "image": {
+      "off": {
+        "brand": "alpenliebe",
+        "query": "candy"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pulse-hard-candy-pack-of-50",
+    "name": "Pulse Hard Candy",
+    "brand": "Pulse",
+    "subcategories": [
+      "sweets-chocolates-candies-gum"
+    ],
+    "unit_label": "Pack of 50",
+    "mrp": 5000,
+    "price": 4500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Tangy fruit hard candy with a salty, spiced centre. Individually wrapped for sharing; store in a dry place.",
+    "tags": [
+      "pulse candy",
+      "kachcha aam candy",
+      "hard candy",
+      "toffee"
+    ],
+    "image": {
+      "off": {
+        "brand": "pulse",
+        "query": "pulse candy"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "center-fresh-chewing-gum-20pcs",
+    "name": "Center Fresh Chewing Gum",
+    "brand": "Center Fresh",
+    "subcategories": [
+      "sweets-chocolates-candies-gum"
+    ],
+    "unit_label": "20 pcs",
+    "mrp": 4000,
+    "price": 4000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Mint chewing gum with a liquid-filled centre. Individually wrapped pieces for after meals or travel; dispose of chewed gum in a bin.",
+    "tags": [
+      "chewing gum",
+      "mint gum",
+      "gum",
+      "centre fresh"
+    ],
+    "image": {
+      "off": {
+        "brand": "center fresh",
+        "query": "chewing gum"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "orbit-chewing-gum-pack-of-5",
+    "name": "Orbit Chewing Gum",
+    "brand": "Orbit",
+    "subcategories": [
+      "sweets-chocolates-candies-gum"
+    ],
+    "unit_label": "Pack of 5",
+    "mrp": 5000,
+    "price": 4600,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Sugar-free chewing gum sticks in small packs. Handy after meals or on the go; keep away from heat so the sticks do not soften.",
+    "tags": [
+      "chewing gum",
+      "sugar free gum",
+      "gum",
+      "orbit"
+    ],
+    "image": {
+      "off": {
+        "brand": "orbit",
+        "query": "chewing gum"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mentos-mints-pack-of-4",
+    "name": "Mentos Mints",
+    "brand": "Mentos",
+    "subcategories": [
+      "sweets-chocolates-candies-gum"
+    ],
+    "unit_label": "Pack of 4",
+    "mrp": 4000,
+    "price": 3500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chewy mints in a classic roll, handy for a fresh feeling on the go. Keep a roll in your bag or car; store away from heat.",
+    "tags": [
+      "mentos",
+      "mints",
+      "mint candy",
+      "chewy mint"
+    ],
+    "image": {
+      "off": {
+        "brand": "mentos",
+        "query": "mint"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tic-tac-mints-pack-of-4",
+    "name": "Tic Tac Mints",
+    "brand": "Tic Tac",
+    "subcategories": [
+      "sweets-chocolates-candies-gum"
+    ],
+    "unit_label": "Pack of 4",
+    "mrp": 8000,
+    "price": 7900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Small breath mints in a flip-top box that fits in a pocket. Keep one in your bag or desk drawer; store in a dry place.",
+    "tags": [
+      "tic tac",
+      "mints",
+      "breath mints",
+      "mint candy"
+    ],
+    "image": {
+      "off": {
+        "brand": "tic tac",
+        "query": "mints"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lindt-chocolate-truffles-200g",
+    "name": "Lindt Chocolate Truffles",
+    "brand": "Lindt",
+    "subcategories": [
+      "sweets-chocolates-premium"
+    ],
+    "unit_label": "200 g",
+    "mrp": 89900,
+    "price": 80900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Premium chocolate truffles with a smooth filling, individually wrapped. Serve with coffee or gift for occasions; store between 15 and 20 C.",
+    "tags": [
+      "lindt",
+      "truffles",
+      "premium chocolate",
+      "imported chocolate"
+    ],
+    "image": {
+      "off": {
+        "brand": "lindt",
+        "query": "chocolate truffles"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ferrero-rocher-pralines-16pcs",
+    "name": "Ferrero Rocher Pralines",
+    "brand": "Ferrero Rocher",
+    "subcategories": [
+      "sweets-chocolates-premium"
+    ],
+    "unit_label": "16 pcs",
+    "mrp": 75000,
+    "price": 72000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Hazelnut chocolate pralines with a creamy filling and crisp wafer, each individually wrapped. Store in a cool, dry place out of the sun.",
+    "tags": [
+      "ferrero rocher",
+      "pralines",
+      "hazelnut chocolate",
+      "premium chocolate"
+    ],
+    "image": {
+      "off": {
+        "brand": "ferrero rocher",
+        "query": "ferrero rocher 16"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "smoor-gourmet-confectionery-box-1pack",
+    "name": "Smoor Gourmet Confectionery Box",
+    "brand": "Smoor",
+    "subcategories": [
+      "sweets-chocolates-premium"
+    ],
+    "unit_label": "1 pack",
+    "mrp": 79900,
+    "price": 74000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Box of gourmet chocolate confections from Smoor, suited to gifting. See the box for the exact assortment; keep refrigerated in hot weather.",
+    "tags": [
+      "gourmet chocolate",
+      "chocolate box",
+      "premium confectionery",
+      "gift"
+    ],
+    "image": {
+      "off": {
+        "brand": "smoor",
+        "query": "chocolate box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fabelle-gourmet-confectionery-box-1pack",
+    "name": "Fabelle Gourmet Confectionery Box",
+    "brand": "Fabelle",
+    "subcategories": [
+      "sweets-chocolates-premium"
+    ],
+    "unit_label": "1 pack",
+    "mrp": 89900,
+    "price": 89900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Gourmet chocolate assortment from Fabelle in a gift box. A thoughtful present for celebrations; store in a cool, dry place.",
+    "tags": [
+      "gourmet chocolate",
+      "chocolate box",
+      "premium confectionery",
+      "fabelle"
+    ],
+    "image": {
+      "off": {
+        "brand": "fabelle",
+        "query": "chocolate box"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ritebite-max-protein-bar-70g",
+    "name": "RiteBite Max Protein Bar",
+    "brand": "RiteBite Max Protein",
+    "subcategories": [
+      "sweets-chocolates-energy-bars",
+      "instant-food-energy-bars"
+    ],
+    "unit_label": "70 g",
+    "mrp": 10000,
+    "price": 9000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Protein bar for a filling snack between meals or after a workout. Check the wrapper for flavour and nutrition details; store in a cool, dry place.",
+    "tags": [
+      "protein bar",
+      "energy bar",
+      "snack bar",
+      "gym snack"
+    ],
+    "image": {
+      "off": {
+        "brand": "ritebite max protein",
+        "query": "protein bar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "yoga-bar-protein-bar-60g",
+    "name": "Yoga Bar Protein Bar",
+    "brand": "Yoga Bar",
+    "subcategories": [
+      "sweets-chocolates-energy-bars",
+      "instant-food-energy-bars"
+    ],
+    "unit_label": "60 g",
+    "mrp": 10000,
+    "price": 8900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Protein bar made with nuts and grains, convenient to carry for busy days. See the wrapper for ingredients; keep away from heat.",
+    "tags": [
+      "protein bar",
+      "yogabar",
+      "snack bar",
+      "energy bar"
+    ],
+    "image": {
+      "off": {
+        "brand": "yoga bar",
+        "query": "protein bar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "yoga-bar-energy-bar-pack-of-6",
+    "name": "Yoga Bar Energy Bar",
+    "brand": "Yoga Bar",
+    "subcategories": [
+      "sweets-chocolates-energy-bars",
+      "instant-food-energy-bars"
+    ],
+    "unit_label": "Pack of 6",
+    "mrp": 24000,
+    "price": 22900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Multigrain energy bars with oats, nuts and fruit, packed individually. A quick snack for school, office or travel; store in a cool place.",
+    "tags": [
+      "energy bar",
+      "cereal bar",
+      "oats bar",
+      "yogabar"
+    ],
+    "image": {
+      "off": {
+        "brand": "yoga bar",
+        "query": "energy bar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nature-valley-cereal-bar-pack-of-6",
+    "name": "Nature Valley Cereal Bar",
+    "brand": "Nature Valley",
+    "subcategories": [
+      "sweets-chocolates-energy-bars",
+      "instant-food-energy-bars"
+    ],
+    "unit_label": "Pack of 6",
+    "mrp": 30000,
+    "price": 27000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crunchy granola bars made with whole grain oats, individually wrapped. Easy to carry for breakfast on the go; store in a dry place.",
+    "tags": [
+      "granola bar",
+      "cereal bar",
+      "oats bar",
+      "energy bar"
+    ],
+    "image": {
+      "off": {
+        "brand": "nature valley",
+        "query": "granola bar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hersheys-chocolate-syrup-623g",
+    "name": "Hershey's Chocolate Syrup",
+    "brand": "Hershey's",
+    "subcategories": [
+      "sweets-chocolates-syrups",
+      "sauces-spreads-syrups",
+      "ice-creams-more-syrups"
+    ],
+    "unit_label": "623 g",
+    "mrp": 25000,
+    "price": 25000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Pourable chocolate syrup for milkshakes, cold coffee, ice cream and pancakes. Shake before use and refrigerate after opening.",
+    "tags": [
+      "chocolate syrup",
+      "chocolate sauce",
+      "dessert syrup",
+      "ice cream topping"
+    ],
+    "image": {
+      "off": {
+        "brand": "hershey's",
+        "query": "chocolate syrup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mapro-dessert-syrup-500ml",
+    "name": "Mapro Dessert Syrup",
+    "brand": "Mapro",
+    "subcategories": [
+      "sweets-chocolates-syrups",
+      "sauces-spreads-syrups",
+      "ice-creams-more-syrups"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 15000,
+    "price": 13900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Fruit dessert syrup for drizzling over ice cream, falooda and desserts or flavouring milkshakes. Refrigerate after opening.",
+    "tags": [
+      "dessert syrup",
+      "fruit syrup",
+      "ice cream topping",
+      "falooda syrup"
+    ],
+    "image": {
+      "off": {
+        "brand": "mapro",
+        "query": "syrup"
+      }
+    },
+    "orderable": true
+  }
+]

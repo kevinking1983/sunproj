@@ -1,0 +1,50 @@
+name: Catalog photos
+
+# Looks up openly licensed product photos (Wikimedia Commons, Open Food/Beauty/Products Facts)
+# for the catalog and commits supabase/catalog/images.json plus the regenerated seed to main.
+# Needs open internet, which is why it runs here rather than on a developer machine.
+on:
+  workflow_dispatch:
+    inputs:
+      retry_misses:
+        description: "Try again for products where no photo was found before"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - "supabase/catalog/products/**"
+      - "supabase/catalog/pinned.json"
+      - "scripts/catalog/resolve-images.mjs"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog-photos
+  cancel-in-progress: false
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 130
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Look up photos
+        run: node scripts/catalog/resolve-images.mjs --max-minutes 110 ${{ inputs.retry_misses && '--retry-misses' || '' }}
+      - name: Regenerate the catalog seed
+        run: node scripts/catalog/build-seed.mjs
+      - name: Commit results
+        run: |
+          git config user.name "ration-catalog-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add supabase/catalog/images.json supabase/seeds/catalog.sql
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Catalog: licensed product photos and regenerated seed"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 5; done
+          exit 1

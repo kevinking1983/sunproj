@@ -1,0 +1,2429 @@
+[
+  {
+    "slug": "aashirvaad-whole-wheat-atta-5kg",
+    "name": "Aashirvaad Whole Wheat Atta",
+    "brand": "Aashirvaad",
+    "subcategories": [
+      "atta-rice-dal-atta"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 31000,
+    "price": 28900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Whole wheat flour for soft everyday rotis and parathas. Transfer to an airtight container once opened and keep in a cool, dry place.",
+    "tags": [
+      "atta",
+      "wheat flour",
+      "gehu atta",
+      "chapati flour"
+    ],
+    "image": {
+      "off": {
+        "brand": "aashirvaad",
+        "query": "whole wheat atta"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pillsbury-whole-wheat-atta-5kg",
+    "name": "Pillsbury Whole Wheat Atta",
+    "brand": "Pillsbury",
+    "subcategories": [
+      "atta-rice-dal-atta"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 29500,
+    "price": 27500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Chakki-ground whole wheat flour for rotis, phulkas and puris. Knead with lukewarm water for softer dough and store sealed away from moisture.",
+    "tags": [
+      "atta",
+      "wheat flour",
+      "chakki atta",
+      "roti flour"
+    ],
+    "image": {
+      "off": {
+        "brand": "pillsbury",
+        "query": "whole wheat atta"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "aashirvaad-sharbati-atta-5kg",
+    "name": "Aashirvaad Sharbati Atta",
+    "brand": "Aashirvaad",
+    "subcategories": [
+      "atta-rice-dal-atta"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 36000,
+    "price": 33500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Atta milled from sharbati wheat, a grain variety grown mainly in Madhya Pradesh, used for rotis and parathas. Keep the pack sealed and dry.",
+    "tags": [
+      "sharbati atta",
+      "wheat flour",
+      "gehu atta",
+      "premium atta"
+    ],
+    "image": {
+      "off": {
+        "brand": "aashirvaad",
+        "query": "sharbati atta"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pillsbury-specialty-wheat-flour-5kg",
+    "name": "Pillsbury Specialty Wheat Flour",
+    "brand": "Pillsbury",
+    "subcategories": [
+      "atta-rice-dal-atta"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 34000,
+    "price": 31500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Specialty-grade wheat flour for everyday rotis and parathas. Sift before kneading if you like, and store in an airtight tin after opening.",
+    "tags": [
+      "wheat flour",
+      "atta",
+      "specialty atta",
+      "chapati flour"
+    ],
+    "image": {
+      "off": {
+        "brand": "pillsbury",
+        "query": "wheat flour"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "aashirvaad-multigrain-atta-5kg",
+    "name": "Aashirvaad Multigrain Atta",
+    "brand": "Aashirvaad",
+    "subcategories": [
+      "atta-rice-dal-atta"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 39500,
+    "price": 36900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Wheat flour blended with other grains and millets for rotis with a slightly nutty taste. Store in a cool, dry place and use within the date on the pack.",
+    "tags": [
+      "multigrain atta",
+      "mixed flour",
+      "atta",
+      "millet flour"
+    ],
+    "image": {
+      "off": {
+        "brand": "aashirvaad",
+        "query": "multigrain atta"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pillsbury-multigrain-atta-5kg",
+    "name": "Pillsbury Multigrain Atta",
+    "brand": "Pillsbury",
+    "subcategories": [
+      "atta-rice-dal-atta"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 37000,
+    "price": 34500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "A wheat and millet flour mix for rotis, theplas and parathas. The dough may need a little more water than plain atta; keep the pack tightly closed.",
+    "tags": [
+      "multigrain atta",
+      "atta",
+      "mixed grain flour",
+      "roti flour"
+    ],
+    "image": {
+      "off": {
+        "brand": "pillsbury",
+        "query": "multigrain atta"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "daawat-sona-masoori-rice-5kg",
+    "name": "Daawat Sona Masoori Rice",
+    "brand": "Daawat",
+    "subcategories": [
+      "atta-rice-dal-local-rice"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 52000,
+    "price": 47900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Light, medium-grain Sona Masoori rice suited to daily meals, pongal and lemon rice. Rinse before cooking and store in a covered container.",
+    "tags": [
+      "sona masoori",
+      "chawal",
+      "rice",
+      "south indian rice"
+    ],
+    "image": {
+      "off": {
+        "brand": "daawat",
+        "query": "sona masoori rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-sona-masoori-rice-5kg",
+    "name": "Fortune Sona Masoori Rice",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-local-rice"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 49500,
+    "price": 45900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Medium-grain Sona Masoori rice that cooks soft and separate for everyday rice with sambar or rasam. Keep dry and away from pantry pests.",
+    "tags": [
+      "sona masoori",
+      "chawal",
+      "rice",
+      "daily rice"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "sona masoori rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hmt-rice-1kg",
+    "name": "HMT Rice",
+    "brand": null,
+    "subcategories": [
+      "atta-rice-dal-local-rice"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 7500,
+    "price": 6500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Loose raw HMT rice, a fine short-grain variety popular in central and south India for daily meals. Wash well before cooking and store in a sealed bin.",
+    "tags": [
+      "hmt rice",
+      "chawal",
+      "raw rice",
+      "loose rice"
+    ],
+    "image": {
+      "wiki": "Rice"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "hmt-steam-rice-1kg",
+    "name": "HMT Steam Rice",
+    "brand": null,
+    "subcategories": [
+      "atta-rice-dal-local-rice"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 8000,
+    "price": 6900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Steam-processed HMT rice that keeps grains firm and separate after cooking. Good for plain rice, khichdi and fried rice; store dry in a closed container.",
+    "tags": [
+      "hmt steam rice",
+      "chawal",
+      "steam rice",
+      "loose rice"
+    ],
+    "image": {
+      "wiki": "Rice"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bb-royal-kolam-rice-5kg",
+    "name": "bb Royal Kolam Rice",
+    "brand": "bb Royal",
+    "subcategories": [
+      "atta-rice-dal-local-rice"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 44000,
+    "price": 39900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Short, slender kolam rice that cooks soft, a staple in Maharashtra and Gujarat for dal-chawal. Rinse two or three times and store in an airtight bin.",
+    "tags": [
+      "kolam rice",
+      "surti kolam",
+      "chawal",
+      "rice"
+    ],
+    "image": {
+      "off": {
+        "brand": "bb royal",
+        "query": "kolam rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "double-horse-ponni-rice-5kg",
+    "name": "Double Horse Ponni Rice",
+    "brand": "Double Horse",
+    "subcategories": [
+      "atta-rice-dal-local-rice"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 42000,
+    "price": 38900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Ponni rice from Tamil Nadu, a medium-grain variety used for daily meals, curd rice and variety rice. Store in a cool, dry place after opening.",
+    "tags": [
+      "ponni rice",
+      "chawal",
+      "south indian rice",
+      "rice"
+    ],
+    "image": {
+      "off": {
+        "brand": "double horse",
+        "query": "ponni rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "telangana-fine-rice-1kg",
+    "name": "Telangana Fine Rice",
+    "brand": null,
+    "subcategories": [
+      "atta-rice-dal-local-rice"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 7000,
+    "price": 6200,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Loose fine-grain white rice from Telangana mills for everyday cooking. Soak for 15 minutes before cooking for even grains and keep in a sealed container.",
+    "tags": [
+      "fine rice",
+      "chawal",
+      "telangana rice",
+      "loose rice"
+    ],
+    "image": {
+      "wiki": "Rice"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "white-rice-1kg",
+    "name": "White Rice",
+    "brand": null,
+    "subcategories": [
+      "atta-rice-dal-local-rice"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 5800,
+    "price": 5200,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Graded loose white rice for daily use with dal, curry and sambar. Rinse until the water runs clear and store away from moisture.",
+    "tags": [
+      "white rice",
+      "chawal",
+      "loose rice",
+      "daily rice"
+    ],
+    "image": {
+      "wiki": "White rice"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "india-gate-basmati-rice-1kg",
+    "name": "India Gate Basmati Rice",
+    "brand": "India Gate",
+    "subcategories": [
+      "atta-rice-dal-rice"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 22000,
+    "price": 19900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Long-grain aged basmati rice with a natural aroma, suited to pulao, biryani and jeera rice. Soak for 20-30 minutes before cooking.",
+    "tags": [
+      "basmati",
+      "basmati chawal",
+      "long grain rice",
+      "biryani rice"
+    ],
+    "image": {
+      "off": {
+        "brand": "india gate",
+        "query": "basmati rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "daawat-basmati-rice-1kg",
+    "name": "Daawat Basmati Rice",
+    "brand": "Daawat",
+    "subcategories": [
+      "atta-rice-dal-rice"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 21000,
+    "price": 18900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Fragrant long-grain basmati rice for biryani, pulao and everyday steamed rice. Rinse gently to keep the grains intact and store in an airtight jar.",
+    "tags": [
+      "basmati",
+      "basmati chawal",
+      "rice",
+      "pulao rice"
+    ],
+    "image": {
+      "off": {
+        "brand": "daawat",
+        "query": "basmati rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "india-gate-brown-rice-1kg",
+    "name": "India Gate Brown Rice",
+    "brand": "India Gate",
+    "subcategories": [
+      "atta-rice-dal-rice"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 23000,
+    "price": 20900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Brown basmati rice with the bran layer intact, giving a chewier bite. Soak for at least 30 minutes and cook with a little extra water.",
+    "tags": [
+      "brown rice",
+      "brown basmati",
+      "unpolished rice",
+      "chawal"
+    ],
+    "image": {
+      "off": {
+        "brand": "india gate",
+        "query": "brown rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "daawat-brown-rice-1kg",
+    "name": "Daawat Brown Rice",
+    "brand": "Daawat",
+    "subcategories": [
+      "atta-rice-dal-rice"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 22500,
+    "price": 20500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Whole-grain brown basmati rice for pulao, rice bowls and salads. Takes longer to cook than white rice; keep sealed in a cool place.",
+    "tags": [
+      "brown rice",
+      "brown basmati",
+      "whole grain rice",
+      "chawal"
+    ],
+    "image": {
+      "off": {
+        "brand": "daawat",
+        "query": "brown rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "double-horse-idli-rice-5kg",
+    "name": "Double Horse Idli Rice",
+    "brand": "Double Horse",
+    "subcategories": [
+      "atta-rice-dal-rice"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 38000,
+    "price": 34900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Parboiled short-grain rice for grinding idli and dosa batter with urad dal. Soak four to six hours before grinding and store the pack dry.",
+    "tags": [
+      "idli rice",
+      "dosa rice",
+      "parboiled rice",
+      "boiled rice"
+    ],
+    "image": {
+      "off": {
+        "brand": "double horse",
+        "query": "idli rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bb-royal-idli-rice-5kg",
+    "name": "bb Royal Idli Rice",
+    "brand": "bb Royal",
+    "subcategories": [
+      "atta-rice-dal-rice"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 36000,
+    "price": 32900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Idli rice for soft, fluffy idlis and crisp dosas. Combine roughly four parts rice to one part urad dal, soak and grind; keep the rest airtight.",
+    "tags": [
+      "idli rice",
+      "dosa rice",
+      "idli chawal",
+      "batter rice"
+    ],
+    "image": {
+      "off": {
+        "brand": "bb royal",
+        "query": "idli rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-red-rice-1kg",
+    "name": "24 Mantra Organic Red Rice",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-rice"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 16000,
+    "price": 14500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic red rice with a reddish bran and earthy flavour, eaten with curries in Kerala and coastal Karnataka. Soak before cooking; cooks a little firmer.",
+    "tags": [
+      "red rice",
+      "matta rice",
+      "organic rice",
+      "lal chawal"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "red rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-black-rice-500g",
+    "name": "Organic Tattva Black Rice",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "atta-rice-dal-rice"
+    ],
+    "unit_label": "500 g",
+    "mrp": 19000,
+    "price": 17200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic black rice that turns deep purple when cooked, used for kheer, salads and rice bowls. Soak for a few hours and store in an airtight jar.",
+    "tags": [
+      "black rice",
+      "kala chawal",
+      "forbidden rice",
+      "organic rice"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "black rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-toor-dal-1kg",
+    "name": "Tata Sampann Toor Dal",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 21000,
+    "price": 18900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Unpolished split pigeon peas for everyday dal, sambar and dal fry. Rinse and pressure-cook until soft; store in a dry, airtight container.",
+    "tags": [
+      "toor dal",
+      "arhar dal",
+      "tuvar dal",
+      "pigeon pea"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "toor dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-toor-dal-1kg",
+    "name": "Fortune Toor Dal",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 19500,
+    "price": 17900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Split pigeon peas that cook to a creamy dal for rice and rotis. Soak for 20 minutes to shorten cooking time and keep the pack sealed.",
+    "tags": [
+      "toor dal",
+      "arhar dal",
+      "tuvar dal",
+      "dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "toor dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-moong-dal-1kg",
+    "name": "Tata Sampann Moong Dal",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 18000,
+    "price": 16500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Split yellow moong lentils that cook quickly for dal, khichdi and halwa. No long soaking needed; store in a cool, dry place.",
+    "tags": [
+      "moong dal",
+      "yellow moong",
+      "mung dal",
+      "dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "moong dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-moong-dal-1kg",
+    "name": "Fortune Moong Dal",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 17000,
+    "price": 15500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Split moong dal for light everyday dal, khichdi and cheela batter. Rinse well before use and keep in an airtight jar after opening.",
+    "tags": [
+      "moong dal",
+      "mung dal",
+      "yellow dal",
+      "khichdi dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "moong dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-masoor-dal-1kg",
+    "name": "Tata Sampann Masoor Dal",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 15000,
+    "price": 13800,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Split red lentils that turn golden and soft within minutes, ideal for quick dal and soups. Store away from moisture in a closed container.",
+    "tags": [
+      "masoor dal",
+      "red lentil",
+      "malka masoor",
+      "dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "masoor dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-masoor-dal-1kg",
+    "name": "Fortune Masoor Dal",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 14000,
+    "price": 12900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Red split lentils for everyday dal tadka, soups and Bengali-style masoor dal. Cooks without soaking; keep the pack tightly closed.",
+    "tags": [
+      "masoor dal",
+      "red lentil",
+      "lal masoor",
+      "dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "masoor dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-urad-dal-1kg",
+    "name": "Tata Sampann Urad Dal",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 19000,
+    "price": 17200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Split white urad dal for idli and dosa batter, vadas and tempering. Soak before grinding and store in an airtight container.",
+    "tags": [
+      "urad dal",
+      "white urad",
+      "ulundu",
+      "black gram"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "urad dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-urad-dal-1kg",
+    "name": "Fortune Urad Dal",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 18000,
+    "price": 16500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Urad dal for batters, medu vada and dal makhani-style dishes. Rinse well, soak as the recipe needs and keep the rest dry and sealed.",
+    "tags": [
+      "urad dal",
+      "black gram",
+      "ulundu",
+      "dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "urad dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-chana-dal-1kg",
+    "name": "Tata Sampann Chana Dal",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 13000,
+    "price": 11900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Split Bengal gram for chana dal, dal vada and sweets like puran poli. Soak for an hour to cut cooking time; store dry.",
+    "tags": [
+      "chana dal",
+      "bengal gram",
+      "split chickpea",
+      "dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "chana dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-chana-dal-1kg",
+    "name": "Fortune Chana Dal",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 12500,
+    "price": 11500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Split Bengal gram for thick dals, kootu and tempering in South Indian cooking. Keep in an airtight jar away from humidity.",
+    "tags": [
+      "chana dal",
+      "bengal gram",
+      "kadalai paruppu",
+      "dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "chana dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "horse-gram-500g",
+    "name": "Horse Gram",
+    "brand": null,
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "500 g",
+    "mrp": 7000,
+    "price": 6200,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Loose whole horse gram (kulthi), a hardy pulse used in rasam, soups and sprouts in South India. Soak overnight before pressure-cooking.",
+    "tags": [
+      "horse gram",
+      "kulthi",
+      "kollu",
+      "hurali"
+    ],
+    "image": {
+      "wiki": "Macrotyloma uniflorum"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cowpea-500g",
+    "name": "Cowpea",
+    "brand": null,
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "500 g",
+    "mrp": 8000,
+    "price": 7200,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Loose whole cowpeas for curries, usal and salads. Soak for six to eight hours, then pressure-cook until tender; store in a dry jar.",
+    "tags": [
+      "cowpea",
+      "chawli",
+      "lobia",
+      "karamani"
+    ],
+    "image": {
+      "wiki": "Cowpea"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "moth-beans-500g",
+    "name": "Moth Beans",
+    "brand": null,
+    "subcategories": [
+      "atta-rice-dal-dal"
+    ],
+    "unit_label": "500 g",
+    "mrp": 8500,
+    "price": 7600,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Small brown moth beans (matki) for sprouting, misal and dry sabzi. Soak overnight and keep sprouts refrigerated for up to two days.",
+    "tags": [
+      "moth beans",
+      "matki",
+      "math dal",
+      "sprouting beans"
+    ],
+    "image": {
+      "wiki": "Vigna aconitifolia"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-besan-1kg",
+    "name": "Fortune Besan",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-besan-sooji-maida"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 14000,
+    "price": 12800,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Fine gram flour for pakoras, kadhi, cheela and laddoos. Sift before use for a smooth batter and store in an airtight container.",
+    "tags": [
+      "besan",
+      "gram flour",
+      "chickpea flour",
+      "kadalai maavu"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "besan"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "aashirvaad-besan-1kg",
+    "name": "Aashirvaad Besan",
+    "brand": "Aashirvaad",
+    "subcategories": [
+      "atta-rice-dal-besan-sooji-maida"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 15000,
+    "price": 13800,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Gram flour made from chana dal for bhajjis, dhokla, kadhi and sweets. Keep sealed and away from moisture to prevent lumps.",
+    "tags": [
+      "besan",
+      "gram flour",
+      "chana atta",
+      "pakora flour"
+    ],
+    "image": {
+      "off": {
+        "brand": "aashirvaad",
+        "query": "besan"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "aashirvaad-sooji-1kg",
+    "name": "Aashirvaad Sooji",
+    "brand": "Aashirvaad",
+    "subcategories": [
+      "atta-rice-dal-besan-sooji-maida"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 7500,
+    "price": 6900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Wheat semolina for upma, rava idli, halwa and crisp coatings. Dry-roast before use for better flavour and keep in a closed jar.",
+    "tags": [
+      "sooji",
+      "rava",
+      "semolina",
+      "suji"
+    ],
+    "image": {
+      "off": {
+        "brand": "aashirvaad",
+        "query": "sooji"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-sooji-500g",
+    "name": "Fortune Sooji",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-besan-sooji-maida"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4200,
+    "price": 3900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Semolina for upma, sheera, rava dosa and cakes. Store in an airtight container; roasting it lightly helps it keep longer.",
+    "tags": [
+      "sooji",
+      "rava",
+      "semolina",
+      "bombay rava"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "sooji"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "aashirvaad-maida-1kg",
+    "name": "Aashirvaad Maida",
+    "brand": "Aashirvaad",
+    "subcategories": [
+      "atta-rice-dal-besan-sooji-maida"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 6500,
+    "price": 5900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Refined wheat flour for naan, bhatura, samosa pastry and baking. Store in a dry, airtight container away from strong odours.",
+    "tags": [
+      "maida",
+      "all purpose flour",
+      "refined flour",
+      "plain flour"
+    ],
+    "image": {
+      "off": {
+        "brand": "aashirvaad",
+        "query": "maida"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-maida-1kg",
+    "name": "Fortune Maida",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-besan-sooji-maida"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 6000,
+    "price": 5500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "All-purpose refined flour for cakes, cookies, parathas and fried snacks. Sift before baking and keep the pack tightly sealed.",
+    "tags": [
+      "maida",
+      "all purpose flour",
+      "baking flour",
+      "refined flour"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "maida"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "double-horse-rice-flour-1kg",
+    "name": "Double Horse Rice Flour",
+    "brand": "Double Horse",
+    "subcategories": [
+      "atta-rice-dal-besan-sooji-maida"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 8500,
+    "price": 7800,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Fine rice flour for appam, idiyappam, pathiri and crisp murukku. Store in an airtight jar and use within the date on the pack.",
+    "tags": [
+      "rice flour",
+      "chawal ka atta",
+      "arisi maavu",
+      "pathiri podi"
+    ],
+    "image": {
+      "off": {
+        "brand": "double horse",
+        "query": "rice flour"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-rice-flour-500g",
+    "name": "MTR Rice Flour",
+    "brand": "MTR",
+    "subcategories": [
+      "atta-rice-dal-besan-sooji-maida"
+    ],
+    "unit_label": "500 g",
+    "mrp": 5500,
+    "price": 5000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Rice flour for akki roti, murukku, dosa batter and as a crisp coating for fries. Keep dry and sealed after opening.",
+    "tags": [
+      "rice flour",
+      "chawal atta",
+      "akki hittu",
+      "gluten free flour"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "rice flour"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "weikfield-corn-flour-500g",
+    "name": "Weikfield Corn Flour",
+    "brand": "Weikfield",
+    "subcategories": [
+      "atta-rice-dal-besan-sooji-maida"
+    ],
+    "unit_label": "500 g",
+    "mrp": 8500,
+    "price": 7800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Corn starch for thickening soups and gravies and for crisp coatings on Indo-Chinese starters. Mix with cold water before adding to hot liquids.",
+    "tags": [
+      "corn flour",
+      "corn starch",
+      "cornflour",
+      "makai starch"
+    ],
+    "image": {
+      "off": {
+        "brand": "weikfield",
+        "query": "corn flour"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "brown-and-polson-corn-flour-200g",
+    "name": "Brown & Polson Corn Flour",
+    "brand": "Brown & Polson",
+    "subcategories": [
+      "atta-rice-dal-besan-sooji-maida"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 5500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Fine corn starch for custards, sauces, soups and batters. Stir into cold liquid first to avoid lumps; store in a dry place.",
+    "tags": [
+      "corn flour",
+      "corn starch",
+      "cornflour",
+      "thickener"
+    ],
+    "image": {
+      "off": {
+        "brand": "brown & polson",
+        "query": "corn flour"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-rajma-500g",
+    "name": "Tata Sampann Rajma",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "atta-rice-dal-rajma-chole-others"
+    ],
+    "unit_label": "500 g",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Red kidney beans for rajma chawal and bean salads. Soak overnight and pressure-cook until fully soft before adding to gravies.",
+    "tags": [
+      "rajma",
+      "kidney beans",
+      "red beans",
+      "rajmah"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "rajma"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-rajma-500g",
+    "name": "Fortune Rajma",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-rajma-chole-others"
+    ],
+    "unit_label": "500 g",
+    "mrp": 10500,
+    "price": 9500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Kidney beans for slow-cooked Punjabi rajma and wraps. Always soak and boil thoroughly; store the dry beans in an airtight jar.",
+    "tags": [
+      "rajma",
+      "kidney beans",
+      "rajma beans",
+      "red rajma"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "rajma"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-kabuli-chana-1kg",
+    "name": "Tata Sampann Kabuli Chana",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "atta-rice-dal-rajma-chole-others"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 19000,
+    "price": 17200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "White chickpeas for chole, chana masala, hummus and salads. Soak overnight and pressure-cook with a pinch of salt.",
+    "tags": [
+      "kabuli chana",
+      "chole",
+      "chickpeas",
+      "safed chana"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "kabuli chana"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-kabuli-chana-1kg",
+    "name": "Fortune Kabuli Chana",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-rajma-chole-others"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 18000,
+    "price": 16500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Large white chickpeas for chole bhature, sundal and hummus. Soak eight hours before cooking and keep the pack sealed.",
+    "tags": [
+      "kabuli chana",
+      "chole",
+      "chickpeas",
+      "garbanzo"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "kabuli chana"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-kala-chana-1kg",
+    "name": "Tata Sampann Kala Chana",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "atta-rice-dal-rajma-chole-others"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Brown chickpeas for kala chana curry, sundal and chaat. Soak overnight; they also sprout well in a day or two.",
+    "tags": [
+      "kala chana",
+      "black chickpeas",
+      "brown chana",
+      "desi chana"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "kala chana"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-kala-chana-1kg",
+    "name": "Fortune Kala Chana",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-rajma-chole-others"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 11500,
+    "price": 10500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Desi brown chickpeas for dry chana, curries and Navratri prasad. Soak well before pressure-cooking and store dry.",
+    "tags": [
+      "kala chana",
+      "black chana",
+      "bengal gram whole",
+      "desi chana"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "kala chana"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-lobia-500g",
+    "name": "24 Mantra Organic Lobia",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-rajma-chole-others"
+    ],
+    "unit_label": "500 g",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic black-eyed peas for lobia masala, salads and stews. Soak for four to six hours and cook until tender.",
+    "tags": [
+      "lobia",
+      "black eyed peas",
+      "chawli",
+      "organic beans"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "lobia"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bb-royal-lobia-500g",
+    "name": "bb Royal Lobia",
+    "brand": "bb Royal",
+    "subcategories": [
+      "atta-rice-dal-rajma-chole-others"
+    ],
+    "unit_label": "500 g",
+    "mrp": 8500,
+    "price": 7800,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Black-eyed peas that cook relatively quickly, for curries, usal and salads. Store in an airtight jar away from moisture.",
+    "tags": [
+      "lobia",
+      "black eyed beans",
+      "chawli",
+      "karamani"
+    ],
+    "image": {
+      "off": {
+        "brand": "bb royal",
+        "query": "lobia"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bb-royal-white-peas-1kg",
+    "name": "bb Royal White Peas",
+    "brand": "bb Royal",
+    "subcategories": [
+      "atta-rice-dal-rajma-chole-others"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Dried white peas (safed vatana) for ragda, ghugni and matar usal. Soak overnight and pressure-cook until soft.",
+    "tags": [
+      "white peas",
+      "safed matar",
+      "vatana",
+      "ragda peas"
+    ],
+    "image": {
+      "off": {
+        "brand": "bb royal",
+        "query": "white peas"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nutrela-soya-chunks-200g",
+    "name": "Nutrela Soya Chunks",
+    "brand": "Nutrela",
+    "subcategories": [
+      "atta-rice-dal-rajma-chole-others"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 5500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Dried soya chunks for curries, pulao and dry fry. Soak in hot water for 10 minutes, squeeze out the water and cook as needed.",
+    "tags": [
+      "soya chunks",
+      "soya badi",
+      "meal maker",
+      "soy nuggets"
+    ],
+    "image": {
+      "off": {
+        "brand": "nutrela",
+        "query": "soya chunks"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-soya-chunks-200g",
+    "name": "Fortune Soya Chunks",
+    "brand": "Fortune",
+    "subcategories": [
+      "atta-rice-dal-rajma-chole-others"
+    ],
+    "unit_label": "200 g",
+    "mrp": 5500,
+    "price": 5000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Soya chunks made from defatted soy flour for gravies and biryani. Rehydrate in hot salted water before use and keep the pack dry.",
+    "tags": [
+      "soya chunks",
+      "soya badi",
+      "meal maker",
+      "soya bean"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "soya chunks"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "manna-ragi-500g",
+    "name": "Manna Ragi",
+    "brand": "Manna",
+    "subcategories": [
+      "atta-rice-dal-millet-other-flours"
+    ],
+    "unit_label": "500 g",
+    "mrp": 7500,
+    "price": 6800,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Whole finger millet for porridge, sprouting and home-milled ragi flour. Rinse and dry before grinding; store in an airtight jar.",
+    "tags": [
+      "ragi",
+      "finger millet",
+      "nachni",
+      "millet"
+    ],
+    "image": {
+      "off": {
+        "brand": "manna",
+        "query": "ragi"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-jowar-500g",
+    "name": "24 Mantra Organic Jowar",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-millet-other-flours"
+    ],
+    "unit_label": "500 g",
+    "mrp": 8500,
+    "price": 7800,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic whole sorghum grains for khichdi, salads and pilaf-style dishes. Soak overnight and cook until tender.",
+    "tags": [
+      "jowar",
+      "sorghum",
+      "jonna",
+      "millet"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "jowar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "manna-ragi-flour-500g",
+    "name": "Manna Ragi Flour",
+    "brand": "Manna",
+    "subcategories": [
+      "atta-rice-dal-millet-other-flours"
+    ],
+    "unit_label": "500 g",
+    "mrp": 7000,
+    "price": 6400,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Finger millet flour for ragi mudde, rotis, dosas and porridge. Knead with hot water for softer rotis and store sealed.",
+    "tags": [
+      "ragi flour",
+      "nachni atta",
+      "finger millet flour",
+      "ragi atta"
+    ],
+    "image": {
+      "off": {
+        "brand": "manna",
+        "query": "ragi flour"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-bajra-flour-500g",
+    "name": "24 Mantra Organic Bajra Flour",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-millet-other-flours"
+    ],
+    "unit_label": "500 g",
+    "mrp": 9000,
+    "price": 8200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic pearl millet flour for bajra rotla and thepla, popular in winter. Use fresh dough and keep the flour in the fridge in warm months.",
+    "tags": [
+      "bajra flour",
+      "bajra atta",
+      "pearl millet flour",
+      "kambu maavu"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "bajra flour"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "makki-atta-500g",
+    "name": "Makki Atta",
+    "brand": null,
+    "subcategories": [
+      "atta-rice-dal-millet-other-flours"
+    ],
+    "unit_label": "500 g",
+    "mrp": 4500,
+    "price": 4000,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Loose yellow maize flour for makki ki roti with sarson ka saag. Knead with warm water just before rolling; keep in a cool, dry place.",
+    "tags": [
+      "makki atta",
+      "maize flour",
+      "corn flour",
+      "makki ka atta"
+    ],
+    "image": {
+      "wiki": "Cornmeal"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kuttu-atta-500g",
+    "name": "Kuttu Atta",
+    "brand": null,
+    "subcategories": [
+      "atta-rice-dal-millet-other-flours"
+    ],
+    "unit_label": "500 g",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Loose buckwheat flour used for puris and pakoras during Navratri fasts. Bind with mashed potato for easier rolling and store airtight.",
+    "tags": [
+      "kuttu atta",
+      "buckwheat flour",
+      "vrat atta",
+      "fasting flour"
+    ],
+    "image": {
+      "wiki": "Buckwheat"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "singhara-atta-500g",
+    "name": "Singhara Atta",
+    "brand": null,
+    "subcategories": [
+      "atta-rice-dal-millet-other-flours"
+    ],
+    "unit_label": "500 g",
+    "mrp": 13000,
+    "price": 11500,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Loose water chestnut flour for vrat puris, halwa and pakoras. It absorbs water quickly, so add liquid gradually; store in an airtight jar.",
+    "tags": [
+      "singhara atta",
+      "water chestnut flour",
+      "vrat atta",
+      "fasting flour"
+    ],
+    "image": {
+      "wiki": "Water caltrop"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "manna-multimillet-mix-500g",
+    "name": "Manna Multimillet Mix",
+    "brand": "Manna",
+    "subcategories": [
+      "atta-rice-dal-millet-other-flours"
+    ],
+    "unit_label": "500 g",
+    "mrp": 15000,
+    "price": 13500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "A blend of millet flours for dosas, rotis and porridge. Follow the pack directions for batter consistency and refrigerate any leftover batter.",
+    "tags": [
+      "multimillet mix",
+      "millet flour",
+      "dosa mix",
+      "siridhanya"
+    ],
+    "image": {
+      "off": {
+        "brand": "manna",
+        "query": "multi millet mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-soulfull-multimillet-mix-500g",
+    "name": "Tata Soulfull Multimillet Mix",
+    "brand": "Tata Soulfull",
+    "subcategories": [
+      "atta-rice-dal-millet-other-flours"
+    ],
+    "unit_label": "500 g",
+    "mrp": 16000,
+    "price": 14500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Mixed millet flour for quick dosas, idlis and rotis. Store in a cool, dry place and close the pack tightly after each use.",
+    "tags": [
+      "multimillet mix",
+      "millet dosa mix",
+      "millet flour",
+      "mixed grain"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata soulfull",
+        "query": "millet mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-whole-wheat-atta-5kg",
+    "name": "24 Mantra Organic Whole Wheat Atta",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-organics"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 45000,
+    "price": 41500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Certified organic whole wheat flour for rotis, puris and parathas. Keep the pack sealed in a cool, dry place to retain freshness.",
+    "tags": [
+      "organic atta",
+      "wheat flour",
+      "gehu atta",
+      "organic flour"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "organic whole wheat atta"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-whole-wheat-atta-5kg",
+    "name": "Organic Tattva Whole Wheat Atta",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "atta-rice-dal-organics"
+    ],
+    "unit_label": "5 kg",
+    "mrp": 47000,
+    "price": 43500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic whole wheat flour for everyday rotis and baking at home. Transfer to an airtight tin after opening and use within the date on pack.",
+    "tags": [
+      "organic atta",
+      "whole wheat flour",
+      "chakki atta",
+      "gehu atta"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "organic wheat atta"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-sona-masoori-rice-1kg",
+    "name": "24 Mantra Organic Sona Masoori Rice",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-organics"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 13000,
+    "price": 11900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Certified organic Sona Masoori rice for daily meals and South Indian rice dishes. Rinse before cooking and store in a closed container.",
+    "tags": [
+      "organic rice",
+      "sona masoori",
+      "chawal",
+      "organic chawal"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "organic sona masoori"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-basmati-rice-1kg",
+    "name": "Organic Tattva Basmati Rice",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "atta-rice-dal-organics"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 26000,
+    "price": 23900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic long-grain basmati rice for pulao, biryani and jeera rice. Soak for 30 minutes before cooking for longer grains.",
+    "tags": [
+      "organic basmati",
+      "basmati",
+      "chawal",
+      "organic rice"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "organic basmati rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-toor-dal-1kg",
+    "name": "24 Mantra Organic Toor Dal",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-organics"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 26000,
+    "price": 23900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Certified organic split pigeon peas for dal, sambar and khichdi. Rinse and pressure-cook; store in an airtight container.",
+    "tags": [
+      "organic toor dal",
+      "arhar dal",
+      "tuvar dal",
+      "organic dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "organic toor dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-moong-dal-1kg",
+    "name": "Organic Tattva Moong Dal",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "atta-rice-dal-organics"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 27000,
+    "price": 24900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic split moong dal that cooks quickly for dal, khichdi and soups. Keep in a sealed jar away from humidity.",
+    "tags": [
+      "organic moong dal",
+      "moong dal",
+      "mung dal",
+      "organic dal"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "organic moong dal"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-ragi-500g",
+    "name": "24 Mantra Organic Ragi",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-organics"
+    ],
+    "unit_label": "500 g",
+    "mrp": 8000,
+    "price": 7200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Certified organic whole finger millet for porridge, malt and home-ground flour. Store in an airtight jar in a cool place.",
+    "tags": [
+      "organic ragi",
+      "finger millet",
+      "nachni",
+      "millet"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "organic ragi"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-quinoa-500g",
+    "name": "Organic Tattva Quinoa",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "atta-rice-dal-organics"
+    ],
+    "unit_label": "500 g",
+    "mrp": 29000,
+    "price": 26500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic quinoa for salads, upma and pulao-style dishes. Rinse well before cooking to remove the bitter coating; cooks in about 15 minutes.",
+    "tags": [
+      "quinoa",
+      "organic quinoa",
+      "grain",
+      "kinwa"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "organic quinoa"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-poha-1kg",
+    "name": "Tata Sampann Poha",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "atta-rice-dal-poha-daliya-others"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Flattened rice for kanda poha, chivda and quick breakfasts. Rinse briefly in a sieve and let it soften for a few minutes before cooking.",
+    "tags": [
+      "poha",
+      "flattened rice",
+      "chivda",
+      "aval"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "poha"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-poha-1kg",
+    "name": "24 Mantra Organic Poha",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-poha-daliya-others"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 14000,
+    "price": 12900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic rice flakes for poha, aval upma and snacks. Wash lightly, drain and rest before tempering; store in an airtight jar.",
+    "tags": [
+      "poha",
+      "rice flakes",
+      "aval",
+      "avalakki"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "poha"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-daliya-500g",
+    "name": "Tata Sampann Daliya",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "atta-rice-dal-poha-daliya-others"
+    ],
+    "unit_label": "500 g",
+    "mrp": 6000,
+    "price": 5500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Broken wheat for savoury daliya khichdi, upma and sweet porridge. Dry-roast before cooking for a nuttier taste and store sealed.",
+    "tags": [
+      "daliya",
+      "broken wheat",
+      "dalia",
+      "lapsi"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "daliya"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "rajdhani-daliya-500g",
+    "name": "Rajdhani Daliya",
+    "brand": "Rajdhani",
+    "subcategories": [
+      "atta-rice-dal-poha-daliya-others"
+    ],
+    "unit_label": "500 g",
+    "mrp": 5000,
+    "price": 4600,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Coarse broken wheat for porridge, khichdi and lapsi. Pressure-cook with water or milk and keep the pack dry after opening.",
+    "tags": [
+      "daliya",
+      "broken wheat",
+      "cracked wheat",
+      "dalia"
+    ],
+    "image": {
+      "off": {
+        "brand": "rajdhani",
+        "query": "daliya"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "rajdhani-sabudana-500g",
+    "name": "Rajdhani Sabudana",
+    "brand": "Rajdhani",
+    "subcategories": [
+      "atta-rice-dal-poha-daliya-others"
+    ],
+    "unit_label": "500 g",
+    "mrp": 7500,
+    "price": 6900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Tapioca pearls for sabudana khichdi, vada and kheer during fasts. Soak for four to six hours until the pearls soften but stay separate.",
+    "tags": [
+      "sabudana",
+      "sago",
+      "tapioca pearls",
+      "javvarisi"
+    ],
+    "image": {
+      "off": {
+        "brand": "rajdhani",
+        "query": "sabudana"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-sabudana-500g",
+    "name": "Tata Sampann Sabudana",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "atta-rice-dal-poha-daliya-others"
+    ],
+    "unit_label": "500 g",
+    "mrp": 8000,
+    "price": 7200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Sago pearls for khichdi, payasam and crisp vadas. Rinse before soaking and store the dry pearls in an airtight container.",
+    "tags": [
+      "sabudana",
+      "sago",
+      "javvarisi",
+      "vrat food"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "sabudana"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-murmura-200g",
+    "name": "Haldiram's Murmura",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "atta-rice-dal-poha-daliya-others"
+    ],
+    "unit_label": "200 g",
+    "mrp": 4500,
+    "price": 4200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Puffed rice for bhel puri, jhal muri and chivda. Keep the pack tightly closed so it stays crisp; warm briefly in a pan if it softens.",
+    "tags": [
+      "murmura",
+      "puffed rice",
+      "kurmura",
+      "mamra"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "murmura puffed rice"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "manna-ragi-flakes-250g",
+    "name": "Manna Ragi Flakes",
+    "brand": "Manna",
+    "subcategories": [
+      "atta-rice-dal-poha-daliya-others"
+    ],
+    "unit_label": "250 g",
+    "mrp": 8500,
+    "price": 7800,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Flakes made from finger millet for a quick poha-style breakfast or with milk. Rinse briefly before tempering; store airtight.",
+    "tags": [
+      "ragi flakes",
+      "millet flakes",
+      "nachni flakes",
+      "ragi poha"
+    ],
+    "image": {
+      "off": {
+        "brand": "manna",
+        "query": "ragi flakes"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-red-poha-500g",
+    "name": "24 Mantra Organic Red Poha",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-poha-daliya-others"
+    ],
+    "unit_label": "500 g",
+    "mrp": 9000,
+    "price": 8200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic red rice flakes for poha, aval upma and sweet aval. Soak a little longer than white poha and keep the pack sealed.",
+    "tags": [
+      "red poha",
+      "red rice flakes",
+      "red aval",
+      "poha"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "red poha"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-sabja-seeds-100g",
+    "name": "Organic Tattva Sabja Seeds",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "atta-rice-dal-summer-specials"
+    ],
+    "unit_label": "100 g",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Sweet basil seeds that swell in water, used in falooda, nimbu pani and sherbets. Soak for 15 minutes before adding to drinks.",
+    "tags": [
+      "sabja",
+      "basil seeds",
+      "tukmaria",
+      "falooda seeds"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "sabja seeds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-sabja-seeds-100g",
+    "name": "24 Mantra Organic Sabja Seeds",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-summer-specials"
+    ],
+    "unit_label": "100 g",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic sabja seeds for falooda, lemonade and rose milk. Soak in water until they turn jelly-like and store the dry seeds sealed.",
+    "tags": [
+      "sabja",
+      "basil seeds",
+      "tukmaria",
+      "chia alternative"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "sabja seeds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "rajdhani-sattu-500g",
+    "name": "Rajdhani Sattu",
+    "brand": "Rajdhani",
+    "subcategories": [
+      "atta-rice-dal-summer-specials"
+    ],
+    "unit_label": "500 g",
+    "mrp": 9000,
+    "price": 8200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Roasted gram flour for sattu sherbet, litti stuffing and parathas. Whisk with cold water, lemon and salt for a quick summer drink.",
+    "tags": [
+      "sattu",
+      "roasted gram flour",
+      "chana sattu",
+      "sattu atta"
+    ],
+    "image": {
+      "off": {
+        "brand": "rajdhani",
+        "query": "sattu"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "patanjali-sattu-500g",
+    "name": "Patanjali Sattu",
+    "brand": "Patanjali",
+    "subcategories": [
+      "atta-rice-dal-summer-specials"
+    ],
+    "unit_label": "500 g",
+    "mrp": 8500,
+    "price": 7800,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Sattu made from roasted chana for drinks, litti chokha and stuffed rotis. Store in an airtight jar in a cool place.",
+    "tags": [
+      "sattu",
+      "chana sattu",
+      "roasted gram flour",
+      "sattu powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "patanjali",
+        "query": "sattu"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "manna-ragi-drink-mix-200g",
+    "name": "Manna Ragi Drink Mix",
+    "brand": "Manna",
+    "subcategories": [
+      "atta-rice-dal-summer-specials"
+    ],
+    "unit_label": "200 g",
+    "mrp": 14000,
+    "price": 12900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Ragi-based powder to stir into milk or water for a warm or chilled drink. Follow the pack ratio and keep the container tightly closed.",
+    "tags": [
+      "ragi malt",
+      "ragi drink",
+      "ragi java",
+      "millet drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "manna",
+        "query": "ragi drink mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "slurrp-farm-ragi-drink-mix-200g",
+    "name": "Slurrp Farm Ragi Drink Mix",
+    "brand": "Slurrp Farm",
+    "subcategories": [
+      "atta-rice-dal-summer-specials"
+    ],
+    "unit_label": "200 g",
+    "mrp": 19900,
+    "price": 18500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "A millet drink base made with ragi to mix into milk, hot or cold. Use a dry spoon and close the pack well after each use.",
+    "tags": [
+      "ragi drink",
+      "millet drink mix",
+      "ragi malt",
+      "nachni drink"
+    ],
+    "image": {
+      "off": {
+        "brand": "slurrp farm",
+        "query": "ragi drink mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "haldirams-roasted-chana-200g",
+    "name": "Haldiram's Roasted Chana",
+    "brand": "Haldiram's",
+    "subcategories": [
+      "atta-rice-dal-summer-specials"
+    ],
+    "unit_label": "200 g",
+    "mrp": 6000,
+    "price": 5500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Crunchy roasted Bengal gram to snack on or grind into sattu and chutneys. Keep the pack sealed so it stays crisp.",
+    "tags": [
+      "roasted chana",
+      "bhuna chana",
+      "futana",
+      "roasted gram"
+    ],
+    "image": {
+      "off": {
+        "brand": "haldiram's",
+        "query": "roasted chana"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-jaggery-powder-500g",
+    "name": "24 Mantra Organic Jaggery Powder",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "atta-rice-dal-summer-specials"
+    ],
+    "unit_label": "500 g",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic powdered jaggery that dissolves easily in panakam, aam panna and sherbets. Store in an airtight jar to prevent clumping.",
+    "tags": [
+      "jaggery powder",
+      "gur",
+      "vellam",
+      "bellam"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "jaggery powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-jaggery-powder-500g",
+    "name": "Organic Tattva Jaggery Powder",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "atta-rice-dal-summer-specials"
+    ],
+    "unit_label": "500 g",
+    "mrp": 11500,
+    "price": 10500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Powdered organic jaggery for summer coolers, chai and sweets. Use a dry spoon and keep the pack closed in humid weather.",
+    "tags": [
+      "jaggery powder",
+      "gur powder",
+      "shakkar",
+      "desi khand"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "jaggery powder"
+      }
+    },
+    "orderable": true
+  }
+]

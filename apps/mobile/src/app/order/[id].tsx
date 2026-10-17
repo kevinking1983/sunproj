@@ -74,7 +74,7 @@ export default function OrderScreen() {
     const add = useCart.getState().add;
     for (const item of o.order_items) {
       add(
-        { id: item.product_id, slug: "", name: item.name, description: null, unit_label: item.unit_label, mrp: item.mrp, price: item.unit_price, images: item.image_url ? [item.image_url] : [], is_veg: null, category_id: "", brand_name: null, available: 50 },
+        { id: item.product_id, slug: "", name: item.name, description: null, unit_label: item.unit_label, mrp: item.mrp, price: item.unit_price, images: item.image_url ? [item.image_url] : [], is_veg: null, category_id: "", brand_name: null, available: 50, orderable: true },
         storeId,
       );
       for (let i = 1; i < item.quantity; i++) useCart.getState().increment(item.product_id);

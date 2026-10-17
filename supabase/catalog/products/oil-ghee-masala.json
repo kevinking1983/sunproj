@@ -1,0 +1,2082 @@
+[
+  {
+    "slug": "fortune-sunflower-oil-1l",
+    "name": "Fortune Sunflower Oil",
+    "brand": "Fortune",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 18500,
+    "price": 16900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Refined sunflower oil with a light taste for everyday frying, sauteing and tadka. Store away from heat and sunlight with the cap closed.",
+    "tags": [
+      "sunflower oil",
+      "refined oil",
+      "cooking oil",
+      "surajmukhi tel"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "sunflower oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "freedom-sunflower-oil-1l",
+    "name": "Freedom Sunflower Oil",
+    "brand": "Freedom",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 18000,
+    "price": 16500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Refined sunflower oil for frying, curries and baking. Keep in a cool, dark cupboard and avoid reusing oil many times.",
+    "tags": [
+      "sunflower oil",
+      "refined oil",
+      "cooking oil",
+      "edible oil"
+    ],
+    "image": {
+      "off": {
+        "brand": "freedom",
+        "query": "sunflower oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-groundnut-oil-1l",
+    "name": "Fortune Groundnut Oil",
+    "brand": "Fortune",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 23000,
+    "price": 20900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Groundnut oil with a mild nutty flavour for South Indian and Gujarati cooking and deep frying. Store tightly capped away from heat.",
+    "tags": [
+      "groundnut oil",
+      "peanut oil",
+      "moongphali tel",
+      "kadalai ennai"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "groundnut oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dhara-groundnut-oil-1l",
+    "name": "Dhara Groundnut Oil",
+    "brand": "Dhara",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 22500,
+    "price": 20500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Groundnut oil for tempering, frying pakoras and everyday sabzi. Keep the bottle closed in a cool place to preserve flavour.",
+    "tags": [
+      "groundnut oil",
+      "peanut oil",
+      "singdana tel",
+      "cooking oil"
+    ],
+    "image": {
+      "off": {
+        "brand": "dhara",
+        "query": "groundnut oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-mustard-oil-1l",
+    "name": "Fortune Mustard Oil",
+    "brand": "Fortune",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 19500,
+    "price": 17900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Kachi ghani mustard oil with a sharp aroma for pickles, Bengali fish curry and North Indian tadka. Heat until it just smokes before cooking.",
+    "tags": [
+      "mustard oil",
+      "sarson tel",
+      "kachi ghani",
+      "kadugu ennai"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "mustard oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dhara-mustard-oil-1l",
+    "name": "Dhara Mustard Oil",
+    "brand": "Dhara",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 19000,
+    "price": 17500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Pungent mustard oil for achar, sarson da saag and everyday cooking in eastern and northern India. Store away from direct sunlight.",
+    "tags": [
+      "mustard oil",
+      "sarson ka tel",
+      "kachi ghani oil",
+      "cooking oil"
+    ],
+    "image": {
+      "off": {
+        "brand": "dhara",
+        "query": "mustard oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-rice-bran-oil-1l",
+    "name": "Fortune Rice Bran Oil",
+    "brand": "Fortune",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 17500,
+    "price": 15900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Rice bran oil with a neutral taste and high smoke point for deep frying and everyday curries. Keep capped in a cool cupboard.",
+    "tags": [
+      "rice bran oil",
+      "cooking oil",
+      "refined oil",
+      "edible oil"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "rice bran oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "saffola-rice-bran-oil-1l",
+    "name": "Saffola Rice Bran Oil",
+    "brand": "Saffola",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 21000,
+    "price": 19200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Rice bran based cooking oil for frying, sauteing and tadka. Check the label for the exact oil blend and store away from heat.",
+    "tags": [
+      "rice bran oil",
+      "cooking oil",
+      "edible oil",
+      "refined oil"
+    ],
+    "image": {
+      "off": {
+        "brand": "saffola",
+        "query": "rice bran oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "parachute-coconut-oil-1l",
+    "name": "Parachute Coconut Oil",
+    "brand": "Parachute",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 49900,
+    "price": 45900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Pure coconut oil that solidifies below about 24 C. Used in Kerala-style cooking and for tempering; warm the bottle in water to melt it.",
+    "tags": [
+      "coconut oil",
+      "nariyal tel",
+      "thengai ennai",
+      "velichenna"
+    ],
+    "image": {
+      "off": {
+        "brand": "parachute",
+        "query": "coconut oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "klf-coconad-coconut-oil-1l",
+    "name": "KLF Coconad Coconut Oil",
+    "brand": "KLF Coconad",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 42000,
+    "price": 38500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Edible coconut oil for avial, thoran, fish curry and frying banana chips. Store at room temperature; it may turn solid in cool weather.",
+    "tags": [
+      "coconut oil",
+      "edible coconut oil",
+      "nariyal tel",
+      "velichenna"
+    ],
+    "image": {
+      "off": {
+        "brand": "klf coconad",
+        "query": "coconut oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "idhayam-sesame-oil-1l",
+    "name": "Idhayam Sesame Oil",
+    "brand": "Idhayam",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 42000,
+    "price": 38900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Gingelly oil for South Indian tempering, pickles and podi rice. Keep the bottle closed in a cool, dark place.",
+    "tags": [
+      "sesame oil",
+      "gingelly oil",
+      "til tel",
+      "nallennai"
+    ],
+    "image": {
+      "off": {
+        "brand": "idhayam",
+        "query": "sesame oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "anveshan-sesame-oil-1l",
+    "name": "Anveshan Sesame Oil",
+    "brand": "Anveshan",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 59000,
+    "price": 54500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Wood-pressed sesame oil with a deep, nutty aroma for tadka, chutneys and pickles. Store away from sunlight; some settling is natural.",
+    "tags": [
+      "sesame oil",
+      "gingelly oil",
+      "til ka tel",
+      "wood pressed oil"
+    ],
+    "image": {
+      "off": {
+        "brand": "anveshan",
+        "query": "sesame oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "figaro-olive-oil-500ml",
+    "name": "Figaro Olive Oil",
+    "brand": "Figaro",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 62000,
+    "price": 57500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Olive oil for light sauteing, roasting vegetables and Mediterranean dishes. Keep tightly capped away from heat and light.",
+    "tags": [
+      "olive oil",
+      "jaitun tel",
+      "cooking olive oil",
+      "salad oil"
+    ],
+    "image": {
+      "off": {
+        "brand": "figaro",
+        "query": "olive oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "borges-olive-oil-500ml",
+    "name": "Borges Olive Oil",
+    "brand": "Borges",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 75000,
+    "price": 68900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Imported olive oil for salad dressings, pasta and gentle cooking. Store in a cool cupboard and use within a few months of opening.",
+    "tags": [
+      "olive oil",
+      "extra virgin",
+      "salad oil",
+      "jaitun ka tel"
+    ],
+    "image": {
+      "off": {
+        "brand": "borges",
+        "query": "olive oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "saffola-blended-oil-1l",
+    "name": "Saffola Blended Oil",
+    "brand": "Saffola",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 22000,
+    "price": 19900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "A blended edible oil combining two vegetable oils for everyday cooking and frying. See the label for the blend ratio; store away from heat.",
+    "tags": [
+      "blended oil",
+      "cooking oil",
+      "edible oil",
+      "refined oil"
+    ],
+    "image": {
+      "off": {
+        "brand": "saffola",
+        "query": "blended oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fortune-blended-oil-1l",
+    "name": "Fortune Blended Oil",
+    "brand": "Fortune",
+    "subcategories": [
+      "oil-ghee-masala-oil"
+    ],
+    "unit_label": "1 L",
+    "mrp": 19000,
+    "price": 17500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Multi-source blended cooking oil for curries, stir-fries and frying. Keep the pack sealed and away from direct sunlight.",
+    "tags": [
+      "blended oil",
+      "cooking oil",
+      "edible oil",
+      "multi source oil"
+    ],
+    "image": {
+      "off": {
+        "brand": "fortune",
+        "query": "blended oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-ghee-1l",
+    "name": "Amul Ghee",
+    "brand": "Amul",
+    "subcategories": [
+      "oil-ghee-masala-desi-ghee"
+    ],
+    "unit_label": "1 L",
+    "mrp": 64000,
+    "price": 60900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Clarified butter for tadka, rotis, dal and Indian sweets. Store at room temperature with the lid closed and use a dry spoon.",
+    "tags": [
+      "ghee",
+      "desi ghee",
+      "clarified butter",
+      "neyyi"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "ghee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "gowardhan-ghee-1l",
+    "name": "Gowardhan Ghee",
+    "brand": "Gowardhan",
+    "subcategories": [
+      "oil-ghee-masala-desi-ghee"
+    ],
+    "unit_label": "1 L",
+    "mrp": 68000,
+    "price": 63900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Desi ghee with a rich aroma for halwa, laddoos, biryani and drizzling over hot rice. Keep tightly closed away from moisture.",
+    "tags": [
+      "ghee",
+      "desi ghee",
+      "pure ghee",
+      "tuppa"
+    ],
+    "image": {
+      "off": {
+        "brand": "gowardhan",
+        "query": "ghee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "anveshan-bilona-ghee-500ml",
+    "name": "Anveshan Bilona Ghee",
+    "brand": "Anveshan",
+    "subcategories": [
+      "oil-ghee-masala-desi-ghee"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 105000,
+    "price": 94900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ghee made by the bilona method of churning curd into butter and slowly heating it. Grainy texture is natural; store at room temperature.",
+    "tags": [
+      "bilona ghee",
+      "desi ghee",
+      "hand churned ghee",
+      "ghee"
+    ],
+    "image": {
+      "off": {
+        "brand": "anveshan",
+        "query": "bilona ghee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "two-brothers-organic-farms-bilona-ghee-500ml",
+    "name": "Two Brothers Organic Farms Bilona Ghee",
+    "brand": "Two Brothers Organic Farms",
+    "subcategories": [
+      "oil-ghee-masala-desi-ghee"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 145000,
+    "price": 134900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Traditionally churned bilona ghee from a farm producer, for rotis, dal and sweets. Use a clean, dry spoon and keep the jar closed.",
+    "tags": [
+      "bilona ghee",
+      "desi ghee",
+      "farm ghee",
+      "ghee"
+    ],
+    "image": {
+      "off": {
+        "brand": "two brothers organic farms",
+        "query": "bilona ghee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-cow-ghee-1l",
+    "name": "Amul Cow Ghee",
+    "brand": "Amul",
+    "subcategories": [
+      "oil-ghee-masala-cow-ghee"
+    ],
+    "unit_label": "1 L",
+    "mrp": 68000,
+    "price": 64900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ghee made from cow milk, pale yellow with a mild flavour, for everyday cooking and sweets. Store in a cool place with the lid shut.",
+    "tags": [
+      "cow ghee",
+      "desi ghee",
+      "ghee",
+      "gai ka ghee"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "cow ghee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "gowardhan-cow-ghee-1l",
+    "name": "Gowardhan Cow Ghee",
+    "brand": "Gowardhan",
+    "subcategories": [
+      "oil-ghee-masala-cow-ghee"
+    ],
+    "unit_label": "1 L",
+    "mrp": 72000,
+    "price": 67900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Cow ghee for tadka, parathas and festive sweets. Solidifies in cold weather, which does not affect quality; keep away from moisture.",
+    "tags": [
+      "cow ghee",
+      "ghee",
+      "desi ghee",
+      "pure cow ghee"
+    ],
+    "image": {
+      "off": {
+        "brand": "gowardhan",
+        "query": "cow ghee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "akshayakalpa-a2-cow-ghee-500ml",
+    "name": "Akshayakalpa A2 Cow Ghee",
+    "brand": "Akshayakalpa",
+    "subcategories": [
+      "oil-ghee-masala-cow-ghee"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 85000,
+    "price": 78900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Cow ghee sold by the producer as A2, made from milk of its partner farms. Use for cooking or on hot rice; store sealed at room temperature.",
+    "tags": [
+      "a2 ghee",
+      "cow ghee",
+      "desi ghee",
+      "farm ghee"
+    ],
+    "image": {
+      "off": {
+        "brand": "akshayakalpa",
+        "query": "a2 cow ghee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "anveshan-a2-cow-ghee-500ml",
+    "name": "Anveshan A2 Cow Ghee",
+    "brand": "Anveshan",
+    "subcategories": [
+      "oil-ghee-masala-cow-ghee"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 110000,
+    "price": 99900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Producer-labelled A2 cow ghee with a granular texture, for rotis, dal and sweets. Keep the jar tightly closed and use a dry spoon.",
+    "tags": [
+      "a2 cow ghee",
+      "desi ghee",
+      "cow ghee",
+      "ghee"
+    ],
+    "image": {
+      "off": {
+        "brand": "anveshan",
+        "query": "a2 cow ghee"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "everest-turmeric-powder-200g",
+    "name": "Everest Turmeric Powder",
+    "brand": "Everest",
+    "subcategories": [
+      "oil-ghee-masala-powdered-spices"
+    ],
+    "unit_label": "200 g",
+    "mrp": 7200,
+    "price": 6800,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Ground turmeric for curries, dals and marinades. A small pinch gives colour and earthy flavour; store in an airtight jar away from light.",
+    "tags": [
+      "turmeric powder",
+      "haldi",
+      "manjal",
+      "arishina"
+    ],
+    "image": {
+      "off": {
+        "brand": "everest",
+        "query": "turmeric powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mdh-red-chilli-powder-100g",
+    "name": "MDH Red Chilli Powder",
+    "brand": "MDH",
+    "subcategories": [
+      "oil-ghee-masala-powdered-spices"
+    ],
+    "unit_label": "100 g",
+    "mrp": 6000,
+    "price": 5700,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Ground red chilli for heat and colour in curries, chutneys and marinades. Keep the pack sealed and away from humidity.",
+    "tags": [
+      "chilli powder",
+      "lal mirch",
+      "red chilli",
+      "mirchi powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "mdh",
+        "query": "red chilli powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "everest-garam-masala-100g",
+    "name": "Everest Garam Masala",
+    "brand": "Everest",
+    "subcategories": [
+      "oil-ghee-masala-powdered-spices"
+    ],
+    "unit_label": "100 g",
+    "mrp": 9200,
+    "price": 8700,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "A ground blend of warm spices to add at the end of cooking curries, dals and biryani. Store airtight to keep the aroma.",
+    "tags": [
+      "garam masala",
+      "masala powder",
+      "spice mix",
+      "garam masala powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "everest",
+        "query": "garam masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mdh-kitchen-king-masala-100g",
+    "name": "MDH Kitchen King Masala",
+    "brand": "MDH",
+    "subcategories": [
+      "oil-ghee-masala-powdered-spices"
+    ],
+    "unit_label": "100 g",
+    "mrp": 9000,
+    "price": 8500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "An all-purpose spice blend for mixed vegetable sabzis, paneer and dal. Add while sauteing onions and tomatoes; keep the box closed.",
+    "tags": [
+      "kitchen king",
+      "masala",
+      "sabzi masala",
+      "spice mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "mdh",
+        "query": "kitchen king masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "aachi-sambar-powder-200g",
+    "name": "Aachi Sambar Powder",
+    "brand": "Aachi",
+    "subcategories": [
+      "oil-ghee-masala-powdered-spices"
+    ],
+    "unit_label": "200 g",
+    "mrp": 9500,
+    "price": 8900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Ground spice blend for South Indian sambar with toor dal and vegetables. Add with tamarind water and simmer; store in a dry jar.",
+    "tags": [
+      "sambar powder",
+      "sambar masala",
+      "sambar podi",
+      "south indian masala"
+    ],
+    "image": {
+      "off": {
+        "brand": "aachi",
+        "query": "sambar powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-rasam-powder-200g",
+    "name": "MTR Rasam Powder",
+    "brand": "MTR",
+    "subcategories": [
+      "oil-ghee-masala-powdered-spices"
+    ],
+    "unit_label": "200 g",
+    "mrp": 10500,
+    "price": 9900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Spice powder for tangy rasam with tamarind, tomato and pepper. Add a spoon to boiling rasam and simmer briefly; keep the pack sealed.",
+    "tags": [
+      "rasam powder",
+      "rasam masala",
+      "saaru pudi",
+      "rasam podi"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "rasam powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "everest-chicken-masala-100g",
+    "name": "Everest Chicken Masala",
+    "brand": "Everest",
+    "subcategories": [
+      "oil-ghee-masala-non-veg-spices",
+      "chicken-meat-fish-non-veg-spices"
+    ],
+    "unit_label": "100 g",
+    "mrp": 8500,
+    "price": 7900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Ground spice blend for home-style chicken curry. Add after browning onions with ginger-garlic paste; store airtight after opening.",
+    "tags": [
+      "chicken masala",
+      "chicken curry masala",
+      "murgh masala",
+      "non veg masala"
+    ],
+    "image": {
+      "off": {
+        "brand": "everest",
+        "query": "chicken masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "aachi-chicken-masala-200g",
+    "name": "Aachi Chicken Masala",
+    "brand": "Aachi",
+    "subcategories": [
+      "oil-ghee-masala-non-veg-spices",
+      "chicken-meat-fish-non-veg-spices"
+    ],
+    "unit_label": "200 g",
+    "mrp": 12000,
+    "price": 11000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Chicken masala powder for South Indian style chicken curry, fry and chukka. Marinate or add during cooking; keep the pouch sealed.",
+    "tags": [
+      "chicken masala",
+      "chicken curry powder",
+      "kozhi masala",
+      "non veg masala"
+    ],
+    "image": {
+      "off": {
+        "brand": "aachi",
+        "query": "chicken masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "everest-mutton-masala-100g",
+    "name": "Everest Mutton Masala",
+    "brand": "Everest",
+    "subcategories": [
+      "oil-ghee-masala-non-veg-spices",
+      "chicken-meat-fish-non-veg-spices"
+    ],
+    "unit_label": "100 g",
+    "mrp": 8800,
+    "price": 8200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Spice blend for mutton curry and keema, with whole-spice flavours ground together. Add while cooking the meat; store in a dry place.",
+    "tags": [
+      "mutton masala",
+      "meat masala",
+      "gosht masala",
+      "keema masala"
+    ],
+    "image": {
+      "off": {
+        "brand": "everest",
+        "query": "meat masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "aachi-mutton-masala-200g",
+    "name": "Aachi Mutton Masala",
+    "brand": "Aachi",
+    "subcategories": [
+      "oil-ghee-masala-non-veg-spices",
+      "chicken-meat-fish-non-veg-spices"
+    ],
+    "unit_label": "200 g",
+    "mrp": 12500,
+    "price": 11500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Masala powder for mutton curry, fry and kuzhambu. Use with onion, tomato and coconut as you like; reseal the pouch after use.",
+    "tags": [
+      "mutton masala",
+      "meat masala",
+      "kari masala",
+      "non veg masala"
+    ],
+    "image": {
+      "off": {
+        "brand": "aachi",
+        "query": "mutton masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "aachi-fish-masala-200g",
+    "name": "Aachi Fish Masala",
+    "brand": "Aachi",
+    "subcategories": [
+      "oil-ghee-masala-non-veg-spices",
+      "chicken-meat-fish-non-veg-spices"
+    ],
+    "unit_label": "200 g",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Spice blend for fish curry and fish fry. Mix with tamarind for curry, or coat fish pieces with masala and salt before shallow frying.",
+    "tags": [
+      "fish masala",
+      "fish curry masala",
+      "meen masala",
+      "fish fry masala"
+    ],
+    "image": {
+      "off": {
+        "brand": "aachi",
+        "query": "fish masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "eastern-fish-masala-100g",
+    "name": "Eastern Fish Masala",
+    "brand": "Eastern",
+    "subcategories": [
+      "oil-ghee-masala-non-veg-spices",
+      "chicken-meat-fish-non-veg-spices"
+    ],
+    "unit_label": "100 g",
+    "mrp": 7000,
+    "price": 6500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Kerala-style fish masala for curries and fry. Coat fish with masala, salt and a little water and rest 15 minutes before cooking.",
+    "tags": [
+      "fish masala",
+      "meen masala",
+      "fish fry masala",
+      "seafood masala"
+    ],
+    "image": {
+      "off": {
+        "brand": "eastern",
+        "query": "fish masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "everest-biryani-masala-50g",
+    "name": "Everest Biryani Masala",
+    "brand": "Everest",
+    "subcategories": [
+      "oil-ghee-masala-non-veg-spices",
+      "chicken-meat-fish-non-veg-spices"
+    ],
+    "unit_label": "50 g",
+    "mrp": 6500,
+    "price": 6000,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Spice blend for layered chicken, mutton or vegetable biryani. Add to the marinade or gravy base; store airtight to keep the aroma.",
+    "tags": [
+      "biryani masala",
+      "biryani powder",
+      "pulao masala",
+      "dum biryani"
+    ],
+    "image": {
+      "off": {
+        "brand": "everest",
+        "query": "biryani masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "shan-biryani-masala-50g",
+    "name": "Shan Biryani Masala",
+    "brand": "Shan",
+    "subcategories": [
+      "oil-ghee-masala-non-veg-spices",
+      "chicken-meat-fish-non-veg-spices"
+    ],
+    "unit_label": "50 g",
+    "mrp": 9900,
+    "price": 9200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Recipe mix for biryani with chicken, mutton or prawns. It contains salt, so taste before adding more; follow the recipe on the box.",
+    "tags": [
+      "biryani masala",
+      "biryani mix",
+      "shan masala",
+      "biryani spice"
+    ],
+    "image": {
+      "off": {
+        "brand": "shan",
+        "query": "biryani masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "shan-tandoori-masala-50g",
+    "name": "Shan Tandoori Masala",
+    "brand": "Shan",
+    "subcategories": [
+      "oil-ghee-masala-non-veg-spices",
+      "chicken-meat-fish-non-veg-spices"
+    ],
+    "unit_label": "50 g",
+    "mrp": 9900,
+    "price": 9200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Spice mix for marinating chicken, fish or paneer for tandoori dishes. Mix with yogurt and lemon, marinate for a few hours and grill or bake.",
+    "tags": [
+      "tandoori masala",
+      "marinade mix",
+      "tikka masala",
+      "tandoori"
+    ],
+    "image": {
+      "off": {
+        "brand": "shan",
+        "query": "tandoori masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "everest-tandoori-chicken-masala-100g",
+    "name": "Everest Tandoori Chicken Masala",
+    "brand": "Everest",
+    "subcategories": [
+      "oil-ghee-masala-non-veg-spices",
+      "chicken-meat-fish-non-veg-spices"
+    ],
+    "unit_label": "100 g",
+    "mrp": 9000,
+    "price": 8500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Masala for tandoori chicken and tikka marinades. Combine with curd, ginger-garlic paste and oil; rest the meat before grilling.",
+    "tags": [
+      "tandoori masala",
+      "chicken marinade",
+      "tikka masala",
+      "kebab masala"
+    ],
+    "image": {
+      "off": {
+        "brand": "everest",
+        "query": "tandoori chicken masala"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-salt-1kg",
+    "name": "Tata Salt",
+    "brand": "Tata Salt",
+    "subcategories": [
+      "oil-ghee-masala-salt-sugar-jaggery"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 3000,
+    "price": 2800,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Vacuum-evaporated iodised salt for everyday cooking and the table. Keep in a dry container with a lid to prevent caking.",
+    "tags": [
+      "salt",
+      "namak",
+      "iodised salt",
+      "uppu"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata salt",
+        "query": "iodised salt"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "aashirvaad-salt-1kg",
+    "name": "Aashirvaad Salt",
+    "brand": "Aashirvaad Salt",
+    "subcategories": [
+      "oil-ghee-masala-salt-sugar-jaggery"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 2800,
+    "price": 2700,
+    "tax_rate": 0,
+    "is_veg": true,
+    "description": "Iodised table salt for cooking, pickling and seasoning. Store in a dry, closed jar away from the stove.",
+    "tags": [
+      "salt",
+      "namak",
+      "iodised salt",
+      "table salt"
+    ],
+    "image": {
+      "off": {
+        "brand": "aashirvaad salt",
+        "query": "iodised salt"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "madhur-sugar-1kg",
+    "name": "Madhur Sugar",
+    "brand": "Madhur",
+    "subcategories": [
+      "oil-ghee-masala-salt-sugar-jaggery"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 6000,
+    "price": 5500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Refined white sugar for tea, coffee, desserts and baking. Keep in an airtight container to stop it clumping or attracting ants.",
+    "tags": [
+      "sugar",
+      "cheeni",
+      "white sugar",
+      "shakkar"
+    ],
+    "image": {
+      "off": {
+        "brand": "madhur",
+        "query": "sugar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dhampur-sugar-1kg",
+    "name": "Dhampur Sugar",
+    "brand": "Dhampur",
+    "subcategories": [
+      "oil-ghee-masala-salt-sugar-jaggery"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 5800,
+    "price": 5400,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Crystal white sugar for chai, sweets and everyday cooking. Store in a dry jar with a tight lid.",
+    "tags": [
+      "sugar",
+      "cheeni",
+      "chini",
+      "white sugar"
+    ],
+    "image": {
+      "off": {
+        "brand": "dhampur",
+        "query": "sugar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-jaggery-1kg",
+    "name": "24 Mantra Organic Jaggery",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "oil-ghee-masala-salt-sugar-jaggery"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic jaggery block from sugarcane for chikki, payasam and gur wali chai. Break into pieces as needed and keep wrapped in a dry jar.",
+    "tags": [
+      "jaggery",
+      "gur",
+      "vellam",
+      "bellam"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "jaggery"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-jaggery-1kg",
+    "name": "Organic Tattva Jaggery",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "oil-ghee-masala-salt-sugar-jaggery"
+    ],
+    "unit_label": "1 kg",
+    "mrp": 12500,
+    "price": 11500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Unrefined organic jaggery for sweets, chutneys and tea. Store airtight; it may soften in humid weather, which is normal.",
+    "tags": [
+      "jaggery",
+      "gur",
+      "gud",
+      "organic jaggery"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "jaggery"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "sugar-free-sugar-substitute-300pcs",
+    "name": "Sugar Free Sugar Substitute",
+    "brand": "Sugar Free",
+    "subcategories": [
+      "oil-ghee-masala-salt-sugar-jaggery"
+    ],
+    "unit_label": "300 pcs",
+    "mrp": 24000,
+    "price": 21900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Low-calorie sweetener pellets to use in place of sugar in tea and coffee. Check the pack for how many pellets equal a spoon of sugar.",
+    "tags": [
+      "sugar substitute",
+      "sweetener",
+      "sugar free",
+      "artificial sweetener"
+    ],
+    "image": {
+      "off": {
+        "brand": "sugar free",
+        "query": "sweetener pellets"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "equal-sugar-substitute-100sachets",
+    "name": "Equal Sugar Substitute",
+    "brand": "Equal",
+    "subcategories": [
+      "oil-ghee-masala-salt-sugar-jaggery"
+    ],
+    "unit_label": "100 sachets",
+    "mrp": 30000,
+    "price": 27900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Single-serve sweetener sachets to stir into hot or cold drinks. Keep sachets dry and see the box for usage guidance.",
+    "tags": [
+      "sugar substitute",
+      "sweetener",
+      "sweetener sachets",
+      "low calorie sweetener"
+    ],
+    "image": {
+      "off": {
+        "brand": "equal",
+        "query": "sweetener"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "tata-sampann-cumin-seeds-100g",
+    "name": "Tata Sampann Cumin Seeds",
+    "brand": "Tata Sampann",
+    "subcategories": [
+      "oil-ghee-masala-whole-spices"
+    ],
+    "unit_label": "100 g",
+    "mrp": 8000,
+    "price": 7500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Whole cumin for tadka in dals, jeera rice and raita. Splutter in hot oil or ghee, or dry-roast and grind; store airtight.",
+    "tags": [
+      "jeera",
+      "cumin seeds",
+      "zeera",
+      "jeerakam"
+    ],
+    "image": {
+      "off": {
+        "brand": "tata sampann",
+        "query": "cumin seeds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "catch-mustard-seeds-100g",
+    "name": "Catch Mustard Seeds",
+    "brand": "Catch",
+    "subcategories": [
+      "oil-ghee-masala-whole-spices"
+    ],
+    "unit_label": "100 g",
+    "mrp": 4000,
+    "price": 3700,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Small black mustard seeds for South Indian tempering, pickles and kasundi. Let them pop in hot oil before adding other ingredients.",
+    "tags": [
+      "rai",
+      "mustard seeds",
+      "sarson",
+      "kadugu"
+    ],
+    "image": {
+      "off": {
+        "brand": "catch",
+        "query": "mustard seeds"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "catch-cloves-50g",
+    "name": "Catch Cloves",
+    "brand": "Catch",
+    "subcategories": [
+      "oil-ghee-masala-whole-spices"
+    ],
+    "unit_label": "50 g",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Whole cloves for biryani, garam masala and chai. Use sparingly as the flavour is strong; store in a tightly closed jar.",
+    "tags": [
+      "laung",
+      "cloves",
+      "lavang",
+      "grambu"
+    ],
+    "image": {
+      "off": {
+        "brand": "catch",
+        "query": "cloves"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "everest-cinnamon-50g",
+    "name": "Everest Cinnamon",
+    "brand": "Everest",
+    "subcategories": [
+      "oil-ghee-masala-whole-spices"
+    ],
+    "unit_label": "50 g",
+    "mrp": 7000,
+    "price": 6500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Cinnamon sticks for pulao, biryani, curries and masala chai. Add whole to hot oil or grind fresh; keep away from moisture.",
+    "tags": [
+      "dalchini",
+      "cinnamon",
+      "cinnamon sticks",
+      "pattai"
+    ],
+    "image": {
+      "off": {
+        "brand": "everest",
+        "query": "cinnamon"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "star-anise-50g",
+    "name": "Star Anise",
+    "brand": null,
+    "subcategories": [
+      "oil-ghee-masala-whole-spices"
+    ],
+    "unit_label": "50 g",
+    "mrp": 8000,
+    "price": 7200,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Loose star-shaped whole spice with a liquorice-like aroma, used in biryani and garam masala. Store whole in an airtight jar.",
+    "tags": [
+      "star anise",
+      "chakra phool",
+      "badiyan",
+      "anasphal"
+    ],
+    "image": {
+      "wiki": "Illicium verum"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bay-leaf-50g",
+    "name": "Bay Leaf",
+    "brand": null,
+    "subcategories": [
+      "oil-ghee-masala-whole-spices"
+    ],
+    "unit_label": "50 g",
+    "mrp": 4000,
+    "price": 3500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Dried Indian bay leaves (tej patta) for pulao, dal and curries. Add whole to hot oil at the start and remove before serving.",
+    "tags": [
+      "bay leaf",
+      "tej patta",
+      "tejpat",
+      "biryani leaf"
+    ],
+    "image": {
+      "wiki": "Bay leaf"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kalonji-100g",
+    "name": "Kalonji",
+    "brand": null,
+    "subcategories": [
+      "oil-ghee-masala-whole-spices"
+    ],
+    "unit_label": "100 g",
+    "mrp": 6000,
+    "price": 5400,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Loose nigella seeds for naan, pickles, panch phoron and Bengali dishes. Store in a closed jar away from light.",
+    "tags": [
+      "kalonji",
+      "nigella seeds",
+      "onion seeds",
+      "kalo jeere"
+    ],
+    "image": {
+      "wiki": "Nigella sativa"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "aachi-dry-red-chilli-250g",
+    "name": "Aachi Dry Red Chilli",
+    "brand": "Aachi",
+    "subcategories": [
+      "oil-ghee-masala-whole-spices"
+    ],
+    "unit_label": "250 g",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Whole dried red chillies for tempering, chutneys and grinding into masala. Remove seeds for less heat; store in an airtight container.",
+    "tags": [
+      "dry red chilli",
+      "sukhi lal mirch",
+      "vara milagai",
+      "whole chilli"
+    ],
+    "image": {
+      "off": {
+        "brand": "aachi",
+        "query": "dry red chilli"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "eastern-dry-turmeric-200g",
+    "name": "Eastern Dry Turmeric",
+    "brand": "Eastern",
+    "subcategories": [
+      "oil-ghee-masala-whole-spices"
+    ],
+    "unit_label": "200 g",
+    "mrp": 8000,
+    "price": 7400,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Dried whole turmeric fingers for grinding fresh haldi powder at home or for pickles. Keep dry; grind in small batches.",
+    "tags": [
+      "whole turmeric",
+      "sabut haldi",
+      "turmeric fingers",
+      "manjal"
+    ],
+    "image": {
+      "off": {
+        "brand": "eastern",
+        "query": "dry turmeric"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dabur-hommade-ginger-garlic-paste-200g",
+    "name": "Dabur Hommade Ginger Garlic Paste",
+    "brand": "Dabur Hommade",
+    "subcategories": [
+      "oil-ghee-masala-gravy-mixes-pastes"
+    ],
+    "unit_label": "200 g",
+    "mrp": 7500,
+    "price": 6900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready ginger-garlic paste for curries, marinades and biryani. Saute in oil until the raw smell goes; refrigerate after opening.",
+    "tags": [
+      "ginger garlic paste",
+      "adrak lehsun paste",
+      "gg paste",
+      "masala paste"
+    ],
+    "image": {
+      "off": {
+        "brand": "dabur hommade",
+        "query": "ginger garlic paste"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mothers-recipe-ginger-garlic-paste-300g",
+    "name": "Mother's Recipe Ginger Garlic Paste",
+    "brand": "Mother's Recipe",
+    "subcategories": [
+      "oil-ghee-masala-gravy-mixes-pastes"
+    ],
+    "unit_label": "300 g",
+    "mrp": 9500,
+    "price": 8900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ginger-garlic paste for everyday sabzis, chicken and paneer dishes. Use a clean, dry spoon and keep refrigerated once opened.",
+    "tags": [
+      "ginger garlic paste",
+      "adrak lahsun",
+      "cooking paste",
+      "marinade paste"
+    ],
+    "image": {
+      "off": {
+        "brand": "mother's recipe",
+        "query": "ginger garlic paste"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kissan-tomato-puree-200g",
+    "name": "Kissan Tomato Puree",
+    "brand": "Kissan",
+    "subcategories": [
+      "oil-ghee-masala-gravy-mixes-pastes"
+    ],
+    "unit_label": "200 g",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Smooth tomato puree for gravies, pasta sauce and soups. Saves chopping fresh tomatoes; refrigerate and use within a few days of opening.",
+    "tags": [
+      "tomato puree",
+      "tamatar puree",
+      "tomato paste",
+      "gravy base"
+    ],
+    "image": {
+      "off": {
+        "brand": "kissan",
+        "query": "tomato puree"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "del-monte-tomato-puree-200g",
+    "name": "Del Monte Tomato Puree",
+    "brand": "Del Monte",
+    "subcategories": [
+      "oil-ghee-masala-gravy-mixes-pastes"
+    ],
+    "unit_label": "200 g",
+    "mrp": 4500,
+    "price": 4200,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Tomato puree for makhani gravy, pizza sauce and soups. Shake or stir before use and store the opened pack in the fridge.",
+    "tags": [
+      "tomato puree",
+      "tomato paste",
+      "tamatar",
+      "pizza sauce base"
+    ],
+    "image": {
+      "off": {
+        "brand": "del monte",
+        "query": "tomato puree"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dabur-hommade-tamarind-paste-200g",
+    "name": "Dabur Hommade Tamarind Paste",
+    "brand": "Dabur Hommade",
+    "subcategories": [
+      "oil-ghee-masala-gravy-mixes-pastes"
+    ],
+    "unit_label": "200 g",
+    "mrp": 7000,
+    "price": 6500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Ready tamarind paste for sambar, rasam, chutneys and chaat. Saves soaking and straining imli; refrigerate after opening.",
+    "tags": [
+      "tamarind paste",
+      "imli paste",
+      "puli",
+      "imli"
+    ],
+    "image": {
+      "off": {
+        "brand": "dabur hommade",
+        "query": "tamarind paste"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mothers-recipe-green-chilli-paste-200g",
+    "name": "Mother's Recipe Green Chilli Paste",
+    "brand": "Mother's Recipe",
+    "subcategories": [
+      "oil-ghee-masala-gravy-mixes-pastes"
+    ],
+    "unit_label": "200 g",
+    "mrp": 7000,
+    "price": 6500,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Green chilli paste for adding heat to dals, chutneys and marinades. Start with a small amount; keep refrigerated once opened.",
+    "tags": [
+      "green chilli paste",
+      "hari mirch paste",
+      "chilli paste",
+      "cooking paste"
+    ],
+    "image": {
+      "off": {
+        "brand": "mother's recipe",
+        "query": "green chilli paste"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mtr-paneer-gravy-mix-100g",
+    "name": "MTR Paneer Gravy Mix",
+    "brand": "MTR",
+    "subcategories": [
+      "oil-ghee-masala-gravy-mixes-pastes"
+    ],
+    "unit_label": "100 g",
+    "mrp": 8000,
+    "price": 7500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Instant gravy mix for paneer dishes; mix with water, simmer and add paneer cubes. Store in a cool, dry place.",
+    "tags": [
+      "gravy mix",
+      "paneer masala",
+      "curry mix",
+      "instant gravy"
+    ],
+    "image": {
+      "off": {
+        "brand": "mtr",
+        "query": "paneer masala mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "gits-makhani-gravy-mix-100g",
+    "name": "Gits Makhani Gravy Mix",
+    "brand": "Gits",
+    "subcategories": [
+      "oil-ghee-masala-gravy-mixes-pastes"
+    ],
+    "unit_label": "100 g",
+    "mrp": 8500,
+    "price": 7900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Ready mix for a buttery tomato makhani gravy to use with paneer, vegetables or chicken. Follow the pack directions for water quantity.",
+    "tags": [
+      "makhani gravy",
+      "gravy mix",
+      "butter masala",
+      "curry mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "gits",
+        "query": "makhani gravy mix"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "keya-oregano-20g",
+    "name": "Keya Oregano",
+    "brand": "Keya",
+    "subcategories": [
+      "oil-ghee-masala-herbs-seasoning"
+    ],
+    "unit_label": "20 g",
+    "mrp": 14000,
+    "price": 12900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Dried oregano leaves for pizza, pasta and garlic bread. Crush between your fingers to release the aroma; keep the jar tightly closed.",
+    "tags": [
+      "oregano",
+      "dried oregano",
+      "pizza herbs",
+      "italian herbs"
+    ],
+    "image": {
+      "off": {
+        "brand": "keya",
+        "query": "oregano"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "catch-basil-leaves-15g",
+    "name": "Catch Basil Leaves",
+    "brand": "Catch",
+    "subcategories": [
+      "oil-ghee-masala-herbs-seasoning"
+    ],
+    "unit_label": "15 g",
+    "mrp": 9000,
+    "price": 8500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Dried basil leaves for pasta sauces, soups and salad dressings. Add towards the end of cooking and store away from heat.",
+    "tags": [
+      "basil",
+      "dried basil",
+      "basil leaves",
+      "italian herbs"
+    ],
+    "image": {
+      "off": {
+        "brand": "catch",
+        "query": "dried basil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "keya-italian-seasoning-40g",
+    "name": "Keya Italian Seasoning",
+    "brand": "Keya",
+    "subcategories": [
+      "oil-ghee-masala-herbs-seasoning"
+    ],
+    "unit_label": "40 g",
+    "mrp": 16000,
+    "price": 14900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "A dried herb mix for pasta, pizza, roasted vegetables and dips. Sprinkle while cooking or over finished dishes; keep the jar sealed.",
+    "tags": [
+      "italian seasoning",
+      "mixed herbs",
+      "pizza seasoning",
+      "herb mix"
+    ],
+    "image": {
+      "off": {
+        "brand": "keya",
+        "query": "italian seasoning"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "catch-mixed-herbs-20g",
+    "name": "Catch Mixed Herbs",
+    "brand": "Catch",
+    "subcategories": [
+      "oil-ghee-masala-herbs-seasoning"
+    ],
+    "unit_label": "20 g",
+    "mrp": 11000,
+    "price": 9900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Mixed dried herbs for soups, sauces, marinades and garlic butter. Store in a cool, dry place away from steam.",
+    "tags": [
+      "mixed herbs",
+      "herb seasoning",
+      "italian herbs",
+      "dried herbs"
+    ],
+    "image": {
+      "off": {
+        "brand": "catch",
+        "query": "mixed herbs"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "keya-chilli-flakes-40g",
+    "name": "Keya Chilli Flakes",
+    "brand": "Keya",
+    "subcategories": [
+      "oil-ghee-masala-herbs-seasoning"
+    ],
+    "unit_label": "40 g",
+    "mrp": 12000,
+    "price": 10900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Crushed red chilli flakes to sprinkle on pizza, pasta, eggs and noodles. Keep the jar closed to retain heat and colour.",
+    "tags": [
+      "chilli flakes",
+      "red chilli flakes",
+      "pizza chilli",
+      "crushed chilli"
+    ],
+    "image": {
+      "off": {
+        "brand": "keya",
+        "query": "chilli flakes"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "catch-black-pepper-powder-100g",
+    "name": "Catch Black Pepper Powder",
+    "brand": "Catch",
+    "subcategories": [
+      "oil-ghee-masala-herbs-seasoning"
+    ],
+    "unit_label": "100 g",
+    "mrp": 14000,
+    "price": 12900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Ground black pepper for eggs, soups, salads and rasam. Use as a table seasoning or in cooking; store airtight.",
+    "tags": [
+      "black pepper",
+      "kali mirch",
+      "pepper powder",
+      "milagu"
+    ],
+    "image": {
+      "off": {
+        "brand": "catch",
+        "query": "black pepper powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-turmeric-powder-100g",
+    "name": "24 Mantra Organic Turmeric Powder",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "oil-ghee-masala-organic"
+    ],
+    "unit_label": "100 g",
+    "mrp": 7000,
+    "price": 6500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Certified organic ground turmeric for dals, curries and pickles. Store in an airtight jar away from light and moisture.",
+    "tags": [
+      "organic turmeric",
+      "haldi",
+      "turmeric powder",
+      "manjal podi"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "organic turmeric powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-chilli-powder-100g",
+    "name": "Organic Tattva Chilli Powder",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "oil-ghee-masala-organic"
+    ],
+    "unit_label": "100 g",
+    "mrp": 7500,
+    "price": 6900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic red chilli powder for curries, chutneys and marinades. Adjust quantity to taste and keep the pack sealed.",
+    "tags": [
+      "organic chilli powder",
+      "lal mirch",
+      "red chilli powder",
+      "mirchi"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "organic chilli powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "24-mantra-organic-black-pepper-100g",
+    "name": "24 Mantra Organic Black Pepper",
+    "brand": "24 Mantra Organic",
+    "subcategories": [
+      "oil-ghee-masala-organic"
+    ],
+    "unit_label": "100 g",
+    "mrp": 19000,
+    "price": 17500,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic whole black peppercorns for rasam, pepper chicken and fresh grinding. Use a grinder for best aroma; store airtight.",
+    "tags": [
+      "black pepper",
+      "kali mirch",
+      "peppercorns",
+      "organic pepper"
+    ],
+    "image": {
+      "off": {
+        "brand": "24 mantra organic",
+        "query": "organic black pepper"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "organic-tattva-cumin-seeds-100g",
+    "name": "Organic Tattva Cumin Seeds",
+    "brand": "Organic Tattva",
+    "subcategories": [
+      "oil-ghee-masala-organic"
+    ],
+    "unit_label": "100 g",
+    "mrp": 9500,
+    "price": 8900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Organic whole cumin for tadka, jeera rice and spice blends. Dry-roast and grind for raita and chaat; keep in a sealed jar.",
+    "tags": [
+      "organic jeera",
+      "cumin seeds",
+      "jeera",
+      "zeera"
+    ],
+    "image": {
+      "off": {
+        "brand": "organic tattva",
+        "query": "organic cumin"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "anveshan-coconut-oil-1l",
+    "name": "Anveshan Coconut Oil",
+    "brand": "Anveshan",
+    "subcategories": [
+      "oil-ghee-masala-organic"
+    ],
+    "unit_label": "1 L",
+    "mrp": 65000,
+    "price": 59900,
+    "tax_rate": 5,
+    "is_veg": true,
+    "description": "Wood-pressed coconut oil for Kerala-style cooking and tempering. Solidifies in cool weather; warm gently to liquefy before use.",
+    "tags": [
+      "coconut oil",
+      "wood pressed coconut oil",
+      "nariyal tel",
+      "cold pressed oil"
+    ],
+    "image": {
+      "off": {
+        "brand": "anveshan",
+        "query": "coconut oil"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "akshayakalpa-cow-ghee-500ml",
+    "name": "Akshayakalpa Cow Ghee",
+    "brand": "Akshayakalpa",
+    "subcategories": [
+      "oil-ghee-masala-organic"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 78000,
+    "price": 72900,
+    "tax_rate": 12,
+    "is_veg": true,
+    "description": "Cow ghee from an organic dairy farm producer, for rotis, dal and sweets. Store at room temperature with the lid closed.",
+    "tags": [
+      "organic ghee",
+      "cow ghee",
+      "desi ghee",
+      "ghee"
+    ],
+    "image": {
+      "off": {
+        "brand": "akshayakalpa",
+        "query": "cow ghee"
+      }
+    },
+    "orderable": true
+  }
+]

@@ -1,0 +1,1184 @@
+[
+  {
+    "slug": "lux-soap-4x100g",
+    "name": "Lux Soap",
+    "brand": "Lux",
+    "subcategories": [
+      "bath-body-bathing-soaps"
+    ],
+    "unit_label": "4 x 100 g",
+    "mrp": 18000,
+    "price": 17100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Fragrant bathing bar for daily use by the whole family. Keep it on a draining soap dish between uses so the bar lasts longer.",
+    "tags": [
+      "soap",
+      "bathing soap",
+      "sabun",
+      "bath bar"
+    ],
+    "image": {
+      "off": {
+        "brand": "lux",
+        "query": "soap bar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lifebuoy-soap-4x100g",
+    "name": "Lifebuoy Soap",
+    "brand": "Lifebuoy",
+    "subcategories": [
+      "bath-body-bathing-soaps"
+    ],
+    "unit_label": "4 x 100 g",
+    "mrp": 16000,
+    "price": 14400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Everyday bathing soap bar suited to family use. Work up a lather with water, rinse well and store the bar dry on a soap case.",
+    "tags": [
+      "soap",
+      "bathing soap",
+      "sabun",
+      "lifebuoy"
+    ],
+    "image": {
+      "off": {
+        "brand": "lifebuoy",
+        "query": "soap bar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dove-beauty-bar-3x100g",
+    "name": "Dove Beauty Bar",
+    "brand": "Dove",
+    "subcategories": [
+      "bath-body-bathing-soaps"
+    ],
+    "unit_label": "3 x 100 g",
+    "mrp": 23500,
+    "price": 23500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Creamy beauty bar for daily bathing that lathers gently. Use on wet skin, rinse off and keep the bar dry between uses.",
+    "tags": [
+      "beauty bar",
+      "moisturising soap",
+      "sabun",
+      "dove soap"
+    ],
+    "image": {
+      "off": {
+        "brand": "dove",
+        "query": "beauty bar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pears-soap-3x125g",
+    "name": "Pears Soap",
+    "brand": "Pears",
+    "subcategories": [
+      "bath-body-bathing-soaps"
+    ],
+    "unit_label": "3 x 125 g",
+    "mrp": 22000,
+    "price": 20200,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Transparent glycerin bathing bar for everyday use. Store it on a draining soap dish to keep it firm and long-lasting.",
+    "tags": [
+      "glycerin soap",
+      "bathing soap",
+      "sabun",
+      "pears"
+    ],
+    "image": {
+      "off": {
+        "brand": "pears",
+        "query": "glycerin soap"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "medimix-soap-3x125g",
+    "name": "Medimix Soap",
+    "brand": "Medimix",
+    "subcategories": [
+      "bath-body-bathing-soaps"
+    ],
+    "unit_label": "3 x 125 g",
+    "mrp": 15000,
+    "price": 13200,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Herbal-style bathing soap in the Ayurvedic tradition for daily use. Lather on wet skin, rinse off and keep the bar dry between baths.",
+    "tags": [
+      "herbal soap",
+      "ayurvedic soap",
+      "sabun",
+      "medimix"
+    ],
+    "image": {
+      "off": {
+        "brand": "medimix",
+        "query": "ayurvedic soap"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mysore-sandal-soap-3x125g",
+    "name": "Mysore Sandal Soap",
+    "brand": "Mysore Sandal",
+    "subcategories": [
+      "bath-body-bathing-soaps"
+    ],
+    "unit_label": "3 x 125 g",
+    "mrp": 25500,
+    "price": 21600,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Sandalwood-scented bathing soap, a long-standing favourite in Indian homes. Use daily and keep the bar dry between baths.",
+    "tags": [
+      "sandal soap",
+      "chandan soap",
+      "sabun",
+      "mysore sandal"
+    ],
+    "image": {
+      "off": {
+        "brand": "mysore sandal",
+        "query": "sandal soap"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dettol-soap-3x125g",
+    "name": "Dettol Soap",
+    "brand": "Dettol",
+    "subcategories": [
+      "bath-body-bathing-soaps"
+    ],
+    "unit_label": "3 x 125 g",
+    "mrp": 18500,
+    "price": 17300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Bathing bar with Dettol's familiar fragrance for everyday family use. Lather, rinse thoroughly and store on a draining soap dish.",
+    "tags": [
+      "dettol soap",
+      "bathing soap",
+      "sabun",
+      "antiseptic soap"
+    ],
+    "image": {
+      "off": {
+        "brand": "dettol",
+        "query": "soap bar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "savlon-soap-3x125g",
+    "name": "Savlon Soap",
+    "brand": "Savlon",
+    "subcategories": [
+      "bath-body-bathing-soaps"
+    ],
+    "unit_label": "3 x 125 g",
+    "mrp": 15000,
+    "price": 13500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Everyday bathing bar from Savlon for family use. Work into a lather on wet skin, rinse off and keep the bar dry between uses.",
+    "tags": [
+      "savlon soap",
+      "bathing soap",
+      "sabun"
+    ],
+    "image": {
+      "off": {
+        "brand": "savlon",
+        "query": "soap bar"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dove-body-wash-250ml",
+    "name": "Dove Body Wash",
+    "brand": "Dove",
+    "subcategories": [
+      "bath-body-shower-gels-scrubs"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 29900,
+    "price": 29000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Creamy liquid body wash for the shower. Squeeze onto a loofah or palm, lather over wet skin and rinse off.",
+    "tags": [
+      "body wash",
+      "shower gel",
+      "liquid soap",
+      "dove"
+    ],
+    "image": {
+      "off": {
+        "brand": "dove",
+        "query": "body wash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nivea-body-wash-250ml",
+    "name": "Nivea Body Wash",
+    "brand": "Nivea",
+    "subcategories": [
+      "bath-body-shower-gels-scrubs"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 27500,
+    "price": 25000,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Shower gel for everyday bathing in a squeezable bottle. Use with a bath sponge for a rich lather and close the cap after use.",
+    "tags": [
+      "body wash",
+      "shower gel",
+      "liquid soap",
+      "nivea"
+    ],
+    "image": {
+      "off": {
+        "brand": "nivea",
+        "query": "shower gel"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mcaffeine-coffee-body-scrub-100g",
+    "name": "mCaffeine Coffee Body Scrub",
+    "brand": "mCaffeine",
+    "subcategories": [
+      "bath-body-shower-gels-scrubs"
+    ],
+    "unit_label": "100 g",
+    "mrp": 49900,
+    "price": 47400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Coffee-based body scrub used in the shower. Massage gently over wet skin in circular motions, then rinse; use a couple of times a week.",
+    "tags": [
+      "body scrub",
+      "coffee scrub",
+      "exfoliator",
+      "ubtan"
+    ],
+    "image": {
+      "off": {
+        "brand": "mcaffeine",
+        "query": "coffee body scrub"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-body-shop-body-scrub-200ml",
+    "name": "The Body Shop Body Scrub",
+    "brand": "The Body Shop",
+    "subcategories": [
+      "bath-body-shower-gels-scrubs"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 189900,
+    "price": 170900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Granular body scrub in a jar for use during a shower or bath. Rub over damp skin, rinse thoroughly and keep the lid tightly closed.",
+    "tags": [
+      "body scrub",
+      "body polish",
+      "exfoliator"
+    ],
+    "image": {
+      "off": {
+        "brand": "the body shop",
+        "query": "body scrub"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "colgate-toothpaste-200g",
+    "name": "Colgate Toothpaste",
+    "brand": "Colgate",
+    "subcategories": [
+      "bath-body-oral-care"
+    ],
+    "unit_label": "200 g",
+    "mrp": 12500,
+    "price": 12500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Family toothpaste for brushing twice a day. Use a pea-sized amount on a toothbrush and close the cap after use.",
+    "tags": [
+      "toothpaste",
+      "manjan",
+      "dant manjan",
+      "colgate"
+    ],
+    "image": {
+      "off": {
+        "brand": "colgate",
+        "query": "toothpaste"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "pepsodent-toothpaste-150g",
+    "name": "Pepsodent Toothpaste",
+    "brand": "Pepsodent",
+    "subcategories": [
+      "bath-body-oral-care"
+    ],
+    "unit_label": "150 g",
+    "mrp": 9900,
+    "price": 9100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Everyday toothpaste for the whole family. Brush for two minutes morning and night, and keep the tube capped.",
+    "tags": [
+      "toothpaste",
+      "manjan",
+      "dant manjan",
+      "pepsodent"
+    ],
+    "image": {
+      "off": {
+        "brand": "pepsodent",
+        "query": "toothpaste"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "oral-b-toothbrush-pack-of-3",
+    "name": "Oral-B Toothbrush",
+    "brand": "Oral-B",
+    "subcategories": [
+      "bath-body-oral-care"
+    ],
+    "unit_label": "Pack of 3",
+    "mrp": 15000,
+    "price": 13200,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Manual toothbrushes with soft bristles for daily brushing. Replace each brush every three months or sooner if the bristles fray.",
+    "tags": [
+      "toothbrush",
+      "brush",
+      "soft toothbrush",
+      "oral b"
+    ],
+    "image": {
+      "off": {
+        "brand": "oral-b",
+        "query": "toothbrush"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "colgate-toothbrush-pack-of-4",
+    "name": "Colgate Toothbrush",
+    "brand": "Colgate",
+    "subcategories": [
+      "bath-body-oral-care"
+    ],
+    "unit_label": "Pack of 4",
+    "mrp": 14000,
+    "price": 11900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Value pack of manual toothbrushes for the family. Rinse after brushing, store upright to air-dry and replace every three months.",
+    "tags": [
+      "toothbrush",
+      "brush",
+      "family toothbrush",
+      "colgate"
+    ],
+    "image": {
+      "off": {
+        "brand": "colgate",
+        "query": "toothbrush"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "listerine-mouthwash-250ml",
+    "name": "Listerine Mouthwash",
+    "brand": "Listerine",
+    "subcategories": [
+      "bath-body-oral-care"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 16500,
+    "price": 15500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Liquid mouthwash for rinsing after brushing. Swish the measured amount around the mouth for the time shown on the label, then spit out; do not swallow.",
+    "tags": [
+      "mouthwash",
+      "mouth rinse",
+      "listerine"
+    ],
+    "image": {
+      "off": {
+        "brand": "listerine",
+        "query": "mouthwash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "colgate-plax-mouthwash-250ml",
+    "name": "Colgate Plax Mouthwash",
+    "brand": "Colgate Plax",
+    "subcategories": [
+      "bath-body-oral-care"
+    ],
+    "unit_label": "250 ml",
+    "mrp": 13500,
+    "price": 12100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Mouthwash for use after brushing as part of a daily oral care routine. Rinse with the measured amount and spit out; not for children under the label age.",
+    "tags": [
+      "mouthwash",
+      "mouth rinse",
+      "colgate plax"
+    ],
+    "image": {
+      "off": {
+        "brand": "colgate plax",
+        "query": "mouthwash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "oral-b-dental-floss-50m",
+    "name": "Oral-B Dental Floss",
+    "brand": "Oral-B",
+    "subcategories": [
+      "bath-body-oral-care"
+    ],
+    "unit_label": "50 m",
+    "mrp": 25000,
+    "price": 24200,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Dental floss on a compact dispenser for cleaning between teeth. Use a fresh length each time and wind it round your fingers for control.",
+    "tags": [
+      "dental floss",
+      "floss",
+      "interdental"
+    ],
+    "image": {
+      "off": {
+        "brand": "oral-b",
+        "query": "dental floss"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "colgate-dental-floss-25m",
+    "name": "Colgate Dental Floss",
+    "brand": "Colgate",
+    "subcategories": [
+      "bath-body-oral-care"
+    ],
+    "unit_label": "25 m",
+    "mrp": 17500,
+    "price": 15900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Dental floss in a pocket dispenser for daily cleaning between teeth. Cut a fresh length each time and guide it gently along each tooth.",
+    "tags": [
+      "dental floss",
+      "floss",
+      "interdental"
+    ],
+    "image": {
+      "off": {
+        "brand": "colgate",
+        "query": "dental floss"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dettol-liquid-handwash-200ml",
+    "name": "Dettol Liquid Handwash",
+    "brand": "Dettol",
+    "subcategories": [
+      "bath-body-handwash"
+    ],
+    "unit_label": "200 ml",
+    "mrp": 10900,
+    "price": 10300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Liquid handwash in a pump bottle for kitchens and washrooms. Wet hands, pump once, lather for about 20 seconds and rinse.",
+    "tags": [
+      "handwash",
+      "hand wash",
+      "liquid soap",
+      "dettol"
+    ],
+    "image": {
+      "off": {
+        "brand": "dettol",
+        "query": "liquid handwash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lifebuoy-liquid-handwash-190ml",
+    "name": "Lifebuoy Liquid Handwash",
+    "brand": "Lifebuoy",
+    "subcategories": [
+      "bath-body-handwash"
+    ],
+    "unit_label": "190 ml",
+    "mrp": 9900,
+    "price": 8900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Pump-bottle liquid handwash for everyday use at the sink. Lather well on wet hands, rinse and keep the nozzle clean.",
+    "tags": [
+      "handwash",
+      "hand wash",
+      "liquid soap",
+      "lifebuoy"
+    ],
+    "image": {
+      "off": {
+        "brand": "lifebuoy",
+        "query": "liquid handwash"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dettol-handwash-refill-750ml",
+    "name": "Dettol Handwash Refill",
+    "brand": "Dettol",
+    "subcategories": [
+      "bath-body-handwash"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 19900,
+    "price": 19900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Refill pouch of liquid handwash to top up an existing pump bottle. Pour carefully into a clean dispenser and seal the pouch between refills.",
+    "tags": [
+      "handwash refill",
+      "refill pouch",
+      "liquid soap",
+      "dettol"
+    ],
+    "image": {
+      "off": {
+        "brand": "dettol",
+        "query": "handwash refill"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "lifebuoy-handwash-refill-750ml",
+    "name": "Lifebuoy Handwash Refill",
+    "brand": "Lifebuoy",
+    "subcategories": [
+      "bath-body-handwash"
+    ],
+    "unit_label": "750 ml",
+    "mrp": 17900,
+    "price": 16400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Economy refill pack of liquid handwash for topping up dispensers at home. Close the spout after pouring and store upright.",
+    "tags": [
+      "handwash refill",
+      "refill pouch",
+      "liquid soap",
+      "lifebuoy"
+    ],
+    "image": {
+      "off": {
+        "brand": "lifebuoy",
+        "query": "handwash refill"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "fogg-body-spray-150ml",
+    "name": "Fogg Body Spray",
+    "brand": "Fogg",
+    "subcategories": [
+      "bath-body-fragrance-talc"
+    ],
+    "unit_label": "150 ml",
+    "mrp": 34900,
+    "price": 30700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Fragrance body spray for everyday wear. Spray onto clothes or skin from a short distance; keep away from heat and out of reach of children.",
+    "tags": [
+      "deodorant",
+      "deo",
+      "body spray",
+      "fogg"
+    ],
+    "image": {
+      "off": {
+        "brand": "fogg",
+        "query": "body spray"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "engage-deodorant-150ml",
+    "name": "Engage Deodorant",
+    "brand": "Engage",
+    "subcategories": [
+      "bath-body-fragrance-talc"
+    ],
+    "unit_label": "150 ml",
+    "mrp": 27500,
+    "price": 23300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Deodorant body spray for daily use. Shake well, spray from about 15 cm away and avoid spraying near the face or open flames.",
+    "tags": [
+      "deodorant",
+      "deo",
+      "body spray",
+      "engage"
+    ],
+    "image": {
+      "off": {
+        "brand": "engage",
+        "query": "deodorant"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "ponds-talcum-powder-200g",
+    "name": "Pond's Talcum Powder",
+    "brand": "Pond's",
+    "subcategories": [
+      "bath-body-fragrance-talc"
+    ],
+    "unit_label": "200 g",
+    "mrp": 19500,
+    "price": 18300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Scented talcum powder for use after a bath. Sprinkle lightly onto dry skin and keep the cap closed to stop moisture getting in.",
+    "tags": [
+      "talc",
+      "talcum powder",
+      "body powder",
+      "ponds powder"
+    ],
+    "image": {
+      "off": {
+        "brand": "pond's",
+        "query": "talcum powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cinthol-talcum-powder-100g",
+    "name": "Cinthol Talcum Powder",
+    "brand": "Cinthol",
+    "subcategories": [
+      "bath-body-fragrance-talc"
+    ],
+    "unit_label": "100 g",
+    "mrp": 9500,
+    "price": 8500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Body talcum powder with a fresh scent for everyday use. Shake a little onto palms, pat over dry skin and store away from damp areas.",
+    "tags": [
+      "talc",
+      "talcum powder",
+      "body powder",
+      "cinthol"
+    ],
+    "image": {
+      "off": {
+        "brand": "cinthol",
+        "query": "talcum powder"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bella-vita-perfume-100ml",
+    "name": "Bella Vita Perfume",
+    "brand": "Bella Vita",
+    "subcategories": [
+      "bath-body-fragrance-talc"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 79900,
+    "price": 77500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Perfume in a spray bottle for daily or occasion wear. Spray on pulse points such as wrists and neck; store away from sunlight and heat.",
+    "tags": [
+      "perfume",
+      "scent",
+      "fragrance",
+      "itra"
+    ],
+    "image": {
+      "off": {
+        "brand": "bella vita",
+        "query": "perfume"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "skinn-by-titan-perfume-50ml",
+    "name": "Skinn by Titan Perfume",
+    "brand": "Skinn by Titan",
+    "subcategories": [
+      "bath-body-fragrance-talc"
+    ],
+    "unit_label": "50 ml",
+    "mrp": 189500,
+    "price": 172400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Perfume spray for everyday and evening wear. Apply to pulse points after dressing and keep the bottle in a cool, dark place.",
+    "tags": [
+      "perfume",
+      "scent",
+      "fragrance",
+      "skinn"
+    ],
+    "image": {
+      "off": {
+        "brand": "skinn by titan",
+        "query": "perfume"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vega-bath-loofah-1pc",
+    "name": "Vega Bath Loofah",
+    "brand": "Vega",
+    "subcategories": [
+      "bath-body-bath-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 14900,
+    "price": 14100,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Mesh bath sponge that works up a rich lather with soap or body wash. Rinse after each use and hang it to dry in a ventilated spot.",
+    "tags": [
+      "loofah",
+      "bath sponge",
+      "scrubber",
+      "jhaanva"
+    ],
+    "image": {
+      "off": {
+        "brand": "vega",
+        "query": "bath sponge"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-body-shop-bath-sponge-1pc",
+    "name": "The Body Shop Bath Sponge",
+    "brand": "The Body Shop",
+    "subcategories": [
+      "bath-body-bath-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 42500,
+    "price": 38200,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Soft bath sponge for lathering shower gel or body wash. Rinse well after use and hang it up to dry between showers.",
+    "tags": [
+      "loofah",
+      "bath sponge",
+      "bath lily"
+    ],
+    "image": {
+      "off": {
+        "brand": "the body shop",
+        "query": "bath sponge"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cello-soap-case-1pc",
+    "name": "Cello Soap Case",
+    "brand": "Cello",
+    "subcategories": [
+      "bath-body-bath-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 14900,
+    "price": 14900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Soap case for keeping a bathing bar tidy in the bathroom or while travelling. Wash it out regularly so the soap stays clean.",
+    "tags": [
+      "soap case",
+      "soap dish",
+      "soap box",
+      "sabun dani"
+    ],
+    "image": {
+      "off": {
+        "brand": "cello",
+        "query": "soap case"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "milton-soap-dispenser-1pc",
+    "name": "Milton Soap Dispenser",
+    "brand": "Milton",
+    "subcategories": [
+      "bath-body-bath-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 29900,
+    "price": 27500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Refillable liquid soap dispenser with a pump for the bathroom or kitchen counter. Fill with handwash or body wash and rinse before refilling.",
+    "tags": [
+      "soap dispenser",
+      "handwash dispenser",
+      "pump bottle"
+    ],
+    "image": {
+      "off": {
+        "brand": "milton",
+        "query": "soap dispenser"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bombay-dyeing-bath-towel-1pc",
+    "name": "Bombay Dyeing Bath Towel",
+    "brand": "Bombay Dyeing",
+    "subcategories": [
+      "bath-body-bath-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 79900,
+    "price": 70300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Bath towel for drying off after a bath or shower. Wash before first use and dry fully between uses to keep it fresh.",
+    "tags": [
+      "bath towel",
+      "towel",
+      "tauliya"
+    ],
+    "image": {
+      "off": {
+        "brand": "bombay dyeing",
+        "query": "bath towel"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "trident-bath-towel-1pc",
+    "name": "Trident Bath Towel",
+    "brand": "Trident",
+    "subcategories": [
+      "bath-body-bath-accessories"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 69900,
+    "price": 59400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Everyday bath towel for home use. Machine or hand wash with similar colours and avoid fabric softener build-up for better absorbency.",
+    "tags": [
+      "bath towel",
+      "towel",
+      "tauliya"
+    ],
+    "image": {
+      "off": {
+        "brand": "trident",
+        "query": "bath towel"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nivea-roll-on-deodorant-50ml",
+    "name": "Nivea Roll-On Deodorant",
+    "brand": "Nivea",
+    "subcategories": [
+      "bath-body-body-treatment-roll-on"
+    ],
+    "unit_label": "50 ml",
+    "mrp": 24900,
+    "price": 23400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Roll-on deodorant for underarm use. Apply to clean, dry skin and let it dry for a moment before dressing.",
+    "tags": [
+      "roll on",
+      "deodorant",
+      "underarm deo",
+      "nivea"
+    ],
+    "image": {
+      "off": {
+        "brand": "nivea",
+        "query": "roll-on deodorant"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "dove-roll-on-deodorant-50ml",
+    "name": "Dove Roll-On Deodorant",
+    "brand": "Dove",
+    "subcategories": [
+      "bath-body-body-treatment-roll-on"
+    ],
+    "unit_label": "50 ml",
+    "mrp": 26900,
+    "price": 24200,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Roll-on deodorant for daily underarm care. Roll a thin layer onto dry skin after bathing and close the cap tightly.",
+    "tags": [
+      "roll on",
+      "deodorant",
+      "underarm deo",
+      "dove"
+    ],
+    "image": {
+      "off": {
+        "brand": "dove",
+        "query": "roll-on deodorant"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vaseline-petroleum-jelly-100g",
+    "name": "Vaseline Petroleum Jelly",
+    "brand": "Vaseline",
+    "subcategories": [
+      "bath-body-body-treatment-roll-on"
+    ],
+    "unit_label": "100 g",
+    "mrp": 19900,
+    "price": 19300,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Petroleum jelly for dry patches on elbows, heels, hands and lips. Apply a thin layer to clean skin and close the lid tightly after use.",
+    "tags": [
+      "petroleum jelly",
+      "vaseline",
+      "jelly",
+      "dry skin"
+    ],
+    "image": {
+      "off": {
+        "brand": "vaseline",
+        "query": "petroleum jelly"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "moisturex-moisturising-cream-100g",
+    "name": "Moisturex Moisturising Cream",
+    "brand": "Moisturex",
+    "subcategories": [
+      "bath-body-body-treatment-roll-on"
+    ],
+    "unit_label": "100 g",
+    "mrp": 32500,
+    "price": 29500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Thick moisturising cream for dry, rough areas of the body such as feet and elbows. Apply after bathing and follow the directions on the pack.",
+    "tags": [
+      "moisturising cream",
+      "body cream",
+      "dry skin cream",
+      "moisturex"
+    ],
+    "image": {
+      "off": {
+        "brand": "moisturex",
+        "query": "moisturising cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "the-body-shop-bath-gift-set-1set",
+    "name": "The Body Shop Bath Gift Set",
+    "brand": "The Body Shop",
+    "subcategories": [
+      "bath-body-bath-beauty-gifts",
+      "beauty-cosmetics-bath-beauty-gifts"
+    ],
+    "unit_label": "1 set",
+    "mrp": 249900,
+    "price": 237400,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Boxed bath and body gift set, ready for birthdays and festivals. Contents vary by edition; see the box for the full list.",
+    "tags": [
+      "gift set",
+      "bath gift",
+      "hamper",
+      "gift box"
+    ],
+    "image": {
+      "off": {
+        "brand": "the body shop",
+        "query": "gift set"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nivea-bath-gift-set-1set",
+    "name": "Nivea Bath Gift Set",
+    "brand": "Nivea",
+    "subcategories": [
+      "bath-body-bath-beauty-gifts",
+      "beauty-cosmetics-bath-beauty-gifts"
+    ],
+    "unit_label": "1 set",
+    "mrp": 59900,
+    "price": 53900,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Gift box of Nivea bath and body care products, handy for Diwali, birthdays and thank-you gifts. Contents vary by edition; check the box.",
+    "tags": [
+      "gift set",
+      "bath gift",
+      "hamper",
+      "nivea"
+    ],
+    "image": {
+      "off": {
+        "brand": "nivea",
+        "query": "gift set"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "skinn-by-titan-fragrance-gift-set-1set",
+    "name": "Skinn by Titan Fragrance Gift Set",
+    "brand": "Skinn by Titan",
+    "subcategories": [
+      "bath-body-bath-beauty-gifts",
+      "beauty-cosmetics-bath-beauty-gifts"
+    ],
+    "unit_label": "1 set",
+    "mrp": 229500,
+    "price": 229500,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Fragrance gift set in a presentation box for festivals and special occasions. Contents vary by edition; see the pack for details.",
+    "tags": [
+      "perfume gift set",
+      "fragrance gift",
+      "gift box",
+      "skinn"
+    ],
+    "image": {
+      "off": {
+        "brand": "skinn by titan",
+        "query": "perfume gift set"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "bella-vita-fragrance-gift-set-1set",
+    "name": "Bella Vita Fragrance Gift Set",
+    "brand": "Bella Vita",
+    "subcategories": [
+      "bath-body-bath-beauty-gifts",
+      "beauty-cosmetics-bath-beauty-gifts"
+    ],
+    "unit_label": "1 set",
+    "mrp": 64900,
+    "price": 59700,
+    "tax_rate": 18,
+    "is_veg": null,
+    "description": "Gift box of assorted perfumes, a ready present for birthdays and festivals. Contents vary by edition; store away from heat and sunlight.",
+    "tags": [
+      "perfume gift set",
+      "fragrance gift",
+      "gift box",
+      "bella vita"
+    ],
+    "image": {
+      "off": {
+        "brand": "bella vita",
+        "query": "perfume gift set"
+      }
+    },
+    "orderable": true
+  }
+]

@@ -1,0 +1,671 @@
+[
+  {
+    "slug": "amul-vanilla-ice-cream-tub-1l",
+    "name": "Amul Vanilla Ice Cream Tub",
+    "brand": "Amul",
+    "subcategories": [
+      "ice-creams-more-tubs"
+    ],
+    "unit_label": "1 L",
+    "mrp": 22000,
+    "price": 20900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Vanilla ice cream in a family tub for desserts and sundaes. Keep frozen; let it sit for a minute before scooping.",
+    "tags": [
+      "vanilla ice cream",
+      "ice cream tub",
+      "family pack",
+      "ice cream"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "vanilla ice cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kwality-walls-vanilla-frozen-dessert-tub-700ml",
+    "name": "Kwality Wall's Vanilla Frozen Dessert Tub",
+    "brand": "Kwality Wall's",
+    "subcategories": [
+      "ice-creams-more-tubs"
+    ],
+    "unit_label": "700 ml",
+    "mrp": 18000,
+    "price": 16000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Vanilla frozen dessert in a family tub. Serve with fruit or brownies; keep frozen and close the lid after scooping.",
+    "tags": [
+      "vanilla",
+      "frozen dessert",
+      "ice cream tub",
+      "family pack"
+    ],
+    "image": {
+      "off": {
+        "brand": "kwality wall's",
+        "query": "vanilla tub"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "baskin-robbins-chocolate-ice-cream-tub-500ml",
+    "name": "Baskin Robbins Chocolate Ice Cream Tub",
+    "brand": "Baskin Robbins",
+    "subcategories": [
+      "ice-creams-more-tubs"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 40000,
+    "price": 40000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Premium chocolate ice cream in a take-home tub. Keep frozen at -18 C and soften slightly before scooping.",
+    "tags": [
+      "chocolate ice cream",
+      "premium ice cream",
+      "ice cream tub",
+      "baskin robbins"
+    ],
+    "image": {
+      "off": {
+        "brand": "baskin robbins",
+        "query": "chocolate ice cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "naturals-fruit-ice-cream-tub-500ml",
+    "name": "Naturals Fruit Ice Cream Tub",
+    "brand": "Naturals",
+    "subcategories": [
+      "ice-creams-more-tubs"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 37500,
+    "price": 34900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Fruit ice cream in a take-home tub from Naturals. See the tub for the fruit; keep frozen and use a dry scoop.",
+    "tags": [
+      "fruit ice cream",
+      "premium ice cream",
+      "ice cream tub",
+      "naturals"
+    ],
+    "image": {
+      "off": {
+        "brand": "naturals",
+        "query": "fruit ice cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "magnum-chocolate-coated-ice-cream-stick-80ml",
+    "name": "Magnum Chocolate Coated Ice Cream Stick",
+    "brand": "Magnum",
+    "subcategories": [
+      "ice-creams-more-sticks"
+    ],
+    "unit_label": "80 ml",
+    "mrp": 10000,
+    "price": 8900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Ice cream on a stick with a thick chocolate coating. Keep frozen and enjoy straight from the freezer.",
+    "tags": [
+      "magnum",
+      "chocolate bar ice cream",
+      "ice cream stick",
+      "choco bar"
+    ],
+    "image": {
+      "off": {
+        "brand": "magnum",
+        "query": "chocolate stick"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kwality-walls-chocolate-frozen-dessert-stick-60ml",
+    "name": "Kwality Wall's Chocolate Frozen Dessert Stick",
+    "brand": "Kwality Wall's",
+    "subcategories": [
+      "ice-creams-more-sticks"
+    ],
+    "unit_label": "60 ml",
+    "mrp": 3000,
+    "price": 2800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chocolate-coated frozen dessert on a stick. A quick summer treat; keep frozen until serving.",
+    "tags": [
+      "choco bar",
+      "frozen dessert",
+      "ice cream stick",
+      "chocobar"
+    ],
+    "image": {
+      "off": {
+        "brand": "kwality wall's",
+        "query": "chocolate stick"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "cornetto-chocolate-cone-105ml",
+    "name": "Cornetto Chocolate Cone",
+    "brand": "Cornetto",
+    "subcategories": [
+      "ice-creams-more-cones"
+    ],
+    "unit_label": "105 ml",
+    "mrp": 5000,
+    "price": 4500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Crisp wafer cone filled with chocolate frozen dessert and a chocolate tip. Keep frozen and eat straight from the wrapper.",
+    "tags": [
+      "cone",
+      "ice cream cone",
+      "cornetto",
+      "chocolate cone"
+    ],
+    "image": {
+      "off": {
+        "brand": "cornetto",
+        "query": "chocolate cone"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-butterscotch-cone-120ml",
+    "name": "Amul Butterscotch Cone",
+    "brand": "Amul",
+    "subcategories": [
+      "ice-creams-more-cones"
+    ],
+    "unit_label": "120 ml",
+    "mrp": 4000,
+    "price": 3800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Wafer cone with butterscotch ice cream and crunchy topping. Keep frozen until serving.",
+    "tags": [
+      "cone",
+      "ice cream cone",
+      "butterscotch",
+      "amul ice cream"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "butterscotch cone"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-cassata-ice-cream-1pc",
+    "name": "Amul Cassata Ice Cream",
+    "brand": "Amul",
+    "subcategories": [
+      "ice-creams-more-cassata-sandwich"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 6000,
+    "price": 5900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Layered cassata slice with multiple ice cream flavours, nuts and a sponge base. Keep frozen; cut with a warm knife if sharing.",
+    "tags": [
+      "cassata",
+      "ice cream slice",
+      "layered ice cream",
+      "amul"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "cassata"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vadilal-cassata-ice-cream-1pc",
+    "name": "Vadilal Cassata Ice Cream",
+    "brand": "Vadilal",
+    "subcategories": [
+      "ice-creams-more-cassata-sandwich"
+    ],
+    "unit_label": "1 pc",
+    "mrp": 6000,
+    "price": 6000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Multi-layered cassata ice cream slice with nuts and sponge. Serve straight from the freezer.",
+    "tags": [
+      "cassata",
+      "ice cream slice",
+      "layered ice cream",
+      "vadilal"
+    ],
+    "image": {
+      "off": {
+        "brand": "vadilal",
+        "query": "cassata"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kwality-walls-vanilla-ice-cream-sandwich-100ml",
+    "name": "Kwality Wall's Vanilla Ice Cream Sandwich",
+    "brand": "Kwality Wall's",
+    "subcategories": [
+      "ice-creams-more-cassata-sandwich"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 4000,
+    "price": 3600,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Vanilla frozen dessert between two soft biscuits. Eat straight from the freezer for a handy treat.",
+    "tags": [
+      "ice cream sandwich",
+      "biscuit ice cream",
+      "vanilla",
+      "frozen dessert"
+    ],
+    "image": {
+      "off": {
+        "brand": "kwality wall's",
+        "query": "sandwich"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-vanilla-ice-cream-sandwich-100ml",
+    "name": "Amul Vanilla Ice Cream Sandwich",
+    "brand": "Amul",
+    "subcategories": [
+      "ice-creams-more-cassata-sandwich"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 4000,
+    "price": 3600,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Vanilla ice cream sandwiched between biscuit wafers. Keep frozen; unwrap and enjoy.",
+    "tags": [
+      "ice cream sandwich",
+      "biscuit ice cream",
+      "vanilla",
+      "amul ice cream"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "sandwich ice cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-vanilla-ice-cream-cup-125ml",
+    "name": "Amul Vanilla Ice Cream Cup",
+    "brand": "Amul",
+    "subcategories": [
+      "ice-creams-more-single-serve-cups"
+    ],
+    "unit_label": "125 ml",
+    "mrp": 3000,
+    "price": 2800,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Single-serve cup of vanilla ice cream with a spoon in the lid. Keep frozen until serving.",
+    "tags": [
+      "ice cream cup",
+      "vanilla ice cream",
+      "cup",
+      "amul ice cream"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "vanilla cup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "kwality-walls-vanilla-frozen-dessert-cup-100ml",
+    "name": "Kwality Wall's Vanilla Frozen Dessert Cup",
+    "brand": "Kwality Wall's",
+    "subcategories": [
+      "ice-creams-more-single-serve-cups"
+    ],
+    "unit_label": "100 ml",
+    "mrp": 2500,
+    "price": 2200,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Single-serve vanilla frozen dessert cup, handy for parties and kids. Keep frozen until serving.",
+    "tags": [
+      "ice cream cup",
+      "vanilla",
+      "frozen dessert",
+      "cup"
+    ],
+    "image": {
+      "off": {
+        "brand": "kwality wall's",
+        "query": "vanilla cup"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "baskin-robbins-chocolate-ice-cream-cake-500g",
+    "name": "Baskin Robbins Chocolate Ice Cream Cake",
+    "brand": "Baskin Robbins",
+    "subcategories": [
+      "ice-creams-more-cakes-others"
+    ],
+    "unit_label": "500 g",
+    "mrp": 75000,
+    "price": 75000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chocolate ice cream cake for birthdays and celebrations. Keep frozen, then rest for 5 to 10 minutes before slicing.",
+    "tags": [
+      "ice cream cake",
+      "birthday cake",
+      "chocolate cake",
+      "baskin robbins"
+    ],
+    "image": {
+      "off": {
+        "brand": "baskin robbins",
+        "query": "ice cream cake"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nic-ice-creams-chocolate-ice-cream-cake-500g",
+    "name": "NIC Ice Creams Chocolate Ice Cream Cake",
+    "brand": "NIC Ice Creams",
+    "subcategories": [
+      "ice-creams-more-cakes-others"
+    ],
+    "unit_label": "500 g",
+    "mrp": 70000,
+    "price": 64000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Ice cream cake with chocolate for celebrations. Store frozen and soften briefly before cutting with a warm knife.",
+    "tags": [
+      "ice cream cake",
+      "birthday cake",
+      "chocolate cake",
+      "nic"
+    ],
+    "image": {
+      "off": {
+        "brand": "nic ice creams",
+        "query": "ice cream cake"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-malai-kulfi-60ml",
+    "name": "Amul Malai Kulfi",
+    "brand": "Amul",
+    "subcategories": [
+      "ice-creams-more-cakes-others"
+    ],
+    "unit_label": "60 ml",
+    "mrp": 2500,
+    "price": 2200,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Rich, dense malai kulfi on a stick, made with milk. Keep frozen and serve straight away.",
+    "tags": [
+      "kulfi",
+      "malai kulfi",
+      "matka kulfi",
+      "indian ice cream"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "kulfi"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "vadilal-malai-kulfi-60ml",
+    "name": "Vadilal Malai Kulfi",
+    "brand": "Vadilal",
+    "subcategories": [
+      "ice-creams-more-cakes-others"
+    ],
+    "unit_label": "60 ml",
+    "mrp": 2500,
+    "price": 2400,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Traditional malai kulfi on a stick. Serve directly from the freezer for the firmest texture.",
+    "tags": [
+      "kulfi",
+      "malai kulfi",
+      "indian ice cream",
+      "vadilal"
+    ],
+    "image": {
+      "off": {
+        "brand": "vadilal",
+        "query": "kulfi"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "amul-no-added-sugar-vanilla-ice-cream-125ml",
+    "name": "Amul No Added Sugar Vanilla Ice Cream",
+    "brand": "Amul",
+    "subcategories": [
+      "ice-creams-more-guilt-free"
+    ],
+    "unit_label": "125 ml",
+    "mrp": 5000,
+    "price": 4500,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Vanilla ice cream labelled as having no added sugar. Read the pack for sweetener and nutrition details; keep frozen.",
+    "tags": [
+      "sugar free ice cream",
+      "no added sugar",
+      "vanilla ice cream",
+      "diabetic friendly"
+    ],
+    "image": {
+      "off": {
+        "brand": "amul",
+        "query": "sugar free ice cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "baskin-robbins-no-added-sugar-chocolate-ice-cream-500ml",
+    "name": "Baskin Robbins No Added Sugar Chocolate Ice Cream",
+    "brand": "Baskin Robbins",
+    "subcategories": [
+      "ice-creams-more-guilt-free"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 45000,
+    "price": 43000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Chocolate ice cream labelled no added sugar, in a take-home tub. Check the label for sweeteners used; keep frozen.",
+    "tags": [
+      "sugar free ice cream",
+      "no added sugar",
+      "chocolate ice cream",
+      "baskin robbins"
+    ],
+    "image": {
+      "off": {
+        "brand": "baskin robbins",
+        "query": "no sugar ice cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "oatmlk-plant-based-frozen-dessert-500ml",
+    "name": "OatMlk Plant-Based Frozen Dessert",
+    "brand": "OatMlk",
+    "subcategories": [
+      "ice-creams-more-guilt-free"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 35000,
+    "price": 32900,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Dairy-free frozen dessert made with plant-based ingredients. Suits people avoiding dairy; check the label for allergens and keep frozen.",
+    "tags": [
+      "vegan ice cream",
+      "dairy free",
+      "plant based",
+      "frozen dessert"
+    ],
+    "image": {
+      "off": {
+        "brand": "oatmlk",
+        "query": "frozen dessert"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "naturals-artisan-ice-cream-1l",
+    "name": "Naturals Artisan Ice Cream",
+    "brand": "Naturals",
+    "subcategories": [
+      "ice-creams-more-gourmet"
+    ],
+    "unit_label": "1 L",
+    "mrp": 65000,
+    "price": 65000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Naturals ice cream in a family pack, made in small batches with fruit and natural flavours. Keep frozen and scoop with a dry spoon.",
+    "tags": [
+      "artisan ice cream",
+      "naturals",
+      "gourmet ice cream",
+      "family pack"
+    ],
+    "image": {
+      "off": {
+        "brand": "naturals",
+        "query": "ice cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "nic-ice-creams-natural-fruit-ice-cream-500ml",
+    "name": "NIC Ice Creams Natural Fruit Ice Cream",
+    "brand": "NIC Ice Creams",
+    "subcategories": [
+      "ice-creams-more-gourmet"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 40000,
+    "price": 36000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Natural fruit ice cream in a take-home tub. See the tub for the fruit; store frozen and soften slightly before serving.",
+    "tags": [
+      "fruit ice cream",
+      "natural ice cream",
+      "gourmet ice cream",
+      "nic"
+    ],
+    "image": {
+      "off": {
+        "brand": "nic ice creams",
+        "query": "fruit ice cream"
+      }
+    },
+    "orderable": true
+  },
+  {
+    "slug": "chocolate-gelato-500ml",
+    "name": "Chocolate Gelato",
+    "brand": null,
+    "subcategories": [
+      "ice-creams-more-gourmet"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 45000,
+    "price": 40000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Dense Italian-style chocolate gelato, churned slowly for a smooth texture. Keep frozen and rest a few minutes before scooping.",
+    "tags": [
+      "gelato",
+      "chocolate gelato",
+      "italian ice cream",
+      "dessert"
+    ],
+    "image": {
+      "wiki": "Gelato"
+    },
+    "orderable": true
+  },
+  {
+    "slug": "mango-sorbet-500ml",
+    "name": "Mango Sorbet",
+    "brand": null,
+    "subcategories": [
+      "ice-creams-more-gourmet"
+    ],
+    "unit_label": "500 ml",
+    "mrp": 40000,
+    "price": 38000,
+    "tax_rate": 18,
+    "is_veg": true,
+    "description": "Dairy-free mango sorbet made from fruit and sugar, light and refreshing. Keep frozen and serve in chilled bowls.",
+    "tags": [
+      "sorbet",
+      "mango sorbet",
+      "aam",
+      "dairy free dessert"
+    ],
+    "image": {
+      "wiki": "Sorbet"
+    },
+    "orderable": true
+  }
+]

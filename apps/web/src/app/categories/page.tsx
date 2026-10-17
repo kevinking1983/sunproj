@@ -1,29 +1,37 @@
 "use client";
 
+import { buildCategoryTree, categoryIcon } from "@ration/api";
 import { useQuery } from "@tanstack/react-query";
-import Image from "next/image";
 import Link from "next/link";
+import { useMemo } from "react";
 
+import { CategoryTile } from "@/components/catalog/CategoryTile";
 import { Spinner } from "@/components/ui";
 import { catalogApi, queryKeys } from "@/lib/api";
 
 export default function CategoriesPage() {
   const categories = useQuery({ queryKey: queryKeys.categories, queryFn: catalogApi.categories });
+  const tree = useMemo(() => buildCategoryTree(categories.data ?? []), [categories.data]);
   if (categories.isLoading) return <div className="py-20 text-center"><Spinner /></div>;
-  const all = categories.data ?? [];
-  const groups = all.filter((c) => !c.parent_id).map((p) => ({ parent: p, children: all.filter((c) => c.parent_id === p.id) }));
   return (
-    <div className="space-y-8 py-6">
+    <div className="space-y-10 py-6">
       <h1 className="text-2xl font-bold">All categories</h1>
-      {groups.map(({ parent, children }) => (
-        <section key={parent.id}>
-          <h2 className="mb-3 text-lg font-semibold">{parent.name}</h2>
-          <div className="grid grid-cols-3 gap-3 sm:grid-cols-5 lg:grid-cols-7">
-            {[parent, ...children].map((c) => (
-              <Link key={c.id} href={`/category/${c.slug}`} className="flex flex-col items-center gap-2 text-center">
-                <span className="relative aspect-square w-full overflow-hidden rounded-card bg-primary-tint">{c.image_url ? <Image src={c.image_url} alt="" fill className="object-cover" unoptimized /> : null}</span>
-                <span className="line-clamp-2 text-xs font-medium">{c.id === parent.id ? `All ${c.name}` : c.name}</span>
-              </Link>
+      {tree.map((dept) => (
+        <section key={dept.id}>
+          <h2 className="mb-4 text-lg font-bold">{dept.name}</h2>
+          <div className="grid gap-x-6 gap-y-8 sm:grid-cols-2 lg:grid-cols-3">
+            {dept.children.map((c) => (
+              <div key={c.id} className="flex gap-4">
+                <div className="w-24 shrink-0"><CategoryTile node={c} icon={categoryIcon(tree, c.slug)} label="" /></div>
+                <div className="min-w-0">
+                  <Link href={`/category/${c.slug}`} className="font-semibold hover:text-primary">{c.name}</Link>
+                  <ul className="mt-1 flex flex-wrap gap-x-3 gap-y-1 text-sm text-muted">
+                    {c.children.map((s) => (
+                      <li key={s.id}><Link href={`/category/${c.slug}?sub=${s.slug}`} className="hover:text-primary">{s.name}</Link></li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
             ))}
           </div>
         </section>

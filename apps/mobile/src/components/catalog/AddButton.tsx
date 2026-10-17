@@ -28,6 +28,14 @@ export function AddButton({ product, compact }: Props) {
 
   const height = compact ? 30 : 34;
 
+  if (product.orderable === false) {
+    return (
+      <View style={[styles.base, styles.soon, { height }]}>
+        <Typography variant="caption" weight="semibold" style={{ color: colors.goldText }}>Coming soon</Typography>
+      </View>
+    );
+  }
+
   if (product.available <= 0) {
     return (
       <View style={[styles.base, styles.disabled, { height }]}>
@@ -69,4 +77,5 @@ const styles = StyleSheet.create({
   stepper: { backgroundColor: colors.primary, flexDirection: "row", justifyContent: "space-between", paddingHorizontal: 2 },
   step: { width: 28, height: "100%", alignItems: "center", justifyContent: "center" },
   disabled: { backgroundColor: colors.surfaceMuted, borderWidth: 1, borderColor: colors.border },
+  soon: { backgroundColor: colors.accentTint, borderWidth: 1, borderColor: colors.accent },
 });

@@ -7,6 +7,8 @@ export interface Category {
   slug: string;
   image_url: string | null;
   sort_order: number;
+  icon: string | null;
+  description: string | null;
 }
 
 export interface Banner {
@@ -32,10 +34,14 @@ export interface Product {
   brand_name: string | null;
   /** Units available to sell at the current store. */
   available: number;
+  /** false: listed but not yet sold ("Coming soon"); the database refuses orders for it. */
+  orderable: boolean;
+  /** Attribution required by the image licence, shown on the product page. */
+  image_credit?: string | null;
 }
 
 const PRODUCT_COLUMNS =
-  "id, slug, name, description, unit_label, mrp, price, images, is_veg, category_id, brands(name), inventory!inner(store_id, quantity, reserved, price_override)";
+  "id, slug, name, description, unit_label, mrp, price, images, is_veg, category_id, orderable, image_credit, brands(name), inventory!inner(store_id, quantity, reserved, price_override)";
 
 type ProductRow = {
   id: string;
@@ -48,6 +54,8 @@ type ProductRow = {
   images: string[];
   is_veg: boolean | null;
   category_id: string;
+  orderable: boolean;
+  image_credit: string | null;
   brands: { name: string } | null;
   inventory: { store_id: string; quantity: number; reserved: number; price_override: number | null }[];
 };
@@ -67,12 +75,14 @@ const toProduct = (r: ProductRow): Product => {
     category_id: r.category_id,
     brand_name: r.brands?.name ?? null,
     available: inv ? Math.max(0, inv.quantity - inv.reserved) : 0,
+    orderable: r.orderable,
+    image_credit: r.image_credit,
   };
 };
 
 export const createCatalogApi = (client: Client) => ({
   categories: async (): Promise<Category[]> => {
-    const { data, error } = await client.from("categories").select("id, parent_id, name, slug, image_url, sort_order").eq("is_active", true).order("sort_order");
+    const { data, error } = await client.from("categories").select("id, parent_id, name, slug, image_url, sort_order, icon, description").eq("is_active", true).order("sort_order");
     if (error) throw error;
     return data ?? [];
   },
@@ -90,13 +100,35 @@ export const createCatalogApi = (client: Client) => ({
     return data ?? [];
   },
 
-  /** Products stocked at a store, optionally within a set of categories. */
+  /**
+   * Products stocked at a store. With shelves (category ids), a product appears on every shelf
+   * it is linked to (product_categories), in the catalog's shelf order, once even when it sits
+   * on several of the requested shelves.
+   */
   products: async (storeId: string, categoryIds?: string[], limit = 200): Promise<Product[]> => {
-    let q = client.from("products").select(PRODUCT_COLUMNS).eq("is_active", true).eq("inventory.store_id", storeId).limit(limit);
-    if (categoryIds?.length) q = q.in("category_id", categoryIds);
-    const { data, error } = await q.order("name");
+    if (!categoryIds?.length) {
+      const { data, error } = await client.from("products").select(PRODUCT_COLUMNS).eq("is_active", true).eq("inventory.store_id", storeId).limit(limit).order("name");
+      if (error) throw error;
+      return (data as unknown as ProductRow[]).map(toProduct);
+    }
+    const { data, error } = await client
+      .from("product_categories")
+      .select(`sort_order, products!inner(${PRODUCT_COLUMNS})`)
+      .in("category_id", categoryIds)
+      .eq("products.is_active", true)
+      .eq("products.inventory.store_id", storeId)
+      .order("sort_order")
+      .limit(limit * 2);
     if (error) throw error;
-    return (data as unknown as ProductRow[]).map(toProduct);
+    const seen = new Set<string>();
+    const out: Product[] = [];
+    for (const row of (data ?? []) as unknown as { products: ProductRow }[]) {
+      if (!row.products || seen.has(row.products.id)) continue;
+      seen.add(row.products.id);
+      out.push(toProduct(row.products));
+      if (out.length >= limit) break;
+    }
+    return out;
   },
 
   product: async (storeId: string, slug: string): Promise<Product | null> => {
@@ -110,7 +142,7 @@ export const createCatalogApi = (client: Client) => ({
     if (!q) return [];
     const { data, error } = await client.rpc("search_products", { p_store_id: storeId, p_query: q, p_limit: limit });
     if (error) throw error;
-    type Row = Omit<Product, "images"> & { images: string[] | null; rank: number };
+    type Row = Omit<Product, "images" | "image_credit"> & { images: string[] | null; rank: number };
     return ((data ?? []) as unknown as Row[]).map(({ rank: _rank, ...p }) => ({ ...p, images: p.images ?? [] }));
   },
 });

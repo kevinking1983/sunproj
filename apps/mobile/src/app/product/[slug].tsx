@@ -38,6 +38,7 @@ export default function ProductScreen() {
       ) : (
         <ScrollView contentContainerStyle={{ paddingBottom: 140 }} showsVerticalScrollIndicator={false}>
           <ProductImage uri={p.images[0]} size={width - spacing.lg * 2} style={styles.image} />
+          {p.images[0] && p.image_credit ? <Typography variant="caption" tone="muted" center style={{ paddingHorizontal: spacing.lg, marginTop: spacing.xs }}>{p.image_credit}</Typography> : null}
           <View style={styles.body}>
             {p.brand_name ? <Typography variant="label" tone="muted">{p.brand_name}</Typography> : null}
             <Typography variant="title">{p.name}</Typography>
@@ -52,6 +53,7 @@ export default function ProductScreen() {
               </View>
               <AddButton product={p} />
             </View>
+            {p.orderable === false ? <Typography variant="caption" tone="muted">We are getting this ready for delivery. It will be available to order soon.</Typography> : null}
             {p.is_veg !== null ? (
               <View style={styles.row}>
                 <View style={[styles.vegMark, { borderColor: p.is_veg ? colors.success : colors.danger }]}>

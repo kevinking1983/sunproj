@@ -1,7 +1,8 @@
 -- Runs after migrations + seed in CI against a stub auth schema. Exercises the
 -- order lifecycle end to end and asserts the numbers.
 \set ON_ERROR_STOP on
-insert into auth.users (phone) values ('919999900001'), ('919999900011'), ('919999900012'), ('919999900013');
+insert into auth.users (phone) values ('919999900001'), ('919999900011'), ('919999900012'), ('919999900013'), ('919999900099');
+update public.profiles set role = 'admin' where phone = '919999900099';
 update public.profiles set role = 'rider' where phone in ('919999900011', '919999900012', '919999900013');
 
 do $$
@@ -93,6 +94,56 @@ begin
     if has_function_privilege('authenticated', 'public.auto_assign_rider(uuid)', 'execute') then
       raise exception 'auto_assign_rider must not be callable by authenticated';
     end if;
+  end;
+
+  -- catalog: every product is on its primary shelf; "coming soon" products cannot be ordered
+  if exists (select 1 from public.products p where not exists (select 1 from public.product_categories pc where pc.product_id = p.id and pc.category_id = p.category_id)) then
+    raise exception 'product missing from its primary shelf';
+  end if;
+  update public.products set orderable = false where id = v_milk;
+  begin
+    perform public.place_order(v_user, v_store, v_addr, jsonb_build_array(jsonb_build_object('product_id', v_milk, 'quantity', 1)), 'cod', null, 0, null);
+    raise exception 'expected NOT_ORDERABLE';
+  exception when others then
+    if sqlerrm not like 'NOT_ORDERABLE%' then raise; end if;
+  end;
+  update public.products set orderable = true where id = v_milk;
+
+  -- admin CSV import: creates brand + product on two shelves with stock; bad rows are reported, not fatal
+  declare
+    v_admin uuid := (select id from public.profiles where phone = '919999900099');
+    v_res jsonb;
+    v_rows jsonb := jsonb_build_array(
+      jsonb_build_object('row', 2, 'slug', 'smoke-test-ghee-500ml', 'name', 'Smoke Test Ghee', 'brand', 'Smoke Brand',
+        'subcategories', jsonb_build_array('oil-ghee-masala-desi-ghee', 'oil-ghee-masala-cow-ghee'), 'unit_label', '500 ml',
+        'mrp', 35000, 'price', 33000, 'tax_rate', 12, 'tags', jsonb_build_array('ghee'), 'is_veg', true, 'stock', 7),
+      jsonb_build_object('row', 3, 'slug', 'smoke-bad-row', 'name', 'Bad Row', 'subcategories', jsonb_build_array('no-such-shelf'),
+        'unit_label', '1 pc', 'mrp', 1000, 'price', 900));
+  begin
+    perform set_config('request.jwt.claim.sub', v_admin::text, true);
+    v_res := public.staff_import_products(v_rows, v_store);
+    if (v_res->>'created')::int <> 1 or (v_res->>'brands_created')::int <> 1 or jsonb_array_length(v_res->'errors') <> 1 then
+      raise exception 'import result unexpected: %', v_res;
+    end if;
+    if (select count(*) from public.product_categories pc join public.products p on p.id = pc.product_id where p.slug = 'smoke-test-ghee-500ml') <> 2 then
+      raise exception 'import should place the product on both shelves';
+    end if;
+    if (select quantity from public.inventory i join public.products p on p.id = i.product_id where p.slug = 'smoke-test-ghee-500ml' and i.store_id = v_store) <> 7 then
+      raise exception 'import should set stock';
+    end if;
+    v_res := public.staff_import_products(jsonb_build_array(v_rows->0 || jsonb_build_object('price', 31000, 'subcategories', jsonb_build_array('oil-ghee-masala-desi-ghee'))), v_store);
+    if (v_res->>'updated')::int <> 1 or (select price from public.products where slug = 'smoke-test-ghee-500ml') <> 31000
+       or (select count(*) from public.product_categories pc join public.products p on p.id = pc.product_id where p.slug = 'smoke-test-ghee-500ml') <> 1 then
+      raise exception 're-import should update price and shelves: %', v_res;
+    end if;
+    perform set_config('request.jwt.claim.sub', v_user::text, true);
+    begin
+      perform public.staff_import_products(v_rows, v_store);
+      raise exception 'expected FORBIDDEN';
+    exception when others then
+      if sqlerrm not like 'FORBIDDEN%' then raise; end if;
+    end;
+    perform set_config('request.jwt.claim.sub', '', true);
   end;
 
   if has_function_privilege('authenticated', 'public.place_order(uuid, uuid, uuid, jsonb, public.payment_method, text, bigint, text)', 'execute') then

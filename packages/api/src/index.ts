@@ -1,5 +1,6 @@
 export * from "./client";
 export * from "./catalog";
+export * from "./catalogTree";
 export * from "./stores";
 export * from "./addresses";
 export * from "./coupons";
