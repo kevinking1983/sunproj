@@ -1,7 +1,8 @@
 -- Runs after migrations + seed in CI against a stub auth schema. Exercises the
 -- order lifecycle end to end and asserts the numbers.
 \set ON_ERROR_STOP on
-insert into auth.users (phone) values ('919999900001');
+insert into auth.users (phone) values ('919999900001'), ('919999900011'), ('919999900012'), ('919999900013');
+update public.profiles set role = 'rider' where phone in ('919999900011', '919999900012', '919999900013');
 
 do $$
 declare
@@ -53,6 +54,45 @@ begin
     raise exception 'expected OUT_OF_STOCK';
   exception when others then
     if sqlerrm not like 'OUT_OF_STOCK%' then raise; end if;
+  end;
+
+  -- automatic rider assignment around RATION Central (12.9716, 77.5946)
+  declare
+    v_a uuid := (select id from public.profiles where phone = '919999900011');
+    v_b uuid := (select id from public.profiles where phone = '919999900012');
+    v_c uuid := (select id from public.profiles where phone = '919999900013');
+  begin
+    insert into public.rider_locations (rider_id, lat, lng, is_online) values
+      (v_a, 12.9720, 77.5950, true),   -- about 60 m away
+      (v_b, 12.9800, 77.6000, true),   -- about 1.1 km away
+      (v_c, 12.9717, 77.5947, false);  -- closest, but offline
+    v_order := (public.place_order(v_user, v_store, v_addr, jsonb_build_array(jsonb_build_object('product_id', v_dal, 'quantity', 1)), 'cod', null, 0, null)->>'order_id')::uuid;
+    perform public.advance_order(v_order, 'accepted', null, null);
+    if (select rider_id from public.orders where id = v_order) is not null then raise exception 'assigned before packing'; end if;
+    perform public.advance_order(v_order, 'packing', null, null);
+    if (select rider_id from public.orders where id = v_order) is distinct from v_a then raise exception 'nearest online rider should be assigned at packing'; end if;
+
+    perform set_config('request.jwt.claim.sub', v_a::text, true);
+    perform public.rider_decline_order(v_order, 'tyre puncture');
+    if (select rider_id from public.orders where id = v_order) is distinct from v_b then raise exception 'decline should hand over to the next rider'; end if;
+    perform set_config('request.jwt.claim.sub', v_b::text, true);
+    perform public.rider_decline_order(v_order, null);
+    if (select rider_id from public.orders where id = v_order) is not null then raise exception 'decliners and offline riders must not be assigned'; end if;
+
+    perform set_config('request.jwt.claim.sub', v_c::text, true);
+    perform public.rider_set_online(true, 12.9717, 77.5947);
+    if (select rider_id from public.orders where id = v_order) is distinct from v_c then raise exception 'going online should pick up the waiting order'; end if;
+    perform set_config('request.jwt.claim.sub', '', true);
+
+    -- a rider with a stale location is skipped; a busy rider (c) is skipped
+    update public.rider_locations set updated_at = now() - interval '20 minutes' where rider_id = v_a;
+    v_cancel := public.place_order(v_user, v_store, v_addr, jsonb_build_array(jsonb_build_object('product_id', v_dal, 'quantity', 1)), 'cod', null, 0, null);
+    perform public.advance_order((v_cancel->>'order_id')::uuid, 'packing', null, null);
+    if (select rider_id from public.orders where id = (v_cancel->>'order_id')::uuid) is distinct from v_b then raise exception 'stale or busy riders must be skipped'; end if;
+
+    if has_function_privilege('authenticated', 'public.auto_assign_rider(uuid)', 'execute') then
+      raise exception 'auto_assign_rider must not be callable by authenticated';
+    end if;
   end;
 
   if has_function_privilege('authenticated', 'public.place_order(uuid, uuid, uuid, jsonb, public.payment_method, text, bigint, text)', 'execute') then

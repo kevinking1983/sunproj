@@ -275,6 +275,32 @@ isOneToOne: false
       referencedColumns: ["id"]
     }
                   ]
+                },"order_rider_declines": {
+                  Row: {
+                    "created_at": string,"order_id": string,"reason": string | null,"rider_id": string
+                  }
+                  ComputedFields: never
+                  Insert: {
+                    "created_at"?: string,"order_id": string,"reason"?: string | null,"rider_id": string
+                  }
+                  Update: {
+                    "created_at"?: string,"order_id"?: string,"reason"?: string | null,"rider_id"?: string
+                  }
+                  Relationships: [
+                    {
+      foreignKeyName: "order_rider_declines_order_id_fkey"
+      columns: ["order_id"]
+isOneToOne: false
+      referencedRelation: "orders"
+      referencedColumns: ["id"]
+    },{
+      foreignKeyName: "order_rider_declines_rider_id_fkey"
+      columns: ["rider_id"]
+isOneToOne: false
+      referencedRelation: "profiles"
+      referencedColumns: ["id"]
+    }
+                  ]
                 },"orders": {
                   Row: {
                     "address_snapshot": NonNullable<Json>,"cancel_reason": string | null,"cancelled_at": string | null,"coupon_code": string | null,"created_at": string,"customer_note": string | null,"delivered_at": string | null,"delivery_fee": number,"discount": number,"handling_fee": number,"id": string,"order_number": string,"payment_method": Database["public"]['Enums']["payment_method"],"promised_at": string | null,"rider_id": string | null,"status": Database["public"]['Enums']["order_status"],"store_id": string,"subtotal": number,"tip": number,"total": number,"updated_at": string,"user_id": string
@@ -467,14 +493,14 @@ isOneToOne: true
                   ]
                 },"stores": {
                   Row: {
-                    "address": string,"closes_at": string,"code": string,"created_at": string,"delivery_fee": number,"free_delivery_above": number,"id": string,"is_open": boolean,"lat": number,"lng": number,"location": unknown,"min_order_amount": number,"name": string,"opens_at": string,"promised_minutes": number,"service_area": unknown,"service_radius_m": number
+                    "address": string,"assign_radius_m": number,"auto_assign_riders": boolean,"closes_at": string,"code": string,"created_at": string,"delivery_fee": number,"free_delivery_above": number,"id": string,"is_open": boolean,"lat": number,"lng": number,"location": unknown,"min_order_amount": number,"name": string,"opens_at": string,"promised_minutes": number,"service_area": unknown,"service_radius_m": number
                   }
                   ComputedFields: never
                   Insert: {
-                    "address": string,"closes_at"?: string,"code": string,"created_at"?: string,"delivery_fee"?: number,"free_delivery_above"?: number,"id"?: string,"is_open"?: boolean,"lat": number,"lng": number,"location"?: unknown,"min_order_amount"?: number,"name": string,"opens_at"?: string,"promised_minutes"?: number,"service_area"?: unknown,"service_radius_m"?: number
+                    "address": string,"assign_radius_m"?: number,"auto_assign_riders"?: boolean,"closes_at"?: string,"code": string,"created_at"?: string,"delivery_fee"?: number,"free_delivery_above"?: number,"id"?: string,"is_open"?: boolean,"lat": number,"lng": number,"location"?: unknown,"min_order_amount"?: number,"name": string,"opens_at"?: string,"promised_minutes"?: number,"service_area"?: unknown,"service_radius_m"?: number
                   }
                   Update: {
-                    "address"?: string,"closes_at"?: string,"code"?: string,"created_at"?: string,"delivery_fee"?: number,"free_delivery_above"?: number,"id"?: string,"is_open"?: boolean,"lat"?: number,"lng"?: number,"location"?: unknown,"min_order_amount"?: number,"name"?: string,"opens_at"?: string,"promised_minutes"?: number,"service_area"?: unknown,"service_radius_m"?: number
+                    "address"?: string,"assign_radius_m"?: number,"auto_assign_riders"?: boolean,"closes_at"?: string,"code"?: string,"created_at"?: string,"delivery_fee"?: number,"free_delivery_above"?: number,"id"?: string,"is_open"?: boolean,"lat"?: number,"lng"?: number,"location"?: unknown,"min_order_amount"?: number,"name"?: string,"opens_at"?: string,"promised_minutes"?: number,"service_area"?: unknown,"service_radius_m"?: number
                   }
                   Relationships: [
                     
@@ -534,8 +560,14 @@ isOneToOne: false
 "apply_referral_code":
 { Args: { "p_code": string }; Returns: boolean
                            },
+"assign_waiting_orders":
+{ Args: Record<PropertyKey, never>; Returns: number
+                           },
 "attach_provider_order":
 { Args: { "p_order_id": string,"p_provider_order_id": string }; Returns: undefined
+                           },
+"auto_assign_rider":
+{ Args: { "p_order_id": string }; Returns: string
                            },
 "cancel_order":
 { Args: { "p_actor": string,"p_by_customer": boolean,"p_order_id": string,"p_reason": string }; Returns: Json
@@ -549,6 +581,8 @@ isOneToOne: false
 "find_serving_store":
 { Args: { "lat": number,"lng": number }; Returns: {
               "address": string,
+"assign_radius_m": number,
+"auto_assign_riders": boolean,
 "closes_at": string,
 "code": string,
 "created_at": string,
@@ -584,8 +618,14 @@ isOneToOne: false
 "rider_advance_order":
 { Args: { "p_note"?: string,"p_order_id": string,"p_status": Database["public"]['Enums']["order_status"] }; Returns: undefined
                            },
+"rider_busy_statuses":
+{ Args: Record<PropertyKey, never>; Returns: (Database["public"]['Enums']["order_status"])[]
+                           },
 "rider_claim_order":
 { Args: { "p_order_id": string }; Returns: undefined
+                           },
+"rider_decline_order":
+{ Args: { "p_order_id": string,"p_reason"?: string }; Returns: undefined
                            },
 "rider_set_online":
 { Args: { "p_lat"?: number,"p_lng"?: number,"p_online": boolean }; Returns: undefined

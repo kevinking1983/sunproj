@@ -11,6 +11,12 @@ export interface RiderSummary {
   is_online: boolean;
 }
 
+/** Statuses in which an assigned order belongs on the rider's deliveries list. */
+export const RIDER_ACTIVE_STATUSES = ["accepted", "packing", "ready", "picked_up", "out_for_delivery"] as const satisfies readonly OrderStatus[];
+
+/** Before pickup a rider may still hand the order back. */
+export const RIDER_CAN_DECLINE: readonly OrderStatus[] = ["accepted", "packing", "ready"];
+
 export const RIDER_NEXT: Partial<Record<OrderStatus, OrderStatus>> = {
   ready: "picked_up",
   picked_up: "out_for_delivery",
@@ -19,9 +25,9 @@ export const RIDER_NEXT: Partial<Record<OrderStatus, OrderStatus>> = {
 
 /** Delivery partner operations. All RPCs require the rider role. */
 export const createRiderApi = (client: Client) => ({
-  /** Orders assigned to me that are not finished. */
+  /** Orders assigned to me that are not finished, including ones still being packed. */
   myActive: async (): Promise<Order[]> => {
-    const { data, error } = await client.from("orders").select(ORDER_COLUMNS).in("status", ["ready", "picked_up", "out_for_delivery"]).not("rider_id", "is", null).order("created_at");
+    const { data, error } = await client.from("orders").select(ORDER_COLUMNS).in("status", [...RIDER_ACTIVE_STATUSES]).not("rider_id", "is", null).order("created_at");
     if (error) throw error;
     return (data ?? []) as unknown as Order[];
   },
@@ -41,6 +47,12 @@ export const createRiderApi = (client: Client) => ({
 
   claim: async (orderId: string): Promise<void> => {
     const { error } = await client.rpc("rider_claim_order", { p_order_id: orderId });
+    if (error) throw error;
+  },
+
+  /** Hand an assigned order back before pickup; it goes to the next free rider. */
+  decline: async (orderId: string, reason?: string): Promise<void> => {
+    const { error } = await client.rpc("rider_decline_order", { p_order_id: orderId, p_reason: reason ?? undefined });
     if (error) throw error;
   },
 
@@ -70,6 +82,7 @@ export const describeRiderError = (e: unknown): string => {
     ORDER_ALREADY_TAKEN: "Another partner took this order.",
     INVALID_TRANSITION: "That step is not available yet.",
     ORDER_NOT_FOUND: "This order is no longer assigned to you.",
+    ALREADY_PICKED_UP: "You have already picked this order up, so it can't be declined.",
   };
   return map[m] ?? m;
 };

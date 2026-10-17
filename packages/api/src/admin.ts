@@ -11,6 +11,8 @@ export interface StoreRow {
   lat: number;
   lng: number;
   service_radius_m: number;
+  auto_assign_riders: boolean;
+  assign_radius_m: number;
   is_open: boolean;
   opens_at: string;
   closes_at: string;
@@ -125,7 +127,7 @@ export const createAdminApi = (client: Client) => ({
 
   stores: {
     list: async (): Promise<StoreRow[]> => {
-      const { data, error } = await client.from("stores").select("id, name, code, address, lat, lng, service_radius_m, is_open, opens_at, closes_at, min_order_amount, delivery_fee, free_delivery_above, promised_minutes").order("name");
+      const { data, error } = await client.from("stores").select("id, name, code, address, lat, lng, service_radius_m, auto_assign_riders, assign_radius_m, is_open, opens_at, closes_at, min_order_amount, delivery_fee, free_delivery_above, promised_minutes").order("name");
       if (error) throw error;
       return (data ?? []) as StoreRow[];
     },

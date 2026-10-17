@@ -23,6 +23,16 @@ TaskManager.defineTask(LOCATION_TASK, async ({ data, error }) => {
 });
 
 let foregroundSub: Location.LocationSubscription | null = null;
+let heartbeat: ReturnType<typeof setInterval> | null = null;
+
+// Movement-based updates stop while the partner waits at the store, and automatic
+// assignment only considers partners heard from in the last 10 minutes. Re-send the last
+// known position every minute while the app is open.
+const HEARTBEAT_MS = 60_000;
+const sendHeartbeat = async () => {
+  const pos = await Location.getLastKnownPositionAsync({ maxAge: 5 * 60_000 }).catch(() => null);
+  if (pos) await trackingApi.publishPosition(pos.coords.latitude, pos.coords.longitude, pos.coords.heading ?? null).catch(() => undefined);
+};
 
 export const requestLocationPermissions = async (): Promise<{ foreground: boolean; background: boolean }> => {
   const fg = await Location.requestForegroundPermissionsAsync();
@@ -46,6 +56,7 @@ export const startPublishing = async (onPosition?: (p: { lat: number; lng: numbe
       void trackingApi.publishPosition(loc.coords.latitude, loc.coords.longitude, loc.coords.heading ?? null).catch(() => undefined);
     });
   }
+  if (!heartbeat) heartbeat = setInterval(() => void sendHeartbeat(), HEARTBEAT_MS);
   if (perms.background) {
     const running = await Location.hasStartedLocationUpdatesAsync(LOCATION_TASK).catch(() => false);
     if (!running) {
@@ -64,6 +75,8 @@ export const startPublishing = async (onPosition?: (p: { lat: number; lng: numbe
 export const stopPublishing = async (): Promise<void> => {
   foregroundSub?.remove();
   foregroundSub = null;
+  if (heartbeat) clearInterval(heartbeat);
+  heartbeat = null;
   const running = await Location.hasStartedLocationUpdatesAsync(LOCATION_TASK).catch(() => false);
   if (running) await Location.stopLocationUpdatesAsync(LOCATION_TASK);
 };

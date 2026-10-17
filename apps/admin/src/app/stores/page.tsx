@@ -32,7 +32,11 @@ function StoreForm({ initial, onDone }: { initial: Partial<StoreRow>; onDone: ()
       <Field label="Minimum order (₹)" value={fees.min} onChange={(e) => setFees({ ...fees, min: e.target.value })} inputMode="decimal" />
       <Field label="Delivery fee (₹)" value={fees.delivery} onChange={(e) => setFees({ ...fees, delivery: e.target.value })} inputMode="decimal" />
       <Field label="Free delivery above (₹)" value={fees.free} onChange={(e) => setFees({ ...fees, free: e.target.value })} inputMode="decimal" />
-      <div className="md:col-span-3"><Checkbox label="Open for orders" checked={f.is_open ?? true} onChange={(e) => setF({ ...f, is_open: e.target.checked })} /></div>
+      <Field label="Rider assignment radius (m)" value={String(f.assign_radius_m ?? 5000)} onChange={num("assign_radius_m")} inputMode="numeric" />
+      <div className="flex flex-col gap-2 md:col-span-3">
+        <Checkbox label="Open for orders" checked={f.is_open ?? true} onChange={(e) => setF({ ...f, is_open: e.target.checked })} />
+        <Checkbox label="Assign riders automatically when packing starts (nearest free online rider)" checked={f.auto_assign_riders ?? true} onChange={(e) => setF({ ...f, auto_assign_riders: e.target.checked })} />
+      </div>
       {error ? <p className="text-sm text-danger md:col-span-3">{error}</p> : null}
       <div className="flex gap-2 md:col-span-3"><Button type="submit" loading={save.isPending}>Save store</Button><Button type="button" variant="ghost" onClick={onDone}>Cancel</Button></div>
     </form>
@@ -44,7 +48,7 @@ export default function StoresPage() {
   const [editing, setEditing] = useState<Partial<StoreRow> | null>(null);
   return (
     <div className="space-y-4">
-      <div className="flex items-center justify-between"><h1 className="text-2xl font-bold">Stores</h1><Button onClick={() => setEditing({ is_open: true, service_radius_m: 3000, promised_minutes: 15, opens_at: "06:00", closes_at: "23:59" })}>+ New store</Button></div>
+      <div className="flex items-center justify-between"><h1 className="text-2xl font-bold">Stores</h1><Button onClick={() => setEditing({ is_open: true, service_radius_m: 3000, auto_assign_riders: true, assign_radius_m: 5000, promised_minutes: 15, opens_at: "06:00", closes_at: "23:59" })}>+ New store</Button></div>
       {editing ? <Card title={editing.id ? "Edit store" : "New dark store"}><StoreForm initial={editing} onDone={() => setEditing(null)} /></Card> : null}
       {stores.isLoading ? <Spinner /> : (
         <Table head={["Store", "Address", "Radius", "Hours", "ETA", "Open", ""]}>

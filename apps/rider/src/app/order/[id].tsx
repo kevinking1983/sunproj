@@ -8,7 +8,7 @@ import { ActivityIndicator, Alert, Linking, Platform, Pressable, ScrollView, Sty
 import { MapOrFallback } from "@/components/MapOrFallback";
 import { Button, Screen, Typography } from "@/components/ui";
 import { colors, radius, spacing } from "@/constants/theme";
-import { RIDER_NEXT, describeRiderError, riderApi } from "@/lib/api";
+import { RIDER_CAN_DECLINE, RIDER_NEXT, describeRiderError, riderApi } from "@/lib/api";
 import { queryKeys } from "@/lib/query";
 import { supabase } from "@/lib/supabase";
 import { formatInr } from "@ration/shared";
@@ -36,6 +36,23 @@ export default function RiderOrderScreen() {
     void qc.invalidateQueries({ queryKey: queryKeys.summary });
   };
   const advance = useMutation({ mutationFn: (s: keyof typeof STEP_LABEL) => riderApi.advance(id, s as Order["status"]), onSuccess: refresh, onError: (e) => setError(describeRiderError(e)) });
+  const decline = useMutation({
+    mutationFn: (reason: string) => riderApi.decline(id, reason),
+    onSuccess: () => {
+      refresh();
+      void qc.invalidateQueries({ queryKey: queryKeys.pool });
+      if (router.canGoBack()) router.back();
+      else router.replace("/(tabs)");
+    },
+    onError: (e) => setError(describeRiderError(e)),
+  });
+  const askDecline = () =>
+    // Android shows at most three alert buttons.
+    Alert.alert("Decline this delivery?", "It will go to the next available partner and won't come back to you.", [
+      { text: "Keep it", style: "cancel" },
+      { text: "Vehicle problem", onPress: () => decline.mutate("Vehicle problem") },
+      { text: "Other reason", style: "destructive", onPress: () => decline.mutate("Other") },
+    ]);
 
   const o = order.data;
   if (order.isLoading) return <Screen><ActivityIndicator color={colors.primary} /></Screen>;
@@ -60,6 +77,13 @@ export default function RiderOrderScreen() {
           <View style={styles.badge}><Typography variant="label" weight="semibold" style={{ color: colors.primary }}>{STATUS_LABEL[o.status]}</Typography></View>
           {o.promised_at ? <Typography variant="caption" tone="muted">Deliver by {new Date(o.promised_at).toLocaleTimeString("en-IN", { hour: "numeric", minute: "2-digit" })}</Typography> : null}
         </View>
+
+        {o.status === "accepted" || o.status === "packing" ? (
+          <View style={styles.note}>
+            <Typography variant="label" weight="semibold">Head to the store</Typography>
+            <Typography variant="caption" tone="muted">This order was assigned to you while it is being packed. Pick it up as soon as it is ready.</Typography>
+          </View>
+        ) : null}
 
         {o.status !== "delivered" && o.status !== "cancelled" ? <MapOrFallback destination={{ lat: a.lat, lng: a.lng }} /> : null}
 
@@ -101,6 +125,7 @@ export default function RiderOrderScreen() {
             }}
           />
         ) : null}
+        {RIDER_CAN_DECLINE.includes(o.status) ? <Button title="Decline delivery" variant="ghost" fullWidth loading={decline.isPending} onPress={askDecline} /> : null}
       </ScrollView>
     </Screen>
   );

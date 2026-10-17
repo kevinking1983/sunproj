@@ -58,7 +58,7 @@ export default function DeliveriesScreen() {
         {(active.data ?? []).map((o) => <View key={o.id} style={{ marginBottom: spacing.sm }}><OrderTile order={o} /></View>)}
         {active.data?.length === 0 ? (
           <View style={styles.empty}>
-            <Typography tone="muted" center>{online ? "No deliveries assigned yet. Check the Available tab to pick one up." : "Go online to receive deliveries."}</Typography>
+            <Typography tone="muted" center>{online ? "No deliveries yet. Orders near you are assigned automatically, or pick one from the Available tab." : "Go online to receive deliveries."}</Typography>
           </View>
         ) : null}
       </ScrollView>

@@ -24,6 +24,7 @@ the service that powers it in production, and the free or open-source stand-in u
 | Push notifications: order status, rider assignment | Expo push (FCM / APNs) | ntfy self-hosted (phone app subscribes to `ration-<user id>`) | Same function, provider switch |
 | Referral rewards, product ratings | SQL triggers | Same | Same |
 | Partner app: online toggle, pool, claim, steps, cash confirmation, earnings | SQL rider RPCs | Same | Same |
+| Automatic rider assignment: nearest free online rider when packing starts, decline hands over to the next, waiting orders picked up when a rider comes online or finishes | SQL trigger + `rider_decline_order` | Same | Same |
 | Admin: dashboard, orders board, inventory, products, categories, coupons, banners, stores, people | Next.js + staff RPCs | Same, local | Same |
 | Image upload (products, banners, categories) | Supabase Storage | Same, local | Same |
 | Website and admin hosting | Cloudflare Pages | `next dev` on localhost | Same build |
@@ -32,7 +33,6 @@ the service that powers it in production, and the free or open-source stand-in u
 ## Not implemented in either stack
 
 - Rider and vendor payouts (RazorpayX). The partner app shows cash to deposit; settlement is manual for now.
-- Automatic rider assignment by proximity. Riders self-claim from the pool or staff assign them.
 - In-app support chat. Support is WhatsApp, call and email links.
 
 ## Limits of the free stand-ins

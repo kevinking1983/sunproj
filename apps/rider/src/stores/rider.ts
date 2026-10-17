@@ -12,12 +12,19 @@ interface RiderState {
   hydrate: (online: boolean) => void;
 }
 
-export const useRider = create<RiderState>((set) => ({
+export const useRider = create<RiderState>((set, get) => ({
   online: false,
   position: null,
   busy: false,
   error: null,
-  hydrate: (online) => set({ online }),
+  // The server remembers that the partner is online across app restarts; resume sharing
+  // location in that case, or the customer map and automatic assignment go stale.
+  hydrate: (online) => {
+    if (online === get().online) return;
+    set({ online });
+    if (online) void startPublishing((position) => set({ position })).catch(() => set({ error: "Allow location access to keep receiving deliveries." }));
+    else void stopPublishing();
+  },
   setOnline: async (online) => {
     set({ busy: true, error: null });
     try {
