@@ -1,8 +1,8 @@
 /**
- * Database webhook target: Supabase Dashboard > Database > Webhooks on
- * public.orders (UPDATE) -> this function, with header
- * Authorization: Bearer <SUPABASE_SERVICE_ROLE_KEY>.
- * Sends an Expo push notification to the customer when the order status changes.
+ * Called by the database (trigger orders_notify, migration 0008, via pg_net) whenever an
+ * order's status or rider changes, with Authorization: Bearer <SUPABASE_SERVICE_ROLE_KEY>.
+ * Sends the customer a push for the new status and alerts a newly assigned rider.
+ * Enable once per project: select public.set_notify_config('<functions url>', '<service role key>');
  */
 import { errorResponse, handleOptions, HttpError, json } from "../_shared/http.ts";
 import { adminClient } from "../_shared/supabase.ts";

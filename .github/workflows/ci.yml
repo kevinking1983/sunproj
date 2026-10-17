@@ -114,6 +114,7 @@ jobs:
           echo "== mock gateway =="; docker logs ration-mock-gateway --tail 60 || true
           echo "== supabase auth =="; docker logs supabase_auth_ration --tail 80 2>&1 || true
           echo "== supabase edge runtime =="; docker logs supabase_edge_runtime_ration --tail 80 2>&1 || true
+          echo "== notify-order calls from the database =="; docker exec supabase_db_ration psql -U postgres -c "select id, status_code, error_msg, left(content::text, 200) from net._http_response order by id desc limit 10" 2>&1 || true
           echo "== test error context =="; cat test-results/*/error-context.md 2>/dev/null | head -150 || true
       - uses: actions/upload-artifact@v4
         if: failure()

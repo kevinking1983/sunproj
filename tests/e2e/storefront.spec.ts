@@ -1,6 +1,6 @@
 import { expect, test } from "@playwright/test";
 
-import { MOCK_GATEWAY, addToCart, login, mockGeocoders, setDeliveryAddress, simulateRider, useSavedAddress } from "./helpers";
+import { MOCK_GATEWAY, addToCart, login, mockGeocoders, pushTitles, setDeliveryAddress, simulateRider, useSavedAddress } from "./helpers";
 
 test.describe.configure({ mode: "serial" });
 
@@ -48,6 +48,9 @@ test("customer orders, pays through the mock gateway, and the rider delivers", a
   expect(log).toContain("delivered");
   await page.reload();
   await expect(page.getByRole("heading", { name: "Delivered" })).toBeVisible({ timeout: 30_000 });
+
+  // The database pushed each status change to notify-order, which delivered it through ntfy.
+  await expect.poll(() => pushTitles(), { timeout: 30_000, message: "customer push notifications in ntfy" }).toEqual(expect.arrayContaining(["Order confirmed", "Delivered"]));
 });
 
 test("customer can cancel an unpaid-online order and the wallet shows the refund path", async ({ page }) => {

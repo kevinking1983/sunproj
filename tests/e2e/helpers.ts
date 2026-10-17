@@ -74,6 +74,24 @@ export const addToCart = async (page: Page, productName: string, quantity = 1) =
   for (let i = 1; i < quantity; i++) await page.getByRole("article").filter({ hasText: productName }).first().getByRole("button", { name: "Add one" }).click();
 };
 
+const ossEnv = (): Record<string, string> => {
+  const file = path.resolve(__dirname, "../..", ".oss.env");
+  if (!fs.existsSync(file)) throw new Error(".oss.env missing: run npm run oss:start first");
+  return Object.fromEntries(fs.readFileSync(file, "utf8").split(/\r?\n/).filter((l) => l.includes("=")).map((l) => [l.slice(0, l.indexOf("=")), l.slice(l.indexOf("=") + 1)]));
+};
+
+export const NTFY = process.env.E2E_NTFY ?? "http://127.0.0.1:4020";
+
+/** Titles of the push notifications ntfy holds for a customer (the open-source push stand-in). */
+export const pushTitles = async (phone = `91${TEST_PHONE}`): Promise<string[]> => {
+  const env = ossEnv();
+  const res = await fetch(`${env.SUPABASE_URL}/rest/v1/profiles?phone=eq.${phone}&select=id`, { headers: { apikey: env.SUPABASE_SERVICE_ROLE_KEY, Authorization: `Bearer ${env.SUPABASE_SERVICE_ROLE_KEY}` } });
+  const [profile] = (await res.json()) as { id: string }[];
+  if (!profile) throw new Error(`no profile for ${phone}`);
+  const feed = await fetch(`${NTFY}/ration-${profile.id}/json?poll=1&since=all`).then((r) => r.text());
+  return feed.split("\n").filter(Boolean).map((l) => JSON.parse(l) as { event: string; title?: string }).filter((m) => m.event === "message").map((m) => m.title ?? "");
+};
+
 /** Runs the rider simulator against an order and waits for it to finish. */
 export const simulateRider = (orderNumber: string) => {
   const root = path.resolve(__dirname, "../..");

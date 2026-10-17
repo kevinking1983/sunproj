@@ -57,6 +57,18 @@ if (!ANON || !SERVICE) die("Supabase status did not include keys. Run `npx supab
 say("Applying migrations and seed");
 run("npx", ["supabase", "db", "reset"]);
 
+// Order notifications: the database calls notify-order through pg_net. Inside Docker the
+// database reaches the API gateway as "kong". SQL goes in on stdin, so no shell quoting.
+say("Connecting order notifications");
+try {
+  run("docker", ["exec", "-i", "supabase_db_ration", "psql", "-U", "postgres", "-d", "postgres", "-v", "ON_ERROR_STOP=1", "-q"], {
+    quiet: true,
+    input: `select public.set_notify_config('http://kong:8000/functions/v1', '${SERVICE.replace(/'/g, "''")}');\n`,
+  });
+} catch {
+  console.log("  could not store the notification settings; order pushes are off until the next npm run oss:start");
+}
+
 // Docker Hub downloads can drop mid-pull on flaky connections; retry, and never let the
 // optional notification service block the rest of the stack.
 const composeUp = (service, attempts) => {

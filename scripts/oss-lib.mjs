@@ -18,8 +18,9 @@ export const die = (s) => {
 };
 
 /** Runs a command, streaming output unless quiet; returns stdout. Throws on non-zero exit. */
-export const run = (cmd, args, { quiet = false, cwd = ROOT, check = true, env } = {}) => {
-  const res = spawnSync(cmd, args, { cwd, shell: isWindows, stdio: quiet ? ["ignore", "pipe", "pipe"] : "inherit", encoding: "utf8", env: { ...process.env, ...env } });
+export const run = (cmd, args, { quiet = false, cwd = ROOT, check = true, env, input } = {}) => {
+  const stdin = input === undefined ? (quiet ? "ignore" : "inherit") : "pipe";
+  const res = spawnSync(cmd, args, { cwd, shell: isWindows, input, stdio: quiet ? [stdin, "pipe", "pipe"] : [stdin, "inherit", "inherit"], encoding: "utf8", env: { ...process.env, ...env } });
   if (check && res.status !== 0) {
     if (quiet) process.stderr.write((res.stdout ?? "") + (res.stderr ?? ""));
     throw new Error(`${cmd} ${args.join(" ")} exited with ${res.status}`);
