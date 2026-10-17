@@ -1,3 +1,4 @@
+import { COMPANY } from "@ration/shared";
 import { Stack, useLocalSearchParams } from "expo-router";
 
 import { Screen, Typography } from "@/components/ui";
@@ -7,11 +8,11 @@ const PAGES: Record<string, { title: string; body: string[] }> = {
   terms: {
     title: "Terms of service",
     body: [
-      "RATION is a quick-commerce grocery service operated by RATION Private Limited (\"we\", \"us\"). By placing an order you agree to these terms.",
+      `RATION is a quick-commerce grocery service operated by ${COMPANY.legalName} ("we", "us"). By placing an order you agree to these terms.`,
       "Orders are fulfilled from the dark store serving your address. Prices, availability and delivery times are shown at checkout and may change between sessions.",
       "You must be 18 or older to order. Age-restricted items, where offered, require ID at delivery.",
       "We may cancel an order if an item is unavailable, the address is unreachable, or we suspect misuse. Any payment made will be refunded.",
-      "These terms are governed by the laws of India. Disputes are subject to the courts of the city where RATION Private Limited is registered.",
+      `These terms are governed by the laws of India. Disputes are subject to the courts of the city where ${COMPANY.legalName} is registered.`,
     ],
   },
   privacy: {

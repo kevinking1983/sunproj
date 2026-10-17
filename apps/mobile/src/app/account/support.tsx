@@ -1,13 +1,15 @@
 import Ionicons from "@expo/vector-icons/Ionicons";
+import { COMPANY } from "@ration/shared";
 import { Stack } from "expo-router";
 import { Linking, Pressable, StyleSheet, View } from "react-native";
 
 import { Screen, Typography } from "@/components/ui";
 import { colors, radius, spacing } from "@/constants/theme";
 
-const SUPPORT_PHONE = "+911234567890"; // replace with the RATION support line
-const SUPPORT_EMAIL = "support@ration.app";
-const SUPPORT_WHATSAPP = "911234567890";
+// Set the support number in packages/shared/src/company.ts; call and WhatsApp hide until then.
+const SUPPORT_PHONE = COMPANY.supportPhone ? `+${COMPANY.supportPhone}` : null;
+const SUPPORT_EMAIL = COMPANY.supportEmail;
+const SUPPORT_WHATSAPP = COMPANY.supportPhone;
 
 const FAQ = [
   { q: "Where is my order?", a: "Open the order from the Orders tab to see its live status. Most orders arrive within the promised time." },
@@ -21,14 +23,18 @@ export default function SupportScreen() {
     <Screen scroll edges={[]}>
       <Stack.Screen options={{ title: "Help and support" }} />
       <View style={styles.actions}>
-        <Pressable onPress={() => Linking.openURL(`https://wa.me/${SUPPORT_WHATSAPP}`)} style={styles.action}>
-          <Ionicons name="logo-whatsapp" size={24} color={colors.primary} />
-          <Typography variant="label" weight="semibold">WhatsApp</Typography>
-        </Pressable>
-        <Pressable onPress={() => Linking.openURL(`tel:${SUPPORT_PHONE}`)} style={styles.action}>
-          <Ionicons name="call-outline" size={24} color={colors.primary} />
-          <Typography variant="label" weight="semibold">Call us</Typography>
-        </Pressable>
+        {SUPPORT_WHATSAPP ? (
+          <Pressable onPress={() => Linking.openURL(`https://wa.me/${SUPPORT_WHATSAPP}`)} style={styles.action}>
+            <Ionicons name="logo-whatsapp" size={24} color={colors.primary} />
+            <Typography variant="label" weight="semibold">WhatsApp</Typography>
+          </Pressable>
+        ) : null}
+        {SUPPORT_PHONE ? (
+          <Pressable onPress={() => Linking.openURL(`tel:${SUPPORT_PHONE}`)} style={styles.action}>
+            <Ionicons name="call-outline" size={24} color={colors.primary} />
+            <Typography variant="label" weight="semibold">Call us</Typography>
+          </Pressable>
+        ) : null}
         <Pressable onPress={() => Linking.openURL(`mailto:${SUPPORT_EMAIL}`)} style={styles.action}>
           <Ionicons name="mail-outline" size={24} color={colors.primary} />
           <Typography variant="label" weight="semibold">Email</Typography>

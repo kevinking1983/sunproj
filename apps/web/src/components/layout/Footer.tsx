@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+import { COMPANY, companyLine } from "@ration/shared";
+
 export function Footer() {
   return (
     <footer className="mt-12 border-t border-border bg-surface">
@@ -26,7 +28,7 @@ export function Footer() {
           </ul>
         </div>
       </div>
-      <p className="border-t border-divider py-4 text-center text-xs text-muted">© {new Date().getFullYear()} RATION Private Limited. All rights reserved.</p>
+      <p className="border-t border-divider py-4 text-center text-xs text-muted">© {new Date().getFullYear()} {COMPANY.legalName}. {companyLine}{COMPANY.cin ? ` CIN ${COMPANY.cin}.` : ""} All rights reserved.</p>
     </footer>
   );
 }
