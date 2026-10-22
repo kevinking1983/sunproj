@@ -5,6 +5,7 @@
  *   supabase/catalog/products/*.json   products (validated by validate-products.mjs)
  *   supabase/catalog/pinned.json       products the automated tests rely on
  *   supabase/catalog/images.json       licensed image lookups (written by resolve-images.mjs)
+ *   supabase/catalog/image-overrides.json  photos chosen by hand in the photo picker, by product slug
  * Deterministic: the same inputs always give the same file.
  *   node scripts/catalog/build-seed.mjs
  */
@@ -21,6 +22,7 @@ execFileSync("node", [path.join(ROOT, "scripts/catalog/validate-products.mjs"), 
 
 const assortment = read(path.join(CAT, "assortment.json"));
 const images = fs.existsSync(path.join(CAT, "images.json")) ? read(path.join(CAT, "images.json")) : {};
+const overrides = fs.existsSync(path.join(CAT, "image-overrides.json")) ? read(path.join(CAT, "image-overrides.json")) : {};
 const productFiles = fs.readdirSync(path.join(CAT, "products")).filter((f) => f.endsWith(".json")).sort();
 
 // Department and category icons, shown until a category has a photo.
@@ -49,8 +51,11 @@ const products = [...read(path.join(CAT, "pinned.json")), ...productFiles.flatMa
 
 const shelfProducts = new Map(); // subcategory slug -> product slugs in order
 for (const p of products) for (const s of p.subcategories) (shelfProducts.get(s) ?? shelfProducts.set(s, []).get(s)).push(p);
+const unknownOverrides = Object.keys(overrides).filter((slug) => !products.some((p) => p.slug === slug));
+if (unknownOverrides.length) throw new Error(`image-overrides.json names products that do not exist: ${unknownOverrides.join(", ")}`);
+// A photo chosen in the picker wins; {"none": true} means show no photo.
 const imageOf = (p) => {
-  const hit = images[imageKey(p.image)];
+  const hit = overrides[p.slug] ?? images[imageKey(p.image)];
   return hit && hit.url ? hit : null;
 };
 

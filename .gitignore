@@ -56,6 +56,9 @@ supabase/functions/.env
 .env.local
 .oss-functions.pid
 
+# photo picker workspace (cache, downloaded candidates, choices)
+photo-picker/
+
 # playwright
 test-results/
 playwright-report/

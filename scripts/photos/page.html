@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RATION Photo Picker</title>
+<style>
+  :root {
+    --bg: #f6f7f5; --card: #fff; --ink: #1d2320; --muted: #5d6762; --line: #dfe3e0;
+    --brand: #0c831f; --brand-ink: #fff; --warn: #9a5b00; --warn-bg: #fff4e0; --bad: #b42318;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #121614; --card: #1b201d; --ink: #e8ece9; --muted: #9aa49e; --line: #2c3430; --brand: #3fbf55; --brand-ink: #08130b; --warn: #f0b860; --warn-bg: #2d2412; --bad: #ff8a80; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { position: sticky; top: 0; z-index: 2; background: var(--card); border-bottom: 1px solid var(--line); padding: 12px 16px; display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; }
+  h1 { font-size: 17px; margin: 0; }
+  .grow { flex: 1; }
+  select, input[type=search], input[type=url], button, .btn { font: inherit; color: inherit; background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; }
+  button, .btn { cursor: pointer; text-decoration: none; display: inline-block; }
+  button.primary, .btn.primary { background: var(--brand); color: var(--brand-ink); border-color: var(--brand); font-weight: 600; }
+  .muted { color: var(--muted); }
+  main { padding: 16px; max-width: 1400px; margin: 0 auto; }
+  .help { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin-bottom: 16px; }
+  .help p { margin: 4px 0; }
+  .product { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin-bottom: 14px; }
+  .product.done { border-color: var(--brand); }
+  .phead { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; }
+  .phead strong { font-size: 15px; }
+  .row { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 12px; margin-top: 10px; }
+  .cand { border: 2px solid var(--line); border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; }
+  .cand.chosen { border-color: var(--brand); }
+  .cand.current { border-style: dashed; }
+  .cand img { width: 100%; aspect-ratio: 1; object-fit: contain; background: #fff; display: block; }
+  .meta { padding: 6px 8px; font-size: 12px; display: flex; flex-direction: column; gap: 4px; flex: 1; }
+  .meta .title { font-weight: 600; overflow-wrap: anywhere; }
+  .badge { display: inline-block; font-size: 11px; padding: 1px 6px; border-radius: 99px; border: 1px solid var(--line); }
+  .note { color: var(--warn); background: var(--warn-bg); border-radius: 6px; padding: 3px 6px; }
+  .actions { display: flex; gap: 6px; flex-wrap: wrap; padding: 0 8px 8px; }
+  .actions > * { font-size: 12px; padding: 4px 8px; }
+  .tools { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; align-items: center; }
+  .tools input { flex: 1; min-width: 220px; }
+  .err { color: var(--bad); }
+  .empty { padding: 30px; text-align: center; }
+  @media (max-width: 600px) { .row { grid-template-columns: repeat(2, 1fr); } header { position: static; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>RATION Photo Picker</h1>
+  <span id="progress" class="muted"></span>
+  <span class="grow"></span>
+  <select id="dept" aria-label="Department"><option value="">All departments</option></select>
+  <select id="show" aria-label="Show">
+    <option value="todo">Needs a choice</option>
+    <option value="done">Chosen</option>
+    <option value="all">All</option>
+  </select>
+  <input id="q" type="search" placeholder="Search products" aria-label="Search products">
+  <a class="btn primary" href="/choices.json" download>Export choices</a>
+</header>
+<main>
+  <div class="help">
+    <p><strong>Use this</strong> picks the photo for that product; it saves straight away. <strong>Save</strong> downloads the photo to your PC. <strong>Source</strong> opens its page with the full licence.</p>
+    <p class="muted">Every photo here is openly licensed (Wikimedia Commons or Open Food / Beauty / Products Facts) and its credit is shown on the product page. Check the photo really is the product and pack size before choosing. Found a better one on Commons or Open Food Facts? Paste its link under the product.</p>
+  </div>
+  <div id="list"></div>
+</main>
+<script>
+"use strict";
+const TOKEN = "__TOKEN__";
+const $ = (id) => document.getElementById(id);
+const store = {
+  get(k) { try { return localStorage.getItem(k); } catch { return null; } },
+  set(k, v) { try { localStorage.setItem(k, v); } catch { /* private window */ } },
+};
+const h = (tag, attrs = {}, ...kids) => {
+  const el = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (v === null || v === undefined || v === false) continue;
+    if (k.startsWith("on")) el.addEventListener(k.slice(2), v);
+    else if (k === "class") el.className = v;
+    else el.setAttribute(k, v === true ? "" : v);
+  }
+  for (const kid of kids.flat()) if (kid !== null && kid !== undefined && kid !== false) el.append(kid);
+  return el;
+};
+const safeHref = (u) => (/^https:\/\//.test(u ?? "") ? u : null);
+let data = { products: [], searched: 0, total: 0 };
+const cards = new Map(); // slug -> { key, el }
+
+async function post(path, payload) {
+  const res = await fetch(path, { method: "POST", headers: { "Content-Type": "application/json", "X-Picker-Token": TOKEN }, body: JSON.stringify(payload) });
+  const json = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(json.error || res.statusText);
+  return json;
+}
+
+function card(p) {
+  const chosen = (id) => p.choice === id;
+  const choose = async (id) => {
+    try {
+      await post("/api/choose", { slug: p.slug, id: chosen(id) ? null : id });
+      p.choice = chosen(id) ? null : id;
+      render();
+    } catch (e) { alert(e.message); }
+  };
+  const tiles = [];
+  if (p.current && p.choice === null) {
+    tiles.push(h("div", { class: "cand current" },
+      h("img", { src: p.current.url, alt: `Current photo of ${p.name}`, loading: "lazy", referrerpolicy: "no-referrer" }),
+      h("div", { class: "meta" }, h("span", { class: "title" }, "Current photo"), h("span", { class: "muted" }, p.current.credit || "")),
+      h("div", { class: "actions" }, safeHref(p.current.page) && h("a", { class: "btn", href: p.current.page, target: "_blank", rel: "noopener noreferrer" }, "Source"))));
+  }
+  for (const c of p.candidates) {
+    tiles.push(h("div", { class: `cand${chosen(c.id) ? " chosen" : ""}` },
+      h("img", { src: `/img/${c.id}`, alt: c.title, loading: "lazy" }),
+      h("div", { class: "meta" },
+        h("span", { class: "title" }, c.title),
+        h("span", {}, h("span", { class: "badge" }, c.license), " ", c.width ? h("span", { class: "muted" }, `${c.width}×${c.height}`) : null),
+        h("span", { class: "muted" }, c.credit),
+        c.note && h("span", { class: "note" }, c.note),
+        c.warning && h("span", { class: "note" }, c.warning)),
+      h("div", { class: "actions" },
+        h("button", { class: chosen(c.id) ? "primary" : "", onclick: () => choose(c.id) }, chosen(c.id) ? "✓ Chosen" : "Use this"),
+        h("a", { class: "btn", href: `/img/${c.id}?download&slug=${encodeURIComponent(p.slug)}`, download: "" }, "Save"),
+        safeHref(c.page) && h("a", { class: "btn", href: c.page, target: "_blank", rel: "noopener noreferrer" }, "Source"))));
+  }
+  const status = { waiting: "Waiting to search…", searching: "Searching…", none: "No openly licensed photo found. Paste a link below, or leave it for your own photo.", error: `Search failed: ${p.error}. Restart the picker to retry.` }[p.status];
+  const link = h("input", { type: "url", placeholder: "Paste a commons.wikimedia.org/wiki/File:… or openfoodfacts.org/product/… link", "aria-label": `Photo link for ${p.name}` });
+  const addLink = async () => {
+    if (!link.value.trim()) return;
+    try {
+      const { id } = await post("/api/add", { slug: p.slug, link: link.value });
+      await refresh();
+      await post("/api/choose", { slug: p.slug, id });
+      await refresh();
+    } catch (e) { alert(e.message); }
+  };
+  link.addEventListener("keydown", (e) => e.key === "Enter" && addLink());
+  return h("section", { class: `product${p.choice ? " done" : ""}` },
+    h("div", { class: "phead" },
+      h("strong", {}, p.name), h("span", {}, p.unit), p.brand && h("span", { class: "muted" }, p.brand), h("span", { class: "muted" }, p.path)),
+    status && h("p", { class: p.status === "error" ? "err" : "muted" }, status),
+    tiles.length ? h("div", { class: "row" }, tiles) : null,
+    h("div", { class: "tools" },
+      link, h("button", { onclick: addLink }, "Add link"),
+      h("button", { class: p.choice === "none" ? "primary" : "", onclick: () => choose("none") }, p.choice === "none" ? "✓ No photo" : "No photo (remove)"),
+      p.slug && h("span", { class: "muted" }, p.slug)));
+}
+
+function render() {
+  const dept = $("dept").value, show = $("show").value, q = $("q").value.trim().toLowerCase();
+  const list = $("list");
+  const visible = data.products.filter((p) =>
+    (!dept || p.dept === dept) &&
+    (show === "all" || (show === "done" ? p.choice : !p.choice)) &&
+    (!q || `${p.name} ${p.brand ?? ""} ${p.path} ${p.slug}`.toLowerCase().includes(q)));
+  const keep = new Set();
+  const frag = [];
+  for (const p of visible) {
+    const key = JSON.stringify(p);
+    let c = cards.get(p.slug);
+    if (!c || c.key !== key) cards.set(p.slug, (c = { key, el: card(p) }));
+    keep.add(p.slug);
+    frag.push(c.el);
+  }
+  for (const slug of [...cards.keys()]) if (!keep.has(slug)) cards.delete(slug);
+  const next = frag.length ? frag : [h("p", { class: "empty muted" }, show === "todo" ? "Nothing left to choose here." : "No products match.")];
+  // Leave the page alone when nothing changed, so a half-typed link keeps its focus.
+  if (next.length !== list.children.length || next.some((el, i) => el !== list.children[i])) list.replaceChildren(...next);
+  const chosen = data.products.filter((p) => p.choice).length;
+  $("progress").textContent = `${chosen} of ${data.total} chosen` + (data.searched < data.total ? ` · searching ${data.searched}/${data.total}` : "");
+}
+
+async function refresh() {
+  const res = await fetch("/data.json");
+  data = await res.json();
+  const depts = [...new Map(data.products.map((p) => [p.dept, p.deptName])).entries()].filter(([d]) => d);
+  const sel = $("dept");
+  if (sel.options.length !== depts.length + 1) {
+    sel.replaceChildren(h("option", { value: "" }, "All departments"), ...depts.map(([d, n]) => h("option", { value: d }, n)));
+    sel.value = store.get("picker.dept") || "";
+  }
+  render();
+}
+
+$("show").value = store.get("picker.show") || "todo";
+for (const id of ["dept", "show"]) $(id).addEventListener("change", () => { store.set(`picker.${id}`, $(id).value); render(); });
+$("q").addEventListener("input", render);
+refresh().then(function poll() {
+  if (data.searched < data.total) setTimeout(() => refresh().then(poll), 5000);
+});
+</script>
+</body>
+</html>

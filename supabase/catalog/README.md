@@ -9,6 +9,7 @@ The store's departments, categories, subcategories and sample products, built fr
 | `products/<category>.json` | 1,245 sample products: original descriptions, realistic pack sizes, **sample** prices, GST rate, search tags and a photo lookup key. |
 | `pinned.json` | Toor Dal, Toned Milk and Brown Bread with fixed prices; the automated tests rely on them. |
 | `images.json` | Licensed photos and their credits, written by the "Catalog photos" GitHub Actions workflow. |
+| `image-overrides.json` | Photos chosen by hand in the photo picker, by product slug. They win over `images.json`; `{"none": true}` removes a wrong photo. |
 | `AGENT_BRIEF.md` | The rules the product files were written to. |
 
 `../seeds/catalog.sql` is generated from these files and loaded after `../seed.sql` on every
@@ -33,7 +34,30 @@ requires (shown under the photo on the product page):
 
 The lookup runs in GitHub Actions (workflow "Catalog photos") whenever product files change on
 `main`, or from the Actions tab on demand. It commits `images.json` and the regenerated seed.
-Products with no match show a placeholder. For launch, replace these with your own photos or the
+Products with no match show a placeholder.
+
+### Choosing photos by hand (photo picker)
+
+Run on your own computer (it needs normal internet access):
+
+```bash
+npm run photos:pick                                   # every product without a photo
+npm run photos:pick -- --category vegetables-fruits --all      # review a shelf, photos included
+npm run photos:pick -- --audit "C:\path\PRODUCE_107_VISUAL_AUDIT.csv"   # add files from a photo audit
+```
+
+It opens http://localhost:4321 with up to four openly licensed candidates per product from
+Wikimedia Commons and Open Food / Beauty / Products Facts, each with its licence and credit.
+**Use this** chooses a photo (saved at once to `photo-picker/choices.json`), **Save** downloads
+it, and a pasted Commons file link or Open Facts product link adds your own find; its licence is
+checked first. Audit rows marked REPLACE, and files Commons does not mark as freely licensed, are
+left out. Stop with Ctrl+C, then:
+
+```bash
+npm run photos:apply      # merges your choices into image-overrides.json and rebuilds the seed
+```
+
+`photo-picker/` is your local workspace and is not committed. For launch, replace these with your own photos or the
 pack shots brands and distributors supply, using the admin CSV import (`image_url`, `image_credit`).
 
 ## Production catalog

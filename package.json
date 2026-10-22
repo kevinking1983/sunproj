@@ -29,7 +29,9 @@
     "oss:start": "node scripts/oss-start.mjs",
     "oss:check": "node scripts/oss-check.mjs",
     "oss:stop": "node scripts/oss-stop.mjs",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "photos:pick": "node scripts/photos/pick.mjs",
+    "photos:apply": "node scripts/photos/apply.mjs"
   },
   "engines": {
     "node": ">=20"
