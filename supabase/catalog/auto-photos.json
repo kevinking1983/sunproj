@@ -94,15 +94,7 @@
   "miss": true
  },
  "aachi-chicken-masala-200g": {
-  "url": "https://images.openfoodfacts.org/images/products/890/602/112/0425/front_en.3.400.jpg",
-  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8906021120425",
-  "source": "openfoodfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "Aachi · Aachi Chicken Kabab / 65 Masala Powder",
-  "quantity": "100g"
+  "miss": true
  },
  "aachi-dry-red-chilli-250g": {
   "miss": true
@@ -200,14 +192,14 @@
   "miss": true
  },
  "amaranth-leaves-1-bunch": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Song_sparrow_on_amaranth_in_BBG_%2854965%29.jpg/960px-Song_sparrow_on_amaranth_in_BBG_%2854965%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Song_sparrow_on_amaranth_in_BBG_(54965).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Amaranth%28Edibles%29_Flower_2.jpg/960px-Amaranth%28Edibles%29_Flower_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Sufe, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Amaranth(Edibles)_Flower_2.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Song sparrow on amaranth in BBG (54965).jpg"
+  "title": "Amaranth(Edibles) Flower 2.jpg"
  },
  "american-tourister-school-backpack-1pc": {
   "miss": true
@@ -804,15 +796,14 @@
   "miss": true
  },
  "cadbury-hot-chocolate-mix-200g": {
-  "url": "https://images.openfoodfacts.org/images/products/991/470/024/34311/front_en.3.400.jpg",
+  "url": "https://images.openfoodfacts.org/images/products/762/220/172/9752/front_en.3.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/99147002434311",
+  "page": "https://world.openfoodfacts.org/product/7622201729752",
   "source": "openfoodfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "Cadbury Hot Chocolate",
-  "quantity": "6"
+  "title": "Cadbury · Cadbury Hot Chocolate"
  },
  "camlin-geometry-box-1set": {
   "miss": true
@@ -827,14 +818,15 @@
   "miss": true
  },
  "campbells-ready-vegetable-soup-305g": {
-  "url": "https://images.openfoodfacts.org/images/products/910/001/030/686/front_en.5.400.jpg",
+  "url": "https://images.openfoodfacts.org/images/products/930/064/412/3501/front_en.4.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/910001030686",
+  "page": "https://world.openfoodfacts.org/product/9300644123501",
   "source": "openfoodfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "Campbell’s vegetable soup"
+  "title": "Campbell's farmhouse vegetable soup",
+  "quantity": "2"
  },
  "cantaloupe-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Cantaloupe_skin.jpg/960px-Cantaloupe_skin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2039,14 +2031,14 @@
   "title": "Rice terraces, Bali.jpg"
  },
  "hmt-steam-rice-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Steam_rice_with_fish_in_original.jpg/960px-Steam_rice_with_fish_in_original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Peachyeung316, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Steam_rice_with_fish_in_original.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Steam_rice_with_beef_and_egg.jpg/960px-Steam_rice_with_beef_and_egg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Geoffreyrabbit, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Steam_rice_with_beef_and_egg.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Steam rice with fish in original.jpg"
+  "title": "Steam rice with beef and egg.jpg"
  },
  "hobby-ideas-gift-bows-pack-of-10": {
   "miss": true
@@ -2106,14 +2098,14 @@
   "title": "Javier shows part of the grape harvest in his Lysekil vineyard 1 - cropped.jpg"
  },
  "imported-red-seedless-grapes-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Two_red_grapes_fused_together%2C_partially_split.jpg/960px-Two_red_grapes_fused_together%2C_partially_split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: FreeMediaKid!, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Two_red_grapes_fused_together,_partially_split.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/The_Red_Grape_-_2021-06-20_-_Sarah_Stierch_03.jpg/960px-The_Red_Grape_-_2021-06-20_-_Sarah_Stierch_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Missvain, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Red_Grape_-_2021-06-20_-_Sarah_Stierch_03.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Two red grapes fused together, partially split.jpg"
+  "title": "The Red Grape - 2021-06-20 - Sarah Stierch 03.jpg"
  },
  "india-gate-brown-rice-1kg": {
   "miss": true
@@ -2485,15 +2477,14 @@
   "miss": true
  },
  "lipton-green-tea-25pcs": {
-  "url": "https://images.openfoodfacts.org/images/products/890/103/055/3134/front_en.6.400.jpg",
+  "url": "https://images.openfoodfacts.org/images/products/890/103/075/8300/front_en.3.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8901030553134",
+  "page": "https://world.openfoodfacts.org/product/8901030758300",
   "source": "openfoodfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "Lipton · Lipton Green tea",
-  "quantity": "13g"
+  "title": "Lipton · Lipton GREEN TEA LEMON ZEST"
  },
  "lipton-lemon-iced-tea-350ml": {
   "url": "https://images.openfoodfacts.org/images/products/406/213/901/5252/front_en.4.400.jpg",
@@ -2706,14 +2697,7 @@
   "miss": true
  },
  "maybelline-highlighter-8g": {
-  "url": "https://images.openbeautyfacts.org/images/products/360/053/169/7419/front_nl.3.400.jpg",
-  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
-  "page": "https://world.openbeautyfacts.org/product/3600531697419",
-  "source": "openbeautyfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "Maybelline New Yorker Sunkisser 21 All Star Liquid Glow Highlighter"
+  "miss": true
  },
  "maybelline-lip-gloss-5-4ml": {
   "miss": true
@@ -3439,15 +3423,14 @@
   "title": "Parachute · 100% Pure Coconut Oil"
  },
  "parachute-coconut-oil-500ml": {
-  "url": "https://images.openbeautyfacts.org/images/products/890/108/815/0095/front_en.3.400.jpg",
+  "url": "https://images.openbeautyfacts.org/images/products/890/108/808/0279/front_en.15.400.jpg",
   "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
-  "page": "https://world.openbeautyfacts.org/product/8901088150095",
+  "page": "https://world.openbeautyfacts.org/product/8901088080279",
   "source": "openbeautyfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "Parachute · Parachute Advansed Gold Coconut Hair Oil",
-  "quantity": "280 ml"
+  "title": "Parachute Aloe Vera Coconut oil 2yrs prod"
  },
  "park-avenue-shaving-foam-225ml": {
   "miss": true
@@ -4017,15 +4000,15 @@
   "miss": true
  },
  "saffola-oats-1kg": {
-  "url": "https://images.openfoodfacts.org/images/products/890/108/819/4839/front_en.3.400.jpg",
+  "url": "https://images.openfoodfacts.org/images/products/890/108/805/0562/front_en.3.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8901088194839",
+  "page": "https://world.openfoodfacts.org/product/8901088050562",
   "source": "openfoodfacts",
   "license": "CC BY-SA",
   "match": "pack",
-  "confidence": "High",
-  "title": "Saffola masala oats",
-  "quantity": "1kg"
+  "confidence": "Medium",
+  "title": "Saffola · Saffola Oats",
+  "quantity": "400g"
  },
  "saffola-rice-bran-oil-1l": {
   "miss": true
@@ -4449,14 +4432,14 @@
   "title": "Hong Kong Okra Aug 25 2012.JPG"
  },
  "tetley-green-tea-30pcs": {
-  "url": "https://images.openfoodfacts.org/images/products/890/105/208/7440/front_en.3.400.jpg",
+  "url": "https://images.openfoodfacts.org/images/products/890/105/200/4669/front_en.5.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8901052087440",
+  "page": "https://world.openfoodfacts.org/product/8901052004669",
   "source": "openfoodfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "Tetley Green tea  ORIGINAL long, leat"
+  "title": "Tetley GREEN TEA NATURAL MANGO FLAVOUR"
  },
  "tetley-tea-bags-50pcs": {
   "url": "https://images.openfoodfacts.org/images/products/500/020/804/4450/front_en.3.400.jpg",
