@@ -92,14 +92,21 @@ async function packShot(p, rejected) {
 const NOT_A_PHOTO = /\b(logo|map|diagram|chart|poster|advert|advertisement|label|icon|stamp|coat of arms|flag|graph|screenshot|illustration|drawing|painting|engraving|botanical|herbarium|k[oö]hler|blanco|plate \d+|dish|recipe|cooked|curry|salad|soup|sapling|seedling|nursery)\b/i;
 const GROWING = /\b(plant|plants|tree|trees|field|farm|orchard|plantation|crop|growing|cultivation|flowering|flower|flowers|blossom|bloom)\b/i;
 const isFlowerOrLeaf = (p) => /\b(flower|flowers|garland|rose|marigold|jasmine|tuberose|chrysanthemum|lotus|leaf|leaves|tulsi)\b/i.test(p.name);
+// The listing's Wikipedia article is the item's standard English name ("Okra" for Lady Finger,
+// "Bell pepper" for Capsicum, "Green bean" for French Beans); searching by it avoids the
+// homonyms reviewers kept rejecting (lady finger bananas, chillies, coffee beans).
+const englishName = (p) => (p.image?.wiki ?? "").replace(/\s*\(.*\)$/, "");
 async function representative(p, rejected, variety) {
   if (p.brand) return null; // never for branded listings
-  // A variety must be found by its own name ("red potato"); otherwise the English name first,
-  // then the search tags.
-  const queries = (variety ? [p.name] : [...new Set([p.name, ...p.tags])]).map((t) => distinct(t).join(" ")).filter((t) => t.length > 2).slice(0, 4);
+  const english = englishName(p);
+  // A variety is searched with its distinguishing words ("red bell pepper", "baby potato").
+  const raw = variety
+    ? [english && `${variety.extra.join(" ")} ${english}`, p.name]
+    : [english, p.name, ...p.tags];
+  const queries = [...new Set(raw.filter(Boolean).map((t) => distinct(t).join(" ")).filter((t) => t.length > 2))].slice(0, 4);
   for (const q of queries) {
     const want = q.split(" ");
-    const results = await commonsPace(() => lib.commonsSearch(q, 12));
+    const results = await commonsPace(() => lib.commonsSearch(q, 30));
     for (const c of results) {
       if (rejected.has(c.url) || NOT_A_PHOTO.test(c.title) || (!isFlowerOrLeaf(p) && GROWING.test(c.title))) continue;
       const title = new Set(lib.words(c.title));
@@ -119,13 +126,15 @@ for (const p of catalog) if (p.brand && auto[p.slug] && auto[p.slug].match !== "
 const targets = catalog.filter((p) => !overrides[p.slug] && (!p.current || p.current.url === auto[p.slug]?.url || varieties.has(p.slug)));
 let done = 0;
 let found = 0;
+// Bumped when the representative search improves, so generic and unbranded misses get one more try.
+const REPRESENTATIVE_SEARCH = 2;
 const only = args.includes("--category") ? args[args.indexOf("--category") + 1] : null;
 const todo = targets.filter((p) => {
   if (only && !p.subcategories.some((s) => s.startsWith(only))) return false;
   const a = auto[p.slug];
   const rejected = new Set(rejects[p.slug] ?? []);
   if (a?.url && rejected.has(a.url)) return true;
-  return !a || (a.miss && retryMisses);
+  return !a || (a.miss && (retryMisses || (!p.brand && (a.search ?? 1) < REPRESENTATIVE_SEARCH)));
 });
 // Entries for products that now have a better photo are dropped.
 for (const slug of Object.keys(auto)) if (!targets.some((p) => p.slug === slug)) delete auto[slug];
@@ -137,8 +146,8 @@ for (const p of todo.slice(0, limit)) {
   }
   const rejected = new Set(rejects[p.slug] ?? []);
   try {
-    const c = (await packShot(p, rejected)) ?? (await representative(p, rejected, varieties.has(p.slug)));
-    auto[p.slug] = c ? { url: c.url, credit: c.credit, page: c.page, source: c.source, license: c.license, match: c.match, confidence: c.confidence, title: c.title, ...(c.quantity ? { quantity: c.quantity } : {}) } : { miss: true };
+    const c = (await packShot(p, rejected)) ?? (await representative(p, rejected, varieties.get(p.slug)));
+    auto[p.slug] = c ? { url: c.url, credit: c.credit, page: c.page, source: c.source, license: c.license, match: c.match, confidence: c.confidence, title: c.title, ...(c.quantity ? { quantity: c.quantity } : {}) } : { miss: true, ...(p.brand ? {} : { search: REPRESENTATIVE_SEARCH }) };
     if (c) found++;
   } catch (e) {
     console.warn(`  ${p.slug}: ${e.message}`); // not recorded, so the next run retries it

@@ -1,10 +1,164 @@
 {
+ "24-mantra-organic-jowar-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/350/6188/front_en.3.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Blurry 24 Mantra Organic flour pouch; the variant name cannot be read. The brand is visible, but even zoomed in the variant text is unreadable, so jowar cannot be confirmed."
+ },
+ "24-mantra-organic-moong-dal-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/350/5570/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: 24 Mantra Organic Moong Dal pack on a store shelf. A: The brand logo and the words Moong Dal are visible on the brand's own pack (size may differ). B: Brand logo and Moong Dal text are visible and match the listing (size may differ)."
+ },
+ "24-mantra-organic-turmeric-powder-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/351/5241/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Sideways 24 Mantra Organic Turmeric Powder pouch with a price sticker. Shot sideways, but the 24 Mantra logo, 'Organic' and 'Turmeric Powder' are readable on the right red pouch (size may differ)."
+ },
+ "3m-masking-tape-2rolls": {
+  "url": "https://images.openproductsfacts.org/images/products/406/403/519/4673/front_it.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Shrink-wrapped 3M Masking Tape roll pack labelled 3x. A: The photo shows 3M's own branded masking tape pack in the same product line; it is a 3-roll pack rather than 2 (size may differ). B: 3M branding and the Masking Tape product are clearly visible; this pack has 3 rolls, not 2, so size may"
+ },
+ "7up-lemon-lime-soft-drink-750ml": {
+  "url": "https://images.openfoodfacts.org/images/products/860/003/799/9074/front_fr.13.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: 7UP bottle label, lemon & lime flavour. A: The 7UP label clearly shows the lemon and lime flavour, which matches the listing; size may differ. B: 7UP logo and lemon & lime flavour are clearly visible on a green bottle."
+ },
+ "aachi-sambar-powder-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/602/112/8568/front_fr.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Aachi Madras Sambar Powder 200 g box, front (export pack). A: The Aachi brand and the sambar powder variant are clearly visible; this is the export labelling of the same product, also 200 g. B: Aachi sambar powder box, 200 g, with matching brand and product type; this is the export 'Madras Sa"
+ },
+ "aashirvaad-multigrain-atta-5kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/500/6679/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Aashirvaad Atta with Multigrains bag (5kg + 500g free). A: Aashirvaad brand and the Multigrain atta variant are clearly visible. B: The Aashirvaad brand and the multigrain variant are clearly visible."
+ },
+ "aashirvaad-salt-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/512/3123/front_en.13.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Aashirvaad Iodized Salt pack held in hand. A: The Aashirvaad logo and 'Iodized Salt' are clearly visible, matching the listing. B: The front of the Aashirvaad iodized salt pack is clearly visible and matches the listing."
+ },
+ "aashirvaad-sharbati-atta-5kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/500/7911/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Aashirvaad Select atta bag front. A: Aashirvaad Select is the brand's Sharbati atta line, though the sub-line text is small; size may differ. B: Aashirvaad Select is the brand's sharbati atta, and brand and line are clearly visible; size may differ."
+ },
+ "aashirvaad-whole-wheat-atta-5kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/512/1143/front_en.11.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Aashirvaad Shudh Chakki Atta bag front. A: Aashirvaad Shudh Chakki is the brand's standard whole wheat atta; size may differ. B: Aashirvaad's own whole wheat (Shudh Chakki) atta pack is clearly shown; size may differ."
+ },
+ "act-ii-butter-microwave-popcorn-90g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/151/250/7501/front_en.8.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: ACT II Butter Lover's microwave popcorn pack. A: ACT II branding and the butter flavour microwave popcorn match the listing. B: ACT II butter-flavour microwave popcorn, with the brand and flavour clearly visible."
+ },
+ "akshayakalpa-organic-milk-500ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/800/324/9391/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Akshayakalpa Organic Farm Fresh Cow Milk 500 ml pouch. A: Brand, organic milk product and 500 ml size all match the listing. B: The brand, organic variant and 500ml size all match and are clearly visible."
+ },
+ "almond-house-boondi-laddu-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/616/207/0795/front_en.9.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Almond House Mota Boondi Laddu box. A: The Almond House logo and 'Mota Boondi Laddu' are clearly printed on the brand's box, which matches the boondi laddu listing; size may differ. B: Almond House logo and the boondi laddu product are clearly shown on the brand's own box."
+ },
  "alphonso-mango-6-pcs": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mangoes_in_Bangalore_%282025%29_19.jpg/500px-Mangoes_in_Bangalore_%282025%29_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "NEEDS_HUMAN_REVIEW",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Box of about ten yellow and greenish-yellow mangoes on newspaper. Real mangoes, but several look elongated like Banganapalli, so Alphonso variety cannot be confirmed."
+ },
+ "amul-buttermilk-200ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/220/2015/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Amul Probiotic Masala Buttermilk pouch, front. The Amul buttermilk pouch front is clear and the listing names no flavour; it is the masala version and the size may differ."
+ },
+ "amul-cow-ghee-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/203/0663/front_en.13.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Blurry photo of a screen showing an Amul Cow Ghee jar. A: Amul Cow Ghee is readable on the jar so the identity matches, though the photo is a low-quality shot of a monitor. B: Brand and 'Cow Ghee' variant are readable and match the listing, though the photo is a low-quality shot of a screen ("
+ },
+ "amul-khoa-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/205/0173/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Amul Khoa (Mawa) pack held in a hand. A: Front of an Amul Khoa pack with the brand and product name visible. B: Amul's own khoa pack, with the Amul wordmark and 'Khoa' clearly visible."
+ },
+ "amul-lassi-200ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/220/2046/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Flattened Amul Lassi pouch, front. A: Front of an Amul Lassi pouch with the brand clearly visible, matching the listing. B: Amul's own lassi pouch, with the brand and product name clearly visible; size may differ."
+ },
+ "amul-lite-spread-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/214/0065/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Amul Lite Bread Spread carton. A: Front of an Amul Lite bread spread pack, the same product as the listing. B: Amul's own Lite bread spread pack, with the brand and variant clearly visible."
+ },
+ "amul-uht-milk-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/094/140/215/1368/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Amul Moti milk pouch with 90-day shelf-life badge. A: Amul-branded Moti pouch, which is Amul's UHT long-life milk; size may differ. B: Amul Moti is Amul's UHT milk with a 90-day shelf life, and the brand is clearly visible on the front of the pack."
+ },
+ "amul-vanilla-ice-cream-tub-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/217/3490/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Amul Vanilla Magic ice cream tub lid. A: Amul vanilla ice cream tub, correct brand and flavour (size may differ). B: Amul vanilla ice cream tub with the brand and flavour clearly visible; size may differ."
+ },
+ "asparagus-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Asparagus-Bundle.jpg/960px-Asparagus-Bundle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bundle of green asparagus spears with rubber bands. A: It is green asparagus in a bundle, the way a customer receives it. B: Real photo of green asparagus as sold, as the clear main subject."
+ },
+ "b-natural-guava-juice-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/510/5167/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Hand holding a small B Natural Guava tetra pack. A: This is the B Natural guava juice pack and it matches the listing, though it is a small tetra pack rather than 1L, so size may differ. B: B Natural Guava pack matches the listing; it is a small carton, so size may differ."
  },
  "baby-carrot-200g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Carrots_%28baby%29_-_Arlington%2C_MA.jpg/960px-Carrots_%28baby%29_-_Arlington%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13,12 +167,40 @@
   "date": "2026-10-23",
   "note": "Shows: Bowl of peeled baby-cut orange carrots. A: Baby carrots clearly shown as the main subject. B: Baby carrots in the right form are clearly the main subject."
  },
+ "bagrrys-corn-flakes-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/854/181/020/5206/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bagrry's Corn Flakes Plus Original & Healthier pouch. A: Bagrry's corn flakes pack, which matches the brand and product line. B: Bagrry's own corn flakes pack with the brand and product visible."
+ },
+ "baidyanath-chyawanprash-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/450/4657/front_en.9.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Baidyanath Chyawanprash Special red jar held in hand. A: Baidyanath Chyawanprash pack with brand clearly visible (size may differ). B: Baidyanath Chyawanprash pack with the brand clearly visible; size may differ."
+ },
+ "bambino-vermicelli-400g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/428/700/1069/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bambino Nutraawell Vermicelli pack. A: Bambino vermicelli pack with the brand clearly visible (size may differ). B: This is Bambino's own vermicelli pack with the brand and product clearly visible (the fortified Nutraawell version); size may differ."
+ },
  "banana-leaf-5-pcs": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Banana-leaf-1.JPG/500px-Banana-leaf-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: One large green banana leaf on the plant. A: A banana leaf is clearly the main subject, the right item, though it is still on the plant and the light is dim. B: A whole green banana leaf is clearly the main subject and looks like what the customer receives, even though the lighting is poor."
+ },
+ "banganapalli-mango-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Mango_Banganapalli_variety.jpg/960px-Mango_Banganapalli_variety.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Basket of yellow-green oval mangoes with a 'BANGANA PALLI' sign. A: Banganapalli mangoes are clearly shown and labelled as that variety. B: A real photo of Banganapalli mangoes as the main subject; the variety sign is part of the scene, not an overlay, though the price tag is a minor distract"
  },
  "basil-50g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ocimum_basilicum_8zz.jpg/500px-Ocimum_basilicum_8zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -48,12 +230,124 @@
   "date": "2026-10-23",
   "note": "Shows: single round green-yellow ber fruit with stalk on white. A ripe green apple-ber as the customer receives it is the clear main subject."
  },
+ "betel-leaves-10-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Betel_leaves_for_selling_in_the_market_01.jpg/960px-Betel_leaves_for_selling_in_the_market_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Large stacked bundle of fresh betel leaves at a market stall. A: Fresh betel leaves as sold are the clear main subject. B: Fresh betel leaves as sold in the market are the clear main subject."
+ },
+ "betty-crocker-brownie-mix-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/001/600/071/8807/front_en.10.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Betty Crocker Chocolate Fudge Brownie Mix box, front. A: Front of pack shows Betty Crocker branding and a brownie mix, which matches the listing; size may differ. B: Betty Crocker's own brownie mix pack with the brand clearly visible (UK-style pack, size may differ)."
+ },
  "bhagwa-pomegranate-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Pomegranate_Juice_%282019%29.jpg/500px-Pomegranate_Juice_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Whole red pomegranate and cut pieces with red arils, plus a glass of juice. A: Deep-red pomegranates fitting the Bhagwa type are the dominant subject, though the juice glass in the frame is a minor distraction. B: The whole and opened deep-red pomegranate is the main subject and matches Bhagw"
+ },
+ "bikaji-bikaneri-bhujia-400g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/550/0090/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bikaji Bikaneri Bhujia pack with Amitabh Bachchan. A: Correct brand and product, Bikaji Bikaneri Bhujia (size may differ). B: This is Bikaji's own Bikaneri Bhujia pack with the brand and variant clearly readable; size may differ."
+ },
+ "bikaji-moong-dal-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/550/1080/front_fr.8.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bikaji moong dal pouch front. A: Bikaji brand and the moong dal product name are clearly visible on the pouch; size may differ. B: Bikaji moong dal pack with the brand and variant readable; size may differ."
+ },
+ "bikaji-soan-papdi-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/550/4111/front_fr.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bikaji Soan Papdi Premium box. A: The Bikaji logo and the Soan Papdi name are clearly visible on the brand's own box; size may differ. B: Bikaji logo and Soan Papdi name are visible on the front of the box; a little soft but readable."
+ },
+ "bingo-salted-potato-chips-52g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/500/7096/front_en.9.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bingo! Original Style salt-sprinkled potato chips pack. A: Bingo! Original Style salted chips, matching the variant (size may differ). B: This is Bingo's own salted (Original Style) chips pack with the brand clearly visible; size may differ."
+ },
+ "bisleri-packaged-drinking-water-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/601/729/0064/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bisleri packaged drinking water PET bottle with handle. A: Bisleri branded drinking water bottle, the right brand and product; size may differ. B: Bisleri packaged drinking water with the brand label visible; size may differ."
+ },
+ "blackberry-125g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Blackberry_%28Rubus_fruticosus%29.jpg/960px-Blackberry_%28Rubus_fruticosus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up of a single ripe blackberry on white. A: It is clearly a fresh blackberry as the main subject. B: Real photo of a raw blackberry as the clear main subject, in the right colour and form."
+ },
+ "bonne-maman-fruit-preserve-370g": {
+  "url": "https://images.openfoodfacts.org/images/products/71832055/front.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bonne Maman Mixed Berries Preserves jar, 13 oz (370 g). A: Bonne Maman fruit preserve jar with the brand clearly visible; listing names no flavour. B: Bonne Maman preserve jar in the listed size with the brand clearly visible."
+ },
+ "bonne-maman-orange-marmalade-370g": {
+  "url": "https://images.openfoodfacts.org/images/products/304/532/001/6086/front_en.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bonne Maman Orange Marmalade 370g jar, front. A: Exact brand, product and pack size are clearly shown. B: Brand, flavour and pack size all match."
+ },
+ "borges-olive-oil-500ml": {
+  "url": "https://images.openfoodfacts.org/images/products/841/017/910/1118/front_en.15.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Borges Extra Virgin Olive Oil Original PET eco bottle, ~1 L. Brand is right, but the listing names no variant (Pure, Extra Light or Extra Virgin), so someone needs to confirm Extra Virgin is the one stocked (size may differ)."
+ },
+ "britannia-cheese-slices-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/340/1136/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Britannia Cheese Slices pack on a store shelf. A: Front of a Britannia Cheese Slices pack with the brand and product name clearly visible. B: Britannia's own cheese slices pack, with the brand and product name clearly visible."
+ },
+ "britannia-good-day-butter-cookies-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/309/2617/front_en.17.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Britannia Good Day Butter Cookies pack. A: Correct brand and the butter variant are clearly shown; size may differ. B: Right brand, product line and variant, shown in a clear pack shot."
+ },
+ "britannia-nutrichoice-oat-cookies-150g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/316/5687/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Britannia NutriChoice Oats Almond & Milk cookies, 450 g family export box. A: Same brand and product line (NutriChoice Oats cookies), and the listing names no flavour; this is a larger export pack, so size may differ. B: Right brand and NutriChoice oat cookie line, and the listing names no fl"
+ },
+ "britannia-rusk-300g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/315/1574/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Britannia Toastea Milk Rusk 207 g pack with GBP 0.99 price flash. Britannia's own rusk line matches a listing that names no variant; it is an export pack with a pound price printed on it, and the size may differ."
+ },
+ "britannia-tiger-glucose-biscuits-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/316/3331/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Britannia Tiger Glucose Biscuits pack. A: Correct brand and product line; the pack is small in the frame but readable, and size may differ. B: The Tiger Glucose pack is small in frame but readable (size may differ)."
  },
  "brown-bread": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Kommissbrot.jpg/500px-Kommissbrot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -62,12 +356,33 @@
   "date": "2026-10-23",
   "note": "Shows: Single slice of brown wholemeal/rye-style bread. A: A slice of brown bread is clearly the product. B: A slice of brown bread is the clear main subject and represents the product reasonably well, though it looks denser than a typical Indian brown loaf."
  },
+ "bru-instant-coffee-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/910/601/3919/front_en.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bru Instant coffee Rs 10 sachet (Tamil pack). A: Bru Instant coffee pack is clearly shown; size may differ. B: Bru Instant brand and variant clearly visible; size may differ (small sachet, not 100 g)."
+ },
  "button-mushroom-200g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/ChampignonMushroom.jpg/500px-ChampignonMushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Four white button mushrooms, one sliced in half, on a wooden surface. A: White button mushrooms are clearly the main subject, as the customer receives them. B: White button mushrooms are the clear main subject in the right form."
+ },
+ "cadbury-bournville-dark-chocolate-80g": {
+  "url": "https://images.openfoodfacts.org/images/products/600/106/560/1120/front_en.11.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Cadbury Bournville Classic Dark Chocolate bar. A: Cadbury Bournville dark chocolate branding is clearly visible; size may differ. B: Cadbury Bournville dark chocolate bar with the brand and variant clearly visible; size may differ."
+ },
+ "carefree-pantyliners-20pcs": {
+  "url": "https://images.openbeautyfacts.org/images/products/357/466/023/9010/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Carefree Aloe pantyliners box, 20 count. A: This is the brand's own Carefree pantyliner pack, matching the listing's product and count. B: Front of the Carefree pantyliner pack, matching the 20-piece count."
  },
  "carrot-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Vegetable-Carrot-Bundle-wStalks.jpg/500px-Vegetable-Carrot-Bundle-wStalks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -76,6 +391,13 @@
   "date": "2026-10-23",
   "note": "Shows: Small bunch of orange carrots with large leafy green tops. A: Harvested orange carrots are clearly identifiable, though leaves take up much of the frame. B: Real orange carrots are clearly shown, a fair representation of generic carrots."
  },
+ "catch-black-pepper-powder-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/119/211/4006/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Catch Sprinklers Black Pepper shaker bottle. A: Catch black pepper powder in its Sprinklers bottle, brand clearly visible; size may differ. B: Catch black pepper powder in its sprinkler pack, with brand and variant clear; size may differ."
+ },
  "cauliflower-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Chou-fleur_02.jpg/500px-Chou-fleur_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
@@ -83,12 +405,33 @@
   "date": "2026-10-23",
   "note": "Shows: single white cauliflower head with leaves on a plain background. A: A clean shot of a whole cauliflower as the main subject. B: A clean real photo of a whole cauliflower as the clear main subject."
  },
+ "cavins-chocolate-milkshake-180ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/297/905/1934/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Cavin's Chocolate Milkshake tetra pack. A: Correct brand and flavour, clearly visible on the front of the pack. B: Right brand and right flavour, and the carton front is clearly visible."
+ },
  "celery-250g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Celery_1.jpg/500px-Celery_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Banded bunches of celery stalks with leaves in a green crate at a shop. A: Celery bunches are clearly the main subject, as the customer receives them. B: Celery bunches as sold are the clear main subject."
+ },
+ "cerave-moisturising-cream-177ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/333/787/559/8996/front_en.28.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: CeraVe Moisturising Cream tube, front. A: The front of a CeraVe Moisturising Cream is clearly shown (tube format; size may differ). B: The CeraVe Moisturising Cream pack is clearly shown; size may differ."
+ },
+ "cetaphil-gentle-skin-cleanser-125ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/349/932/001/5431/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Cetaphil Gentle Skin Cleanser pump bottle, front. A: The front of the Cetaphil Gentle Skin Cleanser is clearly shown (size may differ). B: The Cetaphil Gentle Skin Cleanser pack is clearly shown; size may differ."
  },
  "cherries-250g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Cherry_season_%2848216568227%29.jpg/500px-Cherry_season_%2848216568227%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -111,12 +454,82 @@
   "date": "2026-10-23",
   "note": "Shows: Round brown speckled Asian (nashi) pear on a branch. A: A round, speckled Asian pear is the clear dominant subject and matches Chinese pear. B: A round, speckled Asian pear is the clear main subject and matches the Chinese pear variety."
  },
+ "chings-secret-dark-soy-sauce-200ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/159/586/2726/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Ching's Secret Dark Soy Sauce bottle, front, held in hand. A: Correct brand and Dark Soy Sauce variant, both clearly visible. B: Brand and variant match, and the label is clearly readable."
+ },
+ "chings-secret-schezwan-chutney-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/159/586/3280/front_en.8.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Ching's Secret Schezwan Chutney glass jar held in hand. A: Correct brand and product line clearly visible (size may differ). B: Correct brand and product line, clearly visible; size may differ."
+ },
+ "chocolate-gelato-500ml": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2021-12-23_19_48_48_Chocolate_gelato_in_Ashburn%2C_Loudoun_County%2C_Virginia.jpg/960px-2021-12-23_19_48_48_Chocolate_gelato_in_Ashburn%2C_Loudoun_County%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Scoops of chocolate gelato in a white bowl. A: Chocolate gelato is clearly the main subject, in the right form. B: A real photo with chocolate gelato as the clear main subject."
+ },
+ "clinic-plus-shampoo-355ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/093/7187/front_en.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Clinic Plus Strong & Long health shampoo bottle, front. A: The front of a Clinic Plus shampoo bottle is clearly shown (size may differ). B: The Clinic Plus shampoo pack is clearly shown with the brand visible."
+ },
  "cluster-beans-500g": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cluster_bean-guar-Cyamopsis_psoralioides-Cyamopsis_tetragonolobus-TAMIL_NADU73.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: many guar (cluster bean) pods filling the frame on the plant. Cluster bean pods dominate the frame and look as they do when harvested, so the policy's plant exception does not apply."
+ },
+ "coca-cola-soft-drink-750ml": {
+  "url": "https://images.openfoodfacts.org/images/products/394/876/401/2273/front_en.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Coca-Cola Original Taste PET bottle. A: This is a clear studio shot of a regular Coca-Cola bottle, which matches the listing; size may differ. B: Clear Coca-Cola original bottle matches the listing; size may differ."
+ },
+ "coconut-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Coconuts_-_single_and_cracked_open.jpg/960px-Coconuts_-_single_and_cracked_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: One whole brown husked coconut and one cracked-open half showing white flesh. A: A whole coconut as sold is clearly shown, with a cut half for context. B: A brown coconut as typically sold, clearly shown, with the opened half only adding context."
+ },
+ "colgate-plax-mouthwash-250ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/131/407/7998/front_en.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Colgate MaxFresh Plax mouthwash bottle (blue). A: Colgate Plax mouthwash (MaxFresh variant) with the Colgate logo visible matches the listing. B: Colgate's Plax mouthwash line (MaxFresh Plax) with the Colgate brand visible; size may differ."
+ },
+ "colgate-toothbrush-pack-of-4": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/131/430/5527/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single Colgate Slim Soft Charcoal ultra-soft toothbrush in blister pack. A: Colgate branded manual toothbrush matches the listing; shown as a single brush, so pack size may differ. B: Colgate toothbrush pack with the brand clearly visible; a single brush rather than a pack of 4, so size may d"
+ },
+ "comfort-fabric-conditioner-800ml": {
+  "url": "https://images.openproductsfacts.org/images/products/890/103/093/0942/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Comfort Fabric Conditioner Anti-Bacterial Action pack, green. A: This is the brand's own Comfort fabric conditioner pack, and the listing names no variant (size may differ). B: Front of a Comfort fabric conditioner pack with the brand clearly visible; size may differ."
+ },
+ "corelle-dinner-set-1set": {
+  "url": "https://images.openproductsfacts.org/images/products/007/116/014/9793/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Corelle 12-piece Winter Frost White dinnerware box. A: Corelle-branded dinner set packaging, matching the listing. B: This is Corelle's own dinner set box with the brand clearly visible and plates shown."
  },
  "coriander-leaves-100g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Coriander_Leaves.jpg/960px-Coriander_Leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -125,12 +538,40 @@
   "date": "2026-10-23",
   "note": "Shows: A bunch of fresh coriander (cilantro) leaves on a dark wooden table. A: A fresh coriander bunch is the clear main subject in the correct form. B: Fresh coriander bunch, correct form, as the clear main subject."
  },
+ "cornetto-chocolate-cone-105ml": {
+  "url": "https://images.openfoodfacts.org/images/products/501/077/518/7399/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Cornetto Double Chocolate Cone wrapped cone. A: Cornetto chocolate cone with the brand clearly visible; Double Chocolate is the chocolate variant. B: Cornetto chocolate cone in its own branded wrapper; Double Chocolate is the chocolate variant."
+ },
+ "cornitos-nacho-chips-with-salsa-dip-pack-of-2": {
+  "url": "https://images.openfoodfacts.org/images/products/890/608/257/1303/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Cornitos Peri Peri Nachos & Salsa Dip combo box. A: Cornitos nachos-with-salsa-dip combo matches the listing, which names no flavour; the box shown is Peri Peri. B: Cornitos Nachos & Salsa Dip combo matches the listing; the photo shows the Peri Peri version and one box, not the pack of 2."
+ },
+ "country-delight-cow-milk-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/736/1275/front_en.11.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Country Delight Natural Cow Milk pouch, 450 ml. A: Front of a Country Delight cow milk pouch with the logo visible; same product line, size may differ. B: This is Country Delight's own cow milk pouch from the same product line; size may differ (450 ml shown, listing is 1 L)."
+ },
  "cucumber-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/ARS_cucumber.jpg/500px-ARS_cucumber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: About eight whole green cucumbers lying on soil among vines. Whole green cucumbers of the right type clearly dominate the frame, even though they are photographed in the field."
+ },
+ "custard-apple-500g": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Custard_apple_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single green custard apple hanging on a branch, surrounded by leaves. The fruit is recognisable and in the centre, but foliage fills most of the frame and the fruit is still on the tree, not harvested; borderline under the policy."
  },
  "cut-papaya-250g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Papaya_cut_at_picnic_table_with_tortillas.jpg/960px-Papaya_cut_at_picnic_table_with_tortillas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -139,12 +580,285 @@
   "date": "2026-10-23",
   "note": "Shows: Plate of cut papaya wedges with seeds on a picnic table. A: Cut orange papaya pieces are clearly the main subject. B: Cut ripe papaya is clearly the main subject, in the right form."
  },
+ "daawat-basmati-rice-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/490/113/502/5127/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Daawat Super Basmati Rice pack. A: Daawat branding and Basmati Rice are clearly visible on the front of the pack (Super line). B: The Daawat brand and basmati rice are clearly visible on the brand's own pack."
+ },
+ "daawat-brown-rice-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/153/707/4354/front_en.20.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Daawat Brown Basmati Rice jar held in hand. A: Daawat branding and Brown Basmati Rice are clearly visible on the front of a jar, which matches the listing (size may differ). B: Daawat Brown Basmati Rice is clearly shown on the brand's own jar (size may differ)."
+ },
+ "daawat-sona-masoori-rice-5kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/153/707/4415/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Daawat Sona Masoori Rice bag front. A: Daawat brand and the Sona Masoori variant are clearly readable. B: The Daawat brand and the Sona Masoori variant are clearly readable on the pack."
+ },
+ "dabur-chyawanprash-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/120/704/0337/front_en.42.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Dabur Chyawanprash red jar with Hindi label, held in hand. A: Recognisable Dabur Chyawanprash pack with brand logo (size may differ). B: Dabur's own Chyawanprash pack, recognisable by its logo and red jar; size may differ."
+ },
+ "dabur-honey-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/120/704/5370/front_en.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Small Dabur Honey glass bottle, front. A: Dabur Honey with the brand clearly visible; it is a smaller bottle, so size may differ. B: Dabur Honey, front of pack; size may differ."
+ },
+ "date-crown-whole-dates-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/629/110/021/2606/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Date Crown Bumaan premium Emirates dates 500 g tray. A: Date Crown branded tray of whole dates, which matches the listing. B: Date Crown's own whole dates pack with the brand clearly visible and 500 g printed on it."
+ },
+ "dettol-floor-cleaner-500ml": {
+  "url": "https://images.openproductsfacts.org/images/products/629/512/004/0355/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Yellow Dettol Antibacterial 3X Power Floor Cleaner bottle lying on tiles. A: The photo shows Dettol's own floor cleaner pack with the brand clearly visible, which matches the listing (size may differ). B: The front of a Dettol-branded floor cleaner bottle is clearly shown, which matches the l"
+ },
+ "dettol-liquid-handwash-200ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/139/632/4584/front_en.9.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Dettol Original liquid handwash pump bottle. A: Correct brand and product line (Dettol liquid handwash); size may differ. B: Dettol liquid handwash front with the brand clearly visible; size may differ."
+ },
+ "dhara-groundnut-oil-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/462/0171/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Dhara Filtered Groundnut Oil carton on a shelf. A: Right brand and product: the Dhara groundnut oil pack is clearly visible. B: Right brand and right variant, clearly legible."
+ },
+ "dhara-mustard-oil-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/990/940/486/2027/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Dhara Kachi Ghani Mustard Oil PET bottle, front label. A: The Dhara brand and the mustard oil label are clearly visible on the bottle. B: Dhara brand and mustard oil variant are clearly visible on the front of the bottle."
+ },
+ "dill-leaves-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Fresh_Dill_Leaves.JPG/960px-Fresh_Dill_Leaves.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: A single sprig of fresh dill on a plain background. A: It is clearly fresh dill leaves; one sprig is shown, not a full bunch, but the item is right. B: Real photo of fresh dill leaves as the clear main subject, though only one sprig is shown rather than a bunch."
+ },
+ "doritos-cheese-tortilla-chips-80g": {
+  "url": "https://images.openfoodfacts.org/images/products/006/041/002/7226/front_fr.14.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Doritos Zesty Cheese bag (Canadian bilingual pack). A: Doritos cheese-flavour tortilla chips match the listing, though this is a foreign bilingual pack and the size may differ. B: Doritos cheese-flavour tortilla chips match the listing; pack size and market may differ."
+ },
+ "double-horse-ponni-rice-5kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/401/150/3821/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Double Horse Ponni Rice bag, front with logo. A: The pack shows the Double Horse logo and the words Ponni Rice, so brand and product line both match; the photo is a little blurry but readable. B: Double Horse logo and 'Ponni Rice' are clearly visible on the brand's own pack, though the photo "
+ },
+ "dove-beauty-bar-3x100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/872/018/225/6836/front_en.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Dove beauty cream bar, 4 x 90 g pack. A: Correct brand and product line (Dove beauty bar), though size may differ (4 x 90 g instead of 3 x 100 g). B: Correct Dove Beauty Bar product line with the brand clearly visible; size may differ (4x90g vs 3x100g)."
+ },
+ "dove-body-wash-250ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/872/018/187/1801/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Dove 'Love & Meadows' bergamot and wildflower body wash bottle. A: Dove logo visible on a Dove body wash bottle, which matches the listing's product type; size may differ. B: Dove body wash bottle with the Dove logo visible; size may differ."
+ },
+ "dove-conditioner-180ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/628/100/644/3617/front_fr.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Dove Colour Protect conditioner bottle, front. A: A Dove conditioner with the brand logo and the word conditioner visible (size may differ). B: The Dove conditioner pack is clearly shown with the brand visible."
+ },
+ "drumstick-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Drumsticks_or_Moringa.jpg/960px-Drumsticks_or_Moringa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Several long green ridged moringa pods. A: Fresh drumstick pods shown close up, which is how the customer receives them. B: Fresh drumstick pods in the right form and colour are the clear main subject."
+ },
+ "eastern-fish-masala-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/144/001/3136/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Hand holding an Eastern Fish Masala 100 g pouch. A: The red Eastern logo and 'Fish Masala 100g' are visible, matching brand, product and size. B: The Eastern brand and 'Fish Masala' are readable on the correct 100g pouch."
+ },
  "english-cucumber-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/English_cucumber_straight_from_the_farm.jpg/960px-English_cucumber_straight_from_the_farm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Four long, slender dark-green cucumbers on a table. A: Long dark-green thin-skinned cucumbers match the English cucumber variety. B: Long, thin, dark-green cucumbers match the English cucumber variety and are clearly the main subject."
+ },
+ "epigamia-greek-yogurt-90g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/963/6004/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Epigamia Greek Yogurt Natural tub. A: Front of an Epigamia Greek yogurt tub, same product line; size may differ. B: Epigamia's own natural Greek yogurt cup, with the brand clear; size may differ (the cup looks larger than 90 g)."
+ },
+ "equal-sugar-substitute-100sachets": {
+  "url": "https://images.openfoodfacts.org/images/products/030/025/890/0122/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Equal Original zero-calorie sweetener box, 250 packets. A: Correct brand and product line (Equal Original sachets); size may differ (250 vs 100 sachets). B: Same Equal Original product line with the brand clear; size may differ (250 packets shown, listing is 100 sachets)."
+ },
+ "everest-biryani-masala-50g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/178/614/0107/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Everest Shahi Biryani Masala box (front). A: This is Everest's biryani masala (sold as Shahi Biryani Masala) with brand clearly visible; size may differ. B: This is Everest's standard biryani masala (Shahi Biryani Masala) with the brand clearly visible; the name on the pack differs slightly f"
+ },
+ "everest-garam-masala-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/178/610/1009/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Everest Garam Masala box, front. A: The Everest brand and garam masala variant are clearly visible. B: Everest Garam Masala box front, with matching brand and variant."
+ },
+ "everest-tandoori-chicken-masala-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/178/617/1002/front_en.23.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Everest Tandoori Chicken Masala box. A: Brand and product name match the listing exactly; size may differ. B: The brand and variant both match the listing and are clearly visible."
+ },
+ "fanta-orange-soft-drink-750ml": {
+  "url": "https://images.openfoodfacts.org/images/products/06743406/front_fr.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Dark photo of a Fanta bottle with orange label, orange cap and orange drink. The photo is dark, but the Fanta logo is readable and the orange label and drink show Fanta Orange; size may differ."
+ },
+ "farmley-salted-pistachios-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/612/010/0496/front_es.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Farmley Jumbo Irani Pistachios, roasted & salted pouch. A: Farmley roasted and salted pistachios, which matches the brand and variant; size may differ. B: Farmley's own roasted and salted pistachios, which matches the salted pistachios listing."
+ },
+ "farmley-sunflower-seeds-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/612/010/7181/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Farmley Sunflower Seeds gold pouch. A: Correct brand and product line, with the Farmley name and Sunflower Seeds clearly visible. B: This is Farmley's own sunflower seeds pack with the brand and product name clearly readable; size may differ."
+ },
+ "farmley-trail-mix-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/200/000/015/1726/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Farmley Trail Mix jar. A: Farmley brand and the Trail Mix product name are clearly visible; size may differ. B: Farmley Trail Mix pack with the brand and product clearly visible; size may differ."
+ },
+ "fenugreek-leaves-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Washed_fenugreek_leaves_for_cooking_methi-chadachadi.jpg/960px-Washed_fenugreek_leaves_for_cooking_methi-chadachadi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Washed fresh methi leaves in a steel colander. A: Fresh green fenugreek leaves are clearly the main subject. B: Real photo of fresh green fenugreek leaves as the clear main subject; they are shown plucked rather than as a tied bunch, which is acceptable."
+ },
+ "ferrero-festive-chocolate-hamper-1pack": {
+  "url": "https://images.openfoodfacts.org/images/products/000/980/012/0369/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Ferrero Rocher 6-piece gold gift cube with bow. A: A Ferrero Rocher festive gift box reasonably matches a Ferrero festive hamper listing; contents and size may differ. B: Ferrero festive gift box, a reasonable match for a festive chocolate pack; contents and size may differ."
+ },
+ "figaro-olive-oil-500ml": {
+  "url": "https://images.openfoodfacts.org/images/products/841/012/521/1700/front_en.3.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Figaro Extra Virgin Olive Oil 250 ml bottle in hand. Brand is right, but the bottle is the Extra Virgin variant and plain 'Figaro Olive Oil' is usually the pure line, so someone needs to check which one is stocked (size may differ)."
+ },
+ "finish-dishwasher-detergent-tablets-30tabs": {
+  "url": "https://images.openproductsfacts.org/images/products/571/497/000/8045/front_en.10.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Finish Powerball Ultimate dishwasher tablets mega value pack, 70 tabs (Swedish text). A: This is a Finish dishwasher tablet pack with the brand clearly visible (size may differ). B: Front of a Finish dishwasher tablet pack with the brand clear; size may differ (70 vs 30)."
+ },
+ "fogg-body-spray-150ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/800/115/8480/front_en.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Fogg Imperial body spray can (blue). A: Fogg branded body spray matches the listing; size may differ. B: Fogg body spray with the brand clearly visible, matching this generic body-spray listing."
+ },
+ "fortune-besan-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/5025/front_en.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Fortune Besan pack front. A: Fortune branding and besan are clearly visible on the front of the pack. B: The brand's own besan pack is clearly shown."
+ },
+ "fortune-maida-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/881/1117/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Fortune Maida refined wheat flour pack front. A: Fortune branding and maida are clearly visible on the front of the pack. B: The brand's own maida pack is clearly shown."
+ },
+ "fortune-mustard-oil-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/0945/front_en.12.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Fortune Kachi Ghani mustard oil bottle held in hand. A: Right brand and product: the Fortune Kachi Ghani mustard oil bottle is clearly visible. B: Fortune Kachi Ghani mustard oil label is visible and matches the listing."
+ },
+ "fortune-rice-bran-oil-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/0693/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Fortune Rice Bran Health 1 litre pouch, front. A: Fortune brand, rice bran oil and the 1 L pack all match the listing. B: Fortune rice bran oil pouch front, with matching brand, variant and size."
+ },
+ "fortune-sunflower-oil-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/0242/front_en.18.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Fortune Sunlite refined sunflower oil pouch, logo in regional script. A: Fortune swirl logo and Sunlite refined sunflower oil are clearly visible, which is the right brand and product. B: Fortune logo and the Sun Lite sunflower oil line are clearly recognisable."
+ },
+ "freedom-sunflower-oil-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/603/503/0239/front_en.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Freedom Refined Sunflower Oil 5 litre jar. A: Right brand and product (Freedom refined sunflower oil); size may differ, 5 L shown against 1 L listed. B: Right brand and right product line; this jar is 5 L, so size may differ."
+ },
+ "fresh-tender-coconut-1pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tender_coconut_image.jpg/960px-Tender_coconut_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Pile of green tender coconuts on the ground (dim photo). A: Green tender coconuts are clearly the main subject; the photo is dim but the item is right. B: Whole green tender coconuts are clearly the main subject; the photo is dim but the product is recognisable."
  },
  "fuji-apple-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Apfel-Fuji.jpg/500px-Apfel-Fuji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -153,12 +867,82 @@
   "date": "2026-10-23",
   "note": "Shows: A single red and yellow streaked apple on a white background. A: A clear studio shot of a Fuji-type apple with the typical red streaks over a yellow-green base. B: Studio shot of a Fuji-type apple with the right striped red colouring."
  },
+ "garlic-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Garlic_bulbs_and_cloves.jpg/960px-Garlic_bulbs_and_cloves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Whole garlic bulb, opened bulb and cloves, peeled and unpeeled. A: It is clearly garlic bulbs and cloves as the main subject. B: Real photo of raw garlic bulbs and cloves as the clear main subject."
+ },
+ "garnier-men-face-wash-100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/152/659/3705/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Hand holding a Garnier Men TurboBright face wash tube. A: Garnier Men face wash with the brand clearly visible, matching the listing; size may differ (XL pack). B: Garnier Men face wash with the brand clearly readable; a hand holding it is acceptable."
+ },
+ "garnier-micellar-water-125ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/019/282/870/6636/front_en.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Garnier SkinActive Micellar Cleansing Water bottle. A: Garnier micellar cleansing water bottle with the brand clearly visible, matching the listing; size may differ. B: Garnier micellar water bottle with the brand clearly visible; real photo with the product as the main subject (size may diff"
+ },
+ "garnier-sheet-mask-1pc": {
+  "url": "https://images.openbeautyfacts.org/images/products/360/054/238/5329/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Garnier Skin Naturals green tea sheet mask (Turkish packaging). A: Garnier-branded single sheet mask, matching the listing's product type, though the pack text is in Turkish. B: A Garnier sheet mask pack is clearly visible and matches the listing, although the packaging and marketing panel ar"
+ },
+ "gillette-venus-razor-1pc": {
+  "url": "https://images.openbeautyfacts.org/images/products/770/201/840/1055/front_en.8.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Gillette Venus Deluxe Smooth Swirl razor retail pack. A: This is a Gillette Venus razor in its branded pack, matching the listing. B: Front of a Gillette Venus razor pack holding one razor."
+ },
+ "gits-gulab-jamun-mix-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/115/510/1210/front_en.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Gits Gulab Jamun dessert mix box (washed-out photo). A: Gits brand and Gulab Jamun mix are readable even though the photo is faded; size may differ. B: Brand and Gulab Jamun variant are readable even though the photo is faded."
+ },
+ "gits-rava-idli-mix-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/115/510/9216/front_en.14.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Gits Rava Idli breakfast mix box, 200 g. A: Gits Rava Idli mix; size may differ. B: Gits Rava Idli mix pack; size may differ."
+ },
  "glass-bangles-1dozen": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Women_wearing_bangles_in_Chittagong_%2802%29.jpg/500px-Women_wearing_bangles_in_Chittagong_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Stacks of red, green and black glass bangles worn on women's wrists. A: Thin, shiny glass bangles are clearly the main subject, and showing them worn is acceptable. B: Glass bangles are clearly the main subject, shown as worn, which is acceptable for a representative photo."
+ },
+ "godrej-nupur-henna-500g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/102/301/8602/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Godrej Nupur 100% pure henna green pouch, front. A: The front of a Godrej Nupur henna pack is clearly shown (size may differ). B: The Godrej Nupur henna pack is clearly shown; size may differ."
+ },
+ "gowardhan-cow-ghee-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/102/4880/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Gowardhan Swarna Pure Cow Ghee pouch, photographed sideways with a price sticker. A: The Gowardhan brand and pure cow ghee are clearly visible on the pack. B: Gowardhan pure cow ghee pack matches the brand and variant, though the image is rotated sideways."
+ },
+ "granny-smith-apple-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Granny_Smith_Apples.jpg/960px-Granny_Smith_Apples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: One whole green apple and one halved green apple on white. A: Bright green Granny Smith-type apples are the clear subject. B: Bright green Granny Smith apples, correct variety and colour, on a clean background."
  },
  "grated-coconut-200g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Grated_Coconut_-_Howrah_2013-10-18_3541.JPG/960px-Grated_Coconut_-_Howrah_2013-10-18_3541.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -174,6 +958,20 @@
   "date": "2026-10-23",
   "note": "Shows: Box of green and green-white striped brinjals. A: Green brinjals clearly shown as harvested produce. B: Harvested green brinjals of the right colour are clearly the main subject."
  },
+ "green-chilli-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Bhiwapur_Chilli_-_Green_Unripened.jpg/960px-Bhiwapur_Chilli_-_Green_Unripened.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: A handful of plump light-green chillies on a wooden table. A: It is clearly fresh green chillies as the main subject. B: Real photo of raw green chillies as the clear main subject, though they are a stubbier type than the usual long thin ones."
+ },
+ "green-peas-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/India_-_Varanasi_green_peas_-_2714.jpg/960px-India_-_Varanasi_green_peas_-_2714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Hands holding fresh shelled green peas over heaps of peas. Fresh green peas are clearly the main subject, and a hand holding the product is allowed."
+ },
  "guava-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Guava_pink_fruit.jpg/500px-Guava_pink_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
@@ -181,12 +979,103 @@
   "date": "2026-10-23",
   "note": "Shows: Whole green guava and a halved guava with pink flesh. A: Clear studio shot of guava as the main subject. B: A real photo with a whole guava as the clear main subject."
  },
+ "haldirams-aloo-bhujia-400g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/440/0731/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Haldiram's Nagpur Aloo Bhujia pack. A: Correct brand and product, Haldiram's Aloo Bhujia (size may differ). B: This is Haldiram's own Aloo Bhujia pack with the brand and variant clearly readable; size may differ."
+ },
+ "haldirams-gulab-jamun-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/440/5910/front_fr.14.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Haldiram's Gulab Jamun 1 kg tin. A: Haldiram's branding and the Gulab Jamun name are clearly visible on the tin. B: Haldiram's Gulab Jamun tin with the brand and product readable."
+ },
+ "haldirams-moong-dal-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/440/3725/front_en.20.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Haldiram's Moong Dal namkeen pack front. A: Haldiram's branding and the Moong Dal product name are clearly visible on the front of the pack. B: Front of the Haldiram's Moong Dal pack, with the brand and product name clearly visible."
+ },
+ "haldirams-ratlami-sev-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/440/0410/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Haldiram's Ratlami Sev Rs 5 pack. A: Correct brand and product, Haldiram's Ratlami Sev (size may differ). B: This is Haldiram's own Ratlami Sev pack with the brand and variant clearly visible; size may differ."
+ },
+ "haldirams-ready-to-eat-dal-makhani-300g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/406/321/6236/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Haldiram's Minute Khana Dal Makhani box, 283 g. A: Haldiram's ready-to-eat Dal Makhani; size may differ. B: Haldiram's ready-to-eat Dal Makhani pack; size may differ."
+ },
+ "haldirams-soan-papdi-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/406/320/6930/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Haldiram's Soan Papdi (cow ghee) box. A: Haldiram's branding and the Soan Papdi name are clearly visible on the box; size may differ. B: Front of the Haldiram's Soan Papdi box, with the brand and product clearly visible; size may differ."
+ },
+ "happilo-california-almonds-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/608/112/3619/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Happilo 100% Natural Premium Californian Almonds pouch. A: Happilo Californian Almonds pack, which matches the brand and product. B: Happilo's own Californian almonds pouch, so brand and product match."
+ },
  "hass-avocado-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Avocado_Hass_-_single_and_halved.jpg/500px-Avocado_Hass_-_single_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Whole dark pebbly-skinned Hass avocado and a halved one with its pit, on a studio background. A: Clearly a Hass avocado with the dark, bumpy skin of the right variety, as the main subject. B: Clear studio photo of the correct Hass variety, with dark bumpy skin."
+ },
+ "head-and-shoulders-anti-dandruff-shampoo-340ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/490/243/034/5927/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Head & Shoulders Anti-Dandruff Shampoo Anti-Hairfall bottle, front. A: A Head & Shoulders anti-dandruff shampoo with the brand clearly visible (Anti-Hairfall variant; size may differ). B: This is a Head & Shoulders anti-dandruff shampoo pack with the brand clearly visible; size may differ."
+ },
+ "heritage-curd-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/992/1008/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Heritage Total Curd pouch held in a hand over jeans. The front of the pouch is the main subject and is clearly Heritage Total Curd (green oval logo, blue pouch); casual framing is acceptable."
+ },
+ "heritage-full-cream-milk-500ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/991/8138/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Heritage Happy Full Cream Milk pouch. A: The Heritage brand and Full Cream Milk variant are clearly visible. B: The brand and full cream variant are clearly visible on the pouch front."
+ },
+ "hersheys-chocolate-spread-350g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/107/170/1389/front_fr.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Hershey's Spreads Cocoa jar, front. A: Hershey's Spreads Cocoa is Hershey's plain chocolate spread, and the brand is clearly visible. B: Hershey's own cocoa (chocolate) spread jar, which matches the listing."
+ },
+ "hersheys-chocolate-syrup-623g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/107/170/6834/front_en.23.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Hershey's Syrup bottle, genuine chocolate flavour. A: The Hershey's chocolate syrup bottle is clearly branded and matches the listing; size may differ. B: Hershey's chocolate syrup bottle matches the listing; a little dark but readable."
+ },
+ "hersheys-hot-chocolate-mix-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/107/170/2744/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Hershey's Hot Chocolate tub (Indian pack). A: Hershey's brand and hot chocolate product are clearly shown; size may differ. B: Correct brand and hot chocolate product clearly visible."
  },
  "hybrid-tomato-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/500px-Tomato_je.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -202,12 +1091,26 @@
   "date": "2026-10-23",
   "note": "Shows: Stack of clear square ice cubes on a light blue background. A: Clear ice cubes are the main subject, which matches the unbranded ice cube listing. B: Ice cubes are clearly the main subject, in the form the customer receives."
  },
+ "idhayam-sesame-oil-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/180/0237/front_en.25.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Idhayam Sesame Oil 1 litre bottle, front label. A: Idhayam brand, sesame oil and the 1 litre label match the listing. B: Idhayam sesame oil front label, with matching brand, variant and size."
+ },
  "imported-pear-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pears.jpg/500px-Pears.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Two European-type green pears with a red blush hanging on a tree. A: European pears like these are typical imported pears and they are the clear main subject. B: The whole European-type pears are the clear main subject and fit an imported pear listing."
+ },
+ "india-gate-basmati-rice-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/069/022/510/1134/front_en.16.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: India Gate Basmati Rice Dubar 1 kg pack. A: India Gate branding and Basmati Rice are clearly visible; it is the Dubar line, which counts as India Gate basmati rice. B: The brand's own basmati rice pack is clearly shown (Dubar line) and matches the listing."
  },
  "indian-pear-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pears.jpg/500px-Pears.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -216,12 +1119,26 @@
   "date": "2026-10-23",
   "note": "Shows: Two elongated green pears with a red blush hanging on a tree. The pears are clear, but this red-blushed European-type fruit (also used for Imported Pear) may not match the Indian nashpati sold, so a person should decide."
  },
+ "jasmine-garland-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Garland%2Cjasmine%2CTamil_Nadu354.JPG/960px-Garland%2Cjasmine%2CTamil_Nadu354.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Strung white jasmine garland on a floor next to a bag of loose jasmine buds. A: A jasmine garland is clearly visible and identifiable, even though the setting is messy. B: A real jasmine garland is clearly shown in the right form; the bag of loose buds next to it does not hide it."
+ },
  "kalipatti-chikoo-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%E0%B4%B8%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F.jpg/500px-%E0%B4%B8%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Two brown sapodilla (chikoo) fruits hanging on a branch. A: The chikoo fruits are the clear dominant subject and look right, even though they are still on the branch. B: Although still on the tree, the brown oval chikoo fruits are the clear main subject."
+ },
+ "kangaro-stapler-1pc": {
+  "url": "https://images.openproductsfacts.org/images/products/890/105/731/0062/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Kangaro No.10 stapler in its retail box. A: The photo shows Kangaro's own stapler packaging with the brand clearly visible, matching the listing. B: The front of a Kangaro-branded stapler box is clearly shown, which matches the listing."
  },
  "kashmiri-apple-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kashmiri_Apple.jpg/960px-Kashmiri_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -237,12 +1154,145 @@
   "date": "2026-10-23",
   "note": "Shows: Heap of dark reddish-brown catechu powder in a white bowl. A real photo of loose catechu (kattha) powder as the clear main subject, in the right colour and in a form kattha is sold in."
  },
+ "kelloggs-corn-flakes-475g": {
+  "url": "https://images.openfoodfacts.org/images/products/505/008/339/0739/front.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Small Kellogg's Corn Flakes 'The Original' box (UK). A: Kellogg's Corn Flakes pack with the recognisable rooster branding; size may differ. B: Kellogg's Corn Flakes Original pack with the rooster is clearly recognisable (international pack, size may differ)."
+ },
+ "kesar-mango-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Mango_Kesar_Indian_variety_IMG_20230603_114021_%283%29.jpg/960px-Mango_Kesar_Indian_variety_IMG_20230603_114021_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Display of yellow and green-yellow mangoes on a market stall. A: Ripe mangoes of a size and colour that fit Kesar are the clear main subject. B: Ripe yellow mangoes that look like Kesar are the clear main subject of a real photo."
+ },
+ "keya-chilli-flakes-40g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/606/620/0038/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Keya Wonder Hot Red Chilli Flakes bottle in hand. A: The Keya brand and red chilli flakes product are clearly visible and match the listing. B: The Keya brand and red chilli flakes are clearly visible on the correct product."
+ },
+ "kikkoman-soy-sauce-150ml": {
+  "url": "https://images.openfoodfacts.org/images/products/000/000/413/9344/front_en.40.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Kikkoman Soy Sauce 591ml bottle, front, held in hand. A: Kikkoman's standard soy sauce with the brand clearly visible; it is a larger bottle, so size may differ. B: Kikkoman's standard soy sauce, front label visible; size may differ."
+ },
+ "kikkoman-teriyaki-sauce-250ml": {
+  "url": "https://images.openfoodfacts.org/images/products/004/139/001/0309/front_en.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Kikkoman Teriyaki Marinade & Sauce bottle, front. A: Correct brand and teriyaki product, both clearly visible. B: Brand and teriyaki variant match."
+ },
  "kinnow-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Harvest_Kinnow.jpg/500px-Harvest_Kinnow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Single bright orange mandarin-type citrus with leaf on stem. A: The fruit fills the frame and matches a kinnow mandarin, even though it is still on the stem. B: Even though it is still on the branch, the whole kinnow-like fruit fills the frame and is clearly the main subject."
+ },
+ "kissan-mixed-fruit-jam-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/103/092/2787/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Kissan Mixed Fruit Jam small plastic cup. A: Kissan Mixed Fruit Jam is clearly visible; size may differ. B: Kissan Mixed Fruit Jam pack; size may differ."
+ },
+ "kissan-tomato-ketchup-950g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/103/066/7756/front_en.25.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Kissan Fresh Tomato Ketchup spout pouch (Maha Bachat Pack). A: Kissan tomato ketchup pouch; size may differ. B: Kissan tomato ketchup pouch; size may differ."
+ },
+ "kitkat-family-pack-pack-of-6": {
+  "url": "https://images.openfoodfacts.org/images/products/761/303/897/7638/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up of a classic red Nestle KitKat pack. Brand and the classic milk-chocolate KitKat line match, but the bar count can't be seen, so size may differ."
+ },
+ "kitkat-wafer-biscuits-pack-of-4": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/800/5233/front_en.26.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single Nestle KitKat 2-finger bar (Rs 10). A: Correct KitKat wafer product, but it shows one bar, not a pack of 4, so size may differ. B: This is the same KitKat wafer product as a single bar instead of a pack of 4 (size may differ)."
+ },
+ "kitkat-wafer-chocolate-bar-38g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/800/5233/front_en.26.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single Nestle KitKat bar (Rs 10 Indian pack). A: The KitKat wafer bar wrapper is clearly recognisable; size may differ. B: Standard KitKat wafer bar with the brand clearly visible; size may differ."
+ },
+ "klf-coconad-coconut-oil-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/266/0704/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: KLF Coconad 100% edible coconut oil pouch, front. A: The KLF Coconad brand and the coconut oil pack are clearly visible. B: KLF Coconad coconut oil pouch front, with brand and product clearly visible."
+ },
+ "koka-ramen-meal-kit-pack-of-4": {
+  "url": "https://images.openfoodfacts.org/images/products/888/805/681/3155/front_fr.3.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single Koka Signature Mushroom instant noodles packet. The Koka brand is clear, but one Signature instant-noodle packet may not be the 4-pack ramen meal kit in the listing, so a person needs to check."
+ },
+ "kuttu-atta-500g": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Buckwheat_flour_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Pale beige-grey flour in a glass bowl. A: Loose buckwheat-style flour as the clear main subject, which suits an unbranded kuttu atta listing. B: Shows loose buckwheat flour as the clear main subject, which is how kuttu atta arrives."
+ },
+ "kwality-walls-vanilla-ice-cream-sandwich-100ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/103/069/1508/front_en.6.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Kwality Wall's Sandwich pack, Rs 30, two-tone filling, blurry subtitle that looks like Chocolate & Vanilla. Brand and sandwich line match, but the filling looks two-tone and the blurry subtitle seems to read Chocolate & Vanilla, so a person should check it against the vanilla listing."
+ },
+ "lakme-foundation-30ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/064/0575/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Lakme Absolute Argan Oil Serum Foundation SPF45 box. A: Lakme-branded foundation pack that matches the listing; size may differ. B: Lakme Absolute foundation carton with the brand and product type readable."
+ },
+ "lakme-sunscreen-50ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/097/8784/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Lakme 9to5 Sun Expert Super Matte sunscreen lotion tube. A: The front of a Lakme Sun Expert sunscreen tube is clearly shown (size may differ). B: The Lakme sunscreen tube is clearly shown with the brand visible; size may differ."
+ },
+ "large-fresh-tender-coconut-1pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tender_coconut_image.jpg/960px-Tender_coconut_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Pile of green tender coconuts on the ground (same dim photo as #17). A: Green tender coconuts are clearly the main subject; it does not show size, but the item is right. B: Whole green tender coconuts are clearly the main subject, which fits a tender coconut listing."
+ },
+ "lee-kum-kee-oyster-sauce-255g": {
+  "url": "https://images.openfoodfacts.org/images/products/074/281/230/0045/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Lee Kum Kee Panda Brand Oyster Flavoured Sauce 2.27kg tin. A: Lee Kum Kee oyster sauce with the brand logo visible; it is the Panda Brand line in a 2.27kg catering tin, so size may differ. B: Lee Kum Kee's own oyster sauce, front of pack, but in a catering tin; size may differ."
+ },
+ "lifebuoy-soap-4x100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/628/100/648/3767/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Lifebuoy Mild Care antibacterial soap bar pack (Arabic/export pack). A: The Lifebuoy logo and a Lifebuoy bathing soap bar pack are clearly shown; it is a single bar in an export pack, so size may differ. B: Lifebuoy bathing soap front of pack with the brand clearly visible; single bar, so siz"
  },
  "lime-250g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Citrus_%C3%97_aurantiifolia_%28Christm.%29_Swingle_%2851906868474%29.jpg/500px-Citrus_%C3%97_aurantiifolia_%28Christm.%29_Swingle_%2851906868474%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -251,12 +1301,61 @@
   "date": "2026-10-23",
   "note": "Shows: Six whole round limes, green and yellow-green, on dark cloth. A: Whole Indian-style limes are clearly the main subject, which is the item the customer receives. B: Real photo of whole limes as the clear main subject; the yellow-green ones match how Indian limes are often sold."
  },
+ "lindt-chocolate-truffles-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/000/954/243/5059/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Lindt Lindor Double Chocolate milk chocolate truffles bag. A: Lindt Lindor truffles in the brand's own bag fit the generic 'Lindt Chocolate Truffles' listing; size may differ. B: Lindt Lindor truffles in the brand's own bag match the listing; size may differ."
+ },
+ "lion-dates-seedless-dates-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/672/0039/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Lion Deseeded Dates pack. A: Lion deseeded (seedless) dates pack, which matches the brand and variant. B: Lion's own deseeded (seedless) dates pack, which matches the listing."
+ },
+ "listerine-mouthwash-250ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/357/466/159/4231/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Listerine Mint & Green Tea milder taste mouthwash, 250 ml. A: Listerine branded mouthwash in the listed 250 ml size. B: Listerine mouthwash front with the brand and 250 ml clearly visible, matching this generic listing."
+ },
  "litchi-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Litchi_chinensis_fruits.JPG/500px-Litchi_chinensis_fruits.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "NEEDS_HUMAN_REVIEW",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: red litchi clusters on the tree among leaves. Clearly litchi, but the fruit is still on the tree and leaves fill much of the frame, so this is borderline."
+ },
+ "lizol-citrus-floor-cleaner-975ml": {
+  "url": "https://images.openproductsfacts.org/images/products/894/110/050/7070/front_en.3.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tight off-centre sliver of a yellow Lizol bottle, label half cut off. The Lizol logo shows, but the variant name can't be read even when enlarged, so Citrus rests on bottle colour alone, and the framing is barely usable."
+ },
+ "loreal-paris-hair-spray-250ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/360/052/425/6074/front_nl.3.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: L'Oreal Paris Elvive Big Hair Day Refreshing Volume Spray can. It is a L'Oreal Paris spray, but an Elvive volume refresher may not be the styling hold spray this listing means, so someone needs to confirm the SKU."
+ },
+ "lux-soap-4x100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/053/9749/front_en.10.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single Lux Advanced Even-Toned Glow Rose soap bar wrapper. A: Lux bathing soap with the brand clearly visible; listing names no variant; single bar rather than a 4-pack (size may differ). B: Lux soap in its own branded wrapper; one bar is shown, not a 4-pack, so size may differ."
+ },
+ "maggi-tomato-ketchup-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/889/5766/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Maggi Rich Tomato Ketchup 'Pichkoo' small pouch. A: Same Maggi Rich Tomato Ketchup line in a small pouch; size may differ. B: Maggi tomato ketchup pack; size may differ (looks like a small pouch)."
  },
  "makki-atta-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Polenta_uncooked.jpg/500px-Polenta_uncooked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -265,6 +1364,13 @@
   "date": "2026-10-23",
   "note": "Shows: bowl of fine-grained yellow maize meal. It shows loose yellow ground maize as the clear main subject, which matches unbranded makki atta closely enough even though the grind looks a little gritty."
  },
+ "mango-sorbet-500ml": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mango_sorbet_dessert_%283460219556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Yellow mango sorbet scoops in a white bowl with mint leaves. A: Mango sorbet is clearly shown as the main subject. B: A real photo with mango sorbet as the clear main subject."
+ },
  "marigold-flowers-250g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Tagetes_erecta_chendumalli_chedi.jpg/500px-Tagetes_erecta_chendumalli_chedi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
@@ -272,12 +1378,117 @@
   "date": "2026-10-23",
   "note": "Shows: Large yellow African marigold blooms on a plant in red soil. Right variety and colour, and the blooms clearly dominate the frame even though they are still on the plant."
  },
+ "marigold-garland-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Marigold_Flowers_as_garland_in_India.jpg/960px-Marigold_Flowers_as_garland_in_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up of orange marigold flowers strung into garland strands. A: Real marigold flowers strung as a garland are clearly the main subject. B: Real orange marigold garlands fill the frame and match the listing."
+ },
+ "maybelline-blush-4-5g": {
+  "url": "https://images.openbeautyfacts.org/images/products/360/053/153/7289/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Maybelline Fit Me blush, shade 40 Peach. A: Maybelline Fit Me powder blush that matches the listing. B: Maybelline Fit Me powder blush is clearly shown, which matches the listing."
+ },
+ "maybelline-concealer-6ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/003/009/6608/front_nl.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Maybelline Fit Me liquid concealer with applicator. A: Maybelline Fit Me concealer that matches the listing. B: Maybelline Fit Me concealer is clearly branded and matches the product type."
+ },
+ "maybelline-eyeliner-3ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/360/053/058/8039/front_fr.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Maybelline Lasting Drama gel eyeliner pack. A: Maybelline-branded eyeliner pack, matching the listing's product type; format and size may differ (gel pot vs 3 ml). B: Maybelline eyeliner in its retail pack with the brand clearly visible."
+ },
+ "maybelline-foundation-30ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/690/239/597/0101/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Maybelline SuperStay 30H Lumi-Matte foundation bottle. A: Maybelline liquid foundation with the brand clearly visible, matching the listing; size may differ. B: Maybelline liquid foundation bottle with the brand visible, which matches the listing."
+ },
+ "maybelline-lipstick-3-9g": {
+  "url": "https://images.openbeautyfacts.org/images/products/690/239/548/2369/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Maybelline Color Sensational red lipstick. A: Maybelline-branded lipstick that matches the listing. B: Maybelline lipstick with the brand visible on the cap; the product type matches."
+ },
+ "maybelline-mascara-9-2ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/003/016/6967/front_nl.10.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Maybelline Lash Sensational Sky High mascara tube with wand. A: This is Maybelline's own mascara packaging with the brand name visible, and the listing does not name a variant (size may differ). B: Maybelline mascara packaging with the brand clearly visible; size may differ."
+ },
+ "mcaffeine-coffee-body-scrub-100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/612/957/2317/front_en.8.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: mCaffeine naked & raw coffee body scrub jar (15 g). A: Correct brand and the exact product line (coffee body scrub); size may differ. B: Correct mCaffeine coffee body scrub product line; size may differ (15 g jar vs 100 g)."
+ },
+ "mccain-french-fries-750g": {
+  "url": "https://images.openfoodfacts.org/images/products/501/022/807/8021/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: McCain Crispy French Fries frozen bag on freezer shelf. A: McCain pack of its French Fries line is clearly visible; size may differ. B: McCain pack clearly shows the French Fries line; size may differ."
+ },
+ "mcvities-digestive-biscuits-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/603/374/0758/front_en.22.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: McVitie's Digestive (Goodness of Wholewheat) pack in hand. A: Correct brand and product line, clearly visible; size may differ. B: Right brand and right product, and the pack is clearly visible."
+ },
+ "mdh-kitchen-king-masala-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/216/700/0751/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: MDH Kitchen King masala box (10% extra offer pack) held in a hand. A: The MDH brand and the Kitchen King variant are clearly visible. B: MDH Kitchen King box front, with matching brand and variant."
+ },
+ "medimix-soap-3x125g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/605/753/3336/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Medimix Classic ayurvedic soap with 18 herbs, single bar pack. A: Correct brand and the classic Medimix soap bar; size may differ. B: Medimix Classic soap front of pack with the brand clearly visible; single bar, so size may differ."
+ },
+ "mentos-mints-pack-of-4": {
+  "url": "https://images.openfoodfacts.org/images/products/000/008/710/8019/front_en.142.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Stack of Mentos Mint chewy dragee rolls. A: The rolls are clearly branded Mentos in the mint variant, which matches the listing; pack count may differ. B: Mentos mint rolls match the listing; the number of rolls (size) may differ."
+ },
  "metal-bangles-4pcs": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Metal_bangles.jpg/960px-Metal_bangles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Three gold-tone metal bangles, some set with pink stones, on blue cloth. A: Metal bangles are clearly the main subject and the right item. B: Metal bangles are the clear main subject of a real photo; the stone-set design is a reasonable example of the variety."
+ },
+ "milky-mist-fresh-cream-200ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/330/0120/front_en.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Milky Mist Fresh Cream Medium Fat pouch. A: Correct brand and product (fresh cream) on the front of the pack; size may differ. B: Right brand and right product, and the pack front is legible."
+ },
+ "milky-mist-greek-yogurt-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/330/2346/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Milky Mist Greek Yogurt Natural tub held in a hand. A: Front of a Milky Mist Greek yogurt tub with the brand clearly visible. B: Milky Mist's own natural Greek yogurt tub, with the brand and variant clearly visible; size may differ."
  },
  "mini-cucumber-250g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Mini_cucumber.png/960px-Mini_cucumber.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -293,12 +1504,96 @@
   "date": "2026-10-23",
   "note": "Shows: Close-up of spearmint leaves and stem tips. The mint sprigs are the clear main subject and look like the herb as sold."
  },
+ "mirinda-orange-soft-drink-750ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/208/020/4052/front_en.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Hand holding a Mirinda orange PET bottle. A: The Mirinda orange-flavour bottle is clearly branded and matches the listing; size may differ. B: Mirinda orange bottle clearly matches; it has a small promo sticker on the label, and size may differ."
+ },
  "mixed-sprouts-200g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Organic_mixed_beans_shoots.jpg/500px-Organic_mixed_beans_shoots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Close-up of mixed sprouted beans and lentils with visible shoots. A: Mixed sprouted pulses are clearly the main subject, which matches the listing. B: Mixed sprouted pulses are clearly the main subject, in the right form."
+ },
+ "mosambi-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%28Citrus_limetta%29_Mosambi_at_a_market_in_Seethammadhara.jpg/960px-%28Citrus_limetta%29_Mosambi_at_a_market_in_Seethammadhara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up pile of round green-yellow sweet limes. A: Whole mosambi fruits fill the frame, in the right colour and shape. B: Green mosambi as sold in Indian markets fill the frame as the main subject."
+ },
+ "mother-dairy-uht-milk-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/164/809/5163/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Mother Dairy UHT sterilised toned milk carton. A: Front of a Mother Dairy UHT milk carton with the brand clearly visible. B: Mother Dairy's own UHT toned milk carton, with the brand and variant clearly visible."
+ },
+ "mothers-recipe-ginger-garlic-paste-300g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/105/6379/front_fr.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Hand holding a Mother's Recipe Ginger & Garlic Paste jar. A: Brand and product are clearly visible and match the listing; size may differ. B: The brand and variant are clearly readable on the jar front."
+ },
+ "mothers-recipe-mango-pickle-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/105/0650/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Mother's Recipe Mango Pickle pouch, front. A: Mother's Recipe mango pickle pack with the brand and product clearly visible; size may differ. B: Mother's Recipe mango pickle, front of pack; size may differ."
+ },
+ "mtr-idli-and-dosa-batter-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/297/0738/front_en.3.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Crumpled MTR Minute Fresh spouted pouch labelled 'Idli Batter'. Right brand and batter range, but the label says Idli Batter, not Idli & Dosa Batter, so a person needs to confirm the variant."
+ },
+ "mtr-idli-dosa-batter-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/297/0745/front_en.3.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: MTR Minute Fresh Dosa Batter pack front. The MTR brand is clear but the pack reads 'Dosa Batter', not 'Idli Dosa Batter', so someone needs to confirm whether it is the same variant."
+ },
+ "mtr-rava-idli-mix-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/295/4516/front_en.21.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: MTR Rava Idli ready mix pouch, 500 g. A: Correct MTR Rava Idli mix pack. B: Matches the brand, variant and size."
+ },
+ "mtr-ready-to-eat-dal-makhani-300g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/295/7517/front.13.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: MTR Tasty Delights Ready to Eat Dal Makhani box. A: Correct MTR ready-to-eat Dal Makhani pack. B: Matches the brand, product line and variant."
+ },
+ "mtr-vermicelli-440g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/104/297/0035/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: MTR Seviyan Vermicelli pack. A: Correct brand and product with the MTR logo and Vermicelli clearly visible (size may differ). B: This is MTR's own vermicelli pack with the brand and product name clearly visible; size may differ."
+ },
+ "mysore-sandal-soap-3x125g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/128/710/0013/front_en.11.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Mysore Sandal Soap carton, red and green pack. A: The recognisable Mysore Sandal Soap pack is clearly shown; size may differ. B: The recognisable Mysore Sandal Soap pack with the brand name clearly visible; size may differ."
+ },
+ "naagin-hot-sauce-230g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/801/416/7004/front_fr.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Naagin Indian Hot Sauce The Original bottle. A: Naagin brand hot sauce bottle clearly matches the listing. B: Naagin's own hot sauce bottle with the brand clearly visible."
  },
  "nagpur-orange-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Nagpur_orange_article.JPG/500px-Nagpur_orange_article.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -307,6 +1602,13 @@
   "date": "2026-10-23",
   "note": "Shows: Pile of loose orange and green-tinged mandarin oranges. A: Loose mandarins with the typical orange-green Nagpur look are the clear main subject. B: Whole Nagpur-type oranges with their typical green-orange skin are the clear main subject."
  },
+ "nature-valley-cereal-bar-pack-of-6": {
+  "url": "https://images.openfoodfacts.org/images/products/001/600/015/8931/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Nature Valley Minis Sweet & Salty Nut chewy granola bars box. A: These are Nature Valley granola (cereal) bars in the brand's box, and the listing names no variant; pack count may differ. B: Nature Valley granola/cereal bar box from the brand; pack count may differ."
+ },
  "navel-orange-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
@@ -314,12 +1616,138 @@
   "date": "2026-10-23",
   "note": "Shows: Whole orange, halved orange and a segment on a studio background. A: Clear studio shot of oranges consistent with the navel type. B: A real photo of a whole orange with a seedless cross-section that fits a navel orange."
  },
+ "nescafe-instant-coffee-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/002/800/046/6312/front_en.10.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Nescafe Clasico instant coffee glass jar. A: Nescafe brand instant coffee (Clasico/classic line) is clearly shown; size may differ. B: Nescafe classic instant coffee jar with the brand clearly visible; this is a Latin American Clasico pack and size may differ."
+ },
+ "nestle-everyday-dairy-whitener-400g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/800/3802/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Nestle EveryDay Dairy Whitener pouch. A: Correct brand and product line, recognisable on the pouch; size may differ. B: The EveryDay dairy whitener pack is clearly recognisable (size may differ)."
+ },
+ "nivea-body-lotion-400ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/580/824/6014/front_cs.8.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Nivea Body Lotion Rich Nourishing bottle, 250 ml. A: The front of a Nivea body lotion is clearly shown (size may differ). B: The Nivea body lotion pack is clearly shown; size may differ."
+ },
+ "nivea-body-wash-250ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/590/080/4310/front_nl.8.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Nivea Hawaii Flower & Oil shower gel bottle. A: Nivea branded shower gel/body wash matches the listing; size may differ. B: Nivea shower gel/body wash front with the brand clearly visible; matches this generic body-wash listing."
+ },
+ "nivea-lip-balm-4-8g": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/580/836/9928/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Nivea Hydro Care lip balm 4.8 g in blister pack. A: Nivea lip balm 4.8 g with the brand clearly visible, matching the listing. B: Nivea lip balm pack with brand and 4.8g size visible, which matches the listing."
+ },
+ "nivea-men-face-wash-100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/580/891/9574/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Nivea Men All-in-1 Charcoal face wash tubes on shelf. A: Nivea Men face wash tubes with the brand and product clearly visible, matching the listing. B: Nivea Men face wash tubes are clearly branded and are the main subject."
+ },
+ "nivea-roll-on-deodorant-50ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/590/029/4456/front_en.9.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Nivea Men Fresh Active roll-on deodorant. A: Nivea branded roll-on deodorant matches the listing; size may differ. B: Nivea roll-on deodorant front with the brand clearly visible, matching this generic roll-on listing."
+ },
+ "nutella-hazelnut-cocoa-spread-350g": {
+  "url": "https://images.openfoodfacts.org/images/products/80177128/front.10.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Nutella hazelnut spread with cocoa jar, front label (promo banner). A: Front of a Nutella hazelnut cocoa spread jar with the brand clearly visible; the promo banner doesn't change the product, and size may differ. B: Front of a genuine Nutella hazelnut cocoa spread jar; size may differ."
+ },
+ "nutraj-walnut-kernels-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/601/977/0328/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Nutraj Recipe Ready Walnut Kernels box. A: Nutraj Walnut Kernels pack, which matches the listing. B: Nutraj's own walnut kernels pack with the brand and product clearly visible."
+ },
+ "ob-tampons-16pcs": {
+  "url": "https://images.openbeautyfacts.org/images/products/357/466/162/4648/front_fr.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Hand holding o.b. ProComfort Mini tampons box, 32 count. A: The o.b. tampon pack is clearly branded and the product type matches (size may differ). B: Front of an o.b. tampon pack with the brand clearly visible; size may differ (32 vs 16)."
+ },
+ "oral-b-toothbrush-pack-of-3": {
+  "url": "https://images.openbeautyfacts.org/images/products/498/717/613/0051/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single Oral-B CrissCross soft toothbrush in blister pack. A: Oral-B branded manual toothbrush matches the listing; shown as a single brush, so pack size may differ. B: Oral-B toothbrush pack with the brand clearly visible; a single brush rather than a pack of 3, so size may differ."
+ },
+ "orbit-chewing-gum-pack-of-10": {
+  "url": "https://images.openfoodfacts.org/images/products/400/990/043/1521/front_fr.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Orbit Spearmint sugar-free gum bottle/tub. A: Orbit chewing gum, correct brand and product line; pack format differs from a pack of 10 (size may differ). B: Orbit chewing gum in its own branded pack; it is a bottle rather than a pack of 10, so size may differ."
+ },
+ "orbit-chewing-gum-pack-of-5": {
+  "url": "https://images.openfoodfacts.org/images/products/400/990/043/1521/front_fr.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Orbit Spearmint sugar-free gum jar. A: This is Orbit's own chewing gum packaging, and the listing names no flavour; pack format and size may differ from a pack of 5. B: Orbit brand chewing gum is clearly visible; it is a bottle rather than a pack of 5, so size may differ."
+ },
  "organic-apple-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Single red apple on a white background. A: A clean shot of a whole red apple, the item as the customer receives it. B: A real photo of a whole red apple is the clear main subject and matches a generic apple listing."
+ },
+ "organic-banana-6-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cavendish_banana_from_Maracaibo.jpg/960px-Cavendish_banana_from_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Pile of yellow and green banana bunches at a market. A: Real bananas are clearly the main subject. B: Real ripe bananas are clearly the main subject."
+ },
+ "organic-mint-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mint_leaves_%28Mentha_spicata%29.jpg/960px-Mint_leaves_%28Mentha_spicata%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up of fresh mint sprigs and leaves on the plant. A: Fresh mint leaves are clearly the main subject, even though the plant is still growing. B: Fresh mint leaves are clearly the main subject, even though the plant is still growing."
+ },
+ "organic-tattva-basmati-rice-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/02412418/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Organic Tattva Organic White Basmati Rice pack held in a store. A: Right brand and product: the Organic Tattva white basmati rice pack is clearly visible. B: Right brand and right product, clearly legible."
+ },
+ "organic-tattva-moong-dal-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/544/0728/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Organic Tattva Organic Moong Dal Yellow Split pack on a shelf. A: Right brand and product: the Organic Tattva moong dal pack is clearly visible. B: Right brand and right product, clearly legible."
+ },
+ "organic-tattva-moong-dal-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/544/0728/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Organic Tattva Organic Moong Dal Yellow Split pack. A: It is the brand's own pack for the same product, moong dal (size may differ). B: Brand and product (yellow split moong dal) clearly match the listing (size may differ)."
  },
  "organic-tomato-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/500px-Tomato_je.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -335,12 +1763,40 @@
   "date": "2026-10-23",
   "note": "Shows: Pale oyster mushroom fan on a tree trunk, shot from below. The oyster mushroom fills most of the frame and has the pale, gilled shape customers receive; it being on the tree does not hide what it is."
  },
+ "parle-g-glucose-biscuits-800g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/171/910/1090/front_en.8.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Parle-G pack front with the Parle-G girl. A: The Parle-G glucose biscuit pack is clearly recognisable; size may differ. B: The Parle-G glucose biscuit pack is unmistakable (size may differ)."
+ },
+ "parle-rusk-300g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/171/990/2482/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Parle Milk Premium Rusk, 273 g export pack. A: Correct brand and product (Parle Rusk) on an export pack; size may differ. B: Right brand and Parle rusk line, and the pack front is clear (size may differ)."
+ },
  "parsley-50g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Curly_parsley_in_hydroponic_garden.jpg/960px-Curly_parsley_in_hydroponic_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Close-up of curly parsley leaves growing hydroponically. Curly parsley leaves are the clear main subject and the listing does not say which parsley type is sold."
+ },
+ "passion-fruit-4-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Passion_fruits_-_whole_and_halved.jpg/960px-Passion_fruits_-_whole_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: One whole and one halved purple passion fruit with pulp. A: It is clearly passion fruit as the main subject. B: Real photo of passion fruit as the clear main subject, with the whole fruit shown next to the cut one."
+ },
+ "patanjali-honey-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/410/944/9239/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Patanjali Honey 1kg jar, front, held in hand. A: Patanjali Honey with the brand clearly visible; it is the 1kg jar, so size may differ, and a small camera watermark sits in the corner. B: Patanjali honey, front label visible; size may differ."
  },
  "peeled-garlic-100g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Peeled_garlic_cloves%F0%9F%A7%84.jpg/960px-Peeled_garlic_cloves%F0%9F%A7%84.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -349,6 +1805,13 @@
   "date": "2026-10-23",
   "note": "Shows: Close-up of many peeled garlic cloves. A: Peeled garlic cloves are clearly the main subject, in the correct peeled form. B: Peeled garlic cloves are clearly shown in the right form."
  },
+ "pepsodent-toothpaste-150g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/097/0368/front_en.17.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Pepsodent 12HR Germi Check toothpaste carton, jumbo save pack of 2 x 150 g. A: Correct brand and Pepsodent toothpaste in 150 g tubes (shown as a twin pack); size may differ. B: Pepsodent toothpaste front of carton with the brand clearly visible; this is a twin pack, so size may differ."
+ },
  "persimmon-2-pcs": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Fuyu_persimmon_fruits%2C_one_cut_open.jpg/500px-Fuyu_persimmon_fruits%2C_one_cut_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
@@ -356,12 +1819,26 @@
   "date": "2026-10-23",
   "note": "Shows: Two orange Fuyu persimmons, one cut in half, on black background. A: Whole orange persimmons are the clear main subject, so the item and form are right. B: Real photo of persimmons as the clear main subject, in the right variety and colour."
  },
+ "pillsbury-multigrain-atta-5kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/021/2240/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Multigrain Atta bag with the Pillsbury Doughboy mascot on a shelf. A: The Doughboy mascot marks it as Pillsbury and the bag reads Multigrain Atta; size may differ. B: The Pillsbury Doughboy and the 'Multigrain Atta' text make the brand and variant recognisable, even though the brand wordmark "
+ },
  "pink-guava-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Guava_pink_fruit.jpg/960px-Guava_pink_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Whole green guava and a halved guava showing pink flesh. A: The cut half clearly shows the pink flesh that defines the variety. B: The cut half confirms the pink-flesh variety, and the whole fruit is shown as sold."
+ },
+ "pintola-chocolate-peanut-butter-350g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/801/090/0230/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Pintola Peanut Butter 1kg jar labelled Dark Chocolate Crunchy, held in hand. A: Pintola chocolate peanut butter with the brand and chocolate variant clearly visible; the listing doesn't say creamy or crunchy, and size may differ. B: Pintola chocolate peanut butter, front of pack; the listing "
  },
  "plastic-bangles-1dozen": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Plastic_Bangles_at_sale_in_Bangalore_194723.jpg/960px-Plastic_Bangles_at_sale_in_Bangalore_194723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -377,6 +1854,34 @@
   "date": "2026-10-23",
   "note": "Shows: Whole dark red plum, a halved plum and a slice, in a studio shot. A: Clearly fresh plums as the main subject. B: Clear real photo of plums as the main subject."
  },
+ "plum-face-toner-200ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/611/841/2495/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Plum green tea alcohol-free toner bottle. A: Plum-branded face toner bottle that matches the listing. B: Plum-branded face toner bottle that matches the listing's product type and size."
+ },
+ "pooja-coconut-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Coconuts_-_single_and_cracked_open.jpg/960px-Coconuts_-_single_and_cracked_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Whole husked brown coconut beside a cracked-open half. A: A whole coconut is the clear main subject; the opened half is just extra context. B: A whole husked coconut, as used for pooja, is clearly shown; the halved one only adds context."
+ },
+ "premium-mosambi-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%28Citrus_limetta%29_Mosambi_at_a_market_in_Seethammadhara.jpg/960px-%28Citrus_limetta%29_Mosambi_at_a_market_in_Seethammadhara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up pile of round green-yellow sweet limes (same photo as mosambi). A: Whole mosambi fruits are the clear subject; this is the same photo as the regular mosambi listing. B: Correct mosambi photo, but it is the same image used for the standard mosambi listing, so it does not show anything"
+ },
+ "priya-mango-pickle-300g": {
+  "url": "https://images.openfoodfacts.org/images/products/078/501/801/2060/front_en.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Priya Cut Mango Pickle jar (in oil with garlic), front. A: Priya mango pickle jar with the brand and product clearly visible. B: Priya's own mango pickle jar, front label, about 300 g."
+ },
  "purple-cabbage-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Brassica_oleracea_var_capitata_Rubyball.jpg/500px-Brassica_oleracea_var_capitata_Rubyball.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
@@ -384,12 +1889,75 @@
   "date": "2026-10-23",
   "note": "Shows: purple cabbage head with outer leaves in a garden bed. Purple cabbage is clearly the dominant subject in the right colour, though still untrimmed in the ground."
  },
+ "quail-eggs-12pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Quail_eggs_%28%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D0%B8%D0%BD%D1%8B%D0%B5_%D1%8F%D0%B9%D1%86%D0%B0%29.jpg/960px-Quail_eggs_%28%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D0%B8%D0%BD%D1%8B%D0%B5_%D1%8F%D0%B9%D1%86%D0%B0%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Speckled quail eggs with one cracked open. A: Whole quail eggs are clearly the main subject and look the way customers receive them. B: Real quail eggs are the clear main subject, in the right shape and colour; there is only a tiny signature mark."
+ },
+ "rajdhani-sattu-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/510/0066/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Rajdhani Chana Sattu pack. A: Right brand and product: the Rajdhani chana sattu pack is clearly visible. B: Right brand and right product, clearly legible."
+ },
  "raw-banana-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mega_racimos_de_guineos.jpg/500px-Mega_racimos_de_guineos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Large bunches of green unripe bananas hanging at a market stall. A: Green raw bananas are clearly the main subject and in the right form. B: Green raw bananas are the clear main subject of a real photo."
+ },
+ "raw-papaya-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Raw_papaya.jpg/960px-Raw_papaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Large green unripe papayas on the tree, filling most of the frame. Green raw papaya in the right variety and form is clearly the dominant subject, even though still on the tree."
+ },
+ "raw-pressery-almond-milk-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/425/870/1547/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Raw Pressery Almond Beverage Plain (Unsweetened) carton. A: Front of a Raw Pressery almond milk carton, matching the listing. B: Raw Pressery's own almond milk carton, plain variant, with the brand clearly visible."
+ },
+ "raw-pressery-coconut-water-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/425/870/1707/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Raw Pressery Basics Coconut Water bottle. A: Raw Pressery branded coconut water, the right brand and product; size may differ. B: Raw Pressery Coconut Water with brand and product clearly visible; size may differ."
+ },
+ "raw-pressery-coconut-water-200ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/425/870/1707/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Raw Pressery Basics Coconut Water bottle. A: Raw Pressery branded coconut water, the right brand and product; size may differ. B: Raw Pressery Coconut Water pack with brand and product clearly visible."
+ },
+ "real-guava-juice-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/120/700/4407/front_en.16.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Real Fruit Power Guava 1L carton held in a store (price sticker on it). A: The brand and guava variant are clearly visible on the Real carton; the small price sticker does not hide what the product is. B: Real Guava carton matches; a barcode price sticker covers part of the front but brand an"
+ },
+ "real-mixed-fruit-juice-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/479/600/892/0049/front_en.20.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Real Fruit Power Mixed Fruit 1L carton. A: The brand and Mixed Fruit variant are clearly visible on the Real carton. B: Real Mixed Fruit carton clearly matches the listing."
+ },
+ "red-bull-energy-drink-250ml": {
+  "url": "https://images.openfoodfacts.org/images/products/900/249/021/0434/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Red Bull Energy Drink 8-pack carton of 250 ml cans. A: Red Bull's own original Energy Drink packaging (shown as a multipack carton); size may differ. B: Red Bull original energy drink packaging with the brand clear; size may differ, since it shows an 8-pack carton rather than a single can."
  },
  "red-dragon-fruit-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_dragon_fruit.jpg/960px-Red_dragon_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -405,12 +1973,26 @@
   "date": "2026-10-23",
   "note": "Shows: Large, round red grapes in a steel bowl. A: Large, round red grapes matching the Red Globe variety are the clear main subject. B: Large red globe grapes are the clear main subject in the right colour and form."
  },
+ "red-radish-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Raphanus_sativus%2C_red_radish_variant.jpg/960px-Raphanus_sativus%2C_red_radish_variant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bunch of round red radishes with green tops on white background. A: Clearly shows red radishes as the main subject in the right colour and form. B: A clear real photo of red radishes in the right colour and form."
+ },
  "ridge-gourd-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Luffa_acutangula_Chinese_okra.jpg/500px-Luffa_acutangula_Chinese_okra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: single ridged gourd hanging on the vine, centred. A ridge gourd is clearly the dominant subject and looks just as it does when harvested."
+ },
+ "robusta-banana-1-dozen": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Robusta_banana.jpg/960px-Robusta_banana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Large bunch of green bananas on the plant in a garden with a lot of foliage. Bananas are the central subject and green like Robusta, but they are unripe and still on the plant with much garden around them, not shown as delivered; needs a human policy call."
  },
  "romaine-lettuce-200g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Starr_070730-7911_Lactuca_sativa.jpg/500px-Starr_070730-7911_Lactuca_sativa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -426,6 +2008,41 @@
   "date": "2026-10-23",
   "note": "Shows: Cluster of small magenta semi-double spray roses on a growing bush. The roses are the main subject, but they are spray roses on a bush rather than a cut-stem bunch, so a person should decide if they are close enough."
  },
+ "safal-frozen-mixed-vegetables-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/206/1053/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Safal Frozen Mixed Vegetables pouch front. A: Safal brand and the Frozen Mixed Vegetables variant are clearly readable. B: The Safal brand and the mixed vegetables variant are clearly readable."
+ },
+ "safal-frozen-peas-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/206/0100/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Safal frozen green peas pouch in a store freezer. A: Safal brand and the frozen green peas variant are both visible. B: The Safal brand and the green peas variant are clearly visible on the brand's own pack."
+ },
+ "safal-frozen-sweet-corn-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/206/6355/front_en.10.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Safal Frozen Sweet Corn pouch front. A: Safal brand and the Frozen Sweet Corn variant are clearly visible. B: The Safal brand and the sweet corn variant are clearly visible on the pack."
+ },
+ "saffola-blended-oil-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/108/801/7411/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Saffola Gold multi-source (blended) edible oil pouch with a price sticker. A: The Saffola brand and the multi-source blended oil label are visible even though a price sticker covers part of the pack. B: Saffola Gold is Saffola's blended oil and the brand and 'multi-source edible oil' are read"
+ },
+ "saffola-masala-oats-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/108/812/9800/front_en.20.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Saffola Masala Oats Veggie Twist pouch. A: Saffola Masala Oats pack, which matches the listing; size may differ. B: Saffola Masala Oats pack with brand and product line visible (Veggie Twist flavour; size may differ)."
+ },
  "sambar-onion-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Shallots_-_sliced_and_whole.jpg/500px-Shallots_-_sliced_and_whole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
@@ -433,12 +2050,68 @@
   "date": "2026-10-23",
   "note": "Shows: One whole and one halved small shallot on a grey surface. A: Shallots (small onions) are correct for sambar onion. B: A real photo of small shallots, the right item for sambar onion, though only two are shown."
  },
+ "sambar-vegetable-mix-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Vegetable_ready_for_Sambar_in_Kerala_4887.JPG/960px-Vegetable_ready_for_Sambar_in_Kerala_4887.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Raw-looking cut drumstick, okra and tomato in a kadai on a stove, with some liquid. The vegetables are the right cut sambar vegetables, but they sit in a pan with liquid on a stove and may already be cooking, so a person should decide."
+ },
+ "samyang-spicy-ramen-140g": {
+  "url": "https://images.openfoodfacts.org/images/products/880/107/325/0222/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Samyang Buldak spicy chicken stir-fried ramen cup on a countertop. Samyang's Buldak spicy chicken line is clearly recognisable; cup shown instead of the 140 g packet, so size may differ."
+ },
+ "schweppes-soda-water-750ml": {
+  "url": "https://images.openfoodfacts.org/images/products/885/195/963/2642/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Schweppes Soda Water can. A: Schweppes branded Soda Water, the right brand and product; size may differ. B: Schweppes Soda Water with brand and variant visible; size may differ (can shown, not a 750 ml bottle)."
+ },
+ "schweppes-tonic-water-300ml": {
+  "url": "https://images.openfoodfacts.org/images/products/07835704/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Schweppes Tonic Water glass bottle. A: Schweppes branded regular Tonic Water, the right brand and variant; size may differ. B: Schweppes Tonic Water with brand and variant clearly visible."
+ },
+ "schweppes-zero-tonic-water-300ml": {
+  "url": "https://images.openfoodfacts.org/images/products/704/461/087/4272/front_nb.20.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Schweppes Indian Tonic Zero PET bottle (about 1 L). A: Schweppes branded Indian Tonic Zero bottle, the right brand and variant; size may differ. B: Schweppes Tonic Zero pack with the brand clearly visible; size may differ."
+ },
  "seedless-watermelon-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Watermelon_seedless.jpg/960px-Watermelon_seedless.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Watermelon cut into two halves showing red flesh with no visible seeds. A: The cut halves show seedless red flesh, which confirms the variety. B: The halved fruit with its rind shows a seedless watermelon, which is the listed variety."
+ },
+ "sepoy-and-co-tonic-water-200ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/801/247/1004/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Sepoy & Co Indian Tonic Water glass bottle. A: Sepoy & Co branded Indian Tonic Water matches the listing. B: Sepoy & Co Indian Tonic Water with brand and variant clearly visible."
+ },
+ "sepoy-and-co-tonic-water-4x200ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/801/247/1004/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single bottle of Sepoy & Co Indian Tonic Water. A: Same brand and product, shown as one bottle instead of the 4-pack; size may differ. B: Correct brand and tonic water variant clearly shown; the photo has one bottle, not the 4-pack, so size may differ."
+ },
+ "set-wet-hair-gel-100ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/108/806/9724/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Set Wet Styling Gel Sport Extreme jar held in hand. A: A Set Wet styling gel pack with the brand clearly visible (size may differ). B: The Set Wet styling gel pack is clearly shown with the brand visible; size may differ."
  },
  "sheep-meat-boneless-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Lamb_meat_%281%29.jpg/500px-Lamb_meat_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -454,6 +2127,20 @@
   "date": "2026-10-23",
   "note": "Shows: Close-up of brown shiitake caps and stems on a log. Shiitake caps and stems fill the frame and look like the product as sold."
  },
+ "simple-face-wash-150ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/501/145/110/4020/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Simple Regeneration Age Resisting Facial Wash tube. A: Simple-branded facial wash tube, which matches the listing's product type; the variant is not specified and the size may differ. B: Simple-branded facial wash tube is clearly shown; the listing names no variant, and this one is the age-re"
+ },
+ "slurrp-farm-millet-noodles-192g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/613/168/0581/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Slurrp Farm Millet Noodles Foxtail Millet pouch. A: Correct Slurrp Farm millet noodles pack; size may differ. B: Matches the brand and product line; size may differ."
+ },
  "spring-onion-1-bunch": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/CSA-Red-Spring-Onions.jpg/500px-CSA-Red-Spring-Onions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
@@ -461,12 +2148,68 @@
   "date": "2026-10-23",
   "note": "Shows: Bunch of spring onions with small purple bulbs and long green leaves. A: A clear spring onion bunch is the main subject, and red-bulb spring onions are commonly sold in India. B: A clear real photo of a bunch of spring onions; red-bulb spring onions are commonly sold in India."
  },
+ "st-dalfour-fruit-spread-284g": {
+  "url": "https://images.openfoodfacts.org/images/products/501/427/179/5331/front_fr.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: St. Dalfour Imperial Pear fruit spread jar, 284 g. A: St Dalfour fruit spread jar at the listed size; listing names no flavour, so the pear variant is acceptable. B: St Dalfour fruit spread jar in the listed 284 g size; the listing names no flavour, so the pear variant is acceptable."
+ },
+ "star-anise-50g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Dried_Star_Anise_Fruit_Seeds.jpg/960px-Dried_Star_Anise_Fruit_Seeds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Whole dried star anise pods with a few seeds on white. A: Whole dried star anise is the clear main subject, as the customer receives it. B: Dried whole star anise pods are the clear main subject, in the form the customer receives."
+ },
+ "starbucks-cold-coffee-gift-pack-4x200ml": {
+  "url": "https://images.openfoodfacts.org/images/products/000/000/124/1000/front_en.52.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single Starbucks Vanilla Frappuccino glass bottle, peeled label, on a desk. Right brand and drink type, but one vanilla bottle with a damaged label cannot confirm what the 4-bottle gift pack contains, so a person should check."
+ },
  "strawberry-200g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg/500px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: One whole red strawberry with green calyx in a studio shot. A: Clearly a fresh strawberry as the main subject. B: Clear real photo of a ripe strawberry as the main subject."
+ },
+ "sugarcane-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Cut_sugarcane.jpg/960px-Cut_sugarcane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Pile of cut purple-red sugarcane stalk pieces. A: Cut sugarcane stalks are clearly shown as the main subject. B: Real sugarcane stalks are clearly the main subject, in the right colour and form."
+ },
+ "sunfeast-pasta-treat-instant-pasta-70g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/513/5218/front_en.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Sunfeast YiPPee Pasta Treat Masala pouch. A: Sunfeast YiPPee Pasta Treat instant pasta pack, matches brand and product line. B: Sunfeast Pasta Treat instant pasta pack, front of pack; masala variant, size may differ."
+ },
+ "sunfeast-yippee-masala-instant-noodles-280g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/511/6729/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Sunfeast YiPPee! Magic Masala noodles six-in-one pack. A: Same brand and masala variant are clearly shown; size may differ. B: Correct brand and Magic Masala variant; size may differ (six-pack)."
+ },
+ "surf-excel-detergent-powder-1kg": {
+  "url": "https://images.openproductsfacts.org/images/products/890/910/600/6478/front_en.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Surf Excel Quick Wash detergent powder pouch. A: This is a Surf Excel detergent powder pack with the brand clearly visible (size may differ). B: Front of a Surf Excel detergent powder pack with the brand clear; size may differ."
+ },
+ "surf-excel-matic-front-load-liquid-detergent-1l": {
+  "url": "https://images.openproductsfacts.org/images/products/890/910/605/1102/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Surf Excel Matic Front Load liquid detergent 1 L pouch. A: This is the exact Surf Excel Matic Front Load liquid in a 1 L pack, matching the listing. B: Exact brand, product line and 1 L size."
  },
  "sweet-corn-2-pcs": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/VegCorn.jpg/500px-VegCorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -482,6 +2225,111 @@
   "date": "2026-10-23",
   "note": "Shows: Pile of whole raw sweet potatoes with pinkish-brown skin. A: Whole raw sweet potatoes fill the frame as the clear main subject. B: Whole raw sweet potatoes are the clear main subject, as the customer receives them."
  },
+ "tabasco-hot-sauce-60ml": {
+  "url": "https://images.openfoodfacts.org/images/products/001/121/000/1626/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Large Tabasco Original Red pepper sauce jug. A: Tabasco Original Red pepper sauce with the brand clearly visible; it is a large foodservice jug, so size may differ. B: Tabasco Original Red pepper sauce, front label visible; size may differ (catering jug)."
+ },
+ "taj-mahal-tea-bags-50pcs": {
+  "url": "https://images.openfoodfacts.org/images/products/890/103/068/1530/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Brooke Bond Taj Mahal tea bags carton. A: Taj Mahal tea bag box is clearly shown; count may differ. B: Taj Mahal tea bags pack clearly shown; bag count may differ."
+ },
+ "tampax-tampons-10pcs": {
+  "url": "https://images.openbeautyfacts.org/images/products/007/301/071/4496/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tampax Pearl Light tampons box, 18 count. A: This is a Tampax-branded tampon pack, the same product type as the listing (size may differ). B: Front of a Tampax tampon pack with the brand clear; size may differ (18 vs 10)."
+ },
+ "tang-orange-instant-drink-mix-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/762/230/047/0050/front_en.12.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tang Orange drink mix tub (Middle East pack). A: Tang brand and orange flavour are clearly visible; size may differ. B: Tang brand and Orange flavour clearly visible; size may differ."
+ },
+ "tata-sampann-chana-dal-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6643/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tata Sampann Unpolished Chana Dal pack. A: Tata Sampann branding and Chana Dal are clearly visible on the front of the pack. B: The brand's own pack of chana dal is clearly shown."
+ },
+ "tata-sampann-kabuli-chana-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6704/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tata Sampann Unpolished Kabuli Chana (Big Size) pack. A: Tata Sampann branding and Kabuli Chana are visible on the front of the pack (size may differ). B: The brand's own kabuli chana pack is clearly shown (size may differ)."
+ },
+ "tata-sampann-kala-chana-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6308/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tata Sampann Unpolished Kala Chana pouch. A: Right brand and product: the Tata Sampann Kala Chana pack is clearly visible. B: Right brand and right product, brand and variant clearly visible."
+ },
+ "tata-sampann-moong-dal-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6315/front_en.23.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tata Sampann Unpolished Moong Dal pack. A: Tata Sampann branding and Moong Dal are clearly visible on the front of the pack. B: The brand's own pack of moong dal is clearly shown."
+ },
+ "tata-sampann-poha-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/390/4061/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tata Sampann High in Fibre Poha pouch. A: Right brand and product: the Tata Sampann poha pack is clearly visible. B: Right brand and right product, clearly legible."
+ },
+ "tata-sampann-poha-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/390/4061/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tata Sampann High in Fibre Poha pack. A: Correct brand and product, Tata Sampann Poha (size may differ). B: This is Tata Sampann's own poha pack with the brand and product clearly readable; size may differ."
+ },
+ "tata-sampann-rajma-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6681/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tata Sampann Unpolished Rajma (Chitra) pack in hand. A: Tata Sampann branding and Rajma (Chitra variety) are visible on the front of the pack, which matches the rajma listing. B: The brand's own rajma pack (Chitra variety) is clearly shown, and a hand holding it is fine."
+ },
+ "tata-sampann-toor-dal-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6216/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tata Sampann Unpolished Toor Dal pack. A: Tata Sampann branding and Toor Dal (Arhar Dal) are clearly visible on the front of the pack. B: The brand's own pack of toor dal is clearly shown."
+ },
+ "tata-sampann-urad-dal-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6124/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tata Sampann Unpolished Urad Dal pack in hand. A: Tata Sampann branding and Urad Dal are clearly visible on the front of the pack. B: The brand's own pack of urad dal is clearly shown, and a hand holding it is fine."
+ },
+ "the-body-shop-body-scrub-200ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/502/819/794/1734/front_en.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: The Body Shop British Rose exfoliating gel body scrub jar, 250 ml. A: The Body Shop branded body scrub matches the listing; size may differ (250 ml). B: The Body Shop body scrub with the brand clearly visible; size may differ (250 ml vs 200 ml)."
+ },
+ "tic-tac-mints-pack-of-4": {
+  "url": "https://images.openfoodfacts.org/images/products/800/050/041/0998/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Tic Tac Mint Big Pack clear box, appears empty. The Tic Tac brand and Mint variant are clearly on the real pack; the box looks empty, so a better shot would help, and pack count may differ."
+ },
  "tomato-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/500px-Tomato_je.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
@@ -495,6 +2343,34 @@
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Glass of white milk on a blue background. A: Clearly shows milk as the main subject, which is acceptable for an unbranded milk listing. B: Real photo of plain milk as the clear main subject, a fair generic representation for unbranded toned milk (sold in a pouch, not a glass)."
+ },
+ "tresemme-hair-spray-200ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/005/545/178/5259/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: TRESemme TRES Two hair spray aerosol can, front. A: The front of a TRESemme hair spray is clearly shown (size may differ). B: The TRESemme hair spray can is clearly shown with the brand visible; size may differ."
+ },
+ "true-elements-chia-seeds-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/266/1332/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: True Elements Raw Chia Seeds pouch. A: True Elements Chia Seeds pack, which matches the listing. B: True Elements' own raw chia seeds pouch with brand and product clearly visible."
+ },
+ "true-elements-granola-400g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/266/5354/front_en.3.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: True Elements Granola Protein jar, about 900 g. The brand is right and it is granola, but Protein is one of several flavoured variants and the listing does not say which one it sells; size may differ."
+ },
+ "true-elements-steel-cut-oats-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/266/1059/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: True Elements Steel Cut Oats jar. A: Correct brand and product line, Steel Cut Oats (size may differ). B: This is True Elements' own steel cut oats jar with the brand and product name clearly visible; size may differ."
  },
  "tuberose-bunch-1-bunch": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Tuberose_flower.jpg/500px-Tuberose_flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -510,12 +2386,82 @@
   "date": "2026-10-23",
   "note": "Shows: Holy basil sprig with leaves and flower spikes filling the frame. A recognisable tulsi sprig with manjari is the clear main subject and matches what a tulsi bunch contains."
  },
+ "vanish-stain-remover-powder-400g": {
+  "url": "https://images.openproductsfacts.org/images/products/501/141/756/2505/front_en.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Vanish Oxi Action Crystal White powder tub. A: This is a Vanish stain remover powder in branded packaging (size may differ). B: Front of a Vanish Oxi Action powder pack with the brand clear; size may differ."
+ },
+ "vaseline-body-lotion-400ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/910/606/7325/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Vaseline Sun Protect body lotion bottle, front. A: A Vaseline body lotion with the brand logo visible (sun-protect variant; size may differ). B: A Vaseline body lotion pack with the brand clearly visible; size may differ."
+ },
+ "vaseline-lip-balm-8g": {
+  "url": "https://images.openbeautyfacts.org/images/products/869/063/787/9531/front_tr.7.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Vaseline Lip Therapy Cocoa Butter 20 g tin. A: Vaseline's own lip balm (Lip Therapy) with the brand clear; size may differ (20 g shown vs 8 g listed). B: Vaseline lip balm with brand clearly visible, but it is a 20g tin rather than 8g (size may differ)."
+ },
+ "vaseline-petroleum-jelly-100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/004/218/2634/front_en.88.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Small blue-lid white jar with blue label held in hand in a room. It looks like a Vaseline jelly jar, but it is small and blurry and the brand name can't be read, so it could be a lookalike."
+ },
+ "veeba-eggless-mayonnaise-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/606/940/1739/front_en.16.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Veeba Chef's Special Veg Mayonnaise Eggless pouch, front. A: Veeba eggless veg mayonnaise with the brand clearly visible; it is a larger pouch, so size may differ. B: Veeba eggless mayonnaise, front of pack, shown in a larger Chef's Special pouch; size may differ."
+ },
+ "veeba-sriracha-sauce-320g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/606/940/0657/front_it.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Veeba Sriracha Chilli Garlic Sauce squeeze bottle, front (small website caption at bottom). A: Correct brand and Sriracha variant, both clearly visible; the small caption doesn't hide the product. B: Veeba Sriracha bottle, front label clear; the small caption strip does not cover the product."
+ },
+ "veet-hair-removal-cream-50g": {
+  "url": "https://images.openbeautyfacts.org/images/products/006/220/082/5029/front_en.6.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Veet Silk & Fresh Hair Removal Cream tube (dry skin). A: This is a Veet hair removal cream tube with the brand and product visible (size may differ). B: Front of a Veet hair removal cream tube with the brand clear; size may differ."
+ },
+ "veet-wax-strips-20pcs": {
+  "url": "https://images.openbeautyfacts.org/images/products/305/994/402/5102/front_en.5.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Veet Wax Strips with Easy-Gel pack, 20 strips. A: This is the brand's own Veet wax strip pack, matching the listing's product and count. B: Front of a Veet wax strip pack, matching the 20-strip count."
+ },
  "watermelon-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg/500px-Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Whole striped watermelon on the vine among dry leaves. The whole watermelon is clearly the central focal subject and is recognisable as the fruit sold, so the field setting does not break the policy."
+ },
+ "weikfield-baking-powder-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/180/800/0020/front_en.4.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Weikfield Baking Powder 100 g jar. A: Correct brand and product, with the label clearly visible. B: Right brand and right product, and the label is legible."
+ },
+ "weikfield-jelly-crystals-90g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/180/800/0495/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Weikfield Jelly Crystals Mango flavour box in hand. A: Weikfield Jelly Crystals pack; listing names no flavour, so mango fits. B: Correct Weikfield jelly crystals pack, mango flavour; the image is rotated but the product is clear."
  },
  "white-dragon-fruit-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Pitaya_cross_section_ed2.jpg/500px-Pitaya_cross_section_ed2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -531,6 +2477,27 @@
   "date": "2026-10-23",
   "note": "Shows: White/cream onion bulbs with green stalks laid out drying. A: White onion bulbs are the dominant subject and the right colour. B: White onion bulbs are clearly the main subject and the colour is right, even though the stalks are still attached."
  },
+ "white-rice-1kg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/White_rice_on_a_brown_table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Heap of raw white rice grains on wood. A: Raw white rice grains are clearly the main subject, which is the item as sold (a few parboiled grains sit at the edge). B: Raw white rice is the clear main subject, with a few parboiled grains at the edge."
+ },
+ "wood-apple-2-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Wood-apple_dec2007.jpg/960px-Wood-apple_dec2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: One wood apple cracked open, grey shell and brown pulp. Clearly a real wood apple with its hard shell visible; shown opened, but the fruit is unmistakable and not misleading."
+ },
+ "yakult-probiotic-drink-5x65ml": {
+  "url": "https://images.openfoodfacts.org/images/products/480/650/993/6453/front_fr.9.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Yakult 5-bottle multipack (Arabic-label edition). A: Yakult-branded 5-bottle pack of the same probiotic drink; the label language is different but the product is the same. B: This is the genuine Yakult 5-bottle pack of the same product, though the label is a regional one in Arabic."
+ },
  "yelakki-banana-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Front_Yelakki_banana%2C_bangalore%2C_karnataka_top.jpg/960px-Front_Yelakki_banana%2C_bangalore%2C_karnataka_top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
@@ -545,12 +2512,26 @@
   "date": "2026-10-23",
   "note": "Shows: three yellow bell peppers and one red in and under a wire basket. Fresh yellow capsicums are clearly the dominant subject; one red pepper and background clutter do not change what is sold."
  },
+ "yellow-lemon-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Yellow_Lemon_on_the_Table.jpg/960px-Yellow_Lemon_on_the_Table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: A single whole yellow lemon on a marble surface. A: A yellow lemon is clearly the main subject. B: A real yellow lemon in the correct colour is the clear main subject."
+ },
  "yellow-pumpkin-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/FrenchMarketPumpkinsB.jpg/500px-FrenchMarketPumpkinsB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "status": "APPROVED",
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: pile of whole orange pumpkins in a wooden crate. Clearly yellow-orange pumpkins as the main subject, though a Western variety and whole rather than a 500 g piece."
+ },
+ "yoga-bar-energy-bar-pack-of-6": {
+  "url": "https://images.openfoodfacts.org/images/products/890/800/514/4076/front_en.12.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Hand holding a Yoga Bar Multigrain Energy Bar, Nuts and Seeds. A: This is the brand's own energy bar pack and it matches the listing; only one bar is shown, so pack size may differ. B: Yoga Bar energy bar matches the listing; it shows one bar, not a pack of 6, so size may differ."
  },
  "zucchini-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/CSA-Striped-Zucchini.jpg/500px-CSA-Striped-Zucchini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
