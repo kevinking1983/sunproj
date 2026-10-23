@@ -169,7 +169,7 @@ export function rankFacts(kind, list, product, n) {
 }
 
 export const factsCodeFromLink = (link) => {
-  const m = /^https?:\/\/(?:[a-z]+\.)?open(food|beauty|products)facts\.org\/product\/(\d{6,14})/i.exec(link.trim());
+  const m = /^https?:\/\/(?:[a-z-]+\.)?open(food|beauty|products)facts\.org\/product\/(\d{6,14})/i.exec(link.trim());
   return m ? { kind: m[1].toLowerCase() === "food" ? "food" : m[1].toLowerCase(), code: m[2] } : null;
 };
 

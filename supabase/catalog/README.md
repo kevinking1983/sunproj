@@ -9,7 +9,8 @@ The store's departments, categories, subcategories and sample products, built fr
 | `products/<category>.json` | 1,245 sample products: original descriptions, realistic pack sizes, **sample** prices, GST rate, search tags and a photo lookup key. |
 | `pinned.json` | Toor Dal, Toned Milk and Brown Bread with fixed prices; the automated tests rely on them. |
 | `images.json` | Licensed photos and their credits, written by the "Catalog photos" GitHub Actions workflow. |
-| `image-overrides.json` | Photos chosen by hand in the photo picker, by product slug. They win over `images.json`; `{"none": true}` removes a wrong photo. |
+| `photo-links.csv` | Products still without a photo, with a column to paste an Open Food Facts or Commons link. |
+| `image-overrides.json` | Photos chosen by hand (photo-links.csv or the photo picker), by product slug. They win over `images.json`; `{"none": true}` removes a wrong photo. |
 | `AGENT_BRIEF.md` | The rules the product files were written to. |
 
 `../seeds/catalog.sql` is generated from these files and loaded after `../seed.sql` on every
@@ -35,6 +36,18 @@ requires (shown under the photo on the product page):
 The lookup runs in GitHub Actions (workflow "Catalog photos") whenever product files change on
 `main`, or from the Actions tab on demand. It commits `images.json` and the regenerated seed.
 Products with no match show a placeholder.
+
+### Photos from links (photo-links.csv)
+
+`photo-links.csv` lists every product still without a photo. Find the product on
+[Open Food Facts](https://world.openfoodfacts.org) (or Open Beauty / Products Facts, or Wikimedia
+Commons), copy the page address (or right-click the photo you want and "Copy image address") and
+paste it in that product's `photo_link` column. A bare barcode works too. Save as CSV UTF-8.
+
+When the file changes on `main`, the "Catalog photos" workflow checks each link (Commons files must
+be freely licensed), records the photo and its credit in `image-overrides.json`, and commits the
+regenerated seed. Links it cannot use are listed in the workflow log. Clearing a link removes
+that photo again. To refresh the list locally: `node scripts/photos/import-links.mjs --template`.
 
 ### Choosing photos by hand (photo picker)
 

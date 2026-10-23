@@ -1,7 +1,8 @@
 name: Catalog photos
 
 # Looks up openly licensed product photos (Wikimedia Commons, Open Food/Beauty/Products Facts)
-# for the catalog and commits supabase/catalog/images.json plus the regenerated seed to main.
+# for the catalog, takes the links pasted into supabase/catalog/photo-links.csv, and commits
+# images.json, image-overrides.json and the regenerated seed to main.
 # Needs open internet, which is why it runs here rather than on a developer machine.
 on:
   workflow_dispatch:
@@ -16,6 +17,8 @@ on:
       - "supabase/catalog/products/**"
       - "supabase/catalog/pinned.json"
       - "scripts/catalog/resolve-images.mjs"
+      - "supabase/catalog/photo-links.csv"
+      - "scripts/photos/import-links.mjs"
 
 permissions:
   contents: write
@@ -37,14 +40,25 @@ jobs:
           node-version: 22
       - name: Look up photos
         run: node scripts/catalog/resolve-images.mjs --max-minutes 110 ${{ inputs.retry_misses && '--retry-misses' || '' }}
+      - name: Photos from links in photo-links.csv
+        run: node scripts/photos/import-links.mjs
+      - name: List products still without a photo in photo-links.csv
+        run: node scripts/photos/import-links.mjs --template
       - name: Regenerate the catalog seed
         run: node scripts/catalog/build-seed.mjs
       - name: Commit results
         run: |
           git config user.name "ration-catalog-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add supabase/catalog/images.json supabase/seeds/catalog.sql
+          git add supabase/catalog/images.json supabase/catalog/image-overrides.json supabase/catalog/photo-links.csv supabase/seeds/catalog.sql
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Catalog: licensed product photos and regenerated seed"
-          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 5; done
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              # Keep the app and web branches on the same commit when they have not moved on.
+              git push origin HEAD:app HEAD:web || echo "app/web have other commits; not updated"
+              exit 0
+            fi
+            sleep 5
+          done
           exit 1
