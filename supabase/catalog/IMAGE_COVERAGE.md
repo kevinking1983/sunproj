@@ -35,15 +35,15 @@ every pending photo, so a broken link shows up there as a failed tile.
 | Unique representative images required (generic and unbranded image groups) | 199 |
 | — of which variety-specific | 57 |
 | Unique branded images required (one per branded listing) | 1040 |
-| Representative image groups already covered | 111 |
-| Representative images in use (distinct photos) | 110 |
-| Branded listings with a linked pack shot | 246 |
-| — of which pack size also matched (high confidence) | 19 |
-| — sharing one photo with another listing (other size of the same pack; check) | 12 |
-| Additional representative images still needed | 88 |
-| Missing branded images (no authentic pack shot yet) | 794 |
-| Distinct photos in use, all listings | 350 |
-| Image reuse (listings covered per distinct photo) | 363 listings on 350 photos, 3.6% reuse |
+| Representative image groups already covered | 181 |
+| Representative images in use (distinct photos) | 181 |
+| Branded listings with a linked pack shot | 309 |
+| — of which pack size also matched (high confidence) | 38 |
+| — sharing one photo with another listing (other size of the same pack; check) | 16 |
+| Additional representative images still needed | 18 |
+| Missing branded images (no authentic pack shot yet) | 731 |
+| Distinct photos in use, all listings | 482 |
+| Image reuse (listings covered per distinct photo) | 503 listings on 482 photos, 4.2% reuse |
 
 ## C. Complete image mapping
 
@@ -54,60 +54,60 @@ plus licence/credit, image kind, specification-dependent reason and priority.
 
 | Collection status | Listings | Meaning |
 |---|---|---|
-| LINKED | 363 | Licensed photo recorded; visual audit pending |
-| NEEDS_NEW_SOURCE | 62 | Generic or unbranded; no free representative photo found yet |
-| VARIANT_MISMATCH | 34 | A variety that looks different from the listing whose photo it would share; needs its own |
-| MANUAL_VERIFICATION_REQUIRED | 794 | Branded; no authentic pack shot in open sources. Needs a brand or distributor asset or an own photo |
+| LINKED | 503 | Licensed photo recorded; visual audit pending |
+| NEEDS_NEW_SOURCE | 1 | Generic or unbranded; no free representative photo found yet |
+| VARIANT_MISMATCH | 18 | A variety that looks different from the listing whose photo it would share; needs its own |
+| MANUAL_VERIFICATION_REQUIRED | 731 | Branded; no authentic pack shot in open sources. Needs a brand or distributor asset or an own photo |
 
-Sources in use: Wikimedia Commons (117), Open Food Facts (185), Open Products Facts (10), Open Beauty Facts (51).
+Sources in use: Wikimedia Commons (194), Open Food Facts (234), Open Products Facts (11), Open Beauty Facts (64).
 
 | Department › Category | Listings | With photo | Coverage | Branded still missing |
 |---|---|---|---|---|
-| Grocery & Kitchen › Atta, Rice & Dal | 92 | 26 | 28.3% | 58 |
-| Grocery & Kitchen › Dairy, Bread & Eggs | 62 | 22 | 35.5% | 40 |
-| Grocery & Kitchen › Vegetables & Fruits | 192 | 104 | 54.2% | 9 |
-| Grocery & Kitchen › Oil, Ghee & Masala | 77 | 27 | 35.1% | 49 |
-| Grocery & Kitchen › Bakery & Biscuits | 48 | 10 | 20.8% | 38 |
-| Grocery & Kitchen › Dry Fruits & Cereals | 62 | 15 | 24.2% | 47 |
-| Grocery & Kitchen › Chicken, Meat & Fish | 32 | 1 | 3.1% | 26 |
+| Grocery & Kitchen › Atta, Rice & Dal | 92 | 36 | 39.1% | 56 |
+| Grocery & Kitchen › Dairy, Bread & Eggs | 62 | 28 | 45.2% | 34 |
+| Grocery & Kitchen › Vegetables & Fruits | 192 | 166 | 86.5% | 8 |
+| Grocery & Kitchen › Oil, Ghee & Masala | 77 | 33 | 42.9% | 44 |
+| Grocery & Kitchen › Bakery & Biscuits | 48 | 12 | 25% | 36 |
+| Grocery & Kitchen › Dry Fruits & Cereals | 62 | 22 | 35.5% | 40 |
+| Grocery & Kitchen › Chicken, Meat & Fish | 32 | 6 | 18.8% | 25 |
 | Grocery & Kitchen › Kitchenware & Appliances | 58 | 1 | 1.7% | 57 |
-| Snacks & Drinks › Chips & Namkeen | 43 | 10 | 23.3% | 33 |
-| Snacks & Drinks › Sweets & Chocolates | 40 | 15 | 37.5% | 25 |
-| Snacks & Drinks › Drinks & Juices | 56 | 21 | 37.5% | 35 |
-| Snacks & Drinks › Tea, Coffee & Milk Drinks | 37 | 4 | 10.8% | 33 |
-| Snacks & Drinks › Instant Food | 40 | 13 | 32.5% | 27 |
+| Snacks & Drinks › Chips & Namkeen | 43 | 11 | 25.6% | 32 |
+| Snacks & Drinks › Sweets & Chocolates | 40 | 20 | 50% | 20 |
+| Snacks & Drinks › Drinks & Juices | 56 | 29 | 51.8% | 27 |
+| Snacks & Drinks › Tea, Coffee & Milk Drinks | 37 | 9 | 24.3% | 28 |
+| Snacks & Drinks › Instant Food | 40 | 18 | 45% | 22 |
 | Snacks & Drinks › Sauces & Spreads | 46 | 24 | 52.2% | 22 |
-| Snacks & Drinks › Paan Corner | 10 | 2 | 20% | 7 |
-| Snacks & Drinks › Ice Creams & More | 25 | 5 | 20% | 20 |
-| Beauty & Personal Care › Bath & Body | 44 | 18 | 40.9% | 26 |
-| Beauty & Personal Care › Hair | 38 | 7 | 18.4% | 31 |
-| Beauty & Personal Care › Skin & Face | 48 | 13 | 27.1% | 35 |
-| Beauty & Personal Care › Beauty & Cosmetics | 42 | 10 | 23.8% | 30 |
+| Snacks & Drinks › Paan Corner | 10 | 3 | 30% | 7 |
+| Snacks & Drinks › Ice Creams & More | 25 | 6 | 24% | 19 |
+| Beauty & Personal Care › Bath & Body | 44 | 22 | 50% | 22 |
+| Beauty & Personal Care › Hair | 38 | 11 | 28.9% | 27 |
+| Beauty & Personal Care › Skin & Face | 48 | 17 | 35.4% | 31 |
+| Beauty & Personal Care › Beauty & Cosmetics | 42 | 13 | 31% | 29 |
 | Beauty & Personal Care › Feminine Hygiene | 30 | 6 | 20% | 24 |
-| Household Essentials › Cleaners & Repellents | 69 | 7 | 10.1% | 62 |
+| Household Essentials › Cleaners & Repellents | 69 | 8 | 11.6% | 61 |
 | Household Essentials › Stationery & Games | 62 | 2 | 3.2% | 60 |
 
 ## E. Collection priority
 
-1. **Generic images that can cover listings** (62): Toor Dal, Potato, Onion, Long Brinjal, Tender Lady Finger, Lady Finger, Green Capsicum, French Beans, Broad Beans, Cabbage, Bottle Gourd, Bitter Gourd, …
-2. **Varieties needing their own photo** (34): Baby Potato, Red Potato, Round Brinjal, Red Carrot, Red Capsicum, Compact Cauliflower, Round Bottle Gourd, Green Pumpkin, Baby Beetroot, Orange Sweet Potato, Shelled Green Peas, Nendran Banana, …
-3. **Branded pack shots to confirm by visual audit** (246): staples first (96 in atta, rice, dal, oil, masala, dairy, tea, biscuits, instant food).
-4. **Remaining branded listings without a pack shot** (497), staples first: Pillsbury Whole Wheat Atta (Pillsbury), Pillsbury Specialty Wheat Flour (Pillsbury), Fortune Sona Masoori Rice (Fortune), bb Royal Kolam Rice (bb Royal), India Gate Brown Rice (India Gate), Double Horse Idli Rice (Double Horse), bb Royal Idli Rice (bb Royal), Fortune Toor Dal (Fortune), Fortune Moong Dal (Fortune), Tata Sampann Masoor Dal (Tata Sampann), Fortune Masoor Dal (Fortune), Fortune Urad Dal (Fortune), …
-5. **Specification-dependent branded listings without a pack shot** (297): cosmetics, cleaners and repellents, appliances, hygiene and organic products, where only the exact product image will do.
+1. **Generic images that can cover listings** (1): Organic Curry Leaves
+2. **Varieties needing their own photo** (18): Red Potato, Red Carrot, Compact Cauliflower, Round Bottle Gourd, Baby Beetroot, Orange Sweet Potato, Nendran Banana, Ganesh Pomegranate, Red Lady Papaya, Kew Pineapple, Cricket Ball Chikoo, Cleaned Coriander Leaves, …
+3. **Branded pack shots to confirm by visual audit** (309): staples first (124 in atta, rice, dal, oil, masala, dairy, tea, biscuits, instant food).
+4. **Remaining branded listings without a pack shot** (449), staples first: Pillsbury Whole Wheat Atta (Pillsbury), Pillsbury Specialty Wheat Flour (Pillsbury), Fortune Sona Masoori Rice (Fortune), bb Royal Kolam Rice (bb Royal), India Gate Brown Rice (India Gate), Double Horse Idli Rice (Double Horse), bb Royal Idli Rice (bb Royal), Fortune Toor Dal (Fortune), Fortune Moong Dal (Fortune), Tata Sampann Masoor Dal (Tata Sampann), Fortune Masoor Dal (Fortune), Fortune Urad Dal (Fortune), …
+5. **Specification-dependent branded listings without a pack shot** (282): cosmetics, cleaners and repellents, appliances, hygiene and organic products, where only the exact product image will do.
 
 ## F. Coverage report
 
 | | Count |
 |---|---|
 | Total listings | 1253 |
-| Covered by a linked photo | 363 (29%) |
-| — representative photography (generic and unbranded) | 117 |
-| — branded pack shots | 246 |
-| Missing photos | 890 |
+| Covered by a linked photo | 503 (40.1%) |
+| — representative photography (generic and unbranded) | 194 |
+| — branded pack shots | 309 |
+| Missing photos | 750 |
 | Brand mismatches (generic or other-brand photo on a branded listing) | 0 |
-| Visual audit pending | 0 |
+| Visual audit pending | 140 |
 | Visually approved | 342 |
 | Needs a person to decide | 21 |
 | Photos rejected on review so far (never shown again for that listing) | 316 |
 
-Not complete: 890 listings have no photo, and 0 linked photos still await a visual audit.
+Not complete: 750 listings have no photo, and 140 linked photos still await a visual audit.

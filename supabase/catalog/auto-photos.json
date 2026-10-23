@@ -34,6 +34,9 @@
  "24-mantra-organic-poha-500g": {
   "miss": true
  },
+ "24-mantra-organic-ragi-500g": {
+  "miss": true
+ },
  "24-mantra-organic-red-poha-500g": {
   "miss": true
  },
@@ -60,6 +63,17 @@
   "title": "24 Mantra Turmeric powder 200g",
   "quantity": "15"
  },
+ "24-mantra-organic-whole-moong-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/350/5549/front_en.5.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083505549",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "24 mantra · Moong dal",
+  "quantity": "1 kg"
+ },
  "24-mantra-organic-whole-wheat-atta-5kg": {
   "miss": true
  },
@@ -82,31 +96,30 @@
   "miss": true
  },
  "a1-chips-banana-chips-200g": {
-  "url": "https://images.openfoodfacts.org/images/products/885/917/410/0014/front_fr.13.400.jpg",
-  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8859174100014",
-  "source": "openfoodfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "Banana Chips · Mae Napa Banana Chips 35G."
+  "miss": true
  },
  "a1-chips-murukku-200g": {
   "miss": true
  },
- "aachi-dry-red-chilli-250g": {
-  "miss": true
- },
- "aachi-mutton-masala-200g": {
-  "url": "https://images.openfoodfacts.org/images/products/890/602/112/2290/front_en.3.400.jpg",
+ "aachi-chicken-masala-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/602/112/0470/front_en.5.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8906021122290",
+  "page": "https://world.openfoodfacts.org/product/8906021120470",
   "source": "openfoodfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "Aachi · Aachi Mutton Masala",
+  "title": "Aachi · Aachi chicken masala",
   "quantity": "100g"
+ },
+ "aachi-dry-red-chilli-250g": {
+  "miss": true
+ },
+ "aachi-fish-masala-200g": {
+  "miss": true
+ },
+ "aachi-mutton-masala-200g": {
+  "miss": true
  },
  "aashirvaad-besan-1kg": {
   "miss": true
@@ -185,14 +198,38 @@
  "alpenliebe-hard-candy-pack-of-50": {
   "miss": true
  },
+ "alpino-chocolate-peanut-butter-400g": {
+  "miss": true
+ },
+ "alpino-creamy-peanut-butter-400g": {
+  "miss": true
+ },
  "alt-co-oat-milk-1l": {
   "miss": true
  },
  "amaranth-leaves-1-bunch": {
-  "miss": true
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Amaranth_%28ship%2C_1980%29%2C_S%C3%A8te.jpg/960px-Amaranth_%28ship%2C_1980%29%2C_S%C3%A8te.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Christian Ferrer, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Amaranth_(ship,_1980),_S%C3%A8te.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Amaranth (ship, 1980), Sète.jpg"
  },
  "american-tourister-school-backpack-1pc": {
   "miss": true
+ },
+ "amul-butter-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/201/0016/front_en.53.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262010016",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Amul · Amul Pasteurized Butter",
+  "quantity": "100.0 g"
  },
  "amul-butterscotch-cone-120ml": {
   "miss": true
@@ -206,8 +243,52 @@
  "amul-curd-400g": {
   "miss": true
  },
+ "amul-dark-chocolate-150g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/207/0454/front_en.4.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262070454",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Amul · Amul Dark Chocolate",
+  "quantity": "40g"
+ },
  "amul-flavoured-milk-200ml": {
   "miss": true
+ },
+ "amul-fresh-cream-250ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/215/1863/front_en.6.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262151863",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Amul · Amul Fresh Cream",
+  "quantity": "250 ml"
+ },
+ "amul-ghee-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/203/0878/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262030878",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Amul cow ghee 1ltr",
+  "quantity": "1ltr"
+ },
+ "amul-malai-kulfi-60ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/217/6477/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262176477",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Amul · Mawa Malai Kulfi",
+  "quantity": "60ml/50g"
  },
  "amul-milkshake-180ml": {
   "miss": true
@@ -218,7 +299,35 @@
  "amul-no-added-sugar-vanilla-ice-cream-125ml": {
   "miss": true
  },
+ "amul-paneer-200g": {
+  "miss": true
+ },
+ "amul-skimmed-milk-powder-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/211/0068/front_en.10.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262110068",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Amul · Sagar Skimmed Milk Powder",
+  "quantity": "500 g"
+ },
+ "amul-toned-milk-500ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/126/226/0121/front_en.28.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901262260121",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Amul taaza · Toned Milk",
+  "quantity": "500 ml"
+ },
  "amul-vanilla-ice-cream-cup-125ml": {
+  "miss": true
+ },
+ "amul-vanilla-ice-cream-sandwich-100ml": {
   "miss": true
  },
  "anne-french-hair-removal-cream-50g": {
@@ -255,14 +364,14 @@
   "miss": true
  },
  "artificial-hair-flowers-1pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gajra-.JPG/960px-Gajra-.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Jugni, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Gajra-.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Clyde_L._Cheney%2C_Frame_of_Hair_Flowers%2C_c._1938%2C_NGA_22425.jpg/960px-Clyde_L._Cheney%2C_Frame_of_Hair_Flowers%2C_c._1938%2C_NGA_22425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Clyde L. Cheney, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Clyde_L._Cheney,_Frame_of_Hair_Flowers,_c._1938,_NGA_22425.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 3.0",
+  "license": "CC0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Gajra-.JPG"
+  "title": "Clyde L. Cheney, Frame of Hair Flowers, c. 1938, NGA 22425.jpg"
  },
  "asparagus-250g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Asparagus-Bundle.jpg/960px-Asparagus-Bundle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -278,7 +387,8 @@
   "miss": true
  },
  "baby-beetroot-250g": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "baby-carrot-200g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Carrots_%28baby%29_-_Arlington%2C_MA.jpg/960px-Carrots_%28baby%29_-_Arlington%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -291,14 +401,25 @@
   "title": "Carrots (baby) - Arlington, MA.jpg"
  },
  "baby-potato-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Baby_potato_and_big_potato.jpg/960px-Baby_potato_and_big_potato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Vidya pmysore, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Baby_potato_and_big_potato.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bateti_%28baby_potato%29_fry.jpg/960px-Bateti_%28baby_potato%29_fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ankita dayani, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Bateti_(baby_potato)_fry.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Baby potato and big potato.jpg"
+  "title": "Bateti (baby potato) fry.jpg"
+ },
+ "bagrrys-muesli-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/271/050/6051/front_en.5.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8902710506051",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Bagrry's · Fruit & Nut Muesli",
+  "quantity": "40g"
  },
  "bagrrys-steel-cut-oats-1kg": {
   "miss": true
@@ -326,6 +447,15 @@
   "title": "Mango Banganapalli variety.jpg"
  },
  "barilla-arrabbiata-pasta-sauce-400g": {
+  "miss": true
+ },
+ "baskin-robbins-chocolate-ice-cream-cake-500g": {
+  "miss": true
+ },
+ "baskin-robbins-chocolate-ice-cream-tub-500ml": {
+  "miss": true
+ },
+ "baskin-robbins-no-added-sugar-chocolate-ice-cream-500ml": {
   "miss": true
  },
  "bb-royal-idli-rice-5kg": {
@@ -368,6 +498,9 @@
   "confidence": "Medium",
   "title": "Betel leaves for selling in the market 01.jpg"
  },
+ "betty-crocker-chocolate-cake-mix-475g": {
+  "miss": true
+ },
  "bikaji-namkeen-gift-pack-1kg": {
   "miss": true
  },
@@ -386,6 +519,17 @@
  "bingo-masala-corn-snack-90g": {
   "miss": true
  },
+ "bioderma-micellar-water-100ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/340/139/537/6935/front_en.12.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3401395376935",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Bioderma · Purifying cleansing micellar water",
+  "quantity": "100 ml"
+ },
  "biore-blackhead-strips-6pcs": {
   "miss": true
  },
@@ -401,24 +545,24 @@
   "quantity": "2L"
  },
  "bitter-gourd-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/White_bitter_gourd.jpg/960px-White_bitter_gourd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Suyash.dwivedi, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:White_bitter_gourd.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Momordica_charantia_22042014_%282%29.JPG/960px-Momordica_charantia_22042014_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Joydeep, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Momordica_charantia_22042014_(2).JPG",
   "source": "wikimedia",
   "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "White bitter gourd.jpg"
+  "title": "Momordica charantia 22042014 (2).JPG"
  },
  "black-seedless-grapes-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Black_seedless_grapes_4300175324717_pack_01.jpg/960px-Black_seedless_grapes_4300175324717_pack_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: V.Boldychev, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Black_seedless_grapes_4300175324717_pack_01.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Black_Corinth_Grape-56993660.jpg/960px-Black_Corinth_Grape-56993660.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: J. Clark (sculp), after William Hooker (delt), Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Black_Corinth_Grape-56993660.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "Public domain",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Black seedless grapes 4300175324717 pack 01.jpg"
+  "title": "Black Corinth Grape-56993660.jpg"
  },
  "blackberry-125g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Blackberry_%28Rubus_fruticosus%29.jpg/960px-Blackberry_%28Rubus_fruticosus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -440,14 +584,14 @@
   "miss": true
  },
  "blueberry-125g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Juvenile_Eastern_Bluebird_in_Blueberry_Bush.jpg/960px-Juvenile_Eastern_Bluebird_in_Blueberry_Bush.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: KellyC.5366, CC BY 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Juvenile_Eastern_Bluebird_in_Blueberry_Bush.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Blueberry_in_Spring.jpg/960px-Blueberry_in_Spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: LilithMarsel, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Blueberry_in_Spring.jpg",
   "source": "wikimedia",
   "license": "CC BY 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Juvenile Eastern Bluebird in Blueberry Bush.jpg"
+  "title": "Blueberry in Spring.jpg"
  },
  "boldfit-gym-shaker-bottle-1pc": {
   "miss": true
@@ -493,14 +637,14 @@
   "miss": true
  },
  "bottle-gourd-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Yellow_Gourd_on_a_Blue_Background.png/960px-Yellow_Gourd_on_a_Blue_Background.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Aerra Carnicom, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Yellow_Gourd_on_a_Blue_Background.png",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Fresh_Bottle_Gourd_%28Lauki%29_from_Home_Garden.jpg/960px-Fresh_Bottle_Gourd_%28Lauki%29_from_Home_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: MohitSinghRazput, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Fresh_Bottle_Gourd_(Lauki)_from_Home_Garden.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Yellow Gourd on a Blue Background.png"
+  "title": "Fresh Bottle Gourd (Lauki) from Home Garden.jpg"
  },
  "bournvita-chocolate-malt-drink-mix-500g": {
   "miss": true
@@ -521,6 +665,9 @@
   "miss": true
  },
  "britannia-bourbon-cream-biscuits-150g": {
+  "miss": true
+ },
+ "britannia-butter-100g": {
   "miss": true
  },
  "britannia-chocolate-cookies-200g": {
@@ -550,15 +697,7 @@
   "miss": true
  },
  "britannia-nutrichoice-digestive-biscuits-250g": {
-  "url": "https://images.openfoodfacts.org/images/products/890/106/313/6403/front_en.4.400.jpg",
-  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8901063136403",
-  "source": "openfoodfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "Britannia · Britannia™ nutriCHOICE 5 Grain Digestive Biscuit",
-  "quantity": "300g"
+  "miss": true
  },
  "britannia-nutrichoice-oat-cookies-150g": {
   "url": "https://images.openfoodfacts.org/images/products/890/106/316/5687/front_en.3.400.jpg",
@@ -570,6 +709,9 @@
   "confidence": "Medium",
   "title": "Britannia, NutriChoice · Oats Almond & Milk Cookies",
   "quantity": "450 g"
+ },
+ "britannia-pav-6pcs": {
+  "miss": true
  },
  "britannia-sandwich-bread-400g": {
   "miss": true
@@ -591,24 +733,24 @@
   "miss": true
  },
  "broad-beans-500g": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Broad_Bean_%28Vicia_faba%29_seed_Germination.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credit": "Representative photo: Tess Watson from Edinburgh, Scotland, UK, CC BY 2.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Broad_Bean_(Vicia_faba)_seed_Germination.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Lablab_purpureus5.JPG/960px-Lablab_purpureus5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Meneerke bloem, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Lablab_purpureus5.JPG",
   "source": "wikimedia",
-  "license": "CC BY 2.0",
+  "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Broad Bean (Vicia faba) seed Germination.jpg"
+  "title": "Lablab purpureus5.JPG"
  },
  "broccoli-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Romanesco_broccoli_%28Brassica_oleracea%29.jpg/960px-Romanesco_broccoli_%28Brassica_oleracea%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Romanesco_broccoli_texture.jpg/960px-Romanesco_broccoli_texture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Romanesco_broccoli_(Brassica_oleracea).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Romanesco_broccoli_texture.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Romanesco broccoli (Brassica oleracea).jpg"
+  "title": "Romanesco broccoli texture.jpg"
  },
  "brooke-bond-red-label-black-tea-500g": {
   "miss": true
@@ -623,14 +765,14 @@
   "miss": true
  },
  "cabbage-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Band_Gobhi_Ki_Bhujia.JPG/960px-Band_Gobhi_Ki_Bhujia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Miansari66, CC0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Band_Gobhi_Ki_Bhujia.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pieris_brassicae_-_Large_Cabbage_White_-_01.jpg/960px-Pieris_brassicae_-_Large_Cabbage_White_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Zeynel Cebeci, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pieris_brassicae_-_Large_Cabbage_White_-_01.jpg",
   "source": "wikimedia",
-  "license": "CC0",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Band Gobhi Ki Bhujia.JPG"
+  "title": "Pieris brassicae - Large Cabbage White - 01.jpg"
  },
  "cadbury-assorted-chocolate-share-pack-200g": {
   "miss": true
@@ -649,11 +791,43 @@
  "cadbury-celebrations-chocolate-gift-box-200g": {
   "miss": true
  },
+ "cadbury-chocolate-family-pack-pack-of-5": {
+  "url": "https://images.openfoodfacts.org/images/products/506/025/923/0042/front_en.9.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5060259230042",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Cadbury · Cadbury Hot Chocolate 7 Pack"
+ },
+ "cadbury-dairy-milk-chocolate-50g": {
+  "url": "https://images.openfoodfacts.org/images/products/762/220/114/9406/front_en.4.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/7622201149406",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Cadbury · Cadbury Dairy Milk Chocolate",
+  "quantity": "24g"
+ },
  "cadbury-festive-chocolate-hamper-1pack": {
   "miss": true
  },
  "cadbury-gems-chocolate-candies-18g": {
   "miss": true
+ },
+ "cadbury-hot-chocolate-mix-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/762/220/176/2537/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/7622201762537",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Mondelez International, Mondelez, Cadbury · Cadbury Hot Chocolate",
+  "quantity": "200g"
  },
  "camlin-geometry-box-1set": {
   "miss": true
@@ -667,15 +841,25 @@
  "camlin-wax-crayons-12pcs": {
   "miss": true
  },
+ "campbells-ready-vegetable-soup-305g": {
+  "url": "https://images.openfoodfacts.org/images/products/091/000/103/0686/front_en.5.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0910001030686",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Campbell’s vegetable soup"
+ },
  "cantaloupe-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Nationalist_product_labeling_of_a_cantaloupe_2024.jpg/960px-Nationalist_product_labeling_of_a_cantaloupe_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Bartleby08, CC BY 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Nationalist_product_labeling_of_a_cantaloupe_2024.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cantaloupe_planting_crew_-_DPLA_-_9762b87c5d452035c61893577370114b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Vachon, John, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Cantaloupe_planting_crew_-_DPLA_-_9762b87c5d452035c61893577370114b.jpg",
   "source": "wikimedia",
-  "license": "CC BY 4.0",
+  "license": "Public domain",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Nationalist product labeling of a cantaloupe 2024.jpg"
+  "title": "Cantaloupe planting crew - DPLA - 9762b87c5d452035c61893577370114b.jpg"
  },
  "catch-basil-leaves-15g": {
   "miss": true
@@ -749,6 +933,17 @@
  "chicco-bottle-brush-1pc": {
   "miss": true
  },
+ "chings-secret-hakka-noodles-150g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/159/585/3403/front_en.9.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901595853403",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Chings Secret · Veg Hakka Noodles",
+  "quantity": "600 g"
+ },
  "chocolate-gelato-500ml": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2021-12-23_19_48_48_Chocolate_gelato_in_Ashburn%2C_Loudoun_County%2C_Virginia.jpg/960px-2021-12-23_19_48_48_Chocolate_gelato_in_Ashburn%2C_Loudoun_County%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credit": "Representative photo: Famartin, CC BY-SA 4.0, via Wikimedia Commons",
@@ -758,6 +953,16 @@
   "match": "representative",
   "confidence": "Medium",
   "title": "2021-12-23 19 48 48 Chocolate gelato in Ashburn, Loudoun County, Virginia.jpg"
+ },
+ "chrysanthemum-bunch-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Chrysanthemum_morifolium_08NOV.jpg/960px-Chrysanthemum_morifolium_08NOV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: 池田正樹 (talk)masaki ikeda, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_morifolium_08NOV.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Chrysanthemum morifolium 08NOV.jpg"
  },
  "chuk-disposable-plates-25pcs": {
   "miss": true
@@ -778,13 +983,26 @@
   "miss": true
  },
  "cleaned-coriander-leaves-100g": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "cleaned-mint-leaves-100g": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "clear-anti-dandruff-shampoo-340ml": {
   "miss": true
+ },
+ "coca-cola-soft-drink-300ml": {
+  "url": "https://images.openfoodfacts.org/images/products/394/876/401/2273/front_en.7.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/3948764012273",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Coca cola · Coca cola Soft Drink 750ml",
+  "quantity": "750ml"
  },
  "coca-cola-soft-drink-750ml": {
   "url": "https://images.openfoodfacts.org/images/products/394/876/401/2273/front_en.7.400.jpg",
@@ -835,18 +1053,29 @@
   "title": "Colgate · Colgate SlimSoft Charcoal Toothbrush",
   "quantity": "1 N"
  },
+ "colgate-toothpaste-200g": {
+  "url": "https://images.openbeautyfacts.org/images/products/628/100/111/2044/front_en.7.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/6281001112044",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Colgate · Triple action mint toothpaste",
+  "quantity": "75 ml"
+ },
  "colin-glass-cleaner-spray-500ml": {
   "miss": true
  },
  "colocasia-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Colocasia_Sp_6064.jpg/960px-Colocasia_Sp_6064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Vengolis, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Colocasia_Sp_6064.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Taro_leaf_underside%2C_backlit_by_sun_-_edit.jpg/960px-Taro_leaf_underside%2C_backlit_by_sun_-_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Taro_leaf_underside,_backlit_by_sun.jpg: Avenue Derivative work: Avenue (talk), CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Taro_leaf_underside,_backlit_by_sun_-_edit.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Colocasia Sp 6064.jpg"
+  "title": "Taro leaf underside, backlit by sun - edit.jpg"
  },
  "colorbar-nail-polish-12ml": {
   "miss": true
@@ -855,7 +1084,8 @@
   "miss": true
  },
  "compact-cauliflower-1-pc": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "coriander-leaves-100g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Coriander_Leaves.jpg/960px-Coriander_Leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -870,6 +1100,9 @@
  "cornitos-kettle-cooked-potato-chips-125g": {
   "miss": true
  },
+ "cornitos-salted-tortilla-chips-150g": {
+  "miss": true
+ },
  "cosco-cricket-tennis-ball-pack-of-6": {
   "miss": true
  },
@@ -880,37 +1113,38 @@
   "miss": true
  },
  "cowpea-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Patterned_cowpea_%2820240714%29.jpg/960px-Patterned_cowpea_%2820240714%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Fumikas Sagisavas, CC0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Patterned_cowpea_(20240714).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Vigna_unguiculata--_Cowpea_%2825332056950%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Dick Culbert from Gibsons, B.C., Canada, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Vigna_unguiculata--_Cowpea_(25332056950).jpg",
+  "source": "wikimedia",
+  "license": "CC BY 2.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Vigna unguiculata-- Cowpea (25332056950).jpg"
+ },
+ "cricket-ball-chikoo-500g": {
+  "miss": true,
+  "search": 2
+ },
+ "curry-cut-vegetable-mix-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Child_working_selling_vegetables_in_downtown_Maracaibo.jpg/960px-Child_working_selling_vegetables_in_downtown_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Wilfredor, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Child_working_selling_vegetables_in_downtown_Maracaibo.jpg",
   "source": "wikimedia",
   "license": "CC0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Patterned cowpea (20240714).jpg"
- },
- "cricket-ball-chikoo-500g": {
-  "miss": true
- },
- "curry-cut-vegetable-mix-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Wedge_cut_vegetables_2026-10-20_Momordica_charantia_03.jpg/960px-Wedge_cut_vegetables_2026-10-20_Momordica_charantia_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: P1898, CC BY 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Wedge_cut_vegetables_2026-10-20_Momordica_charantia_03.jpg",
-  "source": "wikimedia",
-  "license": "CC BY 4.0",
-  "match": "representative",
-  "confidence": "Medium",
-  "title": "Wedge cut vegetables 2026-10-20 Momordica charantia 03.jpg"
+  "title": "Child working selling vegetables in downtown Maracaibo.jpg"
  },
  "curry-leaves-1-bunch": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Butterfly_on_kadipatta_flower.jpg/960px-Butterfly_on_kadipatta_flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Butterfly_on_kadipatta_flowers.jpg/960px-Butterfly_on_kadipatta_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credit": "Representative photo: Jyotiprajapati, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Butterfly_on_kadipatta_flower.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Butterfly_on_kadipatta_flowers.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Butterfly on kadipatta flower.jpg"
+  "title": "Butterfly on kadipatta flowers.jpg"
  },
  "custard-apple-500g": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Custard_apple_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -923,7 +1157,8 @@
   "title": "Custard apple 2017.jpg"
  },
  "cut-banana-leaves-10-pcs": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "cut-papaya-250g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Papaya_cut_at_picnic_table_with_tortillas.jpg/960px-Papaya_cut_at_picnic_table_with_tortillas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -936,35 +1171,34 @@
   "title": "Papaya cut at picnic table with tortillas.jpg"
  },
  "cut-pineapple-250g": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Hand_Cut_Pineapple_Tile_Mural.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credit": "Representative photo: GirlTropix, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Hand_Cut_Pineapple_Tile_Mural.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Woman_vendor_cut_pineapple_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: mckaysavage, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Woman_vendor_cut_pineapple_Cambodia.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 3.0",
+  "license": "CC BY 2.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Hand Cut Pineapple Tile Mural.jpg"
+  "title": "Woman vendor cut pineapple Cambodia.jpg"
  },
  "cut-watermelon-250g": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Well_cut_pineapples_and_watermelon_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credit": "Representative photo: ASally Ruth, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Well_cut_pineapples_and_watermelon_1.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Cut_Watermelons_On_Display_For_sale.jpg/960px-Cut_Watermelons_On_Display_For_sale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: ChimaBee, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Cut_Watermelons_On_Display_For_sale.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Well cut pineapples and watermelon 1.jpg"
+  "title": "Cut Watermelons On Display For sale.jpg"
  },
  "dabur-amla-hair-oil-275ml": {
-  "url": "https://images.openbeautyfacts.org/images/products/890/120/705/0466/front_en.9.400.jpg",
+  "url": "https://images.openbeautyfacts.org/images/products/502/249/610/3411/front_en.8.400.jpg",
   "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
-  "page": "https://world.openbeautyfacts.org/product/8901207050466",
+  "page": "https://world.openbeautyfacts.org/product/5022496103411",
   "source": "openbeautyfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "dabur · dabur amla hair oil",
-  "quantity": "450ml"
+  "title": "Dabur · Amla Hair Oil"
  },
  "dabur-gulabari-rose-water-250ml": {
   "miss": true
@@ -997,14 +1231,14 @@
   "miss": true
  },
  "decorative-forehead-stickers-pack-of-5": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Bindi_%282416039%29.jpg/960px-Bindi_%282416039%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Bindi_%282416060%29.jpg/960px-Bindi_%282416060%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credit": "Representative photo: Simon Hannaby, CC0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Bindi_(2416039).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bindi_(2416060).jpg",
   "source": "wikimedia",
   "license": "CC0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Bindi (2416039).jpg"
+  "title": "Bindi (2416060).jpg"
  },
  "del-monte-penne-pasta-500g": {
   "miss": true
@@ -1019,6 +1253,9 @@
   "miss": true
  },
  "deli-paper-punch-1pc": {
+  "miss": true
+ },
+ "dettol-disinfectant-liquid-500ml": {
   "miss": true
  },
  "dettol-floor-cleaner-500ml": {
@@ -1036,15 +1273,14 @@
   "miss": true
  },
  "dettol-soap-3x125g": {
-  "url": "https://images.openbeautyfacts.org/images/products/000/000/331/8643/front_en.4.400.jpg",
+  "url": "https://images.openbeautyfacts.org/images/products/000/005/015/8980/front_en.3.400.jpg",
   "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
-  "page": "https://world.openbeautyfacts.org/product/03318643",
+  "page": "https://world.openbeautyfacts.org/product/50158980",
   "source": "openbeautyfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "Dettol · Dettol Soap",
-  "quantity": "100g"
+  "title": "Dettol · Dettol antibacterial soap Original"
  },
  "dhampur-sugar-1kg": {
   "miss": true
@@ -1065,11 +1301,25 @@
  "domex-toilet-rim-block-1pc": {
   "miss": true
  },
+ "doritos-nacho-chips-with-cheese-dip-pack-of-2": {
+  "miss": true
+ },
  "double-horse-idli-rice-5kg": {
   "miss": true
  },
  "double-horse-rice-flour-1kg": {
   "miss": true
+ },
+ "dove-roll-on-deodorant-50ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/009/357/6628/front_en.3.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/93576628",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Dove · Dove Men +care Fresh Roll-on Deodorant",
+  "quantity": "50ml"
  },
  "downy-fabric-conditioner-1l": {
   "miss": true
@@ -1088,14 +1338,14 @@
   "title": "Drumsticks or Moringa.jpg"
  },
  "duck-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Male_mallard_duck_2.jpg/960px-Male_mallard_duck_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Acarpentier, CC BY 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Male_mallard_duck_2.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Rice_Noodle_With_Braised_Duck_And_Hard_Boiled_Egg_From_Ang_Mo_Kio_Central_Food_Centre%2C_Singapore.jpg/960px-Rice_Noodle_With_Braised_Duck_And_Hard_Boiled_Egg_From_Ang_Mo_Kio_Central_Food_Centre%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Banej, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Rice_Noodle_With_Braised_Duck_And_Hard_Boiled_Egg_From_Ang_Mo_Kio_Central_Food_Centre,_Singapore.jpg",
   "source": "wikimedia",
-  "license": "CC BY 3.0",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Male mallard duck 2.jpg"
+  "title": "Rice Noodle With Braised Duck And Hard Boiled Egg From Ang Mo Kio Central Food Centre, Singapore.jpg"
  },
  "eastern-dry-turmeric-200g": {
   "miss": true
@@ -1160,6 +1410,9 @@
   "title": "Everest Shahi biryani masala",
   "quantity": "10g"
  },
+ "everest-chicken-masala-100g": {
+  "miss": true
+ },
  "everest-cinnamon-50g": {
   "miss": true
  },
@@ -1167,15 +1420,7 @@
   "miss": true
  },
  "everest-turmeric-powder-200g": {
-  "url": "https://images.openfoodfacts.org/images/products/394/876/402/2913/front_en.15.400.jpg",
-  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/3948764022913",
-  "source": "openfoodfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "Everest Turmeric powder tikha lal · fanta coca cola",
-  "quantity": "Pepsi cold drink produced & Litchi,water 1ltr"
+  "miss": true
  },
  "ezee-garbage-bags-large-30pcs": {
   "miss": true
@@ -1211,6 +1456,9 @@
   "miss": true
  },
  "farmley-nut-hamper-1pc": {
+  "miss": true
+ },
+ "farmley-raisins-250g": {
   "miss": true
  },
  "farmley-roasted-cashews-200g": {
@@ -1261,14 +1509,14 @@
   "miss": true
  },
  "fig-200g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Fig_%28Ficus_carica%29_fruit_halved.jpg/960px-Fig_%28Ficus_carica%29_fruit_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Fig_(Ficus_carica)_fruit_halved.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Monumen_Taman_Makam_Pahlawan_Anjir_KM_10.jpg/960px-Monumen_Taman_Makam_Pahlawan_Anjir_KM_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Martini Rahman, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Monumen_Taman_Makam_Pahlawan_Anjir_KM_10.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Fig (Ficus carica) fruit halved.jpg"
+  "title": "Monumen Taman Makam Pahlawan Anjir KM 10.jpg"
  },
  "flamingo-hot-water-bag-1pc": {
   "miss": true
@@ -1276,7 +1524,13 @@
  "fortune-blended-oil-1l": {
   "miss": true
  },
+ "fortune-chana-dal-1kg": {
+  "miss": true
+ },
  "fortune-groundnut-oil-1l": {
+  "miss": true
+ },
+ "fortune-kabuli-chana-1kg": {
   "miss": true
  },
  "fortune-kala-chana-1kg": {
@@ -1291,21 +1545,38 @@
  "fortune-rajma-500g": {
   "miss": true
  },
+ "fortune-sona-masoori-rice-5kg": {
+  "miss": true
+ },
  "fortune-sooji-500g": {
+  "miss": true
+ },
+ "fortune-soya-chunks-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/728/3144/front_en.4.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906007283144",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Fortune Soya Chunks-225g",
+  "quantity": "225g"
+ },
+ "fortune-toor-dal-1kg": {
   "miss": true
  },
  "fortune-urad-dal-1kg": {
   "miss": true
  },
  "french-beans-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/960px-Roasted_coffee_beans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: MarkSweep, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Four_Different_Varieties_of_Green_Beans_%28Phaseolus_vulgaris%29.jpg/960px-Four_Different_Varieties_of_Green_Beans_%28Phaseolus_vulgaris%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Christopher Franz, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Four_Different_Varieties_of_Green_Beans_(Phaseolus_vulgaris).jpg",
   "source": "wikimedia",
-  "license": "Public domain",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Roasted coffee beans.jpg"
+  "title": "Four Different Varieties of Green Beans (Phaseolus vulgaris).jpg"
  },
  "fresh-tender-coconut-1pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tender_coconut_image.jpg/960px-Tender_coconut_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1359,6 +1630,9 @@
  "gainda-phenyl-1l": {
   "miss": true
  },
+ "gala-broom-1pc": {
+  "miss": true
+ },
  "gala-microfiber-dishcloth-pack-of-3": {
   "miss": true
  },
@@ -1372,7 +1646,8 @@
   "miss": true
  },
  "ganesh-pomegranate-500g": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "garlic-250g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Garlic_bulbs_and_cloves.jpg/960px-Garlic_bulbs_and_cloves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1397,11 +1672,32 @@
   "confidence": "Medium",
   "title": "Garnier men turbobright face wash"
  },
+ "gatorade-sports-drink-500ml": {
+  "url": "https://images.openfoodfacts.org/images/products/594/900/050/1795/front_ro.11.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5949000501795",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Gatorade · Gatorade - Sport Drink - Aromă de zmeură",
+  "quantity": "500 ml"
+ },
  "gatsby-hair-wax-75g": {
   "miss": true
  },
  "genteel-gentle-wash-liquid-1kg": {
   "miss": true
+ },
+ "gillette-razor-1pc": {
+  "url": "https://images.openbeautyfacts.org/images/products/498/717/633/5166/front_en.3.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/4987176335166",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Gillette, Procter & Gamble · Gillette Guard Razor Blades (7+1 Free Cartridges)"
  },
  "gillette-venus-razor-1pc": {
   "url": "https://images.openbeautyfacts.org/images/products/770/201/840/1055/front_en.8.400.jpg",
@@ -1414,14 +1710,17 @@
   "title": "Gillette · Venus razor"
  },
  "ginger-250g": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ginger_%28Zingiber_officinale_Roscoe%29_Wellcome_V0042885.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credit": "Representative photo: Unknown author, CC BY 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Ginger_(Zingiber_officinale_Roscoe)_Wellcome_V0042885.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Ginger_%28Zingiber_officinale%29.jpg/960px-Ginger_%28Zingiber_officinale%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Khlshnuramalina, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Ginger_(Zingiber_officinale).jpg",
   "source": "wikimedia",
-  "license": "CC BY 4.0",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Ginger (Zingiber officinale Roscoe) Wellcome V0042885.jpg"
+  "title": "Ginger (Zingiber officinale).jpg"
+ },
+ "girnar-masala-chai-premix-10sachets": {
+  "miss": true
  },
  "gits-instant-upma-mix-200g": {
   "miss": true
@@ -1450,7 +1749,14 @@
   "quantity": "75g"
  },
  "golden-kiwi-pack-of-3": {
-  "miss": true
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/New_Zealand_Golden_Kiwifruit-lightblue.jpg/960px-New_Zealand_Golden_Kiwifruit-lightblue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: carol, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Zealand_Golden_Kiwifruit-lightblue.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "New Zealand Golden Kiwifruit-lightblue.jpg"
  },
  "goodknight-mosquito-repellent-liquid-vaporiser-refill-45ml": {
   "miss": true
@@ -1467,15 +1773,7 @@
   "quantity": "1let"
  },
  "gowardhan-ghee-1l": {
-  "url": "https://images.openfoodfacts.org/images/products/890/600/102/4880/front_en.3.400.jpg",
-  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8906001024880",
-  "source": "openfoodfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "gowardhan cow ghee",
-  "quantity": "1let"
+  "miss": true
  },
  "granny-smith-apple-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Granny_Smith_Apples.jpg/960px-Granny_Smith_Apples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1498,14 +1796,14 @@
   "title": "Grated Coconut - Howrah 2013-10-18 3541.JPG"
  },
  "green-avocado-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ugandan_avocado_in_green_and_purple.jpg/960px-Ugandan_avocado_in_green_and_purple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Denis kasozi, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Ugandan_avocado_in_green_and_purple.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Avocado_Hass_-_single_and_halved.jpg/960px-Avocado_Hass_-_single_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Avocado_Hass_-_single_and_halved.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Ugandan avocado in green and purple.jpg"
+  "title": "Avocado Hass - single and halved.jpg"
  },
  "green-brinjal-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Green_brinjals_at_Gara_market%2C_Srikakulam.jpg/960px-Green_brinjals_at_Gara_market%2C_Srikakulam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1518,14 +1816,14 @@
   "title": "Green brinjals at Gara market, Srikakulam.jpg"
  },
  "green-capsicum-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%27Dhan_Jolokiya%27_or_Siling_labuyo_or_Green_Capsicum_Frutescens%2C_Scientific_Name-Capsicum_frutescens_%27Siling_Labuyo%27.jpg/960px-%27Dhan_Jolokiya%27_or_Siling_labuyo_or_Green_Capsicum_Frutescens%2C_Scientific_Name-Capsicum_frutescens_%27Siling_Labuyo%27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: AditiB08, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:%27Dhan_Jolokiya%27_or_Siling_labuyo_or_Green_Capsicum_Frutescens,_Scientific_Name-Capsicum_frutescens_%27Siling_Labuyo%27.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Baby_Bell_pepper_%27%27Capsicum_annuum%27%27_.jpg/960px-Baby_Bell_pepper_%27%27Capsicum_annuum%27%27_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Brocken Inaglory, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Baby_Bell_pepper_%27%27Capsicum_annuum%27%27_.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "'Dhan Jolokiya' or Siling labuyo or Green Capsicum Frutescens, Scientific Name-Capsicum frutescens 'Siling Labuyo'.jpg"
+  "title": "Baby Bell pepper ''Capsicum annuum'' .jpg"
  },
  "green-chilli-100g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Bhiwapur_Chilli_-_Green_Unripened.jpg/960px-Bhiwapur_Chilli_-_Green_Unripened.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1538,14 +1836,14 @@
   "title": "Bhiwapur Chilli - Green Unripened.jpg"
  },
  "green-kiwi-pack-of-3": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/1898_pictorial_6_pence_green_%28kiwi%29.JPG/960px-1898_pictorial_6_pence_green_%28kiwi%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: GrahamBould, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:1898_pictorial_6_pence_green_(kiwi).JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Kiwifruit_%27Gold%27_cross_section.jpg/960px-Kiwifruit_%27Gold%27_cross_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Kiwifruit_%27Gold%27_cross_section.jpg",
   "source": "wikimedia",
-  "license": "Public domain",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "1898 pictorial 6 pence green (kiwi).JPG"
+  "title": "Kiwifruit 'Gold' cross section.jpg"
  },
  "green-peas-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/India_-_Varanasi_green_peas_-_2714.jpg/960px-India_-_Varanasi_green_peas_-_2714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1558,24 +1856,24 @@
   "title": "India - Varanasi green peas - 2714.jpg"
  },
  "green-pumpkin-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/GREEN_PUMPKIN_SEEDS.jpg/960px-GREEN_PUMPKIN_SEEDS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Ranjithkumar Murugesan, CC0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:GREEN_PUMPKIN_SEEDS.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Green_waste_-_unsold_pumpkins_left_behind_after_a_pumpkin_patch_Halloween_carnival.jpg/960px-Green_waste_-_unsold_pumpkins_left_behind_after_a_pumpkin_patch_Halloween_carnival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Jengod, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Green_waste_-_unsold_pumpkins_left_behind_after_a_pumpkin_patch_Halloween_carnival.jpg",
   "source": "wikimedia",
-  "license": "CC0",
+  "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "GREEN PUMPKIN SEEDS.jpg"
+  "title": "Green waste - unsold pumpkins left behind after a pumpkin patch Halloween carnival.jpg"
  },
  "green-seedless-grapes-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Double_green_seedless_grape_1.jpg/960px-Double_green_seedless_grape_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: W.carter, CC BY 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Double_green_seedless_grape_1.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Javier_shows_part_of_the_grape_harvest_in_his_Lysekil_vineyard_1_-_cropped.jpg/960px-Javier_shows_part_of_the_grape_harvest_in_his_Lysekil_vineyard_1_-_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: W.carter, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Javier_shows_part_of_the_grape_harvest_in_his_Lysekil_vineyard_1_-_cropped.jpg",
   "source": "wikimedia",
-  "license": "CC BY 4.0",
+  "license": "CC0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Double green seedless grape 1.jpg"
+  "title": "Javier shows part of the grape harvest in his Lysekil vineyard 1 - cropped.jpg"
  },
  "haldirams-banana-chips-200g": {
   "miss": true
@@ -1584,14 +1882,7 @@
   "miss": true
  },
  "haldirams-murmura-200g": {
-  "url": "https://images.openfoodfacts.org/images/products/890/400/440/1554/front_en.10.400.jpg",
-  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8904004401554",
-  "source": "openfoodfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "Haldiram's · Masala Sev Murmura"
+  "miss": true
  },
  "haldirams-namkeen-gift-pack-1kg": {
   "miss": true
@@ -1600,26 +1891,17 @@
   "miss": true
  },
  "haldirams-peda-250g": {
-  "url": "https://images.openfoodfacts.org/images/products/890/400/442/0227/front_en.3.400.jpg",
+  "url": "https://images.openfoodfacts.org/images/products/506/060/119/0284/front_en.3.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8904004420227",
-  "source": "openfoodfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "High",
-  "title": "Haldiram's · Haldiram's Mathura Peda",
-  "quantity": "250g"
- },
- "haldirams-roasted-chana-200g": {
-  "url": "https://images.openfoodfacts.org/images/products/890/406/320/0563/front_en.3.400.jpg",
-  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8904063200563",
+  "page": "https://world.openfoodfacts.org/product/5060601190284",
   "source": "openfoodfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "Haldiram's · Roasted Chana Cracker",
-  "quantity": "210 g"
+  "title": "Haldiram's · Peda"
+ },
+ "haldirams-roasted-chana-200g": {
+  "miss": true
  },
  "haldirams-veg-biryani-250g": {
   "miss": true
@@ -1632,6 +1914,17 @@
  },
  "hamdard-rooh-afza-sharbat-750ml": {
   "miss": true
+ },
+ "happilo-cashews-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/608/112/3626/front_fr.9.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906081123626",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Happilo · 100% natural premium whole cashew nuts",
+  "quantity": "500g"
  },
  "happilo-chilli-roasted-nuts-150g": {
   "miss": true
@@ -1657,6 +1950,16 @@
  "happilo-pecan-nuts-200g": {
   "miss": true
  },
+ "happilo-raisins-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/608/112/0236/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906081120236",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Happilo · Happilo Green Raisins"
+ },
  "happilo-roasted-almonds-200g": {
   "miss": true
  },
@@ -1681,7 +1984,13 @@
  "harpic-cistern-toilet-block-1pc": {
   "miss": true
  },
+ "harpic-toilet-cleaner-liquid-1l": {
+  "miss": true
+ },
  "harvest-gold-sandwich-bread-400g": {
+  "miss": true
+ },
+ "hasbro-monopoly-board-game-1set": {
   "miss": true
  },
  "havells-hair-dryer-1pc": {
@@ -1705,11 +2014,25 @@
  "helios-shoe-cleaner-100ml": {
   "miss": true
  },
+ "heritage-buttermilk-200ml": {
+  "miss": true
+ },
  "heritage-flavoured-milk-200ml": {
   "miss": true
  },
  "heritage-lassi-200ml": {
   "miss": true
+ },
+ "hersheys-cocoa-powder-225g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/107/121/1161/front_en.20.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901071211161",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Hershey's Hershey's kitchens · Hershey's cocoa powder",
+  "quantity": "225 g"
  },
  "hersheys-hot-chocolate-mix-250g": {
   "url": "https://images.openfoodfacts.org/images/products/890/107/170/2744/front_en.3.400.jpg",
@@ -1722,6 +2045,9 @@
   "title": "Hershey's · Hershey's Hot Chocolate",
   "quantity": "240g"
  },
+ "himalaya-face-pack-100g": {
+  "miss": true
+ },
  "himalaya-herbal-shampoo-400ml": {
   "miss": true
  },
@@ -1732,17 +2058,24 @@
   "miss": true
  },
  "hmt-rice-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/HK_HMT_Fat_Kwong_Street_%E4%BD%95%E6%96%87%E7%94%B0%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D_Student_Halls_of_Residence_Homantin_canteen_lunch_eggs_rice_spam_January_2019_SSG_03.jpg/960px-HK_HMT_Fat_Kwong_Street_%E4%BD%95%E6%96%87%E7%94%B0%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D_Student_Halls_of_Residence_Homantin_canteen_lunch_eggs_rice_spam_January_2019_SSG_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Horgim Foougia, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:HK_HMT_Fat_Kwong_Street_%E4%BD%95%E6%96%87%E7%94%B0%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D_Student_Halls_of_Residence_Homantin_canteen_lunch_eggs_rice_spam_January_2019_SSG_03.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Rice_terraces%2C_Rice_fields%2C_Tirta_Gangga%2C_Bali.jpg/960px-Rice_terraces%2C_Rice_fields%2C_Tirta_Gangga%2C_Bali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Rice_terraces,_Rice_fields,_Tirta_Gangga,_Bali.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "HK HMT Fat Kwong Street 何文田學生宿舍 Student Halls of Residence Homantin canteen lunch eggs rice spam January 2019 SSG 03.jpg"
+  "title": "Rice terraces, Rice fields, Tirta Gangga, Bali.jpg"
  },
  "hmt-steam-rice-1kg": {
-  "miss": true
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Fish_steam_rice_in_hk.jpg/960px-Fish_steam_rice_in_hk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Peachyeung316, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Fish_steam_rice_in_hk.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Fish steam rice in hk.jpg"
  },
  "hobby-ideas-gift-bows-pack-of-10": {
   "miss": true
@@ -1751,24 +2084,24 @@
   "miss": true
  },
  "horse-gram-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Horse-drawn_sleighs_2012_G1.jpg/960px-Horse-drawn_sleighs_2012_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: George Chernilevsky, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Horse-drawn_sleighs_2012_G1.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Macrotyloma_Uniflorum_fruit_01.jpg/960px-Macrotyloma_Uniflorum_fruit_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Rajarshi Rit(https://orcid.org/0000-0003-3122-5926), CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Macrotyloma_Uniflorum_fruit_01.jpg",
   "source": "wikimedia",
-  "license": "Public domain",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Horse-drawn sleighs 2012 G1.jpg"
+  "title": "Macrotyloma Uniflorum fruit 01.jpg"
  },
  "iceberg-lettuce-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Iceberg_lettuce_%28IJssla_krop%29.jpg/960px-Iceberg_lettuce_%28IJssla_krop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Rasbak 13:13, 20 May 2007 (UTC), CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Iceberg_lettuce_(IJssla_krop).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Iceberg_lettuce_in_Poplar_Farmhouse.jpg/960px-Iceberg_lettuce_in_Poplar_Farmhouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Zolfeqar Fatihzadeh, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Iceberg_lettuce_in_Poplar_Farmhouse.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 3.0",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Iceberg lettuce (IJssla krop).jpg"
+  "title": "Iceberg lettuce in Poplar Farmhouse.jpg"
  },
  "id-fresh-idli-and-dosa-batter-1kg": {
   "miss": true
@@ -1792,16 +2125,26 @@
   "miss": true
  },
  "imported-green-seedless-grapes-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/William_Hammer_-_Green_grapes_%281878%29.jpg/960px-William_Hammer_-_Green_grapes_%281878%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: William Hammer, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:William_Hammer_-_Green_grapes_(1878).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Javier_shows_part_of_the_grape_harvest_in_his_Lysekil_vineyard_1_-_cropped.jpg/960px-Javier_shows_part_of_the_grape_harvest_in_his_Lysekil_vineyard_1_-_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: W.carter, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Javier_shows_part_of_the_grape_harvest_in_his_Lysekil_vineyard_1_-_cropped.jpg",
   "source": "wikimedia",
-  "license": "Public domain",
+  "license": "CC0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "William Hammer - Green grapes (1878).jpg"
+  "title": "Javier shows part of the grape harvest in his Lysekil vineyard 1 - cropped.jpg"
  },
  "imported-red-seedless-grapes-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Two_red_grapes_fused_together.jpg/960px-Two_red_grapes_fused_together.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: FreeMediaKid!, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Two_red_grapes_fused_together.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Two red grapes fused together.jpg"
+ },
+ "india-gate-brown-rice-1kg": {
   "miss": true
  },
  "india-today-magazine-1pc": {
@@ -1829,24 +2172,24 @@
   "miss": true
  },
  "jamun-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Java_plum_%28Syzygium_cumini%29_seeds.jpg/960px-Java_plum_%28Syzygium_cumini%29_seeds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Salil Kumar Mukherjee, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Java_plum_(Syzygium_cumini)_seeds.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Syzygium_cumini_%28black_plum%29.jpg/960px-Syzygium_cumini_%28black_plum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Khả Vân Đại Hãn, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Syzygium_cumini_(black_plum).jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Java plum (Syzygium cumini) seeds.jpg"
+  "title": "Syzygium cumini (black plum).jpg"
  },
  "jasmine-flowers-100g": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/STILL_LIFE_WITH_PEACHES%2C_PLUMS_AND_FLOWERS_IN_BASKETS%2C_AND_JASMINE_FLOWERS_ON_A_GOLD_CHARGER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credit": "Representative photo: Giuseppe Volo Vicenzino, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:STILL_LIFE_WITH_PEACHES,_PLUMS_AND_FLOWERS_IN_BASKETS,_AND_JASMINE_FLOWERS_ON_A_GOLD_CHARGER.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Jasminum_sambac_kz01.jpg/960px-Jasminum_sambac_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Krzysztof Ziarnek, Kenraiz, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Jasminum_sambac_kz01.jpg",
   "source": "wikimedia",
-  "license": "Public domain",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "STILL LIFE WITH PEACHES, PLUMS AND FLOWERS IN BASKETS, AND JASMINE FLOWERS ON A GOLD CHARGER.jpg"
+  "title": "Jasminum sambac kz01.jpg"
  },
  "jasmine-garland-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Garland%2Cjasmine%2CTamil_Nadu354.JPG/960px-Garland%2Cjasmine%2CTamil_Nadu354.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1859,14 +2202,7 @@
   "title": "Garland,jasmine,Tamil Nadu354.JPG"
  },
  "jk-copier-a4-paper-500sheets": {
-  "url": "https://images.openproductsfacts.org/images/products/890/231/010/0055/front_en.7.400.jpg",
-  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
-  "page": "https://world.openproductsfacts.org/product/8902310100055",
-  "source": "openproductsfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "JK Paper · JK Easy Copier A4 Paper (70 GSM)"
+  "miss": true
  },
  "joseph-joseph-chopping-board-1pc": {
   "miss": true
@@ -1875,14 +2211,14 @@
   "miss": true
  },
  "kalonji-100g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Ala%C3%AFs_Kalonji_Jeux_Olympiques_Tockyo_2021.jpg/960px-Ala%C3%AFs_Kalonji_Jeux_Olympiques_Tockyo_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Ndiata, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Ala%C3%AFs_Kalonji_Jeux_Olympiques_Tockyo_2021.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Nigella_sativa_MHNT.BOT.2015.34.22.jpg/960px-Nigella_sativa_MHNT.BOT.2015.34.22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Roger Culos, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Nigella_sativa_MHNT.BOT.2015.34.22.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Alaïs Kalonji Jeux Olympiques Tockyo 2021.jpg"
+  "title": "Nigella sativa MHNT.BOT.2015.34.22.jpg"
  },
  "kama-ayurveda-rose-water-200ml": {
   "miss": true
@@ -1904,17 +2240,21 @@
   "miss": true
  },
  "kelloggs-chocos-cereal-375g": {
-  "url": "https://images.openfoodfacts.org/images/products/885/275/630/4039/front_en.24.400.jpg",
+  "miss": true
+ },
+ "kelloggs-kids-cereal-300g": {
+  "miss": true
+ },
+ "kelloggs-muesli-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/149/901/0452/front_en.4.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8852756304039",
+  "page": "https://world.openfoodfacts.org/product/8901499010452",
   "source": "openfoodfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "Kellogg’s · Kelloggs Cereal Choco Chex 330G."
- },
- "kelloggs-kids-cereal-300g": {
-  "miss": true
+  "title": "Kellogg's · Kelloggs muesli crunchy fruit (2)",
+  "quantity": "1"
  },
  "kesar-mango-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Mango_Kesar_Indian_variety_IMG_20230603_114021_%283%29.jpg/960px-Mango_Kesar_Indian_variety_IMG_20230603_114021_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1927,7 +2267,8 @@
   "title": "Mango Kesar Indian variety IMG 20230603 114021 (3).jpg"
  },
  "kew-pineapple-1-pc": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "keya-hakka-noodles-150g": {
   "miss": true
@@ -1987,25 +2328,17 @@
   "quantity": "1 litre (912g)"
  },
  "knorr-ready-vegetable-soup-300ml": {
-  "url": "https://images.openfoodfacts.org/images/products/871/256/630/1812/front_en.13.400.jpg",
-  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8712566301812",
-  "source": "openfoodfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "Knorr · Knorr Country Vegetable Soup",
-  "quantity": "72 g"
+  "miss": true
  },
  "knorr-tomato-soup-mix-53g": {
-  "url": "https://images.openfoodfacts.org/images/products/004/800/171/6162/front_en.7.400.jpg",
+  "url": "https://images.openfoodfacts.org/images/products/004/800/171/6179/front_en.7.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/0048001716162",
+  "page": "https://world.openfoodfacts.org/product/0048001716179",
   "source": "openfoodfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "Knorr, Unilever · Knorr, Tomato Based Pasta Soup Mix"
+  "title": "Knorr, Unilever · Knorr, Tomato Based Elbow Pasta Soup Mix"
  },
  "kurkure-masala-corn-snack-90g": {
   "miss": true
@@ -2036,14 +2369,14 @@
   "miss": true
  },
  "lady-finger-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Lady_finger_banana_1.jpg/960px-Lady_finger_banana_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Dương Vinh Hoàng, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Lady_finger_banana_1.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Okra_%28Abelmoschus_esculentus%29_Feb_2019._DSC_0060_01.jpg/960px-Okra_%28Abelmoschus_esculentus%29_Feb_2019._DSC_0060_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: ADARSHluck, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Okra_(Abelmoschus_esculentus)_Feb_2019._DSC_0060_01.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Lady finger banana 1.jpg"
+  "title": "Okra (Abelmoschus esculentus) Feb 2019. DSC 0060 01.jpg"
  },
  "lakme-blush-6g": {
   "miss": true
@@ -2082,7 +2415,14 @@
   "miss": true
  },
  "large-clove-garlic-250g": {
-  "miss": true
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Garlic_bulbs_and_cloves.jpg/960px-Garlic_bulbs_and_cloves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Garlic bulbs and cloves.jpg"
  },
  "large-fresh-tender-coconut-1pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tender_coconut_image.jpg/960px-Tender_coconut_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2094,18 +2434,21 @@
   "confidence": "Medium",
   "title": "Tender coconut image.jpg"
  },
+ "lays-salted-potato-chips-52g": {
+  "miss": true
+ },
  "lego-building-bricks-set-1set": {
   "miss": true
  },
  "lemongrass-1-bunch": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Tanglad_%28lemongrass%2C_Cymbopogon_citratus%29_-_Philippines.jpg/960px-Tanglad_%28lemongrass%2C_Cymbopogon_citratus%29_-_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Obsidian Soul, CC0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Tanglad_(lemongrass,_Cymbopogon_citratus)_-_Philippines.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cymbopogon_sp.jpg/960px-Cymbopogon_sp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Nativeplants garden, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Cymbopogon_sp.jpg",
   "source": "wikimedia",
-  "license": "CC0",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Tanglad (lemongrass, Cymbopogon citratus) - Philippines.jpg"
+  "title": "Cymbopogon sp.jpg"
  },
  "licious-chicken-curry-cut-500g": {
   "miss": true
@@ -2177,21 +2520,50 @@
  "lion-dates-whole-dates-500g": {
   "miss": true
  },
+ "lipton-green-tea-25pcs": {
+  "url": "https://images.openfoodfacts.org/images/products/890/103/077/9312/front_en.22.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901030779312",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Unilever and PepsiCo. · Lipton Green Tea",
+  "quantity": "25N"
+ },
+ "lipton-lemon-iced-tea-350ml": {
+  "url": "https://images.openfoodfacts.org/images/products/406/213/901/5252/front_en.4.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/4062139015252",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Lipton · Lipton Lemon Iced Tea",
+  "quantity": "500ml"
+ },
  "livon-hair-serum-100ml": {
   "miss": true
  },
  "long-brinjal-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Long_Brinjal.jpg/960px-Long_Brinjal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Bommi Dharrshini OKC, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Long_Brinjal.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Japanese_White_Eggplant.jpg/960px-Japanese_White_Eggplant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Versions111, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Japanese_White_Eggplant.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Long Brinjal.jpg"
+  "title": "Japanese White Eggplant.jpg"
  },
  "long-green-chilli-250g": {
-  "miss": true
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Long_chili_pepper_or_Cayenne.jpg/960px-Long_chili_pepper_or_Cayenne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Bambi Cia, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Long_chili_pepper_or_Cayenne.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Long chili pepper or Cayenne.jpg"
  },
  "loreal-paris-hair-mask-200ml": {
   "miss": true
@@ -2221,6 +2593,31 @@
   "title": "Lux · lux soap",
   "quantity": "100g"
  },
+ "maaza-mango-drink-600ml": {
+  "miss": true
+ },
+ "madhur-sugar-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/602/690/0046/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906026900046",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Madhur · Pure & Hygienic Sugar",
+  "quantity": "1kg"
+ },
+ "maggi-masala-instant-noodles-280g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/885/0680/front_en.5.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901058850680",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Maggi · MAGGI MASALA NOODLES",
+  "quantity": "280g"
+ },
  "maggi-pazzta-instant-pasta-64g": {
   "miss": true
  },
@@ -2248,25 +2645,17 @@
   "miss": true
  },
  "mamaearth-face-mask-100g": {
-  "url": "https://images.openbeautyfacts.org/images/products/890/608/777/1326/front_en.4.400.jpg",
-  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
-  "page": "https://world.openbeautyfacts.org/product/8906087771326",
-  "source": "openbeautyfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "High",
-  "title": "mamaearth Ubtan Face Mask FOR SKIN BRIGHTENING &Apricot Oil",
-  "quantity": "100g"
+  "miss": true
  },
  "mango-leaves-1-bunch": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mango_leaves_growing.jpg/960px-Mango_leaves_growing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Kingaustin07, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Mango_leaves_growing.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mango_leaves.jpg/960px-Mango_leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: ChimaBee, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mango_leaves.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Mango leaves growing.jpg"
+  "title": "Mango leaves.jpg"
  },
  "mango-sorbet-500ml": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mango_sorbet_dessert_%283460219556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -2279,6 +2668,9 @@
   "title": "Mango sorbet dessert (3460219556).jpg"
  },
  "manna-multimillet-mix-500g": {
+  "miss": true
+ },
+ "manna-ragi-500g": {
   "miss": true
  },
  "manna-ragi-drink-mix-200g": {
@@ -2296,6 +2688,9 @@
  "mapro-kokum-syrup-750ml": {
   "miss": true
  },
+ "mapro-mixed-fruit-jam-500g": {
+  "miss": true
+ },
  "marigold-garland-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Marigold_Flowers_as_garland_in_India.jpg/960px-Marigold_Flowers_as_garland_in_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credit": "Representative photo: SnapMeUp, CC BY 4.0, via Wikimedia Commons",
@@ -2310,14 +2705,14 @@
   "miss": true
  },
  "matki-sprouts-200g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/M%C4%84TKI_03.jpg/960px-M%C4%84TKI_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Andrzej Błaszczak, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:M%C4%84TKI_03.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Vigna_aconitifolia_Jacquin_1767.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Jacquin, N.J., Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Vigna_aconitifolia_Jacquin_1767.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "Public domain",
   "match": "representative",
   "confidence": "Medium",
-  "title": "MĄTKI 03.jpg"
+  "title": "Vigna aconitifolia Jacquin 1767.jpg"
  },
  "matrix-hair-mask-200g": {
   "miss": true
@@ -2353,14 +2748,14 @@
   "miss": true
  },
  "maybelline-highlighter-8g": {
-  "url": "https://images.openbeautyfacts.org/images/products/360/053/169/7402/front_nl.3.400.jpg",
+  "url": "https://images.openbeautyfacts.org/images/products/360/053/169/7426/front_nl.3.400.jpg",
   "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
-  "page": "https://world.openbeautyfacts.org/product/3600531697402",
+  "page": "https://world.openbeautyfacts.org/product/3600531697426",
   "source": "openbeautyfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "Maybelline New Yorker Sunkisser 20 Kiss Of Shimmer Liquid Glow Highlighter"
+  "title": "Maybelline New Yorker Sunkisser 22 Star Studded Liquid Glow Highlighter"
  },
  "maybelline-lip-gloss-5-4ml": {
   "miss": true
@@ -2393,6 +2788,9 @@
  "mccain-veg-nuggets-400g": {
   "miss": true
  },
+ "mdh-red-chilli-powder-100g": {
+  "miss": true
+ },
  "meatzza-chicken-salami-200g": {
   "miss": true
  },
@@ -2417,6 +2815,17 @@
  },
  "milky-mist-mozzarella-cheese-200g": {
   "miss": true
+ },
+ "milky-mist-paneer-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/094/460/730/0005/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0944607300005",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Milky Mist · Paneer",
+  "quantity": "500g"
  },
  "milton-casserole-1pc": {
   "miss": true
@@ -2496,17 +2905,12 @@
   "title": "Mint leaves (Mentha spicata).jpg"
  },
  "mixed-flower-garland-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Elisabetta_Marchioni%2C_flowers_in_an_urn_next_to_a_garland_of_mixed_flowers.jpg/960px-Elisabetta_Marchioni%2C_flowers_in_an_urn_next_to_a_garland_of_mixed_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Elisabetta Marchioni, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Elisabetta_Marchioni,_flowers_in_an_urn_next_to_a_garland_of_mixed_flowers.jpg",
-  "source": "wikimedia",
-  "license": "Public domain",
-  "match": "variety",
-  "confidence": "Medium",
-  "title": "Elisabetta Marchioni, flowers in an urn next to a garland of mixed flowers.jpg"
+  "miss": true,
+  "search": 2
  },
  "mixed-seasonal-fruit-bowl-250g": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "moisturex-moisturising-cream-100g": {
   "miss": true
@@ -2520,15 +2924,26 @@
  "monginis-swiss-roll-200g": {
   "miss": true
  },
+ "monster-energy-drink-350ml": {
+  "url": "https://images.openfoodfacts.org/images/products/489/703/669/1427/front_en.25.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/4897036691427",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Monster · Monster Energy Drink 350ml",
+  "quantity": "5"
+ },
  "moong-sprouts-200g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Moong_Beans_sprouts.jpg/960px-Moong_Beans_sprouts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: অনিরুদ্ধ সরকার, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Moong_Beans_sprouts.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Mung_bean_sprouts%2C_close-up.jpg/960px-Mung_bean_sprouts%2C_close-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: pics_pd, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mung_bean_sprouts,_close-up.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Moong Beans sprouts.jpg"
+  "title": "Mung bean sprouts, close-up.jpg"
  },
  "mortein-cockroach-spray-400ml": {
   "miss": true
@@ -2544,14 +2959,17 @@
   "title": "(Citrus limetta) Mosambi at a market in Seethammadhara.jpg"
  },
  "moth-beans-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Mung_bean_moth_%28Maruca_vitrata%29.jpg/960px-Mung_bean_moth_%28Maruca_vitrata%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Charles J. Sharp, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Mung_bean_moth_(Maruca_vitrata).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mung_Bean_Moth_01.jpg/960px-Mung_Bean_Moth_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ganesh Mohan T, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mung_Bean_Moth_01.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Mung bean moth (Maruca vitrata).jpg"
+  "title": "Mung Bean Moth 01.jpg"
+ },
+ "mothers-recipe-green-chilli-paste-200g": {
+  "miss": true
  },
  "mothers-recipe-tamarind-chutney-250g": {
   "miss": true
@@ -2565,7 +2983,21 @@
  "mtr-gulab-jamun-mix-175g": {
   "miss": true
  },
+ "mtr-instant-upma-mix-180g": {
+  "url": "https://images.openfoodfacts.org/images/products/084/096/500/2103/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0840965002103",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Mtr upma mix gms",
+  "quantity": "200 g"
+ },
  "mtr-murukku-200g": {
+  "miss": true
+ },
+ "mtr-paneer-gravy-mix-100g": {
   "miss": true
  },
  "mtr-rasam-powder-200g": {
@@ -2581,34 +3013,34 @@
   "miss": true
  },
  "muskmelon-1-pc": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%22Dhar_Fort_with_Kharbuja_Mahal_from_the_North%2C%22_a_photo_from_1902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credit": "Representative photo: Unknown, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:%22Dhar_Fort_with_Kharbuja_Mahal_from_the_North,%22_a_photo_from_1902.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Muskmelon_Bangladeshi.jpg/960px-Muskmelon_Bangladeshi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Faisal Photography, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Muskmelon_Bangladeshi.jpg",
   "source": "wikimedia",
-  "license": "Public domain",
+  "license": "CC BY 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "\"Dhar Fort with Kharbuja Mahal from the North,\" a photo from 1902.jpg"
+  "title": "Muskmelon Bangladeshi.jpg"
  },
  "mutton-liver-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%22Kaleji%22_-_Agricultural_Machinery_Museum_-_panoramio.jpg/960px-%22Kaleji%22_-_Agricultural_Machinery_Museum_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Laima Gūtmane (simka…, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:%22Kaleji%22_-_Agricultural_Machinery_Museum_-_panoramio.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Liver_04_Couinaud_classification.svg-ar.png/960px-Liver_04_Couinaud_classification.svg-ar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Polygon data is generated by Database Center for Life Science(DBCLS)[1], CC BY-SA 2.1 jp, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Liver_04_Couinaud_classification.svg-ar.png",
+  "source": "wikimedia",
+  "license": "CC BY-SA 2.1 jp",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Liver 04 Couinaud classification.svg-ar.png"
+ },
+ "mutton-trotters-pack-of-4": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Trotters%2C_North_Dakota2.jpg/960px-Trotters%2C_North_Dakota2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Andrew Filer from Seattle (ex-Minneapolis), CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Trotters,_North_Dakota2.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "\"Kaleji\" - Agricultural Machinery Museum - panoramio.jpg"
- },
- "mutton-trotters-pack-of-4": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Pech_%28Paya%29_Language_Distribution.png/960px-Pech_%28Paya%29_Language_Distribution.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Lingstudent, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Pech_(Paya)_Language_Distribution.png",
-  "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
-  "match": "representative",
-  "confidence": "Medium",
-  "title": "Pech (Paya) Language Distribution.png"
+  "title": "Trotters, North Dakota2.jpg"
  },
  "mysore-sandal-soap-3x125g": {
   "url": "https://images.openbeautyfacts.org/images/products/890/128/710/0013/front_en.11.400.jpg",
@@ -2643,17 +3075,18 @@
   "miss": true
  },
  "nectarine-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Nectarine_Fruit_Development.jpg/960px-Nectarine_Fruit_Development.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: jjron, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Nectarine_Fruit_Development.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Nectarine_on_white.jpg/960px-Nectarine_on_white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Nectarine_on_white.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 3.0",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Nectarine Fruit Development.jpg"
+  "title": "Nectarine on white.jpg"
  },
  "nendran-banana-1kg": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "nescafe-coffee-premix-10sachets": {
   "miss": true
@@ -2663,6 +3096,17 @@
  },
  "nescafe-cold-coffee-gift-pack-6x180ml": {
   "miss": true
+ },
+ "nestea-lemon-iced-tea-350ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/886/7855/front_en.4.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901058867855",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Nestlé · Nestea Iced Tea Lemon flavour",
+  "quantity": "200 ml"
  },
  "nestle-everyday-dairy-whitener-400g": {
   "url": "https://images.openfoodfacts.org/images/products/890/105/800/3802/front_en.3.400.jpg",
@@ -2686,6 +3130,16 @@
  "nestle-munch-wafer-biscuits-pack-of-5": {
   "miss": true
  },
+ "neutrogena-sunscreen-lotion-88ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/008/680/087/0258/front_en.3.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/0086800870258",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Neutrogena · sport face oil-free lotion sunscreen 70"
+ },
  "neutrogena-sunscreen-spray-150ml": {
   "miss": true
  },
@@ -2699,14 +3153,15 @@
   "miss": true
  },
  "nivea-face-cream-100ml": {
-  "url": "https://images.openbeautyfacts.org/images/products/400/590/010/9309/front_en.6.400.jpg",
+  "url": "https://images.openbeautyfacts.org/images/products/400/580/878/9382/front_hr.3.400.jpg",
   "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
-  "page": "https://world.openbeautyfacts.org/product/4005900109309",
+  "page": "https://world.openbeautyfacts.org/product/4005808789382",
   "source": "openbeautyfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "Medium",
-  "title": "BRYNILD GRUPPEN AS · Nivea Men Body & Face Cream 150ml"
+  "title": "Nivea men · face cream",
+  "quantity": "50 mL"
  },
  "nivea-lip-balm-4-8g": {
   "url": "https://images.openbeautyfacts.org/images/products/400/580/836/9928/front_en.3.400.jpg",
@@ -2744,8 +3199,33 @@
  "nivia-football-1pc": {
   "miss": true
  },
+ "nongshim-spicy-ramen-120g": {
+  "miss": true
+ },
  "nutralite-table-spread-200g": {
   "miss": true
+ },
+ "nutrela-soya-chunks-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/603/201/6977/front_en.19.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906032016977",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Nutrela · Soya Chunks",
+  "quantity": "200 g"
+ },
+ "oatly-oat-drink-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/739/437/662/0799/front_en.25.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/7394376620799",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Oatly · Oatly oat drink",
+  "quantity": "1x 1L"
  },
  "oatmlk-plant-based-frozen-dessert-500ml": {
   "miss": true
@@ -2763,14 +3243,14 @@
   "miss": true
  },
  "onion-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Mixed_onions.jpg/960px-Mixed_onions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Colin, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Onion_spy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: ReshmaNazeerhussain, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Onion_spy.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 3.0",
+  "license": "CC0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Mixed onions.jpg"
+  "title": "Onion spy.jpg"
  },
  "oral-b-dental-floss-50m": {
   "miss": true
@@ -2786,14 +3266,8 @@
   "title": "Oral-B · Oral-B CrissCross Toothbrush"
  },
  "orange-sweet-potato-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Orange-Fleshed_Sweet_Potato_Value_Chain_%2823463701639%29.jpg/960px-Orange-Fleshed_Sweet_Potato_Value_Chain_%2823463701639%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: USAID in Africa, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Orange-Fleshed_Sweet_Potato_Value_Chain_(23463701639).jpg",
-  "source": "wikimedia",
-  "license": "Public domain",
-  "match": "variety",
-  "confidence": "Medium",
-  "title": "Orange-Fleshed Sweet Potato Value Chain (23463701639).jpg"
+  "miss": true,
+  "search": 2
  },
  "organic-apple-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2816,19 +3290,23 @@
   "title": "Cavendish banana from Maracaibo.jpg"
  },
  "organic-coriander-100g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Coriander_Seeds.jpg/960px-Coriander_Seeds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Sanjay Acharya, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Coriander_Seeds.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/A_scene_of_Coriander_leaves.JPG/960px-A_scene_of_Coriander_leaves.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Thamizhpparithi Maari, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:A_scene_of_Coriander_leaves.JPG",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Coriander Seeds.jpg"
+  "title": "A scene of Coriander leaves.JPG"
  },
  "organic-curry-leaves-1-bunch": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "organic-india-ginger-herbal-infusion-25pcs": {
+  "miss": true
+ },
+ "organic-india-tulsi-tea-25pcs": {
   "miss": true
  },
  "organic-mint-100g": {
@@ -2842,34 +3320,34 @@
   "title": "Mint leaves (Mentha spicata).jpg"
  },
  "organic-papaya-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Papaya_-_longitudinal_section_close-up_view.jpg/960px-Papaya_-_longitudinal_section_close-up_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Papaya_-_longitudinal_section.jpg/960px-Papaya_-_longitudinal_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Papaya_-_longitudinal_section_close-up_view.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Papaya_-_longitudinal_section.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Papaya - longitudinal section close-up view.jpg"
+  "title": "Papaya - longitudinal section.jpg"
  },
  "organic-potato-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Imago_of_Colorado_potato_beetle_on_leaf.jpg/960px-Imago_of_Colorado_potato_beetle_on_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Adámozphoto, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Imago_of_Colorado_potato_beetle_on_leaf.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Russet_potato_cultivar_with_sprouts.jpg/960px-Russet_potato_cultivar_with_sprouts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: ZooFari, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Russet_potato_cultivar_with_sprouts.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Russet potato cultivar with sprouts.jpg"
+ },
+ "organic-spinach-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Spinach_-_%E0%B4%AA%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%80%E0%B4%B0.jpg/960px-Spinach_-_%E0%B4%AA%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%80%E0%B4%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Shijan Kaakkara, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Spinach_-_%E0%B4%AA%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%80%E0%B4%B0.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Imago of Colorado potato beetle on leaf.jpg"
- },
- "organic-spinach-1-bunch": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Karyotype_of_Spinach_%28Spinacia_oleracea_L._Mazeran%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credit": "Representative photo: Satoshi Fujito, Satoshi Takahata, Reimi Suzuki, Yoichiro Hoshino, Nobuko Ohmido , CC BY 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Karyotype_of_Spinach_(Spinacia_oleracea_L._Mazeran).png",
-  "source": "wikimedia",
-  "license": "CC BY 4.0",
-  "match": "representative",
-  "confidence": "Medium",
-  "title": "Karyotype of Spinach (Spinacia oleracea L. Mazeran).png"
+  "title": "Spinach - പച്ചച്ചീര.jpg"
  },
  "organic-tattva-almonds-200g": {
   "miss": true
@@ -2938,27 +3416,63 @@
   "miss": true
  },
  "paan-chuna-slaked-lime-50g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Transsiberian_RW_crossing_Chuna_River.jpg/960px-Transsiberian_RW_crossing_Chuna_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: This image was produced by me, David Castor (user:dcastor). The pictures I submi, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Transsiberian_RW_crossing_Chuna_River.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Calcium_hydroxide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Picture taken by w:User:Walkerma in June 2005., Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Calcium_hydroxide.jpg",
   "source": "wikimedia",
   "license": "Public domain",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Transsiberian RW crossing Chuna River.jpg"
+  "title": "Calcium hydroxide.jpg"
  },
  "pac-makeup-sponge-1pc": {
   "miss": true
  },
+ "palmers-belly-butter-125g": {
+  "miss": true
+ },
+ "pantene-conditioner-180ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/490/243/063/8074/front_en.5.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/4902430638074",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Pantene · Daily Moisture Renewal conditioner",
+  "quantity": "900ml"
+ },
  "papaya-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Papaya_-_longitudinal_section_close-up_view.jpg/960px-Papaya_-_longitudinal_section_close-up_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Papaya_-_longitudinal_section.jpg/960px-Papaya_-_longitudinal_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Papaya_-_longitudinal_section_close-up_view.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Papaya_-_longitudinal_section.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Papaya - longitudinal section close-up view.jpg"
+  "title": "Papaya - longitudinal section.jpg"
+ },
+ "paper-boat-coconut-water-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/608/060/1248/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906080601248",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Paper boat coconut water 200ml pet",
+  "quantity": "200ml"
+ },
+ "paper-boat-coconut-water-200ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/608/060/1248/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906080601248",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Paper boat coconut water 200ml pet",
+  "quantity": "200ml"
  },
  "paper-boat-fruit-juice-blend-250ml": {
   "miss": true
@@ -2968,6 +3482,27 @@
  },
  "parachute-body-oil-250ml": {
   "miss": true
+ },
+ "parachute-coconut-oil-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/257/900/0196/front_en.4.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8902579000196",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Parachute Coconut Hair Oil"
+ },
+ "parachute-coconut-oil-500ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/108/815/0729/front_en.3.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901088150729",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Parachute · Parachute Advansed Gold Coconut Hair Oil",
+  "quantity": "190 ml"
  },
  "park-avenue-shaving-foam-225ml": {
   "miss": true
@@ -3036,24 +3571,17 @@
   "miss": true
  },
  "peach-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/RK_Aadu_Must.jpg/960px-RK_Aadu_Must.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Erik Peinar, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:RK_Aadu_Must.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Aadu_Lass_%282001%29._Eesti_Maanteemuuseumi_fotokogu.jpg/960px-Aadu_Lass_%282001%29._Eesti_Maanteemuuseumi_fotokogu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Eesti Maanteemuuseum, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Aadu_Lass_(2001)._Eesti_Maanteemuuseumi_fotokogu.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "RK Aadu Must.jpg"
+  "title": "Aadu Lass (2001). Eesti Maanteemuuseumi fotokogu.jpg"
  },
  "pears-soap-3x125g": {
-  "url": "https://images.openbeautyfacts.org/images/products/628/100/648/5334/front_fr.3.400.jpg",
-  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
-  "page": "https://world.openbeautyfacts.org/product/6281006485334",
-  "source": "openbeautyfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "Unilever · Pear’s hand soap"
+  "miss": true
  },
  "pediasure-nutrition-drink-powder-400g": {
   "miss": true
@@ -3081,7 +3609,8 @@
   "title": "Peeled garlic cloves🧄.jpg"
  },
  "peeled-shallots-200g": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "penguin-childrens-board-book-english-1pc": {
   "miss": true
@@ -3090,6 +3619,12 @@
   "miss": true
  },
  "pepsi-black-soft-drink-300ml": {
+  "miss": true
+ },
+ "pepsi-soft-drink-300ml": {
+  "miss": true
+ },
+ "pepsi-soft-drink-750ml": {
   "miss": true
  },
  "perrier-sparkling-mineral-water-330ml": {
@@ -3140,6 +3675,20 @@
  "pigeon-steel-sieve-1pc": {
   "miss": true
  },
+ "pillsbury-cake-mix-285g": {
+  "url": "https://images.openfoodfacts.org/images/products/520/391/239/0251/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5203912390251",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Pillsbury · Pillsbury cake mix white",
+  "quantity": "485g"
+ },
+ "pillsbury-chocolate-cake-mix-285g": {
+  "miss": true
+ },
  "pillsbury-multigrain-atta-5kg": {
   "url": "https://images.openfoodfacts.org/images/products/890/600/021/2240/front_en.3.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
@@ -3150,6 +3699,9 @@
   "confidence": "High",
   "title": "Pillsbury · Multigrain Atta",
   "quantity": "5kg"
+ },
+ "pillsbury-specialty-wheat-flour-5kg": {
+  "miss": true
  },
  "pillsbury-whole-wheat-atta-5kg": {
   "miss": true
@@ -3163,6 +3715,9 @@
   "match": "variety",
   "confidence": "Medium",
   "title": "Guava pink fruit.jpg"
+ },
+ "pintola-creamy-peanut-butter-350g": {
+  "miss": true
  },
  "pitambari-shining-powder-200g": {
   "miss": true
@@ -3184,15 +3739,15 @@
   "miss": true
  },
  "ponds-talcum-powder-200g": {
-  "url": "https://images.openbeautyfacts.org/images/products/890/103/053/1897/front_en.5.400.jpg",
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/086/9013/front_en.4.400.jpg",
   "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
-  "page": "https://world.openbeautyfacts.org/product/8901030531897",
+  "page": "https://world.openbeautyfacts.org/product/8901030869013",
   "source": "openbeautyfacts",
   "license": "CC BY-SA",
   "match": "pack",
-  "confidence": "High",
-  "title": "HUL · pond's dreamflower talcum powder",
-  "quantity": "200 g"
+  "confidence": "Medium",
+  "title": "POND'S DREAMFLOWER fragrant talcum powder",
+  "quantity": "100g"
  },
  "pooja-coconut-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Coconuts_-_single_and_cracked_open.jpg/960px-Coconuts_-_single_and_cracked_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3208,17 +3763,27 @@
   "miss": true
  },
  "potato-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Imago_of_Colorado_potato_beetle_on_leaf.jpg/960px-Imago_of_Colorado_potato_beetle_on_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Adámozphoto, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Imago_of_Colorado_potato_beetle_on_leaf.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Russet_potato_cultivar_with_sprouts.jpg/960px-Russet_potato_cultivar_with_sprouts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: ZooFari, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Russet_potato_cultivar_with_sprouts.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "Public domain",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Imago of Colorado potato beetle on leaf.jpg"
+  "title": "Russet potato cultivar with sprouts.jpg"
  },
  "prasuma-chicken-salami-200g": {
   "miss": true
+ },
+ "prasuma-chicken-sausages-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/610/717/0054/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906107170054",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Prasuma · Chicken Sausage"
  },
  "prasuma-ham-200g": {
   "miss": true
@@ -3261,14 +3826,7 @@
   "miss": true
  },
  "prestige-pressure-cooker-1pc": {
-  "url": "https://images.openproductsfacts.org/images/products/890/136/520/2509/front_en.5.400.jpg",
-  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
-  "page": "https://world.openproductsfacts.org/product/8901365202509",
-  "source": "openproductsfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "Prestige · Pressure cooker 4L"
+  "miss": true
  },
  "prestige-utility-knife-1pc": {
   "miss": true
@@ -3281,6 +3839,16 @@
  },
  "pril-dishwash-liquid-750ml": {
   "miss": true
+ },
+ "pringles-potato-crisps-107g": {
+  "url": "https://images.openfoodfacts.org/images/products/003/800/084/5208/front.8.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0038000845208",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Pringles · Pringles, potato crisps, original, original"
  },
  "priya-gunpowder-podi-100g": {
   "miss": true
@@ -3307,25 +3875,36 @@
  "quaker-masala-oats-500g": {
   "miss": true
  },
+ "quaker-oats-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/490/119/810/3794/front_en.4.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/4901198103794",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Quaker · Quaker Oats",
+  "quantity": "40 g"
+ },
  "queen-pineapple-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Queen_Pineapple_by_Kate_Malone_01.jpg/960px-Queen_Pineapple_by_Kate_Malone_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: 14GTR, CC0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Queen_Pineapple_by_Kate_Malone_01.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pineapple_%28Ananas_comosus%29.jpg/960px-Pineapple_%28Ananas_comosus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Mokkie, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pineapple_(Ananas_comosus).jpg",
   "source": "wikimedia",
-  "license": "CC0",
+  "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Queen Pineapple by Kate Malone 01.jpg"
+  "title": "Pineapple (Ananas comosus).jpg"
  },
  "radish-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Radish_3371103037_4ab07db0bf_o.jpg/960px-Radish_3371103037_4ab07db0bf_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Self, en:User:Jengod, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Radish_3371103037_4ab07db0bf_o.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Daikon.Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Chris 73, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Daikon.Japan.jpg",
   "source": "wikimedia",
-  "license": "Public domain",
+  "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Radish 3371103037 4ab07db0bf o.jpg"
+  "title": "Daikon.Japan.jpg"
  },
  "rajdhani-broken-wheat-daliya-500g": {
   "miss": true
@@ -3381,17 +3960,18 @@
   "quantity": "1l"
  },
  "red-capsicum-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Capsicum_-_red_chili_chilli_-_piment_rouge_-_roter_Chili_01.jpg/960px-Capsicum_-_red_chili_chilli_-_piment_rouge_-_roter_Chili_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Norbert Nagel, Mörfelden-Walldorf, Germany, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Capsicum_-_red_chili_chilli_-_piment_rouge_-_roter_Chili_01.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Red_bell_pepper.jpg/960px-Red_bell_pepper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: AntanO, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_bell_pepper.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 3.0",
+  "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Capsicum - red chili chilli - piment rouge - roter Chili 01.jpg"
+  "title": "Red bell pepper.jpg"
  },
  "red-carrot-500g": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "red-dragon-fruit-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_dragon_fruit.jpg/960px-Red_dragon_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3414,10 +3994,12 @@
   "title": "Red Globe, a variety of very large, seeded red grapes, captured in West Bengal, India.jpg"
  },
  "red-lady-papaya-1-pc": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "red-potato-1kg": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "red-radish-250g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Raphanus_sativus%2C_red_radish_variant.jpg/960px-Raphanus_sativus%2C_red_radish_variant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3451,14 +4033,7 @@
   "miss": true
  },
  "ritebite-max-protein-chips-60g": {
-  "url": "https://images.openfoodfacts.org/images/products/790/602/653/8950/front_en.3.400.jpg",
-  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/7906026538950",
-  "source": "openfoodfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "RiteBite · Max Protein Chips Peri Peri"
+  "miss": true
  },
  "robusta-banana-1-dozen": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Robusta_banana.jpg/960px-Robusta_banana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3481,26 +4056,45 @@
   "title": "Bunch of Pink Rose 140416.jpg"
  },
  "rose-flowers-100g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Maharaja_Gulab_Singh_of_Jammu_and_Kashmir.jpg/960px-Maharaja_Gulab_Singh_of_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Unknown (production), Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Maharaja_Gulab_Singh_of_Jammu_and_Kashmir.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Comestible_rose_in_the_Laquenexy_orchard_garden%2C_Moselle%2C_France_%2801%29.jpg/960px-Comestible_rose_in_the_Laquenexy_orchard_garden%2C_Moselle%2C_France_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: M0tty, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Comestible_rose_in_the_Laquenexy_orchard_garden,_Moselle,_France_(01).jpg",
   "source": "wikimedia",
-  "license": "Public domain",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Maharaja Gulab Singh of Jammu and Kashmir.jpg"
+  "title": "Comestible rose in the Laquenexy orchard garden, Moselle, France (01).jpg"
  },
  "round-bottle-gourd-1-pc": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "round-brinjal-500g": {
-  "miss": true
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Round_eggplant_%281%29.jpg/960px-Round_eggplant_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Fumikas Sagisavas, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Round_eggplant_(1).jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Round eggplant (1).jpg"
  },
  "safal-frozen-cut-beans-500g": {
   "miss": true
  },
  "safal-frozen-spinach-500g": {
   "miss": true
+ },
+ "saffola-oats-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/108/821/3608/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901088213608",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Saffola, Marico · Saffola Oats",
+  "quantity": "1kg"
  },
  "saffola-rice-bran-oil-1l": {
   "miss": true
@@ -3527,6 +4121,9 @@
  "scholastic-childrens-story-book-english-1pc": {
   "miss": true
  },
+ "schweppes-sparkling-water-300ml": {
+  "miss": true
+ },
  "schweppes-zero-tonic-water-300ml": {
   "url": "https://images.openfoodfacts.org/images/products/704/461/087/4272/front_nb.20.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
@@ -3549,6 +4146,17 @@
  },
  "scotch-brite-microfiber-kitchen-cloth-pack-of-3": {
   "miss": true
+ },
+ "scotch-brite-scrub-pad-pack-of-3": {
+  "url": "https://images.openproductsfacts.org/images/products/890/136/137/2558/front_en.7.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8901361372558",
+  "source": "openproductsfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Scotch-Brite · Scotch-Brite Silver Sparks Scrub Pad",
+  "quantity": "1N"
  },
  "scotch-transparent-tape-2rolls": {
   "miss": true
@@ -3577,23 +4185,24 @@
   "title": "Set wet sport extreme hair gel"
  },
  "shan-biryani-masala-50g": {
-  "url": "https://images.openfoodfacts.org/images/products/078/882/100/1146/front_en.4.400.jpg",
-  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/0788821001146",
-  "source": "openfoodfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "Shan Foods (Private) Ltd. · Masala bombay biryani mix"
+  "miss": true
  },
  "shan-tandoori-masala-50g": {
   "miss": true
  },
  "sheep-meat-curry-cut-500g": {
-  "miss": true
+  "miss": true,
+  "search": 2
  },
  "shelled-green-peas-200g": {
-  "miss": true
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Pea-shelled.JPG/960px-Pea-shelled.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Potatohai, CC BY 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pea-shelled.JPG",
+  "source": "wikimedia",
+  "license": "CC BY 3.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Pea-shelled.JPG"
  },
  "shilpa-bindi-10sheets": {
   "miss": true
@@ -3602,14 +4211,14 @@
   "miss": true
  },
  "singhara-atta-500g": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Singhara_atta_Halwa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credit": "Representative photo: Rachna23Nov, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Singhara_atta_Halwa.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Water-caltrops.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Unknown author, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Water-caltrops.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Singhara atta Halwa.jpg"
+  "title": "Water-caltrops.jpg"
  },
  "sirona-heat-patches-pack-of-5": {
   "miss": true
@@ -3649,7 +4258,14 @@
   "miss": true
  },
  "small-bitter-gourd-250g": {
-  "miss": true
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Momordica_charantia_22042014_%282%29.JPG/960px-Momordica_charantia_22042014_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Joydeep, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Momordica_charantia_22042014_(2).JPG",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Momordica charantia 22042014 (2).JPG"
  },
  "smoor-gourmet-confectionery-box-1pack": {
   "miss": true
@@ -3664,24 +4280,27 @@
   "miss": true
  },
  "spinach-1-bunch": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Karyotype_of_Spinach_%28Spinacia_oleracea_L._Mazeran%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credit": "Representative photo: Satoshi Fujito, Satoshi Takahata, Reimi Suzuki, Yoichiro Hoshino, Nobuko Ohmido , CC BY 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Karyotype_of_Spinach_(Spinacia_oleracea_L._Mazeran).png",
-  "source": "wikimedia",
-  "license": "CC BY 4.0",
-  "match": "representative",
-  "confidence": "Medium",
-  "title": "Karyotype of Spinach (Spinacia oleracea L. Mazeran).png"
- },
- "sponge-gourd-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Sponge_gourd_%28Nenua_ki_sabi%29.png/960px-Sponge_gourd_%28Nenua_ki_sabi%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Gouravsb17, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Sponge_gourd_(Nenua_ki_sabi).png",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Spinach_-_%E0%B4%AA%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%80%E0%B4%B0.jpg/960px-Spinach_-_%E0%B4%AA%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%80%E0%B4%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Shijan Kaakkara, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Spinach_-_%E0%B4%AA%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%80%E0%B4%B0.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Sponge gourd (Nenua ki sabi).png"
+  "title": "Spinach - പച്ചച്ചീര.jpg"
+ },
+ "sponge-gourd-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Luffa_aegyptiaca_MHNT.BOT.2011.3.94.jpg/960px-Luffa_aegyptiaca_MHNT.BOT.2011.3.94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Roger Culos, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Luffa_aegyptiaca_MHNT.BOT.2011.3.94.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Luffa aegyptiaca MHNT.BOT.2011.3.94.jpg"
+ },
+ "sprite-lemon-lime-soft-drink-750ml": {
+  "miss": true
  },
  "sprite-zero-soft-drink-300ml": {
   "miss": true
@@ -3706,14 +4325,14 @@
   "miss": true
  },
  "stir-fry-vegetable-mix-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Chinese_vegetable_stir_fry_noodles.jpg/960px-Chinese_vegetable_stir_fry_noodles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: tednmiki, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Chinese_vegetable_stir_fry_noodles.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Stir-frying_masauras.jpg/960px-Stir-frying_masauras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: AlexanderVanLoon, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Stir-frying_masauras.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Chinese vegetable stir fry noodles.jpg"
+  "title": "Stir-frying masauras.jpg"
  },
  "strauss-resistance-bands-1set": {
   "miss": true
@@ -3777,6 +4396,17 @@
   "title": "ITC, Sunfeast · Sunfeast Yippee! noodles Magic Masala",
   "quantity": "405 g"
  },
+ "sunsilk-shampoo-340ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/090/2628/front_en.3.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030902628",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Sunsilk shampoo of jojoba oil and onion extract",
+  "quantity": "6ml"
+ },
  "surf-excel-matic-front-load-liquid-detergent-1l": {
   "url": "https://images.openproductsfacts.org/images/products/890/910/605/1102/front_en.5.400.jpg",
   "credit": "Photo: Open Products Facts contributors, CC BY-SA",
@@ -3795,15 +4425,15 @@
   "miss": true
  },
  "tata-salt-1kg": {
-  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6612/front_en.10.400.jpg",
+  "url": "https://images.openfoodfacts.org/images/products/890/404/390/1015/front_en.10.400.jpg",
   "credit": "Photo: Open Food Facts contributors, CC BY-SA",
-  "page": "https://world.openfoodfacts.org/product/8904043926612",
+  "page": "https://world.openfoodfacts.org/product/8904043901015",
   "source": "openfoodfacts",
   "license": "CC BY-SA",
   "match": "pack",
   "confidence": "High",
-  "title": "TATA Salt · Himalayan Rock Salt",
-  "quantity": "1 kg"
+  "title": "Tata · Tata salt",
+  "quantity": "1kg"
  },
  "tata-sampann-broken-wheat-daliya-500g": {
   "miss": true
@@ -3831,6 +4461,9 @@
  "tata-sampann-sabudana-500g": {
   "miss": true
  },
+ "tata-sampann-whole-moong-500g": {
+  "miss": true
+ },
  "tata-soulfull-cereal-pillows-250g": {
   "miss": true
  },
@@ -3841,6 +4474,9 @@
   "miss": true
  },
  "tata-soulfull-millet-puffs-60g": {
+  "miss": true
+ },
+ "tata-soulfull-multimillet-mix-500g": {
   "miss": true
  },
  "tata-tea-ctc-black-tea-500g": {
@@ -3859,34 +4495,54 @@
   "miss": true
  },
  "telangana-fine-rice-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Desi_Rice_Varieties_Thali_-_Hyderabad_-_Telangana_-001.jpg/960px-Desi_Rice_Varieties_Thali_-_Hyderabad_-_Telangana_-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: అనిల్ ఉప్పలపాటి, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Desi_Rice_Varieties_Thali_-_Hyderabad_-_Telangana_-001.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Miraculous_fishes_feeding_on_curd_and_rice_flakes_in_a_temple_Telangana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: SHESHU KUMAR B, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Miraculous_fishes_feeding_on_curd_and_rice_flakes_in_a_temple_Telangana.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Desi Rice Varieties Thali - Hyderabad - Telangana -001.jpg"
+  "title": "Miraculous fishes feeding on curd and rice flakes in a temple Telangana.jpg"
  },
  "tender-ginger-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ginger_Rogers_in_%27Tender_Comrade%27%2C_1943.jpg/960px-Ginger_Rogers_in_%27Tender_Comrade%27%2C_1943.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: RKO Pictures, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Ginger_Rogers_in_%27Tender_Comrade%27,_1943.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ginger_%28Zingiber_officinale_Roscoe%29_Wellcome_V0042885.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Unknown author, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Ginger_(Zingiber_officinale_Roscoe)_Wellcome_V0042885.jpg",
   "source": "wikimedia",
-  "license": "Public domain",
+  "license": "CC BY 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Ginger Rogers in 'Tender Comrade', 1943.jpg"
+  "title": "Ginger (Zingiber officinale Roscoe) Wellcome V0042885.jpg"
  },
  "tender-lady-finger-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Okra_%28Abelmoschus_esculentus%29_Feb_2019._DSC_0060_01.jpg/960px-Okra_%28Abelmoschus_esculentus%29_Feb_2019._DSC_0060_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: ADARSHluck, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Okra_(Abelmoschus_esculentus)_Feb_2019._DSC_0060_01.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Abelmoschus_esculentus_Okra.jpg/960px-Abelmoschus_esculentus_Okra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Prof Ranga Sai, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Abelmoschus_esculentus_Okra.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Okra (Abelmoschus esculentus) Feb 2019. DSC 0060 01.jpg"
+  "title": "Abelmoschus esculentus Okra.jpg"
+ },
+ "tetley-green-tea-30pcs": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/208/7617/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901052087617",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Tetley green tea ginger mint"
+ },
+ "tetley-tea-bags-50pcs": {
+  "url": "https://images.openfoodfacts.org/images/products/500/020/804/4450/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/5000208044450",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Tetley · Tetley Tea Bags"
  },
  "the-bakers-dozen-pita-bread-4pcs": {
   "miss": true
@@ -3921,6 +4577,9 @@
  "the-ordinary-scalp-serum-60ml": {
   "miss": true
  },
+ "the-ordinary-squalane-face-oil-30ml": {
+  "miss": true
+ },
  "theobroma-chocolate-chip-cookies-250g": {
   "miss": true
  },
@@ -3936,31 +4595,45 @@
  "third-wave-coffee-whole-bean-coffee-250g": {
   "miss": true
  },
+ "tide-detergent-bar-4x250g": {
+  "miss": true
+ },
  "toor-dal": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Cajanus_cajan_%28Pigeon_pea%29_in_Punjab%2C_India.jpg/960px-Cajanus_cajan_%28Pigeon_pea%29_in_Punjab%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Sarbjit Bahga, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Cajanus_cajan_(Pigeon_pea)_in_Punjab,_India.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Split_pigeon_peas.jpg/960px-Split_pigeon_peas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: BaluBFA12, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Split_pigeon_peas.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Cajanus cajan (Pigeon pea) in Punjab, India.jpg"
+  "title": "Split pigeon peas.jpg"
  },
  "trident-bath-towel-1pc": {
   "miss": true
  },
  "tropical-fruit-bowl-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tropical_fruit_bowl_window_%28Unsplash%29.jpg/960px-Tropical_fruit_bowl_window_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Marcello Aquino marcelloaquino, CC0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Tropical_fruit_bowl_window_(Unsplash).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Fruit_salads.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Bukky658, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Fruit_salads.jpg",
   "source": "wikimedia",
-  "license": "CC0",
+  "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Tropical fruit bowl window (Unsplash).jpg"
+  "title": "Fruit salads.jpg"
  },
  "tropicana-juice-assorted-gift-pack-4x1l": {
   "miss": true
+ },
+ "tropicana-orange-juice-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/208/001/3029/front_en.20.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8902080013029",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Tropicana · Tropicana Orange Juice 100% 1ltr",
+  "quantity": "3"
  },
  "tropolite-whipping-topping-1l": {
   "miss": true
@@ -3968,18 +4641,28 @@
  "true-elements-hemp-seeds-150g": {
   "miss": true
  },
+ "true-elements-seed-mix-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/611/266/0793/front_en.10.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906112660793",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "True Elements · Muesli: fruit, nuts & seeds"
+ },
  "true-elements-sunflower-seeds-250g": {
   "miss": true
  },
  "turkey-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg/960px-Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Smoked_Turkey_meat_01.jpg/960px-Smoked_Turkey_meat_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Indrajit Das, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Smoked_Turkey_meat_01.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Male wild turkey (Meleagris gallopavo) strutting.jpg"
+  "title": "Smoked Turkey meat 01.jpg"
  },
  "twinings-chamomile-herbal-tea-25pcs": {
   "miss": true
@@ -3991,6 +4674,12 @@
   "miss": true
  },
  "ujala-liquid-fabric-whitener-250ml": {
+  "miss": true
+ },
+ "unibic-butter-cookies-150g": {
+  "miss": true
+ },
+ "unibic-choco-chip-cookies-150g": {
   "miss": true
  },
  "unibic-cookie-hamper-500g": {
@@ -4011,7 +4700,16 @@
  "vadilal-cassata-ice-cream-1pc": {
   "miss": true
  },
+ "vadilal-malai-kulfi-60ml": {
+  "miss": true
+ },
+ "vahdam-matcha-50g": {
+  "miss": true
+ },
  "vahdam-whole-leaf-black-tea-100g": {
+  "miss": true
+ },
+ "veeba-cheese-dip-300g": {
   "miss": true
  },
  "veeba-tandoori-mayonnaise-250g": {
@@ -4045,14 +4743,7 @@
   "miss": true
  },
  "vim-dishwash-bar-3x200g": {
-  "url": "https://images.openproductsfacts.org/images/products/890/910/600/0285/front_en.5.400.jpg",
-  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
-  "page": "https://world.openproductsfacts.org/product/8909106000285",
-  "source": "openproductsfacts",
-  "license": "CC BY-SA",
-  "match": "pack",
-  "confidence": "Medium",
-  "title": "Vim · Vim Dishwash Bar"
+  "miss": true
  },
  "vim-dishwash-liquid-gel-750ml": {
   "miss": true
@@ -4068,6 +4759,17 @@
  },
  "wagh-bakri-masala-chai-premix-10sachets": {
   "miss": true
+ },
+ "wagh-bakri-masala-tea-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/174/700/3175/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901747003175",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Wagh Bakri · Instant Masala Tea (Unsweetened)",
+  "quantity": "140 g"
  },
  "wavex-microfiber-cloth-pack-of-2": {
   "miss": true
@@ -4183,6 +4885,20 @@
   "miss": true
  },
  "yoga-bar-granola-400g": {
+  "miss": true
+ },
+ "yoga-bar-protein-bar-60g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/433/560/2385/front_en.3.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904335602385",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Yoga Bar · Yoga Bar Protein Bar",
+  "quantity": "50g"
+ },
+ "yoga-bar-seed-mix-200g": {
   "miss": true
  },
  "yoga-bar-trail-mix-150g": {
