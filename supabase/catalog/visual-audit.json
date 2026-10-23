@@ -1,1 +1,562 @@
-{}
+{
+ "alphonso-mango-6-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mangoes_in_Bangalore_%282025%29_19.jpg/500px-Mangoes_in_Bangalore_%282025%29_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Box of about ten yellow and greenish-yellow mangoes on newspaper. Real mangoes, but several look elongated like Banganapalli, so Alphonso variety cannot be confirmed."
+ },
+ "baby-carrot-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Carrots_%28baby%29_-_Arlington%2C_MA.jpg/960px-Carrots_%28baby%29_-_Arlington%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bowl of peeled baby-cut orange carrots. A: Baby carrots clearly shown as the main subject. B: Baby carrots in the right form are clearly the main subject."
+ },
+ "banana-leaf-5-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Banana-leaf-1.JPG/500px-Banana-leaf-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: One large green banana leaf on the plant. A: A banana leaf is clearly the main subject, the right item, though it is still on the plant and the light is dim. B: A whole green banana leaf is clearly the main subject and looks like what the customer receives, even though the lighting is poor."
+ },
+ "basil-50g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ocimum_basilicum_8zz.jpg/500px-Ocimum_basilicum_8zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up of bright green sweet basil leaves on potted plants. Sweet basil leaves fill the frame and are clearly the correct herb."
+ },
+ "bay-leaf-50g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Bay_Leaves.JPG/500px-Bay_Leaves.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: dried bay leaves arranged in a circle on white. A: Dried bay leaves are the clear main subject, in the form the customer receives. B: The dried bay leaves are the clear main subject, in the form they are sold, though a few leaves are slightly torn."
+ },
+ "beetroot-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Detroitdarkredbeets.png/500px-Detroitdarkredbeets.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: bunch of dark red beetroots with stems and leaves on a wooden board. A: Fresh beetroots are clearly the main subject. B: A real photo of whole beetroots in the right colour and form as the clear main subject."
+ },
+ "ber-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Indian_jujube_%28fruit%29.jpg/500px-Indian_jujube_%28fruit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: single round green-yellow ber fruit with stalk on white. A ripe green apple-ber as the customer receives it is the clear main subject."
+ },
+ "bhagwa-pomegranate-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Pomegranate_Juice_%282019%29.jpg/500px-Pomegranate_Juice_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Whole red pomegranate and cut pieces with red arils, plus a glass of juice. A: Deep-red pomegranates fitting the Bhagwa type are the dominant subject, though the juice glass in the frame is a minor distraction. B: The whole and opened deep-red pomegranate is the main subject and matches Bhagw"
+ },
+ "brown-bread": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Kommissbrot.jpg/500px-Kommissbrot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single slice of brown wholemeal/rye-style bread. A: A slice of brown bread is clearly the product. B: A slice of brown bread is the clear main subject and represents the product reasonably well, though it looks denser than a typical Indian brown loaf."
+ },
+ "button-mushroom-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/ChampignonMushroom.jpg/500px-ChampignonMushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Four white button mushrooms, one sliced in half, on a wooden surface. A: White button mushrooms are clearly the main subject, as the customer receives them. B: White button mushrooms are the clear main subject in the right form."
+ },
+ "carrot-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Vegetable-Carrot-Bundle-wStalks.jpg/500px-Vegetable-Carrot-Bundle-wStalks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Small bunch of orange carrots with large leafy green tops. A: Harvested orange carrots are clearly identifiable, though leaves take up much of the frame. B: Real orange carrots are clearly shown, a fair representation of generic carrots."
+ },
+ "cauliflower-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Chou-fleur_02.jpg/500px-Chou-fleur_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: single white cauliflower head with leaves on a plain background. A: A clean shot of a whole cauliflower as the main subject. B: A clean real photo of a whole cauliflower as the clear main subject."
+ },
+ "celery-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Celery_1.jpg/500px-Celery_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Banded bunches of celery stalks with leaves in a green crate at a shop. A: Celery bunches are clearly the main subject, as the customer receives them. B: Celery bunches as sold are the clear main subject."
+ },
+ "cherries-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Cherry_season_%2848216568227%29.jpg/500px-Cherry_season_%2848216568227%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Two red cherries joined at the stems, on a white background. A: Clearly fresh red cherries as the main subject. B: Clear real photo of fresh red cherries as the main subject."
+ },
+ "cherry-tomato-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Tomates_cerises_Luc_Viatour.jpg/500px-Tomates_cerises_Luc_Viatour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Small red cherry tomatoes with green calyxes on white. A: Small cherry tomatoes clearly shown as the main subject. B: Small cherry tomatoes clearly shown as the main subject."
+ },
+ "chinese-pear-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Nashi_pear.jpg/500px-Nashi_pear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Round brown speckled Asian (nashi) pear on a branch. A: A round, speckled Asian pear is the clear dominant subject and matches Chinese pear. B: A round, speckled Asian pear is the clear main subject and matches the Chinese pear variety."
+ },
+ "cluster-beans-500g": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cluster_bean-guar-Cyamopsis_psoralioides-Cyamopsis_tetragonolobus-TAMIL_NADU73.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: many guar (cluster bean) pods filling the frame on the plant. Cluster bean pods dominate the frame and look as they do when harvested, so the policy's plant exception does not apply."
+ },
+ "coriander-leaves-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Coriander_Leaves.jpg/960px-Coriander_Leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: A bunch of fresh coriander (cilantro) leaves on a dark wooden table. A: A fresh coriander bunch is the clear main subject in the correct form. B: Fresh coriander bunch, correct form, as the clear main subject."
+ },
+ "cucumber-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/ARS_cucumber.jpg/500px-ARS_cucumber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: About eight whole green cucumbers lying on soil among vines. Whole green cucumbers of the right type clearly dominate the frame, even though they are photographed in the field."
+ },
+ "cut-papaya-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Papaya_cut_at_picnic_table_with_tortillas.jpg/960px-Papaya_cut_at_picnic_table_with_tortillas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Plate of cut papaya wedges with seeds on a picnic table. A: Cut orange papaya pieces are clearly the main subject. B: Cut ripe papaya is clearly the main subject, in the right form."
+ },
+ "english-cucumber-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/English_cucumber_straight_from_the_farm.jpg/960px-English_cucumber_straight_from_the_farm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Four long, slender dark-green cucumbers on a table. A: Long dark-green thin-skinned cucumbers match the English cucumber variety. B: Long, thin, dark-green cucumbers match the English cucumber variety and are clearly the main subject."
+ },
+ "fuji-apple-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Apfel-Fuji.jpg/500px-Apfel-Fuji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: A single red and yellow streaked apple on a white background. A: A clear studio shot of a Fuji-type apple with the typical red streaks over a yellow-green base. B: Studio shot of a Fuji-type apple with the right striped red colouring."
+ },
+ "glass-bangles-1dozen": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Women_wearing_bangles_in_Chittagong_%2802%29.jpg/500px-Women_wearing_bangles_in_Chittagong_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Stacks of red, green and black glass bangles worn on women's wrists. A: Thin, shiny glass bangles are clearly the main subject, and showing them worn is acceptable. B: Glass bangles are clearly the main subject, shown as worn, which is acceptable for a representative photo."
+ },
+ "grated-coconut-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Grated_Coconut_-_Howrah_2013-10-18_3541.JPG/960px-Grated_Coconut_-_Howrah_2013-10-18_3541.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Freshly grated white coconut on a brass plate. A: Grated coconut is clearly the main subject, in the correct grated form. B: Grated coconut is clearly the main subject, in the right form."
+ },
+ "green-brinjal-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Green_brinjals_at_Gara_market%2C_Srikakulam.jpg/960px-Green_brinjals_at_Gara_market%2C_Srikakulam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Box of green and green-white striped brinjals. A: Green brinjals clearly shown as harvested produce. B: Harvested green brinjals of the right colour are clearly the main subject."
+ },
+ "guava-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Guava_pink_fruit.jpg/500px-Guava_pink_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Whole green guava and a halved guava with pink flesh. A: Clear studio shot of guava as the main subject. B: A real photo with a whole guava as the clear main subject."
+ },
+ "hass-avocado-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Avocado_Hass_-_single_and_halved.jpg/500px-Avocado_Hass_-_single_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Whole dark pebbly-skinned Hass avocado and a halved one with its pit, on a studio background. A: Clearly a Hass avocado with the dark, bumpy skin of the right variety, as the main subject. B: Clear studio photo of the correct Hass variety, with dark bumpy skin."
+ },
+ "hybrid-tomato-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/500px-Tomato_je.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Four red round tomatoes on the vine on white (same photo as tomato listing). A: Round, smooth red tomatoes fit a hybrid tomato listing. B: Firm round red tomatoes fit a hybrid tomato listing and are clearly the main subject."
+ },
+ "ice-cubes-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Ice_cubes_openphoto.jpg/500px-Ice_cubes_openphoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Stack of clear square ice cubes on a light blue background. A: Clear ice cubes are the main subject, which matches the unbranded ice cube listing. B: Ice cubes are clearly the main subject, in the form the customer receives."
+ },
+ "imported-pear-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pears.jpg/500px-Pears.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Two European-type green pears with a red blush hanging on a tree. A: European pears like these are typical imported pears and they are the clear main subject. B: The whole European-type pears are the clear main subject and fit an imported pear listing."
+ },
+ "indian-pear-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pears.jpg/500px-Pears.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Two elongated green pears with a red blush hanging on a tree. The pears are clear, but this red-blushed European-type fruit (also used for Imported Pear) may not match the Indian nashpati sold, so a person should decide."
+ },
+ "kalipatti-chikoo-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%E0%B4%B8%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F.jpg/500px-%E0%B4%B8%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Two brown sapodilla (chikoo) fruits hanging on a branch. A: The chikoo fruits are the clear dominant subject and look right, even though they are still on the branch. B: Although still on the tree, the brown oval chikoo fruits are the clear main subject."
+ },
+ "kashmiri-apple-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kashmiri_Apple.jpg/960px-Kashmiri_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Cluster of deep red-purple apples on a branch in an orchard. A: Deep red Kashmiri-type apples are the dominant subject even though they are still on the tree. B: Red Kashmiri-type apples are the dominant subject and the right colour, though shown on the branch."
+ },
+ "kattha-catechu-50g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Catechu_nigrum1.JPG/500px-Catechu_nigrum1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Heap of dark reddish-brown catechu powder in a white bowl. A real photo of loose catechu (kattha) powder as the clear main subject, in the right colour and in a form kattha is sold in."
+ },
+ "kinnow-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Harvest_Kinnow.jpg/500px-Harvest_Kinnow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single bright orange mandarin-type citrus with leaf on stem. A: The fruit fills the frame and matches a kinnow mandarin, even though it is still on the stem. B: Even though it is still on the branch, the whole kinnow-like fruit fills the frame and is clearly the main subject."
+ },
+ "lime-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Citrus_%C3%97_aurantiifolia_%28Christm.%29_Swingle_%2851906868474%29.jpg/500px-Citrus_%C3%97_aurantiifolia_%28Christm.%29_Swingle_%2851906868474%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Six whole round limes, green and yellow-green, on dark cloth. A: Whole Indian-style limes are clearly the main subject, which is the item the customer receives. B: Real photo of whole limes as the clear main subject; the yellow-green ones match how Indian limes are often sold."
+ },
+ "litchi-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Litchi_chinensis_fruits.JPG/500px-Litchi_chinensis_fruits.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: red litchi clusters on the tree among leaves. Clearly litchi, but the fruit is still on the tree and leaves fill much of the frame, so this is borderline."
+ },
+ "makki-atta-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Polenta_uncooked.jpg/500px-Polenta_uncooked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: bowl of fine-grained yellow maize meal. It shows loose yellow ground maize as the clear main subject, which matches unbranded makki atta closely enough even though the grind looks a little gritty."
+ },
+ "marigold-flowers-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Tagetes_erecta_chendumalli_chedi.jpg/500px-Tagetes_erecta_chendumalli_chedi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Large yellow African marigold blooms on a plant in red soil. Right variety and colour, and the blooms clearly dominate the frame even though they are still on the plant."
+ },
+ "metal-bangles-4pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Metal_bangles.jpg/960px-Metal_bangles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Three gold-tone metal bangles, some set with pink stones, on blue cloth. A: Metal bangles are clearly the main subject and the right item. B: Metal bangles are the clear main subject of a real photo; the stone-set design is a reasonable example of the variety."
+ },
+ "mini-cucumber-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Mini_cucumber.png/960px-Mini_cucumber.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: single short smooth glossy green cucumber cut out on a black band. A: A smooth, compact green cucumber that fits the mini cucumber type is the clear main subject, though there is nothing to show scale. B: A real photo of a whole smooth green cucumber as the clear main subject, consistent with"
+ },
+ "mint-leaves-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mint_leaves_%28Mentha_spicata%29.jpg/960px-Mint_leaves_%28Mentha_spicata%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up of spearmint leaves and stem tips. The mint sprigs are the clear main subject and look like the herb as sold."
+ },
+ "mixed-sprouts-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Organic_mixed_beans_shoots.jpg/500px-Organic_mixed_beans_shoots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up of mixed sprouted beans and lentils with visible shoots. A: Mixed sprouted pulses are clearly the main subject, which matches the listing. B: Mixed sprouted pulses are clearly the main subject, in the right form."
+ },
+ "nagpur-orange-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Nagpur_orange_article.JPG/500px-Nagpur_orange_article.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Pile of loose orange and green-tinged mandarin oranges. A: Loose mandarins with the typical orange-green Nagpur look are the clear main subject. B: Whole Nagpur-type oranges with their typical green-orange skin are the clear main subject."
+ },
+ "navel-orange-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Whole orange, halved orange and a segment on a studio background. A: Clear studio shot of oranges consistent with the navel type. B: A real photo of a whole orange with a seedless cross-section that fits a navel orange."
+ },
+ "organic-apple-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single red apple on a white background. A: A clean shot of a whole red apple, the item as the customer receives it. B: A real photo of a whole red apple is the clear main subject and matches a generic apple listing."
+ },
+ "organic-tomato-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/500px-Tomato_je.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Four red tomatoes on the vine against a white background. A: Ripe red tomatoes are clearly the main subject. B: Red tomatoes are clearly the main subject in a real photo."
+ },
+ "oyster-mushroom-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Pleurotus_ostreatus_JPG7.jpg/500px-Pleurotus_ostreatus_JPG7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Pale oyster mushroom fan on a tree trunk, shot from below. The oyster mushroom fills most of the frame and has the pale, gilled shape customers receive; it being on the tree does not hide what it is."
+ },
+ "parsley-50g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Curly_parsley_in_hydroponic_garden.jpg/960px-Curly_parsley_in_hydroponic_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up of curly parsley leaves growing hydroponically. Curly parsley leaves are the clear main subject and the listing does not say which parsley type is sold."
+ },
+ "peeled-garlic-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Peeled_garlic_cloves%F0%9F%A7%84.jpg/960px-Peeled_garlic_cloves%F0%9F%A7%84.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up of many peeled garlic cloves. A: Peeled garlic cloves are clearly the main subject, in the correct peeled form. B: Peeled garlic cloves are clearly shown in the right form."
+ },
+ "persimmon-2-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Fuyu_persimmon_fruits%2C_one_cut_open.jpg/500px-Fuyu_persimmon_fruits%2C_one_cut_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Two orange Fuyu persimmons, one cut in half, on black background. A: Whole orange persimmons are the clear main subject, so the item and form are right. B: Real photo of persimmons as the clear main subject, in the right variety and colour."
+ },
+ "pink-guava-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Guava_pink_fruit.jpg/960px-Guava_pink_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Whole green guava and a halved guava showing pink flesh. A: The cut half clearly shows the pink flesh that defines the variety. B: The cut half confirms the pink-flesh variety, and the whole fruit is shown as sold."
+ },
+ "plastic-bangles-1dozen": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Plastic_Bangles_at_sale_in_Bangalore_194723.jpg/960px-Plastic_Bangles_at_sale_in_Bangalore_194723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Colourful wavy plastic bangles laid out on a market stall. A: Plastic bangles are clearly the main subject and the right item. B: Plastic bangles are clearly the main subject, in the right material and form."
+ },
+ "plum-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Plums_African_Rose_-_whole%2C_halved_and_slice.jpg/500px-Plums_African_Rose_-_whole%2C_halved_and_slice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Whole dark red plum, a halved plum and a slice, in a studio shot. A: Clearly fresh plums as the main subject. B: Clear real photo of plums as the main subject."
+ },
+ "purple-cabbage-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Brassica_oleracea_var_capitata_Rubyball.jpg/500px-Brassica_oleracea_var_capitata_Rubyball.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: purple cabbage head with outer leaves in a garden bed. Purple cabbage is clearly the dominant subject in the right colour, though still untrimmed in the ground."
+ },
+ "raw-banana-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mega_racimos_de_guineos.jpg/500px-Mega_racimos_de_guineos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Large bunches of green unripe bananas hanging at a market stall. A: Green raw bananas are clearly the main subject and in the right form. B: Green raw bananas are the clear main subject of a real photo."
+ },
+ "red-dragon-fruit-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_dragon_fruit.jpg/960px-Red_dragon_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Pile of whole pink-skinned dragon fruits with green-tipped bracts, none cut. Red-flesh and white-flesh dragon fruit look alike from outside and no flesh is shown, so the red variety cannot be confirmed."
+ },
+ "red-globe-grapes-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Red_Globe%2C_a_variety_of_very_large%2C_seeded_red_grapes%2C_captured_in_West_Bengal%2C_India.jpg/960px-Red_Globe%2C_a_variety_of_very_large%2C_seeded_red_grapes%2C_captured_in_West_Bengal%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Large, round red grapes in a steel bowl. A: Large, round red grapes matching the Red Globe variety are the clear main subject. B: Large red globe grapes are the clear main subject in the right colour and form."
+ },
+ "ridge-gourd-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Luffa_acutangula_Chinese_okra.jpg/500px-Luffa_acutangula_Chinese_okra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: single ridged gourd hanging on the vine, centred. A ridge gourd is clearly the dominant subject and looks just as it does when harvested."
+ },
+ "romaine-lettuce-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Starr_070730-7911_Lactuca_sativa.jpg/500px-Starr_070730-7911_Lactuca_sativa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Banded heads of romaine lettuce on a store display. A: Elongated romaine heads are clearly the main subject, as sold in a store. B: Real photo of whole romaine heads as sold; the small tie labels are not an overlay."
+ },
+ "rose-bunch-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Bunch_of_Pink_Rose_140416.jpg/960px-Bunch_of_Pink_Rose_140416.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Cluster of small magenta semi-double spray roses on a growing bush. The roses are the main subject, but they are spray roses on a bush rather than a cut-stem bunch, so a person should decide if they are close enough."
+ },
+ "sambar-onion-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Shallots_-_sliced_and_whole.jpg/500px-Shallots_-_sliced_and_whole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: One whole and one halved small shallot on a grey surface. A: Shallots (small onions) are correct for sambar onion. B: A real photo of small shallots, the right item for sambar onion, though only two are shown."
+ },
+ "seedless-watermelon-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Watermelon_seedless.jpg/960px-Watermelon_seedless.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Watermelon cut into two halves showing red flesh with no visible seeds. A: The cut halves show seedless red flesh, which confirms the variety. B: The halved fruit with its rind shows a seedless watermelon, which is the listed variety."
+ },
+ "sheep-meat-boneless-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Lamb_meat_%281%29.jpg/500px-Lamb_meat_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Raw boneless piece of red meat on a cutting board. A: Shows raw boneless red meat as the clear main subject, which matches boneless sheep meat as the customer gets it. B: Raw boneless red meat is the clear main subject and matches the boneless sheep meat as the customer receives it."
+ },
+ "shiitake-mushroom-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Shiitakegrowing.jpg/500px-Shiitakegrowing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Close-up of brown shiitake caps and stems on a log. Shiitake caps and stems fill the frame and look like the product as sold."
+ },
+ "spring-onion-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/CSA-Red-Spring-Onions.jpg/500px-CSA-Red-Spring-Onions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Bunch of spring onions with small purple bulbs and long green leaves. A: A clear spring onion bunch is the main subject, and red-bulb spring onions are commonly sold in India. B: A clear real photo of a bunch of spring onions; red-bulb spring onions are commonly sold in India."
+ },
+ "strawberry-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg/500px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: One whole red strawberry with green calyx in a studio shot. A: Clearly a fresh strawberry as the main subject. B: Clear real photo of a ripe strawberry as the main subject."
+ },
+ "sweet-corn-2-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/VegCorn.jpg/500px-VegCorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: several husked yellow sweet corn cobs, close-up. A: Clear photo of husked yellow sweet corn cobs, which is the product sold. B: Real photo of yellow sweet corn cobs as the clear main subject."
+ },
+ "sweet-potato-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Ipomoea_batatas_006.JPG/500px-Ipomoea_batatas_006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Pile of whole raw sweet potatoes with pinkish-brown skin. A: Whole raw sweet potatoes fill the frame as the clear main subject. B: Whole raw sweet potatoes are the clear main subject, as the customer receives them."
+ },
+ "tomato-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/500px-Tomato_je.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Four red round tomatoes on the vine on white. A: Clear photo of ripe red tomatoes. B: Ripe round red tomatoes are clearly the main subject."
+ },
+ "toned-milk": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Glass_of_Milk_%2833657535532%29.jpg/500px-Glass_of_Milk_%2833657535532%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Glass of white milk on a blue background. A: Clearly shows milk as the main subject, which is acceptable for an unbranded milk listing. B: Real photo of plain milk as the clear main subject, a fair generic representation for unbranded toned milk (sold in a pouch, not a glass)."
+ },
+ "tuberose-bunch-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Tuberose_flower.jpg/500px-Tuberose_flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: single tuberose spike on the plant, lower florets wilted. Right flower and the main subject, but it is one growing spike with wilted florets rather than a cut bunch, so a person should decide."
+ },
+ "tulsi-leaves-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tulsi_or_Tulasi_Holy_basil.jpg/500px-Tulsi_or_Tulasi_Holy_basil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Holy basil sprig with leaves and flower spikes filling the frame. A recognisable tulsi sprig with manjari is the clear main subject and matches what a tulsi bunch contains."
+ },
+ "watermelon-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg/500px-Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Whole striped watermelon on the vine among dry leaves. The whole watermelon is clearly the central focal subject and is recognisable as the fruit sold, so the field setting does not break the policy."
+ },
+ "white-dragon-fruit-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Pitaya_cross_section_ed2.jpg/500px-Pitaya_cross_section_ed2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Whole pink-red dragon fruit and a halved one with white seeded flesh. A: Shows the right variety: red skin with white flesh, clearly the main subject. B: The cut half clearly shows the white flesh, which matches the white dragon fruit variety."
+ },
+ "white-onion-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/White_onions_drying.jpg/960px-White_onions_drying.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: White/cream onion bulbs with green stalks laid out drying. A: White onion bulbs are the dominant subject and the right colour. B: White onion bulbs are clearly the main subject and the colour is right, even though the stalks are still attached."
+ },
+ "yelakki-banana-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Front_Yelakki_banana%2C_bangalore%2C_karnataka_top.jpg/960px-Front_Yelakki_banana%2C_bangalore%2C_karnataka_top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: A hand of small, ripe yellow bananas on a granite counter. A: Small, stubby ripe bananas that match the Yelakki variety are the clear main subject. B: Small ripe Yelakki-type bananas are the clear main subject."
+ },
+ "yellow-capsicum-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Yellow_Capsicum.jpg/960px-Yellow_Capsicum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: three yellow bell peppers and one red in and under a wire basket. Fresh yellow capsicums are clearly the dominant subject; one red pepper and background clutter do not change what is sold."
+ },
+ "yellow-pumpkin-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/FrenchMarketPumpkinsB.jpg/500px-FrenchMarketPumpkinsB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: pile of whole orange pumpkins in a wooden crate. Clearly yellow-orange pumpkins as the main subject, though a Western variety and whole rather than a 500 g piece."
+ },
+ "zucchini-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/CSA-Striped-Zucchini.jpg/500px-CSA-Striped-Zucchini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Single striped dark-green zucchini on white background. A: It is a zucchini shown clearly as the main subject; the striped skin is still a zucchini, though plain dark-green zucchini is more typical. B: Clear real photo of a whole green zucchini as the main subject."
+ }
+}

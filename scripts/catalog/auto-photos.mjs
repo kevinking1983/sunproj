@@ -87,8 +87,11 @@ async function packShot(p, rejected) {
   return best ? { ...best.c, match: "pack" } : null;
 }
 
-// Titles of maps, logos and charts are not product photos.
-const NOT_A_PHOTO = /\b(logo|map|diagram|chart|poster|advert|advertisement|label|icon|stamp|coat of arms|flag|graph|screenshot)\b/i;
+// Titles of maps, logos, drawings and dishes are not photos of the item as sold; nor are plants
+// still growing (reviewers rejected most of those), unless the product is itself a flower or leaf.
+const NOT_A_PHOTO = /\b(logo|map|diagram|chart|poster|advert|advertisement|label|icon|stamp|coat of arms|flag|graph|screenshot|illustration|drawing|painting|engraving|botanical|herbarium|k[oö]hler|blanco|plate \d+|dish|recipe|cooked|curry|salad|soup|sapling|seedling|nursery)\b/i;
+const GROWING = /\b(plant|plants|tree|trees|field|farm|orchard|plantation|crop|growing|cultivation|flowering|flower|flowers|blossom|bloom)\b/i;
+const isFlowerOrLeaf = (p) => /\b(flower|flowers|garland|rose|marigold|jasmine|tuberose|chrysanthemum|lotus|leaf|leaves|tulsi)\b/i.test(p.name);
 async function representative(p, rejected, variety) {
   if (p.brand) return null; // never for branded listings
   // A variety must be found by its own name ("red potato"); otherwise the English name first,
@@ -98,7 +101,7 @@ async function representative(p, rejected, variety) {
     const want = q.split(" ");
     const results = await commonsPace(() => lib.commonsSearch(q, 12));
     for (const c of results) {
-      if (rejected.has(c.url) || NOT_A_PHOTO.test(c.title)) continue;
+      if (rejected.has(c.url) || NOT_A_PHOTO.test(c.title) || (!isFlowerOrLeaf(p) && GROWING.test(c.title))) continue;
       const title = new Set(lib.words(c.title));
       if (!want.every((w) => has(title, w))) continue;
       return { ...c, credit: c.credit.replace(/^Photo:/, "Representative photo:"), match: variety ? "variety" : "representative", confidence: "Medium", query: q };

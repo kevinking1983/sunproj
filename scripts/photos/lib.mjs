@@ -127,7 +127,14 @@ export const commonsTitleFromLink = (link) => {
 
 // --- Open Food / Beauty / Products Facts ------------------------------------------------
 export const FIELDS = "code,product_name,product_name_en,brands,quantity,image_front_url,countries_tags";
-const factsThumb = (url) => url.replace(/\.(\d+)\.jpg$/, ".$1.400.jpg").replace(/\.full\.jpg$/, ".400.jpg");
+// Open Facts photo URLs: ".../front_en.12.400.jpg" is the 400 px version of photo revision 12,
+// which also exists as ".../front_en.12.jpg" and ".../front_en.12.full.jpg". URLs that already
+// name a size are kept at (or moved to) 400 px; nothing is ever sized twice.
+export const factsThumb = (url) =>
+  url
+    .replace(/\.400\.400\.jpg$/, ".400.jpg")
+    .replace(/\.(\d+)\.(?:\d+|full)\.jpg$/, ".$1.400.jpg")
+    .replace(/(\/[a-z]+(?:_[a-z]{2,3})?\.\d+)\.jpg$/i, "$1.400.jpg");
 export const factsCandidate = (kind, p) => ({
   title: [p.brands, p.product_name_en || p.product_name].filter(Boolean).join(" · ") || p.code,
   url: factsThumb(p.image_front_url),

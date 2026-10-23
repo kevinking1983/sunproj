@@ -61,7 +61,10 @@ for s in range(0, len(items), per):
         x, y = (i % COLS) * CELL, (i // COLS) * (CELL + LABEL)
         try:
             req = urllib.request.Request(r["Direct Image URL"], headers={"User-Agent": UA})
-            img = Image.open(BytesIO(urllib.request.urlopen(req, timeout=30).read())).convert("RGB")
+            raw = Image.open(BytesIO(urllib.request.urlopen(req, timeout=30).read()))
+            # Transparent PNGs go on white, as on the site; a plain convert would turn them black.
+            img = Image.new("RGB", raw.size, "white")
+            img.paste(raw.convert("RGBA"), mask=raw.convert("RGBA").split()[3])
             img.thumbnail((CELL - 10, CELL - 10))
             sheet.paste(img, (x + (CELL - img.width) // 2, y + (CELL - img.height) // 2))
         except Exception as e:  # a broken photo is worth rejecting too

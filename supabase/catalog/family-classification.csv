@@ -2,84 +2,84 @@
 Grocery & Kitchen,Vegetables & Fruits,All (Sub-Categories),Fresh vegetables,tomato; onion; potato; brinjal; okra; gourds; greens,Unbranded only,0,,Fresh loose by weight,,0,0,0
 Grocery & Kitchen,Vegetables & Fruits,All (Sub-Categories),Fresh fruits,apple; banana; grapes; orange; mango; guava; pomegranate,Unbranded only,0,,Fresh loose by weight,,0,0,0
 Grocery & Kitchen,Vegetables & Fruits,All (Sub-Categories),"Exotics, herbs, sprouts, flowers, organic, seasonal and frozen produce",,Branded + unbranded,3,Safal; Sumeru; McCain,Fresh loose; washed/cut packs; frozen packs,,0,0,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Potato,regular; baby; red,Generic,0,,Loose fresh,,3,2,1
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Onion,red; white; small/sambar,Generic,0,,Loose fresh,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Potato,regular; baby; red,Generic,0,,Loose fresh,,3,0,3
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Onion,red; white; small/sambar,Generic,0,,Loose fresh,,3,2,1
 Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Tomato,local/desi; hybrid; cherry,Generic,0,,Loose fresh,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Brinjal/eggplant,long purple; round purple; green,Generic,0,,Loose fresh,,3,2,1
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Lady finger/okra,tender green; local,Generic,0,,Loose fresh,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Carrot,orange; red; baby,Generic,0,,Loose fresh,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Brinjal/eggplant,long purple; round purple; green,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Lady finger/okra,tender green; local,Generic,0,,Loose fresh,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Carrot,orange; red; baby,Generic,0,,Loose fresh,,3,2,1
 Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Cucumber,local; English; mini,Generic,0,,Loose fresh,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Capsicum,green; red; yellow,Generic,0,,Loose fresh,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Beans,French; cluster; broad,Generic,0,,Loose fresh,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Cabbage,green; purple,Generic,0,,Loose fresh,,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Capsicum,green; red; yellow,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Beans,French; cluster; broad,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Cabbage,green; purple,Generic,0,,Loose fresh,,2,1,1
 Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Cauliflower,regular; compact,Generic,0,,Loose fresh,,2,1,1
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Bottle gourd/lauki,long; round,Generic,0,,Loose fresh,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Bitter gourd/karela,regular; small,Generic,0,,Loose fresh,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Ridge gourd/turai,ridge; sponge gourd,Generic,0,,Loose fresh,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Pumpkin,yellow; green,Generic,0,,Loose fresh,,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Bottle gourd/lauki,long; round,Generic,0,,Loose fresh,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Bitter gourd/karela,regular; small,Generic,0,,Loose fresh,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Ridge gourd/turai,ridge; sponge gourd,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Pumpkin,yellow; green,Generic,0,,Loose fresh,,2,1,1
 Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Beetroot,regular; baby,Generic,0,,Loose fresh,,2,1,1
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Radish,white; red,Generic,0,,Loose fresh,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Sweet potato,orange flesh; white flesh,Generic,0,,Loose fresh,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Peas,green in-pod; shelled,Branded + unbranded,1,Safal,Loose fresh; shelled packs,,2,1,1
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Leafy vegetables,spinach; amaranth; fenugreek,Generic,0,,Loose bunches,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Other vegetables,drumstick; raw banana; raw papaya; yam; colocasia; tindora; knol-khol,Generic,0,,Loose fresh,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Apple,Kashmiri; Fuji; Granny Smith,Generic,0,,Loose fresh,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Banana,Robusta; Yelakki; Nendran,Generic,0,,Loose fresh,,3,2,1
-Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Grapes,green seedless; black seedless; red globe,Generic,0,,Loose fresh,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Mango,Banganapalli; Alphonso; Kesar,Generic,0,,"Loose fresh, seasonal",,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Radish,white; red,Generic,0,,Loose fresh,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Sweet potato,orange flesh; white flesh,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Peas,green in-pod; shelled,Branded + unbranded,1,Safal,Loose fresh; shelled packs,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Leafy vegetables,spinach; amaranth; fenugreek,Generic,0,,Loose bunches,,3,0,3
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Other vegetables,drumstick; raw banana; raw papaya; yam; colocasia; tindora; knol-khol,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Apple,Kashmiri; Fuji; Granny Smith,Generic,0,,Loose fresh,,3,2,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Banana,Robusta; Yelakki; Nendran,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Grapes,green seedless; black seedless; red globe,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Mango,Banganapalli; Alphonso; Kesar,Generic,0,,"Loose fresh, seasonal",,3,1,2
 Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Orange/mandarin,Nagpur; Kinnow; imported navel,Generic,0,,Loose fresh,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Sweet lime/mosambi,regular; premium grade,Generic,0,,Loose fresh,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Sweet lime/mosambi,regular; premium grade,Generic,0,,Loose fresh,,3,1,2
 Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Pomegranate,Bhagwa; Ganesh,Generic,0,,Loose fresh,,2,1,1
 Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Guava,white; pink,Generic,0,,Loose fresh,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Papaya,red lady; local,Generic,0,,Loose fresh,,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Papaya,red lady; local,Generic,0,,Loose fresh,,2,0,2
 Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Watermelon,striped; dark/seedless,Generic,0,,Loose fresh,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Muskmelon,kharbuja; cantaloupe,Generic,0,,Loose fresh,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Pineapple,Queen; Kew,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Muskmelon,kharbuja; cantaloupe,Generic,0,,Loose fresh,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Pineapple,Queen; Kew,Generic,0,,Loose fresh,,2,0,2
 Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Sapota/chikoo,cricket ball; kalipatti,Generic,0,,Loose fresh,,2,1,1
 Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Pear,Indian; Chinese; imported,Generic,0,,Loose fresh,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Lemon/lime,Indian lime; yellow lemon,Generic,0,,Loose fresh,,1,1,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Coconut,tender; mature,Generic,0,,Loose fresh,,1,1,0
-Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Other fruits,custard apple; jamun; fig; amla; jackfruit,Generic,0,,"Loose fresh, seasonal",,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Exotics,Avocado,Hass; green-skinned,Generic,0,,Fresh by piece,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Exotics,Kiwi,green; golden,Generic,0,,Fresh by piece,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Lemon/lime,Indian lime; yellow lemon,Generic,0,,Loose fresh,,1,0,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Coconut,tender; mature,Generic,0,,Loose fresh,,1,0,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Other fruits,custard apple; jamun; fig; amla; jackfruit,Generic,0,,"Loose fresh, seasonal",,3,0,3
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Avocado,Hass; green-skinned,Generic,0,,Fresh by piece,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Kiwi,green; golden,Generic,0,,Fresh by piece,,2,0,2
 Grocery & Kitchen,Vegetables & Fruits,Exotics,Dragon fruit,white flesh; red flesh,Generic,0,,Fresh by piece,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Exotics,Berries,strawberry; blueberry; blackberry,Generic,0,,Fresh punnets,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Exotics,Imported grapes,green seedless; red seedless,Generic,0,,Fresh punnets,,2,1,1
-Grocery & Kitchen,Vegetables & Fruits,Exotics,Stone fruits,peach; plum; nectarine,Generic,0,,Fresh by weight,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Exotics,Imported fruit,cherries; passion fruit; persimmon,Generic,0,,Fresh packs,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Exotics,Exotic vegetables,broccoli; zucchini; asparagus,Generic,0,,Fresh by weight,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Berries,strawberry; blueberry; blackberry,Generic,0,,Fresh punnets,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Imported grapes,green seedless; red seedless,Generic,0,,Fresh punnets,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Stone fruits,peach; plum; nectarine,Generic,0,,Fresh by weight,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Imported fruit,cherries; passion fruit; persimmon,Generic,0,,Fresh packs,,3,2,1
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Exotic vegetables,broccoli; zucchini; asparagus,Generic,0,,Fresh by weight,,3,1,2
 Grocery & Kitchen,Vegetables & Fruits,Exotics,Exotic mushrooms,button; oyster; shiitake,Generic,0,,Fresh packs,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Exotics,Salad vegetables,iceberg lettuce; romaine; celery,Generic,0,,Fresh by bunch/pack,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Coriander leaves,regular; cleaned bunch,Generic,0,,Fresh bunch,,5,3,2
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Salad vegetables,iceberg lettuce; romaine; celery,Generic,0,,Fresh by bunch/pack,,3,2,1
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Coriander leaves,regular; cleaned bunch,Generic,0,,Fresh bunch,,5,2,3
 Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Mint/pudina,regular; cleaned bunch,Generic,0,,Fresh bunch,,0,0,0
-Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Curry leaves,regular,Generic,0,,Fresh bunch,,1,1,0
-Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Green chillies,small hot; long mild,Generic,0,,Fresh loose,,2,1,1
-Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Ginger,regular; young,Generic,0,,Fresh loose,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Garlic,Indian; large-clove,Generic,0,,Fresh loose,,2,1,1
-Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Lemongrass,fresh stalks,Generic,0,,Fresh bunch,,1,1,0
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Curry leaves,regular,Generic,0,,Fresh bunch,,1,0,1
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Green chillies,small hot; long mild,Generic,0,,Fresh loose,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Ginger,regular; young,Generic,0,,Fresh loose,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Garlic,Indian; large-clove,Generic,0,,Fresh loose,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Lemongrass,fresh stalks,Generic,0,,Fresh bunch,,1,0,1
 Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Leaf herbs,basil; parsley; dill,Generic,0,,Fresh bunch,,2,2,0
 Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Spring onion,regular,Generic,0,,Fresh bunch,,1,1,0
-Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Cut vegetables,mixed curry; stir-fry; sambar,Generic,0,,Unbranded hygienically packed,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Cut fruits,watermelon; papaya; pineapple,Generic,0,,Unbranded hygienically packed,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Fruit bowls,mixed seasonal; tropical,Generic,0,,Unbranded hygienically packed,,2,1,1
-Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Sprouts,green gram/moong; matki/moth; mixed,Generic,0,,Unbranded packed,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Cut vegetables,mixed curry; stir-fry; sambar,Generic,0,,Unbranded hygienically packed,,3,0,3
+Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Cut fruits,watermelon; papaya; pineapple,Generic,0,,Unbranded hygienically packed,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Fruit bowls,mixed seasonal; tropical,Generic,0,,Unbranded hygienically packed,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Sprouts,green gram/moong; matki/moth; mixed,Generic,0,,Unbranded packed,,3,1,2
 Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Sprout-ready pulses,moong; black chana,Branded + unbranded,2,Tata Sampann; 24 Mantra Organic,Loose/sorted raw grains,Yes,2,2,0
 Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Peeled ingredients,garlic; shallots; grated coconut,Generic,0,,Unbranded hygienically packed,,3,2,1
-Grocery & Kitchen,Vegetables & Fruits,Trusted Organics,Organic vegetables,tomato; potato; leafy greens,Branded + unbranded,2,24 Mantra Organic; Organic Tattva,"Certified organic fresh produce, supplier-identified",Yes,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Trusted Organics,Organic fruits,banana; apple; papaya,Generic,0,,"Certified organic fresh produce, supplier-identified",Yes,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Trusted Organics,Organic herbs,coriander; mint; curry leaves,Generic,0,,Certified organic bunches,Yes,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Trusted Organics,Organic vegetables,tomato; potato; leafy greens,Branded + unbranded,2,24 Mantra Organic; Organic Tattva,"Certified organic fresh produce, supplier-identified",Yes,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Trusted Organics,Organic fruits,banana; apple; papaya,Generic,0,,"Certified organic fresh produce, supplier-identified",Yes,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Trusted Organics,Organic herbs,coriander; mint; curry leaves,Generic,0,,Certified organic bunches,Yes,3,0,3
 Grocery & Kitchen,Vegetables & Fruits,Trusted Organics,Organic staples nearby,rice; dal; atta,Branded + unbranded,3,24 Mantra Organic; Organic Tattva; Natureland Organics,Certified organic loose/repacked if permitted,Yes,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Loose flowers,marigold; jasmine; rose,Generic,0,,Fresh by weight,,6,6,0
-Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Garlands,marigold; jasmine; mixed,Generic,0,,Local florist-made,,1,1,0
-Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Pooja leaves,mango leaves; betel leaves; tulsi,Generic,0,,Fresh bunch,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Loose flowers,marigold; jasmine; rose,Generic,0,,Fresh by weight,,6,2,4
+Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Garlands,marigold; jasmine; mixed,Generic,0,,Local florist-made,,1,0,1
+Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Pooja leaves,mango leaves; betel leaves; tulsi,Generic,0,,Fresh bunch,,3,1,2
 Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Banana leaves,whole; cut,Generic,0,,Fresh pieces,,2,1,1
-Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Coconut for pooja,whole mature coconut,Generic,0,,Fresh loose,,1,1,0
+Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Coconut for pooja,whole mature coconut,Generic,0,,Fresh loose,,1,0,1
 Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Floral bunches,roses; chrysanthemums; tuberose,Generic,0,,Fresh bunches,,1,1,0
 Grocery & Kitchen,Vegetables & Fruits,Seasonal,Summer fruits,mango; watermelon; muskmelon,Generic,0,,Loose seasonal,,0,0,0
-Grocery & Kitchen,Vegetables & Fruits,Seasonal,Monsoon produce,jamun; custard apple; colocasia,Generic,0,,Loose seasonal,,1,1,0
+Grocery & Kitchen,Vegetables & Fruits,Seasonal,Monsoon produce,jamun; custard apple; colocasia,Generic,0,,Loose seasonal,,1,0,1
 Grocery & Kitchen,Vegetables & Fruits,Seasonal,Winter produce,strawberry; green peas; red carrot,Generic,0,,Loose seasonal,,0,0,0
-Grocery & Kitchen,Vegetables & Fruits,Seasonal,Festival produce,sugarcane; fresh corn; special greens,Generic,0,,Loose seasonal,,2,2,0
-Grocery & Kitchen,Vegetables & Fruits,Seasonal,Seasonal regional fruits,litchi; ber; wood apple,Generic,0,,Loose seasonal,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Seasonal,Festival produce,sugarcane; fresh corn; special greens,Generic,0,,Loose seasonal,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Seasonal,Seasonal regional fruits,litchi; ber; wood apple,Generic,0,,Loose seasonal,,3,2,1
 Grocery & Kitchen,Vegetables & Fruits,Frozen Veg,Frozen peas,plain; tender,Branded + unbranded,3,Safal; Sumeru; McCain,Unbranded food-grade frozen packs if verified,,2,1,1
 Grocery & Kitchen,Vegetables & Fruits,Frozen Veg,Frozen sweet corn,kernels; on cob,Branded + unbranded,2,Safal; Sumeru,Unbranded frozen packs if verified,,2,1,1
 Grocery & Kitchen,Vegetables & Fruits,Frozen Veg,Frozen mixed vegetables,classic mix; stir-fry mix,Branded + unbranded,2,Safal; Sumeru,Unbranded frozen packs if verified,,2,1,1
@@ -89,20 +89,20 @@ Grocery & Kitchen,"Atta, Rice & Dal",Atta,Whole wheat atta,regular; chakki; mult
 Grocery & Kitchen,"Atta, Rice & Dal",Atta,Specialty wheat flour,sharbati; high-fibre,Branded + unbranded,4,Aashirvaad; Pillsbury; Fortune; 24 Mantra Organic,Loose specialty wheat flour,,1,1,0
 Grocery & Kitchen,"Atta, Rice & Dal",Atta,Multigrain atta,wheat + millet mix,Branded + unbranded,4,Aashirvaad; Pillsbury; Fortune; Patanjali,Local fresh-milled multigrain flour,,0,0,0
 Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Sona Masoori,raw; steam; aged,Branded + unbranded,5,Daawat; Fortune; India Gate; bb Royal; Lal Qilla,Loose Telangana/Andhra Sona Masoori,,2,2,0
-Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,HMT rice,raw; steam,Unbranded only,0,,Loose HMT,,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,HMT rice,raw; steam,Unbranded only,0,,Loose HMT,,2,0,2
 Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Kolam/surti kolam,regular; aged,Branded + unbranded,1,bb Royal,Loose kolam,,1,0,1
 Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Pon ni/Ponni,raw; boiled,Branded + unbranded,1,Double Horse,Loose Ponni,,1,1,0
-Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Local premium rice,Telangana fine rice; daily-use white rice,Unbranded only,0,,Loose graded local rice,,2,2,0
+Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Local premium rice,Telangana fine rice; daily-use white rice,Unbranded only,0,,Loose graded local rice,,2,0,2
 Grocery & Kitchen,"Atta, Rice & Dal",Rice,Basmati,classic; everyday; 1121,Branded + unbranded,7,India Gate; Daawat; Lal Qilla; Kohinoor; Fortune; Tilda; Patanjali,Loose graded basmati,,0,0,0
 Grocery & Kitchen,"Atta, Rice & Dal",Rice,Brown rice,basmati; non-basmati,Branded + unbranded,4,India Gate; Daawat; 24 Mantra Organic; bb Royal,Loose brown rice,,4,4,0
 Grocery & Kitchen,"Atta, Rice & Dal",Rice,Rice for idli/dosa,idli rice; parboiled,Branded + unbranded,2,Double Horse; bb Royal,Loose idli rice,,2,0,2
 Grocery & Kitchen,"Atta, Rice & Dal",Rice,Red/black rice,red matta; black rice,Branded + unbranded,2,24 Mantra Organic; Organic Tattva,Loose specialty rice,Yes,2,0,2
-Grocery & Kitchen,"Atta, Rice & Dal",Dal,Toor/arhar dal,regular; premium,Branded + unbranded,5,Tata Sampann; Fortune; 24 Mantra Organic; Organic Tattva; bb Royal,Loose toor dal by grade,,3,3,0
+Grocery & Kitchen,"Atta, Rice & Dal",Dal,Toor/arhar dal,regular; premium,Branded + unbranded,5,Tata Sampann; Fortune; 24 Mantra Organic; Organic Tattva; bb Royal,Loose toor dal by grade,,3,2,1
 Grocery & Kitchen,"Atta, Rice & Dal",Dal,Moong dal,split yellow; split green; whole green,Branded + unbranded,4,Tata Sampann; Fortune; 24 Mantra Organic; bb Royal,Loose moong,,2,1,1
 Grocery & Kitchen,"Atta, Rice & Dal",Dal,Masoor dal,split red; whole,Branded + unbranded,4,Tata Sampann; Fortune; Organic Tattva; bb Royal,Loose masoor,,2,0,2
 Grocery & Kitchen,"Atta, Rice & Dal",Dal,Urad dal,split white; whole black; split black,Branded + unbranded,4,Tata Sampann; Fortune; 24 Mantra Organic; bb Royal,Loose urad,,2,1,1
 Grocery & Kitchen,"Atta, Rice & Dal",Dal,Chana dal,split Bengal gram,Branded + unbranded,4,Tata Sampann; Fortune; Organic Tattva; bb Royal,Loose chana dal,,2,2,0
-Grocery & Kitchen,"Atta, Rice & Dal",Dal,Other pulses,horse gram; cowpea; moth beans,Branded + unbranded,1,24 Mantra Organic,Loose pulses,,3,3,0
+Grocery & Kitchen,"Atta, Rice & Dal",Dal,Other pulses,horse gram; cowpea; moth beans,Branded + unbranded,1,24 Mantra Organic,Loose pulses,,3,0,3
 Grocery & Kitchen,"Atta, Rice & Dal","Besan, Sooji & Maida",Besan,regular; coarse,Branded + unbranded,5,Fortune; Aashirvaad; Rajdhani; 24 Mantra Organic; Patanjali,Loose gram flour,,2,1,1
 Grocery & Kitchen,"Atta, Rice & Dal","Besan, Sooji & Maida",Sooji/rava,fine; coarse; roasted,Branded + unbranded,5,Aashirvaad; Fortune; Bambino; MTR; Double Horse,Loose semolina,,2,0,2
 Grocery & Kitchen,"Atta, Rice & Dal","Besan, Sooji & Maida",Maida,all-purpose; bakery grade,Branded + unbranded,3,Aashirvaad; Fortune; Pillsbury,Loose refined wheat flour,,2,1,1
@@ -116,7 +116,7 @@ Grocery & Kitchen,"Atta, Rice & Dal","Rajma, Chole & Others",White peas,whole; s
 Grocery & Kitchen,"Atta, Rice & Dal","Rajma, Chole & Others",Soya chunks,mini; regular; granules,Branded + unbranded,3,Nutrela; Fortune; Patanjali,Loose food-grade soya chunks where traceable,,2,2,0
 Grocery & Kitchen,"Atta, Rice & Dal",Millet & Other Flours,Millets,ragi; jowar; bajra,Branded + unbranded,4,Manna; 24 Mantra Organic; Tata Soulfull; Organic Tattva,Loose millet grain,Yes,4,2,2
 Grocery & Kitchen,"Atta, Rice & Dal",Millet & Other Flours,Millet flours,ragi; jowar; bajra,Branded + unbranded,3,Manna; 24 Mantra Organic; Organic Tattva,Fresh-milled loose flour,,0,0,0
-Grocery & Kitchen,"Atta, Rice & Dal",Millet & Other Flours,Other flour,makki; kuttu; singhara,Branded + unbranded,3,Rajdhani; 24 Mantra Organic; Patanjali,Loose specialty flour,,3,3,0
+Grocery & Kitchen,"Atta, Rice & Dal",Millet & Other Flours,Other flour,makki; kuttu; singhara,Branded + unbranded,3,Rajdhani; 24 Mantra Organic; Patanjali,Loose specialty flour,,3,1,2
 Grocery & Kitchen,"Atta, Rice & Dal",Millet & Other Flours,Multimillet mix,mixed grain; dosa/idli mix,Branded + unbranded,3,Manna; Tata Soulfull; Slurrp Farm,Fresh-milled millet blends,,2,1,1
 Grocery & Kitchen,"Atta, Rice & Dal",Organics,Organic wheat flour,whole wheat; multigrain,Branded + unbranded,4,24 Mantra Organic; Organic Tattva; Natureland Organics; Phalada Pure & Sure,Certified organic loose/repacked only,Yes,2,0,2
 Grocery & Kitchen,"Atta, Rice & Dal",Organics,Organic rice,sona masoori; brown; basmati,Branded + unbranded,3,24 Mantra Organic; Organic Tattva; Natureland Organics,Certified organic bulk rice,Yes,2,1,1
@@ -157,7 +157,7 @@ Grocery & Kitchen,"Oil, Ghee & Masala","Salt, Sugar & Jaggery",Jaggery,block; po
 Grocery & Kitchen,"Oil, Ghee & Masala","Salt, Sugar & Jaggery",Sugar substitutes,stevia; sucralose-based,Branded only,2,Sugar Free; Equal,,,2,1,1
 Grocery & Kitchen,"Oil, Ghee & Masala",Whole Spices,Whole basics,cumin; mustard; coriander; fennel; fenugreek,Branded + unbranded,4,Tata Sampann; Catch; Everest; 24 Mantra Organic,Loose cleaned whole spices,,2,0,2
 Grocery & Kitchen,"Oil, Ghee & Masala",Whole Spices,Aromatic spices,cloves; cinnamon; cardamom; pepper,Branded + unbranded,4,Catch; Everest; Tata Sampann; Keya,Loose whole spices,,2,0,2
-Grocery & Kitchen,"Oil, Ghee & Masala",Whole Spices,Other whole spices,star anise; nutmeg; mace; bay leaf; kalonji,Branded + unbranded,3,Catch; Keya; 24 Mantra Organic,Loose whole spices,,3,3,0
+Grocery & Kitchen,"Oil, Ghee & Masala",Whole Spices,Other whole spices,star anise; nutmeg; mace; bay leaf; kalonji,Branded + unbranded,3,Catch; Keya; 24 Mantra Organic,Loose whole spices,,3,1,2
 Grocery & Kitchen,"Oil, Ghee & Masala",Whole Spices,Whole chilli/turmeric,dry red chilli; dry turmeric,Branded + unbranded,4,Aachi; Eastern; Tata Sampann; 24 Mantra Organic,Loose dried chilli and turmeric,,2,0,2
 Grocery & Kitchen,"Oil, Ghee & Masala",Gravy Mixes & Pastes,Ginger-garlic paste,regular; garlic-only,Branded + unbranded,5,Dabur Hommade; Mother's Recipe; Priya; Aachi; Smith & Jones,"Fresh/packed local paste, food-safety compliant",,3,1,2
 Grocery & Kitchen,"Oil, Ghee & Masala",Gravy Mixes & Pastes,Tomato puree/paste,puree; concentrate,Branded + unbranded,3,Kissan; Del Monte; Dabur Hommade,Local food-grade puree,,2,0,2
@@ -178,7 +178,7 @@ Grocery & Kitchen,"Dairy, Bread & Eggs",Bread & Pav,Pav/buns,ladi pav; burger bu
 Grocery & Kitchen,"Dairy, Bread & Eggs",Bread & Pav,Flatbreads,pita; tortilla wraps; garlic bread,Branded + unbranded,3,English Oven; The Baker's Dozen; Wingreens Farms,Local bakery flatbreads,,2,0,2
 Grocery & Kitchen,"Dairy, Bread & Eggs",Eggs,Chicken eggs,regular white; brown; free-range,Branded + unbranded,4,Eggoz; Keggs; Nandu's; Suguna,"Local poultry-farm eggs, graded",,2,0,2
 Grocery & Kitchen,"Dairy, Bread & Eggs",Eggs,Specialty eggs,omega-3-positioned; country/desi,Branded + unbranded,3,Eggoz; Keggs; Happy Hens,Local desi eggs from traceable farm,,2,0,2
-Grocery & Kitchen,"Dairy, Bread & Eggs",Eggs,Quail eggs,regular,Unbranded only,0,,Local farm eggs,,1,1,0
+Grocery & Kitchen,"Dairy, Bread & Eggs",Eggs,Quail eggs,regular,Unbranded only,0,,Local farm eggs,,1,0,1
 Grocery & Kitchen,"Dairy, Bread & Eggs",Curd & Yogurt,Curd/dahi,regular; thick; low-fat,Branded + unbranded,7,Amul; Heritage; Dodla; Milky Mist; Mother Dairy; Nandini; Godrej Jersey,"Local dairy curd, properly labelled",,2,1,1
 Grocery & Kitchen,"Dairy, Bread & Eggs",Curd & Yogurt,Yogurt,plain; Greek; flavoured,Branded + unbranded,5,Epigamia; Milky Mist; Amul; Nestle a+; Akshayakalpa,Local plain cultured yogurt if compliant,,2,2,0
 Grocery & Kitchen,"Dairy, Bread & Eggs",Curd & Yogurt,Probiotic products,probiotic yogurt; drinks,Branded only,3,Yakult; Epigamia; Mother Dairy,,,2,1,1
@@ -258,14 +258,14 @@ Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruit Gift Packs,Mixed dry fruit gift
 Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruit Gift Packs,Premium nut hampers,roasted assortments; luxury tins,Branded + unbranded,3,Happilo; Farmley; Nutraj,Local processor gift hampers,,2,0,2
 Grocery & Kitchen,"Chicken, Meat & Fish",Fresh Meat,Chicken,whole; curry cut; boneless; breast; drumsticks,Branded + unbranded,5,Licious; FreshToHome; Nandu's; Suguna; TenderCuts,Local licensed poultry processor/butcher,,2,0,2
 Grocery & Kitchen,"Chicken, Meat & Fish",Fresh Meat,Chicken offal,liver; gizzard,Branded + unbranded,2,Licious; FreshToHome,Local licensed meat supplier,,2,0,2
-Grocery & Kitchen,"Chicken, Meat & Fish",Fresh Meat,Other poultry,duck; turkey (specialty),Generic,0,,Licensed local poultry supplier,,2,2,0
+Grocery & Kitchen,"Chicken, Meat & Fish",Fresh Meat,Other poultry,duck; turkey (specialty),Generic,0,,Licensed local poultry supplier,,2,0,2
 Grocery & Kitchen,"Chicken, Meat & Fish",Fish & Seafood,Fresh fish,rohu; catla; tilapia,Branded + unbranded,2,Licious; FreshToHome,Fresh fish from licensed supplier,,2,0,2
 Grocery & Kitchen,"Chicken, Meat & Fish",Fish & Seafood,Coastal fish,seer/vanjaram; pomfret; mackerel,Branded + unbranded,2,Licious; FreshToHome,Fresh fish from licensed supplier,,2,0,2
 Grocery & Kitchen,"Chicken, Meat & Fish",Fish & Seafood,Seafood,prawns; crab; squid,Branded + unbranded,2,Licious; FreshToHome,Traceable seafood by size/grade,,2,0,2
 Grocery & Kitchen,"Chicken, Meat & Fish",Fish & Seafood,Frozen fish,fillets; prawns,Branded + unbranded,3,ITC Master Chef; Licious; FreshToHome,Frozen seafood from verified processor,,2,0,2
 Grocery & Kitchen,"Chicken, Meat & Fish",Mutton,Goat meat,curry cut; boneless; mince,Branded + unbranded,2,Licious; FreshToHome,Local licensed butcher/processor,,2,0,2
 Grocery & Kitchen,"Chicken, Meat & Fish",Mutton,Sheep meat,curry cut; boneless,Generic,0,,Local licensed butcher,,2,1,1
-Grocery & Kitchen,"Chicken, Meat & Fish",Mutton,Mutton offal,liver; trotters,Generic,0,,Local licensed butcher,,2,2,0
+Grocery & Kitchen,"Chicken, Meat & Fish",Mutton,Mutton offal,liver; trotters,Generic,0,,Local licensed butcher,,2,0,2
 Grocery & Kitchen,"Chicken, Meat & Fish",Frozen Non-Veg Snacks,Chicken snacks,nuggets; popcorn; fingers,Branded + unbranded,5,Yummiez; ITC Master Chef; Venky's; Godrej Yummiez; Sumeru,Frozen snacks from licensed processor,,2,0,2
 Grocery & Kitchen,"Chicken, Meat & Fish",Frozen Non-Veg Snacks,Chicken kebabs,seekh; shammi; tikka,Branded + unbranded,4,Licious; ITC Master Chef; Sumeru; Al Kabeer,Frozen kebabs from licensed processor,,2,0,2
 Grocery & Kitchen,"Chicken, Meat & Fish",Frozen Non-Veg Snacks,Fish/prawn snacks,fish fingers; prawn bites,Branded + unbranded,3,ITC Master Chef; Sumeru; Al Kabeer,Frozen seafood snacks from processor,,2,0,2
@@ -369,7 +369,7 @@ Snacks & Drinks,Drinks & Juices,Soy Milk & More,Soy beverages,plain; flavoured,B
 Snacks & Drinks,Drinks & Juices,Soy Milk & More,Plant-based alternatives,almond; oat; coconut,Branded only,4,Epigamia; Raw Pressery; Alt Co.; So Good,,,0,0,0
 Snacks & Drinks,Drinks & Juices,Cold Coffee & Iced Tea,Cold coffee,classic; mocha; latte,Branded + unbranded,5,Nescafe; Starbucks; Rage Coffee; Sleepy Owl; Bru,"Local licensed sealed cold coffee, chilled",,1,0,1
 Snacks & Drinks,Drinks & Juices,Cold Coffee & Iced Tea,Iced tea,lemon; peach; green tea,Branded + unbranded,4,Lipton; Nestea; Paper Boat; Tetley,Local licensed bottled iced tea,,2,2,0
-Snacks & Drinks,Drinks & Juices,Coconut Water,Fresh tender coconut,regular; large,Unbranded only,0,,Fresh tender coconut by piece,,2,2,0
+Snacks & Drinks,Drinks & Juices,Coconut Water,Fresh tender coconut,regular; large,Unbranded only,0,,Fresh tender coconut by piece,,2,0,2
 Snacks & Drinks,Drinks & Juices,Coconut Water,Packaged coconut water,plain; flavoured,Branded only,4,Paper Boat; Raw Pressery; Real Activ; Coco Soul,,,2,2,0
 Snacks & Drinks,Drinks & Juices,Concentrates & Syrups,Fruit concentrates,lemon; orange; rose,Branded + unbranded,5,Rasna; Tang; Mapro; Rooh Afza; Kissan,Local licensed fruit-syrup producer,,2,1,1
 Snacks & Drinks,Drinks & Juices,Concentrates & Syrups,Drink syrups,kokum; khus; sharbat,Branded + unbranded,3,Hamdard Rooh Afza; Mapro; Patanjali,Local compliant syrup/sharbat,,2,0,2
@@ -452,7 +452,7 @@ Snacks & Drinks,Paan Corner,Lighters,Utility lighters,refillable kitchen lighter
 Snacks & Drinks,Paan Corner,Mouth Fresheners & Gums,Mouth fresheners,saunf; elaichi; mukhwas,Branded + unbranded,3,Pass Pass; Chandan; Rajnigandha Silver Pearls,Loose sweet saunf/mukhwas if compliant,,2,0,2
 Snacks & Drinks,Paan Corner,Mouth Fresheners & Gums,Gum/mints,sugar-free; mint; fruit,Branded only,5,Center Fresh; Orbit; Happydent; Mentos; Tic Tac,,,2,1,1
 Snacks & Drinks,Paan Corner,Non-Tobacco Blends,Paan ingredients,gulkand; sweet saunf; mukhwas,Branded + unbranded,2,Chandan; Pass Pass,"Betel leaves, gulkand, dry-fruit paan blend from compliant supplier",,2,0,2
-Snacks & Drinks,Paan Corner,Non-Tobacco Blends,Paan condiments,catechu/kattha; slaked lime (food-use only),Unbranded only,0,,"Supplier-verified paan ingredients, food-grade where applicable",,2,2,0
+Snacks & Drinks,Paan Corner,Non-Tobacco Blends,Paan condiments,catechu/kattha; slaked lime (food-use only),Unbranded only,0,,"Supplier-verified paan ingredients, food-grade where applicable",,2,1,1
 Snacks & Drinks,Paan Corner,Smoking Cessation,Nicotine replacement,OTC nicotine gum/lozenges (where lawful),Branded + unbranded,2,Nicotex; Nicorette,—; pharmacy/regulatory verification before listing,,0,0,0
 Snacks & Drinks,Ice Creams & More,Tubs,Ice cream tubs,vanilla; chocolate; butterscotch,Branded + unbranded,7,Amul; Kwality Wall's; Cream Bell; Havmor; Vadilal; Arun; NIC Ice Creams,Local licensed ice-cream manufacturer,,2,1,1
 Snacks & Drinks,Ice Creams & More,Tubs,Premium tubs,Belgian chocolate; fruit; nut,Branded + unbranded,4,Baskin Robbins; Naturals; NIC Ice Creams; Ibaco,Local licensed artisan ice cream,,2,1,1
@@ -466,7 +466,7 @@ Snacks & Drinks,Ice Creams & More,Cakes & Others,Kulfi,malai; pista; kesar,Brand
 Snacks & Drinks,Ice Creams & More,Guilt-Free,Low/no added sugar,vanilla; chocolate,Branded + unbranded,3,Amul; Baskin Robbins; NIC Ice Creams,Local labelled low-sugar frozen products; verify claims,,2,1,1
 Snacks & Drinks,Ice Creams & More,Guilt-Free,Plant-based frozen dessert,coconut; almond,Branded + unbranded,1,OatMlk,Local licensed vegan frozen desserts,,1,0,1
 Snacks & Drinks,Ice Creams & More,Gourmet,Artisan ice cream,natural fruit; specialty flavours,Branded + unbranded,4,Naturals; NIC Ice Creams; Baskin Robbins; Ibaco,Local licensed gourmet makers,,2,0,2
-Snacks & Drinks,Ice Creams & More,Gourmet,Gelato/sorbet,chocolate gelato; mango sorbet,Branded + unbranded,1,Italian gelato specialists,Local licensed gelato/sorbet,,2,2,0
+Snacks & Drinks,Ice Creams & More,Gourmet,Gelato/sorbet,chocolate gelato; mango sorbet,Branded + unbranded,1,Italian gelato specialists,Local licensed gelato/sorbet,,2,0,2
 Snacks & Drinks,Ice Creams & More,Syrups,Ice cream toppings,chocolate; caramel; strawberry,Branded + unbranded,4,Hershey's; Mapro; Veeba; Monin,Local labelled dessert sauce,,0,0,0
 Beauty & Personal Care,Bath & Body,Bathing Soaps,Bathing bars,family/regular,Branded + unbranded,9,Lux; Lifebuoy; Santoor; Godrej No.1; Cinthol; Vivel; Hamam; Liril; Rexona,Local properly manufactured bathing bars with manufacturer/ingredient labels,Yes,2,2,0
 Beauty & Personal Care,Bath & Body,Bathing Soaps,Moisturising/beauty bars,glycerin; creamy,Branded + unbranded,6,Dove; Pears; Fiama; Nivea; Olay; Himalaya,Compliant independent maker beauty bars,Yes,2,2,0
@@ -558,7 +558,7 @@ Beauty & Personal Care,Beauty & Cosmetics,Kajal & Eyeliners,Eyeliner,liquid; gel
 Beauty & Personal Care,Beauty & Cosmetics,Kajal & Eyeliners,Mascara,volumising; waterproof,Branded only,5,Maybelline; Lakme; L'Oreal Paris; Faces Canada; Swiss Beauty,,Yes,2,1,1
 Beauty & Personal Care,Beauty & Cosmetics,"Bindi, Bangles & Others",Bindis,round; designer; bridal,Branded + unbranded,1,Shilpa,Generic bindi sheets,Yes,1,0,1
 Beauty & Personal Care,Beauty & Cosmetics,"Bindi, Bangles & Others",Bangles,glass; metal; plastic,Unbranded only,0,,"Local unbranded bangles, sizes/material noted",Yes,3,3,0
-Beauty & Personal Care,Beauty & Cosmetics,"Bindi, Bangles & Others",Other adornments,hair flowers; forehead stickers,Unbranded only,0,,Generic fashion accessories,Yes,2,2,0
+Beauty & Personal Care,Beauty & Cosmetics,"Bindi, Bangles & Others",Other adornments,hair flowers; forehead stickers,Unbranded only,0,,Generic fashion accessories,Yes,2,0,2
 Beauty & Personal Care,Beauty & Cosmetics,Nail Paints & Accessories,Nail polish,classic; gel-look; quick-dry,Branded + unbranded,7,Lakme; Colorbar; Nykaa Cosmetics; Faces Canada; Swiss Beauty; Elle 18; Renee,Compliant independent nail polish,Yes,4,0,4
 Beauty & Personal Care,Beauty & Cosmetics,Nail Paints & Accessories,Nail remover/care,remover; cuticle oil,Branded + unbranded,4,Lakme; Colorbar; Nykaa Cosmetics; Faces Canada,Generic clippers/files; no anonymous solvents,,0,0,0
 Beauty & Personal Care,Beauty & Cosmetics,Nail Paints & Accessories,Nail accessories,nail files; clippers; tips,Branded + unbranded,3,Vega; Miniso; Kai,Generic nail-care tools,Yes,2,0,2

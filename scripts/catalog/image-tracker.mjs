@@ -6,7 +6,7 @@
  *   supabase/catalog/family-classification.csv  one row per product family in the document
  *   supabase/catalog/IMAGE_COVERAGE.md          classification, requirements, priority, coverage
  * Deterministic: the same inputs give the same files. Nothing here is marked verified or
- * visually approved unless a person recorded it in visual-audit.json.
+ * visually approved unless it is recorded, with who checked it, in visual-audit.json.
  *
  *   node scripts/catalog/image-tracker.mjs
  */
@@ -192,10 +192,10 @@ edit by hand. The row-level mapping is in \`image-tracker.csv\` and the family c
 
 **Important limits.** The ${rows.length} listings are the test stack's *sample* catalogue, built from
 the families and brands in the assortment document. Their pack sizes are typical sizes, not
-verified retail SKUs, and production listings come from the admin CSV import. No photo has been
-visually approved yet: every linked photo is \`VISUAL_AUDIT_PENDING\`. "Linked" means a
-licensed photo URL is recorded (and was checked to exist when it was found); photos are not
-downloaded.
+verified retail SKUs, and production listings come from the admin CSV import. No photo counts as
+visually approved unless the tracker says \`APPROVED\` (recorded in \`visual-audit.json\` with who checked it). "Linked" means a
+licensed photo URL is recorded; photos are not downloaded, but the review contact sheets fetch
+every pending photo, so a broken link shows up there as a failed tile.
 
 ## A. Classification summary
 
@@ -271,8 +271,10 @@ ${catTable}
 | Brand mismatches (generic or other-brand photo on a branded listing) | ${n((r) => by("Branded")(r) && linked(r) && r["Image Kind"] !== "Pack shot")} |
 | Visual audit pending | ${n((r) => r["Visual Audit Status"] === "VISUAL_AUDIT_PENDING")} |
 | Visually approved | ${n((r) => r["Visual Audit Status"] === "APPROVED")} |
+| Needs a person to decide | ${n((r) => r["Visual Audit Status"] === "NEEDS_HUMAN_REVIEW")} |
+| Photos rejected on review so far (never shown again for that listing) | ${Object.values(lib.readIf(lib.REJECTS, {})).flat().length} |
 
-Not complete: ${rows.length - linkedRows.length} listings have no photo, and no linked photo has passed a visual audit yet.
+Not complete: ${rows.length - linkedRows.length} listings have no photo, and ${n((r) => r["Visual Audit Status"] === "VISUAL_AUDIT_PENDING")} linked photos still await a visual audit.
 `;
 fs.writeFileSync(path.join(lib.CAT, "IMAGE_COVERAGE.md"), md);
 console.log(`Wrote image-tracker.csv (${rows.length} rows), family-classification.csv (${families.length} families), IMAGE_COVERAGE.md: ${linkedRows.length} listings with photos, ${rows.length - linkedRows.length} without.`);

@@ -15,6 +15,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { factsThumb } from "../photos/lib.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const CAT = path.join(ROOT, "supabase/catalog");
@@ -124,7 +125,7 @@ const off = async (brand, query, dept) => {
   if (!best) return miss("open facts: no product name matched closely enough");
   const host = OFF_HOSTS[kind];
   return {
-    url: best.p.image_front_url.replace(/\.(\d+)\.jpg$/, ".$1.400.jpg").replace(/\.full\.jpg$/, ".400.jpg"),
+    url: factsThumb(best.p.image_front_url),
     credit: `Photo: ${kind === "food" ? "Open Food Facts" : kind === "beauty" ? "Open Beauty Facts" : "Open Products Facts"} contributors, CC BY-SA`,
     page: `https://${host}/product/${best.p.code}`,
     source: kind === "food" ? "openfoodfacts" : kind === "beauty" ? "openbeautyfacts" : "openproductsfacts",
