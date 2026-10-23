@@ -35,15 +35,15 @@ every pending photo, so a broken link shows up there as a failed tile.
 | Unique representative images required (generic and unbranded image groups) | 199 |
 | — of which variety-specific | 57 |
 | Unique branded images required (one per branded listing) | 1040 |
-| Representative image groups already covered | 140 |
-| Representative images in use (distinct photos) | 138 |
+| Representative image groups already covered | 138 |
+| Representative images in use (distinct photos) | 136 |
 | Branded listings with a linked pack shot | 295 |
 | — of which pack size also matched (high confidence) | 34 |
 | — sharing one photo with another listing (other size of the same pack; check) | 16 |
-| Additional representative images still needed | 59 |
+| Additional representative images still needed | 61 |
 | Missing branded images (no authentic pack shot yet) | 745 |
-| Distinct photos in use, all listings | 425 |
-| Image reuse (listings covered per distinct photo) | 444 listings on 425 photos, 4.3% reuse |
+| Distinct photos in use, all listings | 423 |
+| Image reuse (listings covered per distinct photo) | 442 listings on 423 photos, 4.3% reuse |
 
 ## C. Complete image mapping
 
@@ -54,18 +54,18 @@ plus licence/credit, image kind, specification-dependent reason and priority.
 
 | Collection status | Listings | Meaning |
 |---|---|---|
-| LINKED | 444 | Licensed photo recorded; visual audit pending |
+| LINKED | 442 | Licensed photo recorded; visual audit pending |
 | NEEDS_NEW_SOURCE | 41 | Generic or unbranded; no free representative photo found yet |
-| VARIANT_MISMATCH | 23 | A variety that looks different from the listing whose photo it would share; needs its own |
+| VARIANT_MISMATCH | 25 | A variety that looks different from the listing whose photo it would share; needs its own |
 | MANUAL_VERIFICATION_REQUIRED | 745 | Branded; no authentic pack shot in open sources. Needs a brand or distributor asset or an own photo |
 
-Sources in use: Wikimedia Commons (149), Open Food Facts (224), Open Products Facts (11), Open Beauty Facts (60).
+Sources in use: Wikimedia Commons (147), Open Food Facts (224), Open Products Facts (11), Open Beauty Facts (60).
 
 | Department › Category | Listings | With photo | Coverage | Branded still missing |
 |---|---|---|---|---|
-| Grocery & Kitchen › Atta, Rice & Dal | 92 | 30 | 32.6% | 56 |
+| Grocery & Kitchen › Atta, Rice & Dal | 92 | 29 | 31.5% | 56 |
 | Grocery & Kitchen › Dairy, Bread & Eggs | 62 | 28 | 45.2% | 34 |
-| Grocery & Kitchen › Vegetables & Fruits | 192 | 134 | 69.8% | 9 |
+| Grocery & Kitchen › Vegetables & Fruits | 192 | 133 | 69.3% | 9 |
 | Grocery & Kitchen › Oil, Ghee & Masala | 77 | 31 | 40.3% | 45 |
 | Grocery & Kitchen › Bakery & Biscuits | 48 | 12 | 25% | 36 |
 | Grocery & Kitchen › Dry Fruits & Cereals | 62 | 21 | 33.9% | 41 |
@@ -90,7 +90,7 @@ Sources in use: Wikimedia Commons (149), Open Food Facts (224), Open Products Fa
 ## E. Collection priority
 
 1. **Generic images that can cover listings** (41): Tender Lady Finger, Lady Finger, Green Capsicum, French Beans, Broad Beans, Cabbage, Bottle Gourd, Bitter Gourd, Sponge Gourd, Spinach, Amaranth Leaves, Papaya, …
-2. **Varieties needing their own photo** (23): Baby Potato, Red Potato, Red Carrot, Compact Cauliflower, Round Bottle Gourd, Baby Beetroot, Orange Sweet Potato, Nendran Banana, Black Seedless Grapes, Ganesh Pomegranate, Red Lady Papaya, Kew Pineapple, …
+2. **Varieties needing their own photo** (25): Baby Potato, Red Potato, Red Carrot, Compact Cauliflower, Round Bottle Gourd, Baby Beetroot, Orange Sweet Potato, Nendran Banana, Black Seedless Grapes, Ganesh Pomegranate, Red Lady Papaya, Kew Pineapple, …
 3. **Branded pack shots to confirm by visual audit** (295): staples first (119 in atta, rice, dal, oil, masala, dairy, tea, biscuits, instant food).
 4. **Remaining branded listings without a pack shot** (458), staples first: Pillsbury Whole Wheat Atta (Pillsbury), Pillsbury Specialty Wheat Flour (Pillsbury), Fortune Sona Masoori Rice (Fortune), bb Royal Kolam Rice (bb Royal), India Gate Brown Rice (India Gate), Double Horse Idli Rice (Double Horse), bb Royal Idli Rice (bb Royal), Fortune Toor Dal (Fortune), Fortune Moong Dal (Fortune), Tata Sampann Masoor Dal (Tata Sampann), Fortune Masoor Dal (Fortune), Fortune Urad Dal (Fortune), …
 5. **Specification-dependent branded listings without a pack shot** (287): cosmetics, cleaners and repellents, appliances, hygiene and organic products, where only the exact product image will do.
@@ -100,14 +100,14 @@ Sources in use: Wikimedia Commons (149), Open Food Facts (224), Open Products Fa
 | | Count |
 |---|---|
 | Total listings | 1253 |
-| Covered by a linked photo | 444 (35.4%) |
-| — representative photography (generic and unbranded) | 149 |
+| Covered by a linked photo | 442 (35.3%) |
+| — representative photography (generic and unbranded) | 147 |
 | — branded pack shots | 295 |
-| Missing photos | 809 |
+| Missing photos | 811 |
 | Brand mismatches (generic or other-brand photo on a branded listing) | 0 |
-| Visual audit pending | 2 |
+| Visual audit pending | 0 |
 | Visually approved | 416 |
 | Needs a person to decide | 26 |
-| Photos rejected on review so far (never shown again for that listing) | 452 |
+| Photos rejected on review so far (never shown again for that listing) | 454 |
 
-Not complete: 809 listings have no photo, and 2 linked photos still await a visual audit.
+Not complete: 811 listings have no photo, and 0 linked photos still await a visual audit.

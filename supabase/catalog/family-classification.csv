@@ -44,7 +44,7 @@ Grocery & Kitchen,Vegetables & Fruits,Exotics,Avocado,Hass; green-skinned,Generi
 Grocery & Kitchen,Vegetables & Fruits,Exotics,Kiwi,green; golden,Generic,0,,Fresh by piece,,2,1,1
 Grocery & Kitchen,Vegetables & Fruits,Exotics,Dragon fruit,white flesh; red flesh,Generic,0,,Fresh by piece,,2,2,0
 Grocery & Kitchen,Vegetables & Fruits,Exotics,Berries,strawberry; blueberry; blackberry,Generic,0,,Fresh punnets,,3,3,0
-Grocery & Kitchen,Vegetables & Fruits,Exotics,Imported grapes,green seedless; red seedless,Generic,0,,Fresh punnets,,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Imported grapes,green seedless; red seedless,Generic,0,,Fresh punnets,,2,1,1
 Grocery & Kitchen,Vegetables & Fruits,Exotics,Stone fruits,peach; plum; nectarine,Generic,0,,Fresh by weight,,3,2,1
 Grocery & Kitchen,Vegetables & Fruits,Exotics,Imported fruit,cherries; passion fruit; persimmon,Generic,0,,Fresh packs,,3,3,0
 Grocery & Kitchen,Vegetables & Fruits,Exotics,Exotic vegetables,broccoli; zucchini; asparagus,Generic,0,,Fresh by weight,,3,3,0
@@ -89,7 +89,7 @@ Grocery & Kitchen,"Atta, Rice & Dal",Atta,Whole wheat atta,regular; chakki; mult
 Grocery & Kitchen,"Atta, Rice & Dal",Atta,Specialty wheat flour,sharbati; high-fibre,Branded + unbranded,4,Aashirvaad; Pillsbury; Fortune; 24 Mantra Organic,Loose specialty wheat flour,,1,0,1
 Grocery & Kitchen,"Atta, Rice & Dal",Atta,Multigrain atta,wheat + millet mix,Branded + unbranded,4,Aashirvaad; Pillsbury; Fortune; Patanjali,Local fresh-milled multigrain flour,,0,0,0
 Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Sona Masoori,raw; steam; aged,Branded + unbranded,5,Daawat; Fortune; India Gate; bb Royal; Lal Qilla,Loose Telangana/Andhra Sona Masoori,,2,1,1
-Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,HMT rice,raw; steam,Unbranded only,0,,Loose HMT,,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,HMT rice,raw; steam,Unbranded only,0,,Loose HMT,,2,0,2
 Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Kolam/surti kolam,regular; aged,Branded + unbranded,1,bb Royal,Loose kolam,,1,0,1
 Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Pon ni/Ponni,raw; boiled,Branded + unbranded,1,Double Horse,Loose Ponni,,1,1,0
 Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Local premium rice,Telangana fine rice; daily-use white rice,Unbranded only,0,,Loose graded local rice,,2,1,1
