@@ -10,7 +10,7 @@
  * its credit in supabase/catalog/image-overrides.json. Runs in GitHub Actions ("Catalog photos").
  *
  *   node scripts/photos/import-links.mjs              resolve new or changed links
- *   node scripts/photos/import-links.mjs --template   add rows for every product still without a photo
+ *   node scripts/photos/import-links.mjs --template   list every product still without a photo
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -24,6 +24,8 @@ const catalog = lib.loadCatalog();
 const bySlug = new Map(catalog.map((p) => [p.slug, p]));
 
 if (process.argv.includes("--template")) {
+  // Rows nobody filled in drop out once their product has a photo from elsewhere.
+  for (let i = rows.length - 1; i >= 0; i--) if (!rows[i].photo_link?.trim() && bySlug.get(rows[i].slug)?.current) rows.splice(i, 1);
   const have = new Set(rows.map((r) => r.slug));
   let added = 0;
   for (const p of catalog)
