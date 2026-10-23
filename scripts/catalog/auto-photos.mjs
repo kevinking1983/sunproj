@@ -132,8 +132,12 @@ let found = 0;
 // Bumped when the representative search improves, so generic and unbranded misses get one more try.
 const REPRESENTATIVE_SEARCH = 4;
 const only = args.includes("--category") ? args[args.indexOf("--category") + 1] : null;
+// After this many photos are rejected for one listing, automatic search gives up on it: it needs
+// a photo chosen by hand (photo-links.csv) or supplied by the brand.
+const MAX_REJECTS = 4;
 const todo = targets.filter((p) => {
   if (only && !p.subcategories.some((s) => s.startsWith(only))) return false;
+  if ((rejects[p.slug]?.length ?? 0) >= MAX_REJECTS) return false;
   const a = auto[p.slug];
   const rejected = new Set(rejects[p.slug] ?? []);
   if (a?.url && rejected.has(a.url)) return true;

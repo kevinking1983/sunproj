@@ -35,15 +35,15 @@ every pending photo, so a broken link shows up there as a failed tile.
 | Unique representative images required (generic and unbranded image groups) | 199 |
 | — of which variety-specific | 57 |
 | Unique branded images required (one per branded listing) | 1040 |
-| Representative image groups already covered | 177 |
-| Representative images in use (distinct photos) | 176 |
-| Branded listings with a linked pack shot | 300 |
-| — of which pack size also matched (high confidence) | 35 |
+| Representative image groups already covered | 138 |
+| Representative images in use (distinct photos) | 136 |
+| Branded listings with a linked pack shot | 292 |
+| — of which pack size also matched (high confidence) | 34 |
 | — sharing one photo with another listing (other size of the same pack; check) | 16 |
-| Additional representative images still needed | 22 |
-| Missing branded images (no authentic pack shot yet) | 740 |
-| Distinct photos in use, all listings | 468 |
-| Image reuse (listings covered per distinct photo) | 490 listings on 468 photos, 4.5% reuse |
+| Additional representative images still needed | 61 |
+| Missing branded images (no authentic pack shot yet) | 748 |
+| Distinct photos in use, all listings | 420 |
+| Image reuse (listings covered per distinct photo) | 439 listings on 420 photos, 4.3% reuse |
 
 ## C. Complete image mapping
 
@@ -54,60 +54,60 @@ plus licence/credit, image kind, specification-dependent reason and priority.
 
 | Collection status | Listings | Meaning |
 |---|---|---|
-| LINKED | 490 | Licensed photo recorded; visual audit pending |
-| NEEDS_NEW_SOURCE | 2 | Generic or unbranded; no free representative photo found yet |
-| VARIANT_MISMATCH | 21 | A variety that looks different from the listing whose photo it would share; needs its own |
-| MANUAL_VERIFICATION_REQUIRED | 740 | Branded; no authentic pack shot in open sources. Needs a brand or distributor asset or an own photo |
+| LINKED | 439 | Licensed photo recorded; visual audit pending |
+| NEEDS_NEW_SOURCE | 41 | Generic or unbranded; no free representative photo found yet |
+| VARIANT_MISMATCH | 25 | A variety that looks different from the listing whose photo it would share; needs its own |
+| MANUAL_VERIFICATION_REQUIRED | 748 | Branded; no authentic pack shot in open sources. Needs a brand or distributor asset or an own photo |
 
-Sources in use: Wikimedia Commons (190), Open Food Facts (227), Open Products Facts (11), Open Beauty Facts (62).
+Sources in use: Wikimedia Commons (147), Open Food Facts (221), Open Products Facts (11), Open Beauty Facts (60).
 
 | Department › Category | Listings | With photo | Coverage | Branded still missing |
 |---|---|---|---|---|
-| Grocery & Kitchen › Atta, Rice & Dal | 92 | 34 | 37% | 56 |
+| Grocery & Kitchen › Atta, Rice & Dal | 92 | 29 | 31.5% | 56 |
 | Grocery & Kitchen › Dairy, Bread & Eggs | 62 | 28 | 45.2% | 34 |
-| Grocery & Kitchen › Vegetables & Fruits | 192 | 163 | 84.9% | 9 |
-| Grocery & Kitchen › Oil, Ghee & Masala | 77 | 33 | 42.9% | 44 |
+| Grocery & Kitchen › Vegetables & Fruits | 192 | 133 | 69.3% | 9 |
+| Grocery & Kitchen › Oil, Ghee & Masala | 77 | 31 | 40.3% | 45 |
 | Grocery & Kitchen › Bakery & Biscuits | 48 | 12 | 25% | 36 |
-| Grocery & Kitchen › Dry Fruits & Cereals | 62 | 21 | 33.9% | 41 |
-| Grocery & Kitchen › Chicken, Meat & Fish | 32 | 5 | 15.6% | 26 |
+| Grocery & Kitchen › Dry Fruits & Cereals | 62 | 20 | 32.3% | 42 |
+| Grocery & Kitchen › Chicken, Meat & Fish | 32 | 1 | 3.1% | 26 |
 | Grocery & Kitchen › Kitchenware & Appliances | 58 | 1 | 1.7% | 57 |
 | Snacks & Drinks › Chips & Namkeen | 43 | 10 | 23.3% | 33 |
 | Snacks & Drinks › Sweets & Chocolates | 40 | 19 | 47.5% | 21 |
 | Snacks & Drinks › Drinks & Juices | 56 | 29 | 51.8% | 27 |
-| Snacks & Drinks › Tea, Coffee & Milk Drinks | 37 | 8 | 21.6% | 29 |
-| Snacks & Drinks › Instant Food | 40 | 17 | 42.5% | 23 |
+| Snacks & Drinks › Tea, Coffee & Milk Drinks | 37 | 5 | 13.5% | 32 |
+| Snacks & Drinks › Instant Food | 40 | 16 | 40% | 24 |
 | Snacks & Drinks › Sauces & Spreads | 46 | 24 | 52.2% | 22 |
-| Snacks & Drinks › Paan Corner | 10 | 3 | 30% | 7 |
+| Snacks & Drinks › Paan Corner | 10 | 2 | 20% | 7 |
 | Snacks & Drinks › Ice Creams & More | 25 | 6 | 24% | 19 |
 | Beauty & Personal Care › Bath & Body | 44 | 21 | 47.7% | 23 |
-| Beauty & Personal Care › Hair | 38 | 11 | 28.9% | 27 |
+| Beauty & Personal Care › Hair | 38 | 10 | 26.3% | 28 |
 | Beauty & Personal Care › Skin & Face | 48 | 16 | 33.3% | 32 |
-| Beauty & Personal Care › Beauty & Cosmetics | 42 | 13 | 31% | 29 |
+| Beauty & Personal Care › Beauty & Cosmetics | 42 | 10 | 23.8% | 30 |
 | Beauty & Personal Care › Feminine Hygiene | 30 | 6 | 20% | 24 |
 | Household Essentials › Cleaners & Repellents | 69 | 8 | 11.6% | 61 |
 | Household Essentials › Stationery & Games | 62 | 2 | 3.2% | 60 |
 
 ## E. Collection priority
 
-1. **Generic images that can cover listings** (2): Curry Leaves, Organic Curry Leaves
-2. **Varieties needing their own photo** (21): Red Potato, Red Carrot, Compact Cauliflower, Round Bottle Gourd, Baby Beetroot, Orange Sweet Potato, Nendran Banana, Ganesh Pomegranate, Red Lady Papaya, Kew Pineapple, Cricket Ball Chikoo, Cleaned Coriander Leaves, …
-3. **Branded pack shots to confirm by visual audit** (300): staples first (122 in atta, rice, dal, oil, masala, dairy, tea, biscuits, instant food).
-4. **Remaining branded listings without a pack shot** (455), staples first: Pillsbury Whole Wheat Atta (Pillsbury), Pillsbury Specialty Wheat Flour (Pillsbury), Fortune Sona Masoori Rice (Fortune), bb Royal Kolam Rice (bb Royal), India Gate Brown Rice (India Gate), Double Horse Idli Rice (Double Horse), bb Royal Idli Rice (bb Royal), Fortune Toor Dal (Fortune), Fortune Moong Dal (Fortune), Tata Sampann Masoor Dal (Tata Sampann), Fortune Masoor Dal (Fortune), Fortune Urad Dal (Fortune), …
-5. **Specification-dependent branded listings without a pack shot** (285): cosmetics, cleaners and repellents, appliances, hygiene and organic products, where only the exact product image will do.
+1. **Generic images that can cover listings** (41): Tender Lady Finger, Lady Finger, Green Capsicum, French Beans, Broad Beans, Cabbage, Bottle Gourd, Bitter Gourd, Sponge Gourd, Spinach, Amaranth Leaves, Papaya, …
+2. **Varieties needing their own photo** (25): Baby Potato, Red Potato, Red Carrot, Compact Cauliflower, Round Bottle Gourd, Baby Beetroot, Orange Sweet Potato, Nendran Banana, Black Seedless Grapes, Ganesh Pomegranate, Red Lady Papaya, Kew Pineapple, …
+3. **Branded pack shots to confirm by visual audit** (292): staples first (117 in atta, rice, dal, oil, masala, dairy, tea, biscuits, instant food).
+4. **Remaining branded listings without a pack shot** (461), staples first: Pillsbury Whole Wheat Atta (Pillsbury), Pillsbury Specialty Wheat Flour (Pillsbury), Fortune Sona Masoori Rice (Fortune), bb Royal Kolam Rice (bb Royal), India Gate Brown Rice (India Gate), Double Horse Idli Rice (Double Horse), bb Royal Idli Rice (bb Royal), Fortune Toor Dal (Fortune), Fortune Moong Dal (Fortune), Tata Sampann Masoor Dal (Tata Sampann), Fortune Masoor Dal (Fortune), Fortune Urad Dal (Fortune), …
+5. **Specification-dependent branded listings without a pack shot** (287): cosmetics, cleaners and repellents, appliances, hygiene and organic products, where only the exact product image will do.
 
 ## F. Coverage report
 
 | | Count |
 |---|---|
 | Total listings | 1253 |
-| Covered by a linked photo | 490 (39.1%) |
-| — representative photography (generic and unbranded) | 190 |
-| — branded pack shots | 300 |
-| Missing photos | 763 |
+| Covered by a linked photo | 439 (35%) |
+| — representative photography (generic and unbranded) | 147 |
+| — branded pack shots | 292 |
+| Missing photos | 814 |
 | Brand mismatches (generic or other-brand photo on a branded listing) | 0 |
-| Visual audit pending | 66 |
-| Visually approved | 401 |
-| Needs a person to decide | 23 |
-| Photos rejected on review so far (never shown again for that listing) | 395 |
+| Visual audit pending | 0 |
+| Visually approved | 415 |
+| Needs a person to decide | 24 |
+| Photos rejected on review so far (never shown again for that listing) | 446 |
 
-Not complete: 763 listings have no photo, and 66 linked photos still await a visual audit.
+Not complete: 814 listings have no photo, and 0 linked photos still await a visual audit.
