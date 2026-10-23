@@ -12,6 +12,9 @@ The store's departments, categories, subcategories and sample products, built fr
 | `photo-links.csv` | Products still without a photo, with a column to paste an Open Food Facts or Commons link. |
 | `auto-photos.json`, `photo-rejects.json` | Broader automatic matches, and photos rejected on review. |
 | `image-overrides.json` | Photos chosen by hand (photo-links.csv or the photo picker), by product slug. They win over `images.json`; `{"none": true}` removes a wrong photo. |
+| `IMAGE_POLICY.md` | Which photo each kind of listing may use (branded = own pack only; varieties get their own photo). |
+| `IMAGE_COVERAGE.md`, `image-tracker.csv`, `family-classification.csv` | Generated coverage report, row-level image mapping and family classification (`node scripts/catalog/image-tracker.mjs`). |
+| `visual-audit.json` | Photos a person has checked and approved. |
 | `AGENT_BRIEF.md` | The rules the product files were written to. |
 
 `../seeds/catalog.sql` is generated from these files and loaded after `../seed.sql` on every

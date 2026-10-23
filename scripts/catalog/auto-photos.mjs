@@ -1,13 +1,16 @@
 #!/usr/bin/env node
 /**
- * Broader automatic photo matching for products the strict lookup (resolve-images.mjs) missed.
- * Runs in GitHub Actions ("Catalog auto photos") and writes supabase/catalog/auto-photos.json.
+ * Broader automatic photo matching, following the catalogue image policy
+ * (supabase/catalog/IMAGE_POLICY.md). Runs in GitHub Actions ("Catalog auto photos") and writes
+ * supabase/catalog/auto-photos.json.
  *
- *   1. Pack shot: full-text search of Open Food / Beauty / Products Facts by brand and name. The
- *      brand must match and at least half of the distinctive words of the name.
- *   2. Representative photo: a freely licensed Wikimedia Commons photo of the item itself, found
- *      from the product's search tags ("toilet cleaner", "aloo bhujia"). Its credit says
- *      "Representative photo" so nobody mistakes it for the exact pack.
+ *   Branded products: only their own pack shot, from a full-text search of Open Food / Beauty /
+ *   Products Facts. The brand and every distinctive word of the name (product line, variant,
+ *   flavour) must match; a matching pack size makes it high confidence. No match, no photo: a
+ *   branded listing is never given a generic or another brand's photo.
+ *   Generic and unbranded products: a freely licensed Wikimedia Commons photo of the item itself,
+ *   credited as "Representative photo". Varieties that look different from the listing they share
+ *   a photo with (Red Potato, White Onion) get their own photo.
  *
  * Photos listed in photo-rejects.json (slug -> [url]) are never used again for that product; the
  * next best candidate is tried instead. Hand-picked photos (image-overrides.json) always win.
@@ -73,22 +76,24 @@ async function packShot(p, rejected) {
     const brands = [hit.brands].flat().filter(Boolean).join(", ");
     const text = new Set(lib.words(`${brands} ${hit.product_name ?? ""} ${hit.product_name_en ?? ""}`));
     if (!brandWords.every((w) => has(text, w))) continue;
-    const hits = needed.filter((w) => has(text, w)).length;
-    if (needed.length && hits < Math.ceil(needed.length / 2)) continue;
+    // Every variant word must be there: "Tata Sampann Toor Dal" is not "Tata Sampann Moong Dal".
+    if (!needed.every((w) => has(text, w))) continue;
     const c = lib.factsCandidate(kind, { ...hit, brands });
     if (rejected.has(c.url)) continue;
-    const score = hits + (hits === needed.length ? 1 : 0) + (hit.countries_tags?.includes("en:india") ? 0.5 : 0);
-    if (!best || score > best.score) best = { c, score };
+    const size = lib.sameSize(p.unit_label, hit.quantity);
+    const score = (size ? 2 : 0) + (hit.countries_tags?.includes("en:india") ? 1 : 0);
+    if (!best || score > best.score) best = { c: { ...c, confidence: size ? "High" : "Medium", quantity: hit.quantity ?? "" }, score };
   }
   return best ? { ...best.c, match: "pack" } : null;
 }
 
 // Titles of maps, logos and charts are not product photos.
 const NOT_A_PHOTO = /\b(logo|map|diagram|chart|poster|advert|advertisement|label|icon|stamp|coat of arms|flag|graph|screenshot)\b/i;
-async function representative(p, rejected) {
-  const brandAll = new Set(lib.words(p.brand ?? ""));
-  // The English name first ("Kashmiri Apple"), then the search tags ("toilet cleaner").
-  const queries = [...new Set([p.name, ...p.tags].map((t) => distinct(t, brandAll).join(" ")).filter((t) => t.length > 2))].slice(0, 4);
+async function representative(p, rejected, variety) {
+  if (p.brand) return null; // never for branded listings
+  // A variety must be found by its own name ("red potato"); otherwise the English name first,
+  // then the search tags.
+  const queries = (variety ? [p.name] : [...new Set([p.name, ...p.tags])]).map((t) => distinct(t).join(" ")).filter((t) => t.length > 2).slice(0, 4);
   for (const q of queries) {
     const want = q.split(" ");
     const results = await commonsPace(() => lib.commonsSearch(q, 12));
@@ -96,7 +101,7 @@ async function representative(p, rejected) {
       if (rejected.has(c.url) || NOT_A_PHOTO.test(c.title)) continue;
       const title = new Set(lib.words(c.title));
       if (!want.every((w) => has(title, w))) continue;
-      return { ...c, credit: c.credit.replace(/^Photo:/, "Representative photo:"), match: "representative", query: q };
+      return { ...c, credit: c.credit.replace(/^Photo:/, "Representative photo:"), match: variety ? "variety" : "representative", confidence: "Medium", query: q };
     }
   }
   return null;
@@ -104,8 +109,11 @@ async function representative(p, rejected) {
 
 const overrides = lib.readIf(lib.OVERRIDES, {});
 const catalog = lib.loadCatalog();
-// Products with no hand-picked photo and no strict match.
-const targets = catalog.filter((p) => !overrides[p.slug] && (!p.current || p.current.url === auto[p.slug]?.url));
+const varieties = lib.varietyListings(catalog);
+// A representative photo on a branded listing breaks the policy: drop it and look again.
+for (const p of catalog) if (p.brand && auto[p.slug] && auto[p.slug].match !== "pack" && !auto[p.slug].miss) delete auto[p.slug];
+// Products with no hand-picked photo and no strict match, plus varieties sharing another listing's photo.
+const targets = catalog.filter((p) => !overrides[p.slug] && (!p.current || p.current.url === auto[p.slug]?.url || varieties.has(p.slug)));
 let done = 0;
 let found = 0;
 const only = args.includes("--category") ? args[args.indexOf("--category") + 1] : null;
@@ -126,8 +134,8 @@ for (const p of todo.slice(0, limit)) {
   }
   const rejected = new Set(rejects[p.slug] ?? []);
   try {
-    const c = (await packShot(p, rejected)) ?? (await representative(p, rejected));
-    auto[p.slug] = c ? { url: c.url, credit: c.credit, page: c.page, source: c.source, license: c.license, match: c.match, title: c.title } : { miss: true };
+    const c = (await packShot(p, rejected)) ?? (await representative(p, rejected, varieties.has(p.slug)));
+    auto[p.slug] = c ? { url: c.url, credit: c.credit, page: c.page, source: c.source, license: c.license, match: c.match, confidence: c.confidence, title: c.title, ...(c.quantity ? { quantity: c.quantity } : {}) } : { miss: true };
     if (c) found++;
   } catch (e) {
     console.warn(`  ${p.slug}: ${e.message}`); // not recorded, so the next run retries it
@@ -139,4 +147,5 @@ for (const p of todo.slice(0, limit)) {
 }
 save();
 const all = Object.values(auto);
-console.log(`Done: ${found} new. auto-photos.json has ${all.filter((a) => a.match === "pack").length} pack shots, ${all.filter((a) => a.match === "representative").length} representative photos, ${all.filter((a) => a.miss).length} misses.`);
+const count = (m) => all.filter((a) => a.match === m).length;
+console.log(`Done: ${found} new. auto-photos.json has ${count("pack")} pack shots, ${count("representative")} representative and ${count("variety")} variety photos, ${all.filter((a) => a.miss).length} misses.`);

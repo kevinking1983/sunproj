@@ -1,0 +1,653 @@
+﻿Department,Category,Subcategory,Product Family,Varieties,Family Type,Branded Options,Brands,Unbranded Option,Specification-dependent,Sample Listings,Listings With Photo,Listings Without Photo
+Grocery & Kitchen,Vegetables & Fruits,All (Sub-Categories),Fresh vegetables,tomato; onion; potato; brinjal; okra; gourds; greens,Unbranded only,0,,Fresh loose by weight,,0,0,0
+Grocery & Kitchen,Vegetables & Fruits,All (Sub-Categories),Fresh fruits,apple; banana; grapes; orange; mango; guava; pomegranate,Unbranded only,0,,Fresh loose by weight,,0,0,0
+Grocery & Kitchen,Vegetables & Fruits,All (Sub-Categories),"Exotics, herbs, sprouts, flowers, organic, seasonal and frozen produce",,Branded + unbranded,3,Safal; Sumeru; McCain,Fresh loose; washed/cut packs; frozen packs,,0,0,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Potato,regular; baby; red,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Onion,red; white; small/sambar,Generic,0,,Loose fresh,,3,2,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Tomato,local/desi; hybrid; cherry,Generic,0,,Loose fresh,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Brinjal/eggplant,long purple; round purple; green,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Lady finger/okra,tender green; local,Generic,0,,Loose fresh,,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Carrot,orange; red; baby,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Cucumber,local; English; mini,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Capsicum,green; red; yellow,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Beans,French; cluster; broad,Generic,0,,Loose fresh,,3,2,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Cabbage,green; purple,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Cauliflower,regular; compact,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Bottle gourd/lauki,long; round,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Bitter gourd/karela,regular; small,Generic,0,,Loose fresh,,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Ridge gourd/turai,ridge; sponge gourd,Generic,0,,Loose fresh,,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Pumpkin,yellow; green,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Beetroot,regular; baby,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Radish,white; red,Generic,0,,Loose fresh,,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Sweet potato,orange flesh; white flesh,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Peas,green in-pod; shelled,Branded + unbranded,1,Safal,Loose fresh; shelled packs,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Leafy vegetables,spinach; amaranth; fenugreek,Generic,0,,Loose bunches,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Vegetables,Other vegetables,drumstick; raw banana; raw papaya; yam; colocasia; tindora; knol-khol,Generic,0,,Loose fresh,,3,2,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Apple,Kashmiri; Fuji; Granny Smith,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Banana,Robusta; Yelakki; Nendran,Generic,0,,Loose fresh,,3,0,3
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Grapes,green seedless; black seedless; red globe,Generic,0,,Loose fresh,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Mango,Banganapalli; Alphonso; Kesar,Generic,0,,"Loose fresh, seasonal",,3,2,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Orange/mandarin,Nagpur; Kinnow; imported navel,Generic,0,,Loose fresh,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Sweet lime/mosambi,regular; premium grade,Generic,0,,Loose fresh,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Pomegranate,Bhagwa; Ganesh,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Guava,white; pink,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Papaya,red lady; local,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Watermelon,striped; dark/seedless,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Muskmelon,kharbuja; cantaloupe,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Pineapple,Queen; Kew,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Sapota/chikoo,cricket ball; kalipatti,Generic,0,,Loose fresh,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Pear,Indian; Chinese; imported,Generic,0,,Loose fresh,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Lemon/lime,Indian lime; yellow lemon,Generic,0,,Loose fresh,,1,1,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Coconut,tender; mature,Generic,0,,Loose fresh,,1,1,0
+Grocery & Kitchen,Vegetables & Fruits,Fresh Fruits,Other fruits,custard apple; jamun; fig; amla; jackfruit,Generic,0,,"Loose fresh, seasonal",,3,2,1
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Avocado,Hass; green-skinned,Generic,0,,Fresh by piece,,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Kiwi,green; golden,Generic,0,,Fresh by piece,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Dragon fruit,white flesh; red flesh,Generic,0,,Fresh by piece,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Berries,strawberry; blueberry; blackberry,Generic,0,,Fresh punnets,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Imported grapes,green seedless; red seedless,Generic,0,,Fresh punnets,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Stone fruits,peach; plum; nectarine,Generic,0,,Fresh by weight,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Imported fruit,cherries; passion fruit; persimmon,Generic,0,,Fresh packs,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Exotic vegetables,broccoli; zucchini; asparagus,Generic,0,,Fresh by weight,,3,1,2
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Exotic mushrooms,button; oyster; shiitake,Generic,0,,Fresh packs,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Exotics,Salad vegetables,iceberg lettuce; romaine; celery,Generic,0,,Fresh by bunch/pack,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Coriander leaves,regular; cleaned bunch,Generic,0,,Fresh bunch,,5,1,4
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Mint/pudina,regular; cleaned bunch,Generic,0,,Fresh bunch,,0,0,0
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Curry leaves,regular,Generic,0,,Fresh bunch,,1,1,0
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Green chillies,small hot; long mild,Generic,0,,Fresh loose,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Ginger,regular; young,Generic,0,,Fresh loose,,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Garlic,Indian; large-clove,Generic,0,,Fresh loose,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Lemongrass,fresh stalks,Generic,0,,Fresh bunch,,1,1,0
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Leaf herbs,basil; parsley; dill,Generic,0,,Fresh bunch,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Coriander & Others,Spring onion,regular,Generic,0,,Fresh bunch,,1,1,0
+Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Cut vegetables,mixed curry; stir-fry; sambar,Generic,0,,Unbranded hygienically packed,,3,2,1
+Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Cut fruits,watermelon; papaya; pineapple,Generic,0,,Unbranded hygienically packed,,3,0,3
+Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Fruit bowls,mixed seasonal; tropical,Generic,0,,Unbranded hygienically packed,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Sprouts,green gram/moong; matki/moth; mixed,Generic,0,,Unbranded packed,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Sprout-ready pulses,moong; black chana,Branded + unbranded,2,Tata Sampann; 24 Mantra Organic,Loose/sorted raw grains,Yes,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Freshly Cut & Sprouts,Peeled ingredients,garlic; shallots; grated coconut,Generic,0,,Unbranded hygienically packed,,3,0,3
+Grocery & Kitchen,Vegetables & Fruits,Trusted Organics,Organic vegetables,tomato; potato; leafy greens,Branded + unbranded,2,24 Mantra Organic; Organic Tattva,"Certified organic fresh produce, supplier-identified",Yes,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Trusted Organics,Organic fruits,banana; apple; papaya,Generic,0,,"Certified organic fresh produce, supplier-identified",Yes,3,2,1
+Grocery & Kitchen,Vegetables & Fruits,Trusted Organics,Organic herbs,coriander; mint; curry leaves,Generic,0,,Certified organic bunches,Yes,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Trusted Organics,Organic staples nearby,rice; dal; atta,Branded + unbranded,3,24 Mantra Organic; Organic Tattva; Natureland Organics,Certified organic loose/repacked if permitted,Yes,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Loose flowers,marigold; jasmine; rose,Generic,0,,Fresh by weight,,6,4,2
+Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Garlands,marigold; jasmine; mixed,Generic,0,,Local florist-made,,1,0,1
+Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Pooja leaves,mango leaves; betel leaves; tulsi,Generic,0,,Fresh bunch,,3,2,1
+Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Banana leaves,whole; cut,Generic,0,,Fresh pieces,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Coconut for pooja,whole mature coconut,Generic,0,,Fresh loose,,1,1,0
+Grocery & Kitchen,Vegetables & Fruits,Flowers & Leaves,Floral bunches,roses; chrysanthemums; tuberose,Generic,0,,Fresh bunches,,1,1,0
+Grocery & Kitchen,Vegetables & Fruits,Seasonal,Summer fruits,mango; watermelon; muskmelon,Generic,0,,Loose seasonal,,0,0,0
+Grocery & Kitchen,Vegetables & Fruits,Seasonal,Monsoon produce,jamun; custard apple; colocasia,Generic,0,,Loose seasonal,,1,1,0
+Grocery & Kitchen,Vegetables & Fruits,Seasonal,Winter produce,strawberry; green peas; red carrot,Generic,0,,Loose seasonal,,0,0,0
+Grocery & Kitchen,Vegetables & Fruits,Seasonal,Festival produce,sugarcane; fresh corn; special greens,Generic,0,,Loose seasonal,,2,2,0
+Grocery & Kitchen,Vegetables & Fruits,Seasonal,Seasonal regional fruits,litchi; ber; wood apple,Generic,0,,Loose seasonal,,3,3,0
+Grocery & Kitchen,Vegetables & Fruits,Frozen Veg,Frozen peas,plain; tender,Branded + unbranded,3,Safal; Sumeru; McCain,Unbranded food-grade frozen packs if verified,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Frozen Veg,Frozen sweet corn,kernels; on cob,Branded + unbranded,2,Safal; Sumeru,Unbranded frozen packs if verified,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Frozen Veg,Frozen mixed vegetables,classic mix; stir-fry mix,Branded + unbranded,2,Safal; Sumeru,Unbranded frozen packs if verified,,2,1,1
+Grocery & Kitchen,Vegetables & Fruits,Frozen Veg,Frozen beans/carrot,cut beans; diced carrot,Branded + unbranded,2,Safal; Sumeru,Unbranded frozen packs if verified,,2,0,2
+Grocery & Kitchen,Vegetables & Fruits,Frozen Veg,Frozen spinach/broccoli,leaf spinach; florets,Branded + unbranded,2,Sumeru; Safal,Unbranded frozen packs if verified,,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal",Atta,Whole wheat atta,regular; chakki; multigrain,Branded + unbranded,7,Aashirvaad; Pillsbury; Fortune; Patanjali; Annapurna; Nature Fresh; Organic Tattva,Loose chakki-milled whole wheat,,5,2,3
+Grocery & Kitchen,"Atta, Rice & Dal",Atta,Specialty wheat flour,sharbati; high-fibre,Branded + unbranded,4,Aashirvaad; Pillsbury; Fortune; 24 Mantra Organic,Loose specialty wheat flour,,1,1,0
+Grocery & Kitchen,"Atta, Rice & Dal",Atta,Multigrain atta,wheat + millet mix,Branded + unbranded,4,Aashirvaad; Pillsbury; Fortune; Patanjali,Local fresh-milled multigrain flour,,0,0,0
+Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Sona Masoori,raw; steam; aged,Branded + unbranded,5,Daawat; Fortune; India Gate; bb Royal; Lal Qilla,Loose Telangana/Andhra Sona Masoori,,2,2,0
+Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,HMT rice,raw; steam,Unbranded only,0,,Loose HMT,,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Kolam/surti kolam,regular; aged,Branded + unbranded,1,bb Royal,Loose kolam,,1,0,1
+Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Pon ni/Ponni,raw; boiled,Branded + unbranded,1,Double Horse,Loose Ponni,,1,1,0
+Grocery & Kitchen,"Atta, Rice & Dal",Local Rice,Local premium rice,Telangana fine rice; daily-use white rice,Unbranded only,0,,Loose graded local rice,,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal",Rice,Basmati,classic; everyday; 1121,Branded + unbranded,7,India Gate; Daawat; Lal Qilla; Kohinoor; Fortune; Tilda; Patanjali,Loose graded basmati,,0,0,0
+Grocery & Kitchen,"Atta, Rice & Dal",Rice,Brown rice,basmati; non-basmati,Branded + unbranded,4,India Gate; Daawat; 24 Mantra Organic; bb Royal,Loose brown rice,,4,4,0
+Grocery & Kitchen,"Atta, Rice & Dal",Rice,Rice for idli/dosa,idli rice; parboiled,Branded + unbranded,2,Double Horse; bb Royal,Loose idli rice,,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal",Rice,Red/black rice,red matta; black rice,Branded + unbranded,2,24 Mantra Organic; Organic Tattva,Loose specialty rice,Yes,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal",Dal,Toor/arhar dal,regular; premium,Branded + unbranded,5,Tata Sampann; Fortune; 24 Mantra Organic; Organic Tattva; bb Royal,Loose toor dal by grade,,3,3,0
+Grocery & Kitchen,"Atta, Rice & Dal",Dal,Moong dal,split yellow; split green; whole green,Branded + unbranded,4,Tata Sampann; Fortune; 24 Mantra Organic; bb Royal,Loose moong,,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal",Dal,Masoor dal,split red; whole,Branded + unbranded,4,Tata Sampann; Fortune; Organic Tattva; bb Royal,Loose masoor,,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal",Dal,Urad dal,split white; whole black; split black,Branded + unbranded,4,Tata Sampann; Fortune; 24 Mantra Organic; bb Royal,Loose urad,,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal",Dal,Chana dal,split Bengal gram,Branded + unbranded,4,Tata Sampann; Fortune; Organic Tattva; bb Royal,Loose chana dal,,2,2,0
+Grocery & Kitchen,"Atta, Rice & Dal",Dal,Other pulses,horse gram; cowpea; moth beans,Branded + unbranded,1,24 Mantra Organic,Loose pulses,,3,1,2
+Grocery & Kitchen,"Atta, Rice & Dal","Besan, Sooji & Maida",Besan,regular; coarse,Branded + unbranded,5,Fortune; Aashirvaad; Rajdhani; 24 Mantra Organic; Patanjali,Loose gram flour,,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal","Besan, Sooji & Maida",Sooji/rava,fine; coarse; roasted,Branded + unbranded,5,Aashirvaad; Fortune; Bambino; MTR; Double Horse,Loose semolina,,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal","Besan, Sooji & Maida",Maida,all-purpose; bakery grade,Branded + unbranded,3,Aashirvaad; Fortune; Pillsbury,Loose refined wheat flour,,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal","Besan, Sooji & Maida",Rice flour,regular; fine,Branded + unbranded,3,Double Horse; MTR; 24 Mantra Organic,Loose rice flour,,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal","Besan, Sooji & Maida",Corn flour/corn starch,regular,Branded + unbranded,3,Weikfield; Brown & Polson; Blue Bird,Loose food-grade starch,,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal","Rajma, Chole & Others",Rajma,chitra; red; Jammu,Branded + unbranded,4,Tata Sampann; Fortune; Organic Tattva; bb Royal,Loose rajma,,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal","Rajma, Chole & Others",Kabuli chana,small; bold/large,Branded + unbranded,4,Tata Sampann; Fortune; 24 Mantra Organic; bb Royal,Loose kabuli chana,,2,2,0
+Grocery & Kitchen,"Atta, Rice & Dal","Rajma, Chole & Others",Kala chana,regular; bold,Branded + unbranded,3,Tata Sampann; Fortune; Organic Tattva,Loose brown chickpea,,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal","Rajma, Chole & Others",Lobia/black-eyed peas,regular,Branded + unbranded,2,24 Mantra Organic; bb Royal,Loose cowpea,Yes,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal","Rajma, Chole & Others",White peas,whole; split,Branded + unbranded,1,bb Royal,Loose dried peas,,1,0,1
+Grocery & Kitchen,"Atta, Rice & Dal","Rajma, Chole & Others",Soya chunks,mini; regular; granules,Branded + unbranded,3,Nutrela; Fortune; Patanjali,Loose food-grade soya chunks where traceable,,2,2,0
+Grocery & Kitchen,"Atta, Rice & Dal",Millet & Other Flours,Millets,ragi; jowar; bajra,Branded + unbranded,4,Manna; 24 Mantra Organic; Tata Soulfull; Organic Tattva,Loose millet grain,Yes,4,1,3
+Grocery & Kitchen,"Atta, Rice & Dal",Millet & Other Flours,Millet flours,ragi; jowar; bajra,Branded + unbranded,3,Manna; 24 Mantra Organic; Organic Tattva,Fresh-milled loose flour,,0,0,0
+Grocery & Kitchen,"Atta, Rice & Dal",Millet & Other Flours,Other flour,makki; kuttu; singhara,Branded + unbranded,3,Rajdhani; 24 Mantra Organic; Patanjali,Loose specialty flour,,3,3,0
+Grocery & Kitchen,"Atta, Rice & Dal",Millet & Other Flours,Multimillet mix,mixed grain; dosa/idli mix,Branded + unbranded,3,Manna; Tata Soulfull; Slurrp Farm,Fresh-milled millet blends,,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal",Organics,Organic wheat flour,whole wheat; multigrain,Branded + unbranded,4,24 Mantra Organic; Organic Tattva; Natureland Organics; Phalada Pure & Sure,Certified organic loose/repacked only,Yes,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal",Organics,Organic rice,sona masoori; brown; basmati,Branded + unbranded,3,24 Mantra Organic; Organic Tattva; Natureland Organics,Certified organic bulk rice,Yes,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal",Organics,Organic pulses,toor; moong; chana,Branded + unbranded,3,24 Mantra Organic; Organic Tattva; Natureland Organics,Certified organic bulk pulses,Yes,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal",Organics,Organic grains/millets,ragi; jowar; quinoa,Branded + unbranded,3,24 Mantra Organic; Organic Tattva; Natureland Organics,Certified organic bulk grain,Yes,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal","Poha, Daliya & Others",Poha/flattened rice,thin; medium; thick,Branded + unbranded,4,Tata Sampann; 24 Mantra Organic; bb Royal; Double Horse,Loose graded poha,Yes,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal","Poha, Daliya & Others",Daliya/broken wheat,fine; coarse,Branded + unbranded,4,Tata Sampann; Rajdhani; Manna; 24 Mantra Organic,Loose daliya,,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal","Poha, Daliya & Others",Sabudana,small; medium/large,Branded + unbranded,3,Rajdhani; Tata Sampann; 24 Mantra Organic,Loose tapioca pearls,,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal","Poha, Daliya & Others",Puffed rice/murmura,plain; premium,Branded + unbranded,1,Haldiram's,Loose murmura,,1,0,1
+Grocery & Kitchen,"Atta, Rice & Dal","Poha, Daliya & Others",Rice flakes/millet flakes,red poha; ragi flakes,Branded + unbranded,3,Manna; 24 Mantra Organic; Double Horse,Loose graded flakes,Yes,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal",Summer Specials,Sabja/basil seeds,regular,Branded + unbranded,2,Organic Tattva; 24 Mantra Organic,Loose cleaned sabja,Yes,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal",Summer Specials,Sattu,roasted gram; multigrain,Branded + unbranded,3,Rajdhani; Patanjali; 24 Mantra Organic,Loose roasted-gram flour,,2,1,1
+Grocery & Kitchen,"Atta, Rice & Dal",Summer Specials,Ragi/jowar drinks base,malted mix; plain flour,Branded + unbranded,3,Manna; Slurrp Farm; Tata Soulfull,Loose flour,,2,0,2
+Grocery & Kitchen,"Atta, Rice & Dal",Summer Specials,Roasted chana,whole; split,Branded + unbranded,1,Haldiram's,Loose roasted gram,,1,0,1
+Grocery & Kitchen,"Atta, Rice & Dal",Summer Specials,Jaggery for summer drinks,powder; block,Branded + unbranded,3,24 Mantra Organic; Organic Tattva; Dhampur Green,Loose jaggery,Yes,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Oil,Sunflower oil,refined; high-oleic,Branded + unbranded,6,Fortune; Freedom; Gold Winner; Gemini; Saffola; Sundrop,"Unbranded edible oil only if legitimately packaged, tested and traceable",,2,2,0
+Grocery & Kitchen,"Oil, Ghee & Masala",Oil,Groundnut oil,refined; filtered; cold-pressed,Branded + unbranded,5,Fortune; Dhara; Gemini; Idhayam; Anveshan,Filtered/cold-pressed mill oil with compliant supply,,2,1,1
+Grocery & Kitchen,"Oil, Ghee & Masala",Oil,Mustard oil,kachi ghani; refined,Branded + unbranded,5,Fortune; Dhara; Engine; Emami Healthy & Tasty; Patanjali,"Local cold-pressed mill oil, traceable",,2,2,0
+Grocery & Kitchen,"Oil, Ghee & Masala",Oil,Rice bran oil,refined; blended,Branded + unbranded,4,Fortune; Saffola; Ricela; Emami Healthy & Tasty,Verified mill/refinery packs,,4,2,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Oil,Coconut oil,edible virgin; regular,Branded + unbranded,5,Parachute; KLF Coconad; Maxcare; Anveshan; 24 Mantra Organic,Traceable cold-pressed coconut oil,,2,1,1
+Grocery & Kitchen,"Oil, Ghee & Masala",Oil,Sesame/gingelly oil,white; black,Branded + unbranded,3,Idhayam; Anveshan; 24 Mantra Organic,Traceable local sesame oil,,2,1,1
+Grocery & Kitchen,"Oil, Ghee & Masala",Oil,Olive oil,extra virgin; pomace,Branded only,5,Figaro; Borges; Bertolli; Del Monte; Leonardo,,,2,2,0
+Grocery & Kitchen,"Oil, Ghee & Masala",Oil,Blended oils,heart-care; multi-source,Branded only,3,Saffola; Fortune; Sundrop,,,0,0,0
+Grocery & Kitchen,"Oil, Ghee & Masala",Desi Ghee,Ghee,regular dairy; buffalo; blended by specification,Branded + unbranded,8,Amul; Gowardhan; Mother Dairy; Heritage; Dodla; GRB; Patanjali; Milkfood,Local dairy-made ghee with traceable source,,2,1,1
+Grocery & Kitchen,"Oil, Ghee & Masala",Desi Ghee,Bilona/artisanal ghee,traditional churned,Branded + unbranded,3,Anveshan; Two Brothers Organic Farms; Akshayakalpa,Local farm/dairy ghee with verified processing,Yes,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Cow Ghee,Cow ghee,regular; premium,Branded + unbranded,7,Amul; Gowardhan; Mother Dairy; Heritage; Nandini; Aashirvaad Svasti; GRB,Traceable local cow-milk ghee,,2,1,1
+Grocery & Kitchen,"Oil, Ghee & Masala",Cow Ghee,A2 cow ghee,A2-positioned product,Branded + unbranded,3,Akshayakalpa; Anveshan; Two Brothers Organic Farms,Verified producer-labelled A2 cow ghee,,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Powdered Spices,Everyday powder,turmeric; chilli; coriander; cumin,Branded + unbranded,8,Everest; MDH; Aachi; Eastern; Catch; Tata Sampann; MTR; Goldiee,"Loose mill-ground spice powders, compliant packs",,4,2,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Powdered Spices,Mixed masala,garam masala; kitchen king; sambar; rasam,Branded + unbranded,7,Everest; MDH; Aachi; MTR; Eastern; Badshah; Catch,Local ground masala blends with ingredients,,2,2,0
+Grocery & Kitchen,"Oil, Ghee & Masala",Powdered Spices,Regional powders,rasam; sambar; idli karam; curry powders,Branded + unbranded,6,Aachi; MTR; Eastern; Priya; Sakthi; Everest,Local spice mill blends,,0,0,0
+Grocery & Kitchen,"Oil, Ghee & Masala",Non-Veg Spices,Chicken masala,curry; roast; biryani,Branded + unbranded,7,Everest; Aachi; Eastern; MDH; Shan; Priya; Banne Nawab's,Local mixed chicken masala,,6,3,3
+Grocery & Kitchen,"Oil, Ghee & Masala",Non-Veg Spices,Mutton masala,curry; fry; biryani,Branded + unbranded,5,Everest; Aachi; Eastern; Shan; Banne Nawab's,Local mixed mutton masala,,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Non-Veg Spices,Fish/prawn masala,fish curry; fish fry,Branded + unbranded,5,Aachi; Eastern; Everest; Shan; Sakthi,Local seafood spice mixes,,2,2,0
+Grocery & Kitchen,"Oil, Ghee & Masala",Non-Veg Spices,Biryani masala,Hyderabadi; standard,Branded + unbranded,5,Everest; Shan; Priya; Banne Nawab's; Aachi,Local biryani masala blends,,0,0,0
+Grocery & Kitchen,"Oil, Ghee & Masala","Salt, Sugar & Jaggery",Salt,iodised; low-sodium; rock/pink,Branded + unbranded,5,Tata Salt; Aashirvaad Salt; Catch; Saffola; Patanjali,Loose food-grade salt where compliant; specialty rock salt,,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala","Salt, Sugar & Jaggery",Sugar,white; brown; caster,Branded + unbranded,3,Madhur; Dhampur; Trust,Loose graded sugar,,2,1,1
+Grocery & Kitchen,"Oil, Ghee & Masala","Salt, Sugar & Jaggery",Jaggery,block; powder; liquid,Branded + unbranded,4,24 Mantra Organic; Organic Tattva; Dhampur Green; Patanjali,Loose jaggery blocks/powder,Yes,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala","Salt, Sugar & Jaggery",Sugar substitutes,stevia; sucralose-based,Branded only,2,Sugar Free; Equal,,,2,1,1
+Grocery & Kitchen,"Oil, Ghee & Masala",Whole Spices,Whole basics,cumin; mustard; coriander; fennel; fenugreek,Branded + unbranded,4,Tata Sampann; Catch; Everest; 24 Mantra Organic,Loose cleaned whole spices,,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Whole Spices,Aromatic spices,cloves; cinnamon; cardamom; pepper,Branded + unbranded,4,Catch; Everest; Tata Sampann; Keya,Loose whole spices,,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Whole Spices,Other whole spices,star anise; nutmeg; mace; bay leaf; kalonji,Branded + unbranded,3,Catch; Keya; 24 Mantra Organic,Loose whole spices,,3,3,0
+Grocery & Kitchen,"Oil, Ghee & Masala",Whole Spices,Whole chilli/turmeric,dry red chilli; dry turmeric,Branded + unbranded,4,Aachi; Eastern; Tata Sampann; 24 Mantra Organic,Loose dried chilli and turmeric,,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Gravy Mixes & Pastes,Ginger-garlic paste,regular; garlic-only,Branded + unbranded,5,Dabur Hommade; Mother's Recipe; Priya; Aachi; Smith & Jones,"Fresh/packed local paste, food-safety compliant",,3,1,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Gravy Mixes & Pastes,Tomato puree/paste,puree; concentrate,Branded + unbranded,3,Kissan; Del Monte; Dabur Hommade,Local food-grade puree,,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Gravy Mixes & Pastes,Cooking pastes,onion-tomato; green chilli; tamarind,Branded + unbranded,4,Dabur Hommade; Mother's Recipe; Priya; Aachi,"Local ready-to-cook pastes, traceable",,1,1,0
+Grocery & Kitchen,"Oil, Ghee & Masala",Gravy Mixes & Pastes,Gravy mixes,paneer; curry; makhani,Branded + unbranded,5,MTR; Gits; Kitchens of India; CURRYiT; ITC Master Chef,Local labelled curry mixes,,2,1,1
+Grocery & Kitchen,"Oil, Ghee & Masala",Herbs & Seasoning,Dried herbs,oregano; basil; parsley; thyme,Branded + unbranded,4,Keya; Catch; Urban Platter; Snapin,Loose dried herbs from traceable supplier,,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Herbs & Seasoning,Seasoning blends,mixed herbs; Italian; peri-peri,Branded + unbranded,4,Keya; Catch; Snapin; Veeba,Local labelled seasoning blends,,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Herbs & Seasoning,Table seasonings,pepper; chilli flakes; garlic powder,Branded + unbranded,4,Keya; Catch; Snapin; Urban Platter,"Loose dry seasonings, compliant packs",,2,2,0
+Grocery & Kitchen,"Oil, Ghee & Masala",Organic,Organic ground spices,turmeric; chilli; coriander,Branded + unbranded,4,24 Mantra Organic; Organic Tattva; Natureland Organics; Phalada Pure & Sure,Certified organic bulk ground spices,Yes,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Organic,Organic whole spices,pepper; cumin; cardamom,Branded + unbranded,3,24 Mantra Organic; Organic Tattva; Natureland Organics,Certified organic whole spices,Yes,2,0,2
+Grocery & Kitchen,"Oil, Ghee & Masala",Organic,Organic oils/ghee,coconut; sesame; cow ghee,Branded + unbranded,3,Anveshan; Akshayakalpa; 24 Mantra Organic,Organic claim only where verified,,2,0,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Milk,Fresh milk,toned; double-toned; full cream,Branded + unbranded,7,Amul; Heritage; Dodla; Nandini; Mother Dairy; Godrej Jersey; Vijaya,"Verified local dairy milk, properly labelled",,3,3,0
+Grocery & Kitchen,"Dairy, Bread & Eggs",Milk,Premium milk,A2-positioned; organic,Branded + unbranded,4,Akshayakalpa; Country Delight; Sid's Farm; Pride of Cows,Local farm milk from compliant processors,Yes,2,1,1
+Grocery & Kitchen,"Dairy, Bread & Eggs",Milk,UHT milk,whole; toned; skimmed,Branded only,3,Amul; Mother Dairy; Nestle a+,,,2,2,0
+Grocery & Kitchen,"Dairy, Bread & Eggs",Bread & Pav,Sandwich bread,white; whole wheat; multigrain,Branded + unbranded,5,Britannia; Harvest Gold; Modern; English Oven; The Baker's Dozen,"Local bakery loaves, labelled",,2,0,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Bread & Pav,Specialty bread,brown; sourdough; rye; gluten-free,Branded + unbranded,2,The Baker's Dozen; English Oven,Fresh local bakery breads,,3,1,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Bread & Pav,Pav/buns,ladi pav; burger bun; hot-dog bun,Branded + unbranded,3,Britannia; English Oven; Modern,Local bakery pav/buns,,2,1,1
+Grocery & Kitchen,"Dairy, Bread & Eggs",Bread & Pav,Flatbreads,pita; tortilla wraps; garlic bread,Branded + unbranded,3,English Oven; The Baker's Dozen; Wingreens Farms,Local bakery flatbreads,,2,0,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Eggs,Chicken eggs,regular white; brown; free-range,Branded + unbranded,4,Eggoz; Keggs; Nandu's; Suguna,"Local poultry-farm eggs, graded",,2,0,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Eggs,Specialty eggs,omega-3-positioned; country/desi,Branded + unbranded,3,Eggoz; Keggs; Happy Hens,Local desi eggs from traceable farm,,2,0,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Eggs,Quail eggs,regular,Unbranded only,0,,Local farm eggs,,1,1,0
+Grocery & Kitchen,"Dairy, Bread & Eggs",Curd & Yogurt,Curd/dahi,regular; thick; low-fat,Branded + unbranded,7,Amul; Heritage; Dodla; Milky Mist; Mother Dairy; Nandini; Godrej Jersey,"Local dairy curd, properly labelled",,2,1,1
+Grocery & Kitchen,"Dairy, Bread & Eggs",Curd & Yogurt,Yogurt,plain; Greek; flavoured,Branded + unbranded,5,Epigamia; Milky Mist; Amul; Nestle a+; Akshayakalpa,Local plain cultured yogurt if compliant,,2,2,0
+Grocery & Kitchen,"Dairy, Bread & Eggs",Curd & Yogurt,Probiotic products,probiotic yogurt; drinks,Branded only,3,Yakult; Epigamia; Mother Dairy,,,2,1,1
+Grocery & Kitchen,"Dairy, Bread & Eggs",Cheese & Butter,Processed cheese,slices; cubes; spread,Branded + unbranded,5,Amul; Britannia; Go Cheese; Milky Mist; Mother Dairy,"Local food-grade dairy cheese, verified",,3,2,1
+Grocery & Kitchen,"Dairy, Bread & Eggs",Cheese & Butter,Natural cheese,mozzarella; cheddar; feta,Branded + unbranded,4,Amul; Milky Mist; Dlecta; Go Cheese,"Artisan/local dairy cheese, properly labelled",,2,0,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Cheese & Butter,Butter,salted; unsalted; white butter,Branded + unbranded,5,Amul; Britannia; Mother Dairy; Milky Mist; Nandini,"Local makkhan/white butter, compliant cold chain",,2,2,0
+Grocery & Kitchen,"Dairy, Bread & Eggs",Cheese & Butter,Margarine/spreads,regular; low-fat spreads,Branded only,3,Nutralite; Amul; Delite,,,1,0,1
+Grocery & Kitchen,"Dairy, Bread & Eggs",Batter,Idli-dosa batter,regular; multi-grain,Branded + unbranded,3,iD Fresh; MTR; Anil,Fresh local batter from compliant producers,,3,1,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Batter,Ragi/millet batter,ragi; millet blend,Branded + unbranded,1,iD Fresh,Local compliant millet batter,,0,0,0
+Grocery & Kitchen,"Dairy, Bread & Eggs",Paneer & Tofu,Paneer,regular; low-fat; high-protein,Branded + unbranded,8,Amul; Milky Mist; Heritage; Dodla; Mother Dairy; Nandini; Akshayakalpa; iD Fresh,"Local dairy paneer, cold-chain compliant",,2,2,0
+Grocery & Kitchen,"Dairy, Bread & Eggs",Paneer & Tofu,Tofu,firm; silken; smoked,Branded + unbranded,4,Soyfit; Health On Plants; Milky Mist Briyas; Urban Platter,Local tofu from verified food producers,,2,0,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Paneer & Tofu,Khoa/mawa,regular,Branded + unbranded,2,Amul; Milky Mist,Local khoa with cold-chain control,,2,1,1
+Grocery & Kitchen,"Dairy, Bread & Eggs",Soy Milk & More,Soy milk,unsweetened; original; flavoured,Branded only,4,Sofit; Silk; So Good; Hershey's Sofit,,,2,0,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Soy Milk & More,Almond milk,unsweetened; vanilla,Branded only,3,Epigamia; Raw Pressery; So Good,,,2,1,1
+Grocery & Kitchen,"Dairy, Bread & Eggs",Soy Milk & More,Oat/coconut beverages,original; barista,Branded only,4,Oatly; Alt Co.; So Good; Epigamia,,,2,1,1
+Grocery & Kitchen,"Dairy, Bread & Eggs",Lassi & Milkshakes,Lassi,sweet; salted; mango,Branded + unbranded,5,Amul; Heritage; Mother Dairy; Nandini; Milky Mist,Local bottled lassi from verified dairy,,3,1,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Lassi & Milkshakes,Buttermilk/chaas,plain; masala,Branded + unbranded,5,Amul; Heritage; Mother Dairy; Nandini; Dodla,Local compliant chaas,,2,2,0
+Grocery & Kitchen,"Dairy, Bread & Eggs",Lassi & Milkshakes,Milkshakes,chocolate; strawberry; vanilla,Branded only,4,Amul; Cavin's; Hershey's; Britannia Winkin' Cow,,,1,1,0
+Grocery & Kitchen,"Dairy, Bread & Eggs",Cream & Whitener,Fresh cream,dairy fresh; whipping,Branded + unbranded,4,Amul; Milky Mist; Dlecta; Mother Dairy,"Local dairy cream, properly labelled",,2,2,0
+Grocery & Kitchen,"Dairy, Bread & Eggs",Cream & Whitener,Whipping/non-dairy topping,whipping; cooking,Branded only,3,Rich's; Tropolite; Amul,,,2,0,2
+Grocery & Kitchen,"Dairy, Bread & Eggs",Cream & Whitener,Milk powder/whitener,skimmed milk powder; dairy whitener,Branded + unbranded,4,Nestle Everyday; Amul; Britannia; Mother Dairy,Traceable bulk milk powder where compliant,,2,1,1
+Grocery & Kitchen,Bakery & Biscuits,Cookies,Butter/cashew cookies,butter; cashew; pista,Branded + unbranded,5,Britannia Good Day; Unibic; Parle; Sunfeast; Bisk Farm,Local bakery cookies,,2,1,1
+Grocery & Kitchen,Bakery & Biscuits,Cookies,Chocolate cookies,chips; cocoa; filled,Branded + unbranded,5,Parle Hide & Seek; Britannia; Unibic; Sunfeast Dark Fantasy; Oreo,Local bakery chocolate cookies,,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Cookies,Oat/millet cookies,oats; ragi; multigrain,Branded + unbranded,4,Britannia NutriChoice; Tata Soulfull; Sunfeast; Early Foods,"Local baker-made cookies, labelled",,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Cream Biscuits,Sandwich cream biscuits,vanilla; chocolate; orange,Branded + unbranded,5,Britannia Treat; Parle; Sunfeast; Oreo; Dukes,"Local bakery cream biscuits, labelled",,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Cream Biscuits,Filled/premium cream biscuits,strawberry; bourbon,Branded + unbranded,4,Britannia Bourbon; Sunfeast Dark Fantasy; Parle Bourbon; Oreo,Local bakery filled biscuits,,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Healthy & Digestive,Digestive biscuits,wheat; oats; sugar-conscious,Branded + unbranded,4,Britannia NutriChoice; McVitie's; Sunfeast Farmlite; Parle,Local wholegrain biscuits with compliant claims,,2,1,1
+Grocery & Kitchen,Bakery & Biscuits,Healthy & Digestive,Multigrain/millet biscuits,ragi; high-fibre,Branded + unbranded,4,Tata Soulfull; Britannia; Early Foods; Slurrp Farm,Local millet biscuits,,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Sweet & Salty,Salted crackers,classic; jeera; ajwain,Branded + unbranded,4,Britannia 50-50; Parle Krackjack; Sunfeast; Monaco,Local bakery crackers,,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Sweet & Salty,Sweet-salty biscuits,sweet/salted; cheese,Branded + unbranded,4,Britannia 50-50; Parle; Unibic; Dukes,Local bakery sweet-salty biscuits,,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Glucose & Marie,Glucose biscuits,regular; fortified variants,Branded + unbranded,4,Parle-G; Britannia Tiger; Sunfeast; Priya Gold,Local plain glucose biscuits,,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Glucose & Marie,Marie biscuits,classic; gold; oats,Branded + unbranded,4,Britannia Marie Gold; Parle Marie; Sunfeast Marie Light; McVitie's,Local Marie biscuits,,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Rusks & Wafers,Rusk/toast,milk; elaichi; whole wheat,Branded + unbranded,5,Britannia; Parle; Elite; English Oven; Unibic,Local bakery rusks,,2,2,0
+Grocery & Kitchen,Bakery & Biscuits,Rusks & Wafers,Wafer biscuits,chocolate; vanilla; strawberry,Branded + unbranded,5,Nestle Munch; KitKat; Dukes; Loacker; Sunfeast,Local wafer biscuits if compliant,,2,1,1
+Grocery & Kitchen,Bakery & Biscuits,Cakes & Rolls,Packaged cake,vanilla; chocolate; fruit,Branded + unbranded,4,Britannia; Monginis; Winkies; Sunfeast,Local bakery slices/loaves,,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Cakes & Rolls,Swiss rolls/cake rolls,chocolate; vanilla,Branded + unbranded,3,Britannia; Monginis; Winkies,Local bakery rolls,,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Cakes & Rolls,Muffins/cupcakes,chocolate; blueberry; vanilla,Branded + unbranded,2,Monginis; Britannia,Fresh local bakery packs,,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Baking Ingredients,Leaveners,baking powder; baking soda; yeast,Branded + unbranded,4,Weikfield; Blue Bird; Urban Platter; Blue Bird,Loose food-grade baking ingredients if compliant,,2,1,1
+Grocery & Kitchen,Bakery & Biscuits,Baking Ingredients,Baking flavour,vanilla essence; cocoa powder,Branded + unbranded,4,Weikfield; Hershey's; Cadbury; Blue Bird,Traceable cocoa/essence packs,,2,1,1
+Grocery & Kitchen,Bakery & Biscuits,Baking Ingredients,Cake decorations,sprinkles; choco chips; icing sugar,Branded + unbranded,4,Urban Platter; Weikfield; Puratos; Bakersville,"Local bakery-supply packs, labelled",,2,0,2
+Grocery & Kitchen,Bakery & Biscuits,Baking Ingredients,Flours/mixes,bread flour; cake mix; brownie mix,Branded + unbranded,4,Pillsbury; Betty Crocker; Weikfield; FunFoods,Fresh mill flour; labelled cake mixes,,2,2,0
+Grocery & Kitchen,Bakery & Biscuits,Gourmet Bakery,Artisan bread,sourdough; baguette; focaccia,Branded + unbranded,1,The Baker's Dozen,Fresh artisanal bakery bread,,1,0,1
+Grocery & Kitchen,Bakery & Biscuits,Gourmet Bakery,Gourmet pastry,croissant; Danish; cinnamon roll,Branded + unbranded,1,Theobroma,Fresh artisanal pastry,,1,0,1
+Grocery & Kitchen,Bakery & Biscuits,Gourmet Bakery,Premium cookies,almond; butter; chocolate chunk,Branded + unbranded,2,Unibic; Theobroma,Fresh artisanal cookies,,2,1,1
+Grocery & Kitchen,Bakery & Biscuits,Biscuit Gift Pack,Assorted biscuit boxes,cookie assortment; family packs,Branded + unbranded,4,Britannia; Parle; Unibic; Sunfeast,Local sealed bakery assortments,,3,0,3
+Grocery & Kitchen,Bakery & Biscuits,Biscuit Gift Pack,Premium cookie hampers,butter cookie; gourmet assortments,Branded + unbranded,2,Unibic; Theobroma,Local gift hampers with declared contents,,1,0,1
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruits,Almonds,California; Mamra; Gurbandi,Branded + unbranded,5,Happilo; Farmley; Nutraj; Rostaa; Vedaka,Loose graded almonds,,2,1,1
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruits,Cashews,W240; W320; split,Branded + unbranded,5,Happilo; Farmley; Nutraj; Rostaa; Tulsi,Loose graded cashews,,2,1,1
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruits,Raisins,green; golden; black,Branded + unbranded,4,Happilo; Farmley; Nutraj; Tulsi,Loose sorted raisins,,2,2,0
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruits,Pistachios,salted; plain,Branded + unbranded,4,Happilo; Farmley; Nutraj; Rostaa,Loose graded pistachios,,2,1,1
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruits,Walnuts,kernels; in-shell,Branded + unbranded,4,Happilo; Nutraj; Farmley; Rostaa,Loose graded walnuts,,2,1,1
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruits,Figs/apricots,dried fig; dried apricot,Branded + unbranded,4,Happilo; Farmley; Nutraj; Rostaa,Loose dried fruits,,2,0,2
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruits,Other nuts,macadamia; pecan; hazelnut,Branded + unbranded,3,Happilo; Farmley; Urban Platter,Loose selected nuts,,3,0,3
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruits Snacks,Roasted nuts,almonds; cashews; pistachios,Branded + unbranded,5,Happilo; Farmley; Nutraj; Rostaa; Open Secret,Loose roasted nuts from compliant processor,,2,0,2
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruits Snacks,Trail mix,fruit-nut; berry; seed mix,Branded + unbranded,4,Happilo; Farmley; RiteBite; Eat Better,Loose custom mix with traceable ingredients,,1,0,1
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruits Snacks,Coated nuts,chocolate; masala; honey,Branded + unbranded,4,Happilo; Farmley; Tong Garden; Nutraj,Local coated-nut packs if compliant,,2,0,2
+Grocery & Kitchen,Dry Fruits & Cereals,Corn Flakes & Kids Cereals,Corn flakes,original; honey,Branded + unbranded,4,Kellogg's; Bagrry's; Nestle; Tata Soulfull,Bulk breakfast flakes from compliant packer,,2,2,0
+Grocery & Kitchen,Dry Fruits & Cereals,Corn Flakes & Kids Cereals,Kids cereals,chocolate; fruit; multigrain,Branded only,4,Kellogg's; Nestle Koko Krunch; Tata Soulfull; Slurrp Farm,,,2,0,2
+Grocery & Kitchen,Dry Fruits & Cereals,Corn Flakes & Kids Cereals,Chocos/cereal pillows,chocolate; filled,Branded only,3,Kellogg's Chocos; Tata Soulfull; Nestle,,,2,0,2
+Grocery & Kitchen,Dry Fruits & Cereals,Muesli & Granola,Muesli,fruit & nut; no added sugar; multigrain,Branded + unbranded,5,Bagrry's; Kellogg's; Yoga Bar; True Elements; Saffola,"Locally blended muesli, labelled",,2,2,0
+Grocery & Kitchen,Dry Fruits & Cereals,Muesli & Granola,Granola,honey; chocolate; protein,Branded + unbranded,5,Yoga Bar; True Elements; Bagrry's; The Whole Truth; Kellogg's,"Locally blended granola, labelled",,2,1,1
+Grocery & Kitchen,Dry Fruits & Cereals,Oats & Daliya,Oats,rolled; instant; steel-cut,Branded + unbranded,5,Quaker; Saffola; Kellogg's; Bagrry's; True Elements,Loose oats from traceable packers,,2,2,0
+Grocery & Kitchen,Dry Fruits & Cereals,Oats & Daliya,Masala oats,classic; veggie,Branded only,3,Saffola; Quaker; Kellogg's,,,2,1,1
+Grocery & Kitchen,Dry Fruits & Cereals,Oats & Daliya,Broken wheat/daliya,fine; coarse,Branded + unbranded,4,Tata Sampann; Rajdhani; Manna; 24 Mantra Organic,Loose daliya,,2,0,2
+Grocery & Kitchen,Dry Fruits & Cereals,Dates,Dates,Kimia; Medjool; Safawi,Branded + unbranded,5,Lion Dates; Date Crown; Happilo; Nutraj; Rostaa,Loose graded dates,,1,0,1
+Grocery & Kitchen,Dry Fruits & Cereals,Dates,Dates products,seedless; chopped; date paste,Branded + unbranded,4,Lion Dates; Date Crown; Happilo; Farmley,Loose pitted dates; compliant paste,,3,1,2
+Grocery & Kitchen,Dry Fruits & Cereals,Seeds,Edible seeds,chia; flax; pumpkin,Branded + unbranded,5,True Elements; Yoga Bar; Farmley; 24 Mantra Organic; Nutraj,Loose graded food-grade seeds,,4,2,2
+Grocery & Kitchen,Dry Fruits & Cereals,Seeds,Edible seeds,sunflower; sesame; watermelon,Branded + unbranded,3,True Elements; Farmley; Organic Tattva,Loose graded seeds,,4,2,2
+Grocery & Kitchen,Dry Fruits & Cereals,Seeds,Seed blends,five-seed; roasted seed mix,Branded + unbranded,4,True Elements; Yoga Bar; Farmley; Happilo,Locally packed verified blends,,2,2,0
+Grocery & Kitchen,Dry Fruits & Cereals,Vermicelli & Poha,Vermicelli,plain; roasted; rice,Branded + unbranded,5,Bambino; MTR; Anil; Double Horse; Aachi,Loose food-grade vermicelli,,2,2,0
+Grocery & Kitchen,Dry Fruits & Cereals,Vermicelli & Poha,Poha,thick; thin; red,Branded + unbranded,4,Tata Sampann; 24 Mantra Organic; bb Royal; Double Horse,Loose poha,Yes,2,1,1
+Grocery & Kitchen,Dry Fruits & Cereals,Vermicelli & Poha,Semiya dessert mix,kheer; payasam,Branded + unbranded,4,MTR; Bambino; Gits; Double Horse,Local labelled dry semiya,,2,0,2
+Grocery & Kitchen,Dry Fruits & Cereals,Organic & Premium,Organic nuts,almonds; cashews; raisins,Branded + unbranded,3,24 Mantra Organic; Organic Tattva; Natureland Organics,Certified organic bulk dry fruits,Yes,2,0,2
+Grocery & Kitchen,Dry Fruits & Cereals,Organic & Premium,Premium cereal,steel-cut oats; imported granola,Branded + unbranded,4,Bagrry's; True Elements; Yoga Bar; Kellogg's,Traceable premium cereals,,2,1,1
+Grocery & Kitchen,Dry Fruits & Cereals,Organic & Premium,Premium seeds,chia; hemp; pumpkin,Branded + unbranded,3,True Elements; Urban Platter; Organic Tattva,Graded bulk seeds,,2,0,2
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruit Gift Packs,Mixed dry fruit gift boxes,almonds; cashews; pista; raisins,Branded + unbranded,5,Happilo; Farmley; Nutraj; Rostaa; Tulsi,Local mixed dry-fruit boxes with disclosed contents,,2,0,2
+Grocery & Kitchen,Dry Fruits & Cereals,Dry Fruit Gift Packs,Premium nut hampers,roasted assortments; luxury tins,Branded + unbranded,3,Happilo; Farmley; Nutraj,Local processor gift hampers,,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Fresh Meat,Chicken,whole; curry cut; boneless; breast; drumsticks,Branded + unbranded,5,Licious; FreshToHome; Nandu's; Suguna; TenderCuts,Local licensed poultry processor/butcher,,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Fresh Meat,Chicken offal,liver; gizzard,Branded + unbranded,2,Licious; FreshToHome,Local licensed meat supplier,,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Fresh Meat,Other poultry,duck; turkey (specialty),Generic,0,,Licensed local poultry supplier,,2,2,0
+Grocery & Kitchen,"Chicken, Meat & Fish",Fish & Seafood,Fresh fish,rohu; catla; tilapia,Branded + unbranded,2,Licious; FreshToHome,Fresh fish from licensed supplier,,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Fish & Seafood,Coastal fish,seer/vanjaram; pomfret; mackerel,Branded + unbranded,2,Licious; FreshToHome,Fresh fish from licensed supplier,,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Fish & Seafood,Seafood,prawns; crab; squid,Branded + unbranded,2,Licious; FreshToHome,Traceable seafood by size/grade,,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Fish & Seafood,Frozen fish,fillets; prawns,Branded + unbranded,3,ITC Master Chef; Licious; FreshToHome,Frozen seafood from verified processor,,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Mutton,Goat meat,curry cut; boneless; mince,Branded + unbranded,2,Licious; FreshToHome,Local licensed butcher/processor,,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Mutton,Sheep meat,curry cut; boneless,Generic,0,,Local licensed butcher,,2,1,1
+Grocery & Kitchen,"Chicken, Meat & Fish",Mutton,Mutton offal,liver; trotters,Generic,0,,Local licensed butcher,,2,1,1
+Grocery & Kitchen,"Chicken, Meat & Fish",Frozen Non-Veg Snacks,Chicken snacks,nuggets; popcorn; fingers,Branded + unbranded,5,Yummiez; ITC Master Chef; Venky's; Godrej Yummiez; Sumeru,Frozen snacks from licensed processor,,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Frozen Non-Veg Snacks,Chicken kebabs,seekh; shammi; tikka,Branded + unbranded,4,Licious; ITC Master Chef; Sumeru; Al Kabeer,Frozen kebabs from licensed processor,,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Frozen Non-Veg Snacks,Fish/prawn snacks,fish fingers; prawn bites,Branded + unbranded,3,ITC Master Chef; Sumeru; Al Kabeer,Frozen seafood snacks from processor,,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Non-Veg Spices,Meat spice mixes,chicken curry; mutton masala; fish fry,Branded + unbranded,6,Everest; Aachi; Eastern; Shan; Banne Nawab's; Priya,Local spice-mill blends with ingredients,,0,0,0
+Grocery & Kitchen,"Chicken, Meat & Fish",Non-Veg Spices,Marinades,tandoori; tikka; kebab,Branded + unbranded,4,Shan; Everest; Keya; Urban Platter,Compliant local marinade blends,,0,0,0
+Grocery & Kitchen,"Chicken, Meat & Fish","Sausage, Salami & Ham",Sausages,chicken; pork,Branded + unbranded,5,Prasuma; Meatzza; Venky's; Licious; Al Kabeer,"Fresh local processed meat, licensed",,2,1,1
+Grocery & Kitchen,"Chicken, Meat & Fish","Sausage, Salami & Ham",Salami,chicken; pork,Branded + unbranded,3,Prasuma; Meatzza; Licious,"Fresh local processed meat, licensed",,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish","Sausage, Salami & Ham",Ham/bacon,pork ham; bacon,Branded + unbranded,2,Prasuma; Meatzza,"Fresh local processed meat, licensed",,2,0,2
+Grocery & Kitchen,"Chicken, Meat & Fish",Eggs,Chicken eggs,white; brown; desi,Branded + unbranded,4,Eggoz; Keggs; Suguna; Nandu's,Local traceable poultry eggs,,0,0,0
+Grocery & Kitchen,"Chicken, Meat & Fish",Eggs,Specialty eggs,free-range; omega-3-positioned,Branded + unbranded,2,Eggoz; Keggs,Local graded specialty eggs,,0,0,0
+Grocery & Kitchen,Kitchenware & Appliances,Bottles & Flasks,Water bottles,plastic/BPA-free; steel; glass,Branded + unbranded,5,Milton; Cello; Signoraware; Tupperware; Borosil,"Local unbranded bottles, verified materials",Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Bottles & Flasks,Insulated flasks,steel vacuum; food flask,Branded + unbranded,4,Milton; Cello; Borosil; Prestige,Verified nonbranded flasks,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Kitchen Accessories,Daily tools,peeler; grater; strainer; ladle,Branded + unbranded,4,Prestige; Pigeon; Wonderchef; Borosil,Local steel/silicone kitchen tools,Yes,3,0,3
+Grocery & Kitchen,Kitchenware & Appliances,Kitchen Accessories,Other accessories,funnels; measuring spoons; sieves,Branded + unbranded,3,Milton; Pigeon; Wonderchef,Generic kitchen accessories,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Mugs & Glasses,Drinking glasses,steel; glass; tumblers,Branded + unbranded,4,Borosil; Cello; Ocean; Milton,Local steel/glass tumblers,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Mugs & Glasses,Mugs,coffee; tea; travel,Branded + unbranded,4,Borosil; Cello; Milton; La Opala,Local ceramic/steel mugs,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Cookware & Sets,Cookware,kadai; tawa; fry pan,Branded + unbranded,5,Prestige; Hawkins; Pigeon; Wonderchef; Vinod,"Generic steel/iron cookware, specification verified",Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Cookware & Sets,Pressure cookers,steel; aluminium; induction base,Branded + unbranded,4,Prestige; Hawkins; Pigeon; Butterfly,Compliant local cooker brands only,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Cookware & Sets,Pots/sets,saucepan; handi; cookware set,Branded + unbranded,4,Prestige; Vinod; Bergner; Wonderchef,Generic cookware by material,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Storage & Containers,Storage boxes,plastic; steel; glass,Branded + unbranded,5,Milton; Cello; Signoraware; Tupperware; Borosil,Generic food-grade containers,Yes,3,0,3
+Grocery & Kitchen,Kitchenware & Appliances,Storage & Containers,Jars,spice jars; cereal jars; lunch prep,Branded + unbranded,3,Borosil; Cello; Milton,"Generic jars, material verified",Yes,1,0,1
+Grocery & Kitchen,Kitchenware & Appliances,Barware,Bar tools,shakers; measures; strainers,Branded + unbranded,3,Borosil; Ocean; Pigeon,Generic stainless-steel tools,Yes,1,0,1
+Grocery & Kitchen,Kitchenware & Appliances,Barware,Glassware,highball; cocktail; shot glasses,Branded + unbranded,3,Ocean; Borosil; Luminarc,Generic glassware,Yes,3,0,3
+Grocery & Kitchen,Kitchenware & Appliances,Barware,Ice accessories,buckets; tongs; moulds,Branded + unbranded,3,Milton; Cello; Borosil,Generic food-grade ice tools,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Lunch Boxes,Lunch boxes,steel; plastic; insulated,Branded + unbranded,5,Milton; Cello; Tupperware; Borosil; Signoraware,Generic food-grade lunch boxes,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Lunch Boxes,Kids lunch boxes,compartment; leak-resistant,Branded + unbranded,3,Milton; Cello; Signoraware,Generic children lunch boxes,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Cutting & Chopping,Knives,chef; utility; paring,Branded + unbranded,4,Victorinox; Prestige; Pigeon; Wonderchef,Generic knives with material specification,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Cutting & Chopping,Chopping boards,wood; plastic; bamboo,Branded + unbranded,4,Joseph Joseph; IKEA; Pigeon; Wonderchef,Local wood/bamboo boards,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Cutting & Chopping,Choppers,manual; electric,Branded + unbranded,4,Pigeon; Prestige; Wonderchef; Borosil,Generic manual choppers,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Dining & Serveware,Dining sets,plates; bowls; thalis,Branded + unbranded,5,La Opala; Corelle; Borosil; Cello; Milton,Local stainless-steel/ceramic tableware,Yes,3,1,2
+Grocery & Kitchen,Kitchenware & Appliances,Dining & Serveware,Serving ware,trays; casseroles; serving bowls,Branded + unbranded,4,Milton; Borosil; Cello; La Opala,Generic serving ware,Yes,1,0,1
+Grocery & Kitchen,Kitchenware & Appliances,Dining & Serveware,Cutlery,spoons; forks; knives,Branded + unbranded,4,Vinod; Borosil; Cello; Prestige,Generic food-safe steel cutlery,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Kitchen Appliances,Mixer/grinder,mixer; blender; chutney grinder,Branded + unbranded,6,Preethi; Philips; Bajaj; Sujata; Butterfly; Prestige,Certified local appliance brands only,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Kitchen Appliances,Cooking appliances,induction; electric kettle; rice cooker,Branded + unbranded,5,Prestige; Pigeon; Bajaj; Philips; Butterfly,Certified local appliance brands only,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Kitchen Appliances,Other appliances,toaster; sandwich maker; juicer,Branded + unbranded,5,Philips; Bajaj; Prestige; Wonderchef; Borosil,Certified local appliance brands only,Yes,3,0,3
+Grocery & Kitchen,Kitchenware & Appliances,Tissues & Disposables,Tissues,facial; kitchen roll; napkins,Branded + unbranded,5,Origami; Premier; Selpak; Kleenex; Scott,Generic paper tissues,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Tissues & Disposables,Disposables,paper plates; cups; bowls,Branded + unbranded,3,CHUK; Ecoware; Dinearth,Generic food-contact-safe disposables,Yes,2,0,2
+Grocery & Kitchen,Kitchenware & Appliances,Tissues & Disposables,Wraps,aluminium foil; cling wrap; baking paper,Branded + unbranded,2,Freshwrapp; Oddy,Food-grade nonbranded rolls,Yes,2,0,2
+Snacks & Drinks,Chips & Namkeen,Chips & Wafers,Potato chips,salted; masala; cream/onion,Branded + unbranded,6,Lay's; Bingo!; Balaji Wafers; Uncle Chipps; Haldiram's; Too Yumm!,"Local fried potato wafers, hygienically packed",,3,2,1
+Snacks & Drinks,Chips & Namkeen,Chips & Wafers,Banana/tapioca chips,salted; chilli; Kerala-style,Branded + unbranded,3,Haldiram's; A1 Chips; Beyond Snack,Local banana/tapioca chips,,2,0,2
+Snacks & Drinks,Chips & Namkeen,Chips & Wafers,Corn/rice snacks,puffed; extruded,Branded + unbranded,4,Kurkure; Bingo!; Balaji; Cheetos,Locally made packaged extruded snacks,,1,0,1
+Snacks & Drinks,Chips & Namkeen,Bhujia & Mixtures,Bhujia,aloo; bikaneri; sev,Branded + unbranded,6,Haldiram's; Bikaji; Bikanervala; Balaji; Aakash; Gopal,Loose namkeen from labelled local processors,,2,2,0
+Snacks & Drinks,Chips & Namkeen,Bhujia & Mixtures,Mixture,Bombay; South Indian; Navratan,Branded + unbranded,5,Haldiram's; Bikaji; Balaji; Aakash; Haldiram's Nagpur,"Local namkeen mixture, packaged",,2,0,2
+Snacks & Drinks,Chips & Namkeen,Bhujia & Mixtures,Sev,plain; ratlami; masala,Branded + unbranded,4,Haldiram's; Bikaji; Balaji; Gopal,Locally processed sev,,2,1,1
+Snacks & Drinks,Chips & Namkeen,Namkeen Snacks,Savoury snacks,moong dal; chana dal; peanuts,Branded + unbranded,5,Haldiram's; Bikaji; Balaji; Aakash; Jabsons,"Loose roasted/fried namkeen, compliant packs",,2,2,0
+Snacks & Drinks,Chips & Namkeen,Namkeen Snacks,Regional savouries,murukku; chakli; khakhra,Branded + unbranded,3,MTR; A1 Chips; Haldiram's,Local packed traditional savouries,,2,0,2
+Snacks & Drinks,Chips & Namkeen,Nachos,Tortilla chips,salted; cheese; chilli,Branded + unbranded,4,Doritos; Cornitos; Too Yumm!; Bingo!,Local labelled tortilla chips,,2,2,0
+Snacks & Drinks,Chips & Namkeen,Nachos,Nacho kits,chips with salsa/cheese dip,Branded only,3,Cornitos; Doritos; Veeba,,,2,2,0
+Snacks & Drinks,Chips & Namkeen,Healthy Snacks,Roasted snack,makhana; chana; peanuts,Branded + unbranded,6,Farmley; Happilo; Saffola; Too Yumm!; Open Secret; RiteBite,Loose roasted makhana/chana from verified processor,,2,0,2
+Snacks & Drinks,Chips & Namkeen,Healthy Snacks,Protein/millet snack,protein chips; millet puffs,Branded + unbranded,4,RiteBite Max Protein; Tata Soulfull; Slurrp Farm; The Whole Truth,Local packaged millet snacks,,2,0,2
+Snacks & Drinks,Chips & Namkeen,Healthy Snacks,Seed/nut snacks,trail mix; seed mix,Branded + unbranded,4,Farmley; Yoga Bar; True Elements; Happilo,Locally blended traceable mixes,,2,0,2
+Snacks & Drinks,Chips & Namkeen,Popcorn,Ready-to-eat popcorn,salted; cheese; caramel,Branded + unbranded,4,4700BC; ACT II; Popcorn & Company; Too Yumm!,Local fresh popcorn in sealed packs,,2,0,2
+Snacks & Drinks,Chips & Namkeen,Popcorn,Microwave popcorn,butter; classic salted,Branded only,3,ACT II; 4700BC; Popcorn & Company,,,2,1,1
+Snacks & Drinks,Chips & Namkeen,Popcorn,Popcorn kernels,regular; mushroom kernels,Branded + unbranded,2,ACT II; Urban Platter,Loose food-grade popcorn maize,,2,0,2
+Snacks & Drinks,Chips & Namkeen,Papad & Fryums,Papad,urad; moong; rice,Branded + unbranded,5,Lijjat; Haldiram's; Mother's Recipe; Priya; MTR,"Local handmade papad, properly labelled",,2,0,2
+Snacks & Drinks,Chips & Namkeen,Papad & Fryums,Fryums,wheel; tube; alphabet,Branded + unbranded,1,Bambino,Loose food-grade fryums,,1,0,1
+Snacks & Drinks,Chips & Namkeen,Premium,Premium chips,kettle; baked; imported,Branded + unbranded,5,Pringles; Cornitos; BRB; Beyond Snack; TagZ,"Premium local handmade chips, labelled",Yes,2,1,1
+Snacks & Drinks,Chips & Namkeen,Premium,Premium nut snacks,truffle; chilli; rosemary,Branded + unbranded,3,Happilo; Farmley; Tong Garden,Local flavoured premium nuts,,2,0,2
+Snacks & Drinks,Chips & Namkeen,Gift Packs,Namkeen hampers,savoury assortments,Branded + unbranded,4,Haldiram's; Bikaji; Bikanervala; Balaji,Local maker gift packs with contents labelled,,2,0,2
+Snacks & Drinks,Chips & Namkeen,Gift Packs,Snack combos,chips; nuts; trail mix,Branded + unbranded,4,Farmley; Happilo; Haldiram's; Too Yumm!,Locally assembled sealed combo packs,,2,0,2
+Snacks & Drinks,Sweets & Chocolates,Chocolates,Milk chocolates,plain; nut; fruit & nut,Branded + unbranded,5,Cadbury Dairy Milk; Nestle; Amul; Hershey's; Galaxy,Local licensed confectionery maker (not loose unlabelled),,2,1,1
+Snacks & Drinks,Sweets & Chocolates,Chocolates,Chocolate bars,wafer; caramel; peanut,Branded only,7,KitKat; Munch; 5 Star; Perk; Snickers; Mars; Fuse,,,2,1,1
+Snacks & Drinks,Sweets & Chocolates,Chocolates,Dark chocolates,45-70%+; assorted,Branded + unbranded,5,Cadbury Bournville; Amul; Lindt; Hershey's; The Whole Truth,Local artisanal packaged dark chocolate,,2,1,1
+Snacks & Drinks,Sweets & Chocolates,Chocolates,Kids chocolate,surprise/toy; coated candies,Branded only,4,Kinder Joy; Cadbury Gems; M&M's; Nestle,,,2,0,2
+Snacks & Drinks,Sweets & Chocolates,Chocolate Packs,Share packs,mini bars; assorted chocolate,Branded + unbranded,5,Cadbury; Nestle; Mars; Hershey's; Amul,Local sealed assorted chocolate packs,,3,1,2
+Snacks & Drinks,Sweets & Chocolates,Chocolate Packs,Family packs,multiple single bars; bite-size,Branded only,4,Cadbury; KitKat; Snickers; Munch,,,1,0,1
+Snacks & Drinks,Sweets & Chocolates,Chocolate Gift Pack,Chocolate boxes,assorted; truffle; premium,Branded + unbranded,5,Cadbury Celebrations; Ferrero Rocher; Lindt; Hershey's; Fabelle,"Local artisanal chocolate boxes, properly labelled",,2,0,2
+Snacks & Drinks,Sweets & Chocolates,Chocolate Gift Pack,Festive hampers,assorted chocolates,Branded + unbranded,4,Cadbury; Ferrero; Fabelle; Amul,Sealed local confectionery hampers,,2,1,1
+Snacks & Drinks,Sweets & Chocolates,Indian Sweets,Milk-based mithai,peda; milk cake; kalakand,Branded + unbranded,5,Haldiram's; Bikanervala; Bikaji; Almond House; Pulla Reddy,"Local licensed sweet shops, labelled",,2,0,2
+Snacks & Drinks,Sweets & Chocolates,Indian Sweets,Syrup sweets,gulab jamun; rasgulla; rasmalai,Branded + unbranded,5,Haldiram's; Bikanervala; Bikaji; MTR; Gits,"Local sweet shops, cold chain where needed",,2,1,1
+Snacks & Drinks,Sweets & Chocolates,Indian Sweets,Dry sweets,kaju katli; soan papdi; mysore pak,Branded + unbranded,5,Haldiram's; Bikaji; Bikanervala; Pulla Reddy; Almond House,Local licensed sweet shops,,2,2,0
+Snacks & Drinks,Sweets & Chocolates,Indian Sweets,Regional sweets,ariselu; laddu; boondi,Branded + unbranded,3,Pulla Reddy; Almond House; Haldiram's,Local licensed sweet shops,,2,0,2
+Snacks & Drinks,Sweets & Chocolates,Candies & Gum,Hard candy/toffee,fruit; caramel; mint,Branded + unbranded,6,Alpenliebe; Pulse; Kismi; Kopiko; Eclairs; Melody,Local confectionery packs if compliant,,2,0,2
+Snacks & Drinks,Sweets & Chocolates,Candies & Gum,Chewing gum,mint; fruit,Branded only,4,Center Fresh; Orbit; Doublemint; Boomer,,,2,1,1
+Snacks & Drinks,Sweets & Chocolates,Candies & Gum,Mints,breath fresheners; sugar-free,Branded only,3,Mentos; Tic Tac; Happydent,,,2,2,0
+Snacks & Drinks,Sweets & Chocolates,Premium,Imported/premium chocolates,pralines; truffles; dark bars,Branded + unbranded,5,Lindt; Ferrero Rocher; Toblerone; Ritter Sport; Fabelle,"Local artisan premium chocolate, labelled",,2,0,2
+Snacks & Drinks,Sweets & Chocolates,Premium,Gourmet confectionery,coated berries; nut clusters,Branded + unbranded,4,Smoor; Fabelle; Paul And Mike; Amul,Licensed artisan gourmet sweets,,2,0,2
+Snacks & Drinks,Sweets & Chocolates,Energy Bars,Protein bars,whey; plant protein,Branded only,5,RiteBite Max Protein; Yoga Bar; The Whole Truth; MuscleBlaze; Happilo,,,2,1,1
+Snacks & Drinks,Sweets & Chocolates,Energy Bars,Energy/cereal bars,oats; nuts; fruit,Branded + unbranded,4,Yoga Bar; Nature Valley; Kellogg's; RiteBite,Local labelled cereal bars,,2,2,0
+Snacks & Drinks,Sweets & Chocolates,Syrups,Dessert syrup,chocolate; strawberry; caramel,Branded + unbranded,5,Hershey's; Mapro; Veeba; Del Monte; Monin,Local food-grade labelled dessert syrup,,2,1,1
+Snacks & Drinks,Drinks & Juices,Soft Drinks,Cola,regular,Branded only,4,Coca-Cola; Pepsi; Thums Up; Campa Cola,,,2,1,1
+Snacks & Drinks,Drinks & Juices,Soft Drinks,Lemon/lime soda,clear; flavoured,Branded only,5,Sprite; 7UP; Limca; Mountain Dew; Campa,,,2,2,0
+Snacks & Drinks,Drinks & Juices,Soft Drinks,Fruit-flavoured soda,orange; lemon; mixed,Branded only,4,Fanta; Mirinda; Appy Fizz; Schweppes,,,2,2,0
+Snacks & Drinks,Drinks & Juices,Fruit Juices,Packaged fruit juice,orange; apple; mixed fruit,Branded + unbranded,5,Real; Tropicana; B Natural; Minute Maid; Paper Boat,Fresh juice from licensed local processors; no unlabelled bottled stock,,2,1,1
+Snacks & Drinks,Drinks & Juices,Fruit Juices,Juice blends,pomegranate; guava; grape,Branded + unbranded,5,Real; B Natural; Tropicana; Paper Boat; Raw Pressery,Fresh labelled juice blends,,2,1,1
+Snacks & Drinks,Drinks & Juices,Zero Sugar Drinks,No-sugar cola,classic cola,Branded only,3,Coca-Cola Zero Sugar; Pepsi Black; Thums Up XForce,,,2,0,2
+Snacks & Drinks,Drinks & Juices,Zero Sugar Drinks,No-sugar flavoured drinks,lemon/lime; tonic,Branded only,2,Sprite Zero; Schweppes Zero,,,2,0,2
+Snacks & Drinks,Drinks & Juices,Caffeinated Drinks,Energy drinks,classic; flavoured,Branded only,5,Red Bull; Monster; Sting; Hell Energy; Tzinga,,,2,2,0
+Snacks & Drinks,Drinks & Juices,Caffeinated Drinks,Caffeinated sparkling drinks,cola; flavoured,Branded only,4,Coca-Cola; Pepsi; Thums Up; Mountain Dew,,,2,2,0
+Snacks & Drinks,Drinks & Juices,Hydration Drinks,Sports/electrolyte beverages,lemon; orange,Branded only,3,Gatorade; Enerzal; Fast&Up,,,2,1,1
+Snacks & Drinks,Drinks & Juices,Hydration Drinks,Oral rehydration products,ORS sachets; ready-to-use ORS,Branded only,1,Electral,,,1,0,1
+Snacks & Drinks,Drinks & Juices,Hydration Drinks,Coconut-based hydration,plain coconut water,Branded + unbranded,3,Paper Boat; Raw Pressery; Real Activ,Fresh tender coconut sold separately,,2,2,0
+Snacks & Drinks,Drinks & Juices,Soda & Mixers,Plain soda,club soda; soda water,Branded only,4,Kinley; Schweppes; Bisleri; Lehar,,,3,2,1
+Snacks & Drinks,Drinks & Juices,Soda & Mixers,Mixers,tonic; ginger ale; bitter lemon,Branded only,5,Schweppes; Sepoy & Co; Svami; Jimmy's; Bartisans,,,1,1,0
+Snacks & Drinks,Drinks & Juices,Water & Ice Cubes,Packaged drinking water,regular; mineral,Branded only,5,Bisleri; Kinley; Aquafina; Bailley; Himalayan,,,2,0,2
+Snacks & Drinks,Drinks & Juices,Water & Ice Cubes,Sparkling water,plain; flavoured,Branded only,3,Perrier; Schweppes; Himalayan,,,2,1,1
+Snacks & Drinks,Drinks & Juices,Water & Ice Cubes,Ice cubes,drinking-water-grade,Unbranded only,0,,Compliant packaged potable ice,,1,1,0
+Snacks & Drinks,Drinks & Juices,Mango Drinks,Mango fruit drinks,regular; thick,Branded + unbranded,5,Maaza; Slice; Frooti; Paper Boat; Real,Local licensed mango beverage producers,,2,1,1
+Snacks & Drinks,Drinks & Juices,Mango Drinks,Mango juice/nectar,100%/nectar as labelled,Branded + unbranded,4,B Natural; Real; Tropicana; Paper Boat,Local licensed mango juice producer,,2,0,2
+Snacks & Drinks,Drinks & Juices,Soy Milk & More,Soy beverages,plain; flavoured,Branded only,3,Sofit; So Good; Silk,,,0,0,0
+Snacks & Drinks,Drinks & Juices,Soy Milk & More,Plant-based alternatives,almond; oat; coconut,Branded only,4,Epigamia; Raw Pressery; Alt Co.; So Good,,,0,0,0
+Snacks & Drinks,Drinks & Juices,Cold Coffee & Iced Tea,Cold coffee,classic; mocha; latte,Branded + unbranded,5,Nescafe; Starbucks; Rage Coffee; Sleepy Owl; Bru,"Local licensed sealed cold coffee, chilled",,1,0,1
+Snacks & Drinks,Drinks & Juices,Cold Coffee & Iced Tea,Iced tea,lemon; peach; green tea,Branded + unbranded,4,Lipton; Nestea; Paper Boat; Tetley,Local licensed bottled iced tea,,2,2,0
+Snacks & Drinks,Drinks & Juices,Coconut Water,Fresh tender coconut,regular; large,Unbranded only,0,,Fresh tender coconut by piece,,2,2,0
+Snacks & Drinks,Drinks & Juices,Coconut Water,Packaged coconut water,plain; flavoured,Branded only,4,Paper Boat; Raw Pressery; Real Activ; Coco Soul,,,2,2,0
+Snacks & Drinks,Drinks & Juices,Concentrates & Syrups,Fruit concentrates,lemon; orange; rose,Branded + unbranded,5,Rasna; Tang; Mapro; Rooh Afza; Kissan,Local licensed fruit-syrup producer,,2,1,1
+Snacks & Drinks,Drinks & Juices,Concentrates & Syrups,Drink syrups,kokum; khus; sharbat,Branded + unbranded,3,Hamdard Rooh Afza; Mapro; Patanjali,Local compliant syrup/sharbat,,2,0,2
+Snacks & Drinks,Drinks & Juices,Premium,Premium juice,cold-pressed; specialty blends,Branded + unbranded,3,Raw Pressery; Paper Boat; B Natural,Local compliant cold-pressed juice,,2,0,2
+Snacks & Drinks,Drinks & Juices,Premium,Premium mixers,tonic; ginger beer; kombucha,Branded + unbranded,4,Svami; Sepoy & Co; Jimmy's; HappyBooch,Local licensed specialist beverages,,2,1,1
+Snacks & Drinks,Drinks & Juices,Beverages Gift Packs,Juice beverage assortments,multi-flavour packs,Branded + unbranded,4,Real; Tropicana; Paper Boat; B Natural,Locally assembled sealed assorted cartons,,2,0,2
+Snacks & Drinks,Drinks & Juices,Beverages Gift Packs,Coffee/tea beverage hampers,ready-to-drink assortments,Branded + unbranded,3,Starbucks; Nescafe; Sleepy Owl,Local labelled beverage hampers,,2,1,1
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Tea,Black tea,CTC; leaf; Assam,Branded + unbranded,6,Tata Tea; Brooke Bond Red Label; Taj Mahal; Wagh Bakri; Society; Girnar,"Local estate tea, graded and labelled",,2,0,2
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Tea,Flavoured tea,masala; elaichi; ginger,Branded + unbranded,4,Tata Tea; Wagh Bakri; Girnar; Vahdam,"Local blended flavoured tea, labelled",,2,1,1
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Coffee,Instant coffee,classic; strong; premium,Branded + unbranded,5,Nescafe; Bru; Continental; Davidoff; Tata Coffee Grand,Bulk roast/instant from compliant producer,,2,2,0
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Coffee,Ground coffee,filter coffee; roast-and-ground,Branded + unbranded,5,Cothas; Narasu's; Levista; Blue Tokai; Sleepy Owl,"Fresh local roaster ground coffee, labelled",,2,0,2
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Coffee,Whole-bean coffee,arabica; robusta; blend,Branded + unbranded,4,Blue Tokai; Third Wave Coffee; Starbucks; Araku,Local roasted coffee beans from traceable roaster,,2,0,2
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Hot Chocolate,Hot chocolate mixes,original; dark; malted,Branded + unbranded,5,Cadbury; Hershey's; Nestle; Urban Platter; Tiggle,Compliant local cocoa drink mix,,2,1,1
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Hot Chocolate,Cocoa powder,unsweetened; dutched,Branded + unbranded,4,Hershey's; Weikfield; Cadbury; Urban Platter,Bulk food-grade cocoa in labelled packs,,1,0,1
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Green Tea,Green tea,classic; lemon; tulsi,Branded + unbranded,6,Lipton; Tetley; Organic India; Typhoo; Twinings; Tata Tea,Loose green tea from compliant producer,,2,2,0
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Green Tea,Matcha,culinary; ceremonial,Branded + unbranded,3,Tea Trunk; Vahdam; Urban Platter,Traceable food-grade matcha,,2,1,1
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Milk Drinks,Health/malt drinks,chocolate; original,Branded only,5,Bournvita; Horlicks; Boost; Complan; Milo,,,2,0,2
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Milk Drinks,Flavoured milk,chocolate; badam; strawberry,Branded + unbranded,6,Amul; Heritage; Cavin's; Hershey's; Mother Dairy; Nandini,Local dairy-bottled flavoured milk,,2,0,2
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Milk Drinks,Milk-based nutrition drinks,adult/children variants,Branded only,3,Ensure; PediaSure; Protinex,,,2,0,2
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Cold Coffee & Iced Tea,Ready-to-drink coffee,latte; mocha; cold brew,Branded + unbranded,4,Nescafe; Starbucks; Sleepy Owl; Rage Coffee,Local compliant bottled coffee,,1,0,1
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Cold Coffee & Iced Tea,Iced tea,lemon; peach,Branded + unbranded,3,Lipton; Nestea; Paper Boat,Local compliant bottled tea,,0,0,0
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Bags & Premixes,Tea bags,black; green; herbal,Branded + unbranded,5,Taj Mahal; Tetley; Lipton; Typhoo; Twinings,"Locally packed loose-leaf tea, traceable",,2,2,0
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Bags & Premixes,Coffee premixes,cappuccino; 3-in-1,Branded + unbranded,4,Nescafe; Bru; Continental; Sleepy Owl,Local compliant beverage premixes,,2,0,2
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Bags & Premixes,Masala chai premix,cardamom; ginger,Branded + unbranded,3,Girnar; Wagh Bakri; Tata Tea,Local compliant chai mixes,,2,1,1
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Premium,Premium tea,single-origin; whole-leaf,Branded + unbranded,5,Vahdam; Tea Trunk; Twinings; Teabox; Makaibari,Traceable premium estate tea,,2,0,2
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Premium,Specialty coffee,single-origin; cold brew,Branded + unbranded,5,Blue Tokai; Third Wave Coffee; Araku; Sleepy Owl; Starbucks,Local small-batch roasters,,2,0,2
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Herbal Infusion,Herbal tea,tulsi; chamomile; peppermint,Branded + unbranded,5,Organic India; Twinings; Typhoo; Vahdam; Tetley,Traceable dried herb blends,Yes,3,1,2
+Snacks & Drinks,"Tea, Coffee & Milk Drinks",Herbal Infusion,Wellness infusions,ginger; lemongrass; hibiscus,Branded + unbranded,3,Organic India; Tea Trunk; Vahdam,Local dried herbal blends with compliant claims,,1,0,1
+Snacks & Drinks,Instant Food,Noodles,Instant noodles,masala; chicken; veg,Branded + unbranded,7,Maggi; Sunfeast YiPPee!; Top Ramen; Nissin; Ching's Secret; Wai Wai; Knorr,Local dry noodle products from compliant producer,,2,1,1
+Snacks & Drinks,Instant Food,Noodles,Ramen,Korean-style; spicy; mild,Branded only,5,Samyang; Nongshim; Nissin; Koka; Wai Wai,,,2,2,0
+Snacks & Drinks,Instant Food,Noodles,Hakka noodles,plain; egg; whole-wheat,Branded + unbranded,3,Ching's Secret; Keya; Blue Dragon,Local labelled dried noodles,,2,1,1
+Snacks & Drinks,Instant Food,Frozen Veg Snacks,Frozen potato snacks,fries; wedges; smileys,Branded + unbranded,5,McCain; ITC Master Chef; HyFun; Godrej Yummiez; Sumeru,Frozen products from licensed processor,,2,1,1
+Snacks & Drinks,Instant Food,Frozen Veg Snacks,Frozen veg snacks,nuggets; spring rolls; kebabs,Branded + unbranded,5,McCain; ITC Master Chef; Sumeru; Al Kabeer; HyFun,Local licensed frozen snacks,,2,0,2
+Snacks & Drinks,Instant Food,Frozen Veg Snacks,Momos,veg; paneer,Branded + unbranded,3,Prasuma; Licious; Wow! Momo,Local frozen momos from licensed kitchen,,2,0,2
+Snacks & Drinks,Instant Food,Pasta,Dry pasta,penne; macaroni; spaghetti,Branded + unbranded,6,Del Monte; Bambino; Borges; Barilla; Weikfield; Sunfeast,Bulk durum pasta from compliant packer,,2,0,2
+Snacks & Drinks,Instant Food,Pasta,Instant pasta,masala; cheese; white sauce,Branded only,3,Maggi Pazzta; Sunfeast Pasta Treat; Knorr,,,2,0,2
+Snacks & Drinks,Instant Food,Frozen Non-Veg Snacks,Chicken nuggets/popcorn,classic; spicy,Branded + unbranded,5,Yummiez; Godrej Yummiez; ITC Master Chef; Venky's; Sumeru,Verified processor frozen chicken snacks,,0,0,0
+Snacks & Drinks,Instant Food,Frozen Non-Veg Snacks,Chicken kebabs/samosas,seekh; shammi; roll,Branded + unbranded,4,Licious; Sumeru; Al Kabeer; ITC Master Chef,Licensed frozen non-veg snacks,,0,0,0
+Snacks & Drinks,Instant Food,Frozen Non-Veg Snacks,Fish fingers/prawns,breaded; seasoned,Branded + unbranded,3,Sumeru; Al Kabeer; ITC Master Chef,Licensed frozen seafood snacks,,0,0,0
+Snacks & Drinks,Instant Food,Soup,Instant soup,tomato; sweet corn; hot & sour,Branded + unbranded,4,Knorr; Maggi; Ching's Secret; Keya,Local soup powder under licensed processing,,2,0,2
+Snacks & Drinks,Instant Food,Soup,Ready soup,vegetable; chicken,Branded + unbranded,3,Knorr; Campbell's; The Whole Truth,Local ready-soup packs from processor,,2,1,1
+Snacks & Drinks,Instant Food,Ready to Eat,Indian meals,dal makhani; rajma; chole,Branded + unbranded,5,MTR; Haldiram's; Gits; Kitchens of India; Tata Sampann,"Local retort-ready meals, licensed",,2,2,0
+Snacks & Drinks,Instant Food,Ready to Eat,Breakfast mixes,poha; upma; khichdi,Branded + unbranded,4,MTR; Gits; Saffola; Haldiram's,Local shelf-stable meals,,2,1,1
+Snacks & Drinks,Instant Food,Ready to Eat,Biryani/curry meals,veg biryani; chicken curry,Branded + unbranded,4,Kitchens of India; Haldiram's; Tata Q; MTR,Local retort packs from licensed processor,,2,0,2
+Snacks & Drinks,Instant Food,Idli & Dosa Batter,Fresh batter,idli; dosa; ragi,Branded + unbranded,3,iD Fresh; MTR; Anil,"Locally made fresh batter, compliant and chilled",,2,1,1
+Snacks & Drinks,Instant Food,Idli & Dosa Batter,Dry idli/dosa mix,regular; rava,Branded + unbranded,4,MTR; Gits; Aachi; Double Horse,"Local dry batter mix, labelled",,2,2,0
+Snacks & Drinks,Instant Food,Dessert & Cake Mixes,Dessert mixes,gulab jamun; kheer; custard,Branded + unbranded,5,Gits; MTR; Weikfield; Pillsbury; Brown & Polson,"Local dry dessert mix, compliant",,2,1,1
+Snacks & Drinks,Instant Food,Dessert & Cake Mixes,Cake/brownie mixes,vanilla; chocolate; brownie,Branded + unbranded,4,Betty Crocker; Pillsbury; Weikfield; FunFoods,Local licensed cake mix,,2,2,0
+Snacks & Drinks,Instant Food,Dessert & Cake Mixes,Jelly/pudding mixes,jelly; caramel custard,Branded + unbranded,3,Weikfield; Gits; Blue Bird,Local compliant packaged mix,,2,0,2
+Snacks & Drinks,Instant Food,Organic & Premium,Organic noodles/pasta,wholegrain; millet,Branded + unbranded,3,Slurrp Farm; 24 Mantra Organic; Tata Soulfull,Local organic claim only if certified,Yes,2,0,2
+Snacks & Drinks,Instant Food,Organic & Premium,Gourmet meal kits,ramen; risotto; sauces,Branded + unbranded,5,Koka; Samyang; Nongshim; MTR; MasterChow,Local speciality meal kits from processor,,2,1,1
+Snacks & Drinks,Instant Food,Energy Bars,Protein bars,nut; whey; plant,Branded only,4,RiteBite Max Protein; Yoga Bar; The Whole Truth; MuscleBlaze,,,0,0,0
+Snacks & Drinks,Instant Food,Energy Bars,Nutrition bars,fruit; granola; oats,Branded + unbranded,4,Yoga Bar; Nature Valley; Kellogg's; Eat Anytime,Local labelled snack bars,,0,0,0
+Snacks & Drinks,Sauces & Spreads,Tomato Ketchup,Tomato ketchup,regular; no-onion-garlic; low-sugar variants,Branded + unbranded,7,Kissan; Maggi; Heinz; Del Monte; Veeba; Tops; Cremica,Local tomato ketchup from licensed processor,,2,1,1
+Snacks & Drinks,Sauces & Spreads,Jam & Spreads,Fruit jams,mixed fruit; strawberry; pineapple,Branded + unbranded,5,Kissan; Mapro; Tops; Druk; Del Monte,"Local fruit preserves, food-compliant",,2,2,0
+Snacks & Drinks,Sauces & Spreads,Jam & Spreads,Chocolate/hazelnut spreads,regular; dark,Branded + unbranded,5,Nutella; Hershey's; Veeba; Pintola; Alpino,Local licensed nut/chocolate spreads,,2,2,0
+Snacks & Drinks,Sauces & Spreads,Jam & Spreads,Fruit preserves,marmalade; premium spreads,Branded + unbranded,3,St Dalfour; Bonne Maman; Mapro,"Local artisan preserves, labelled",,2,0,2
+Snacks & Drinks,Sauces & Spreads,Mayonnaise,Mayonnaise,classic; eggless; garlic,Branded + unbranded,6,Veeba; FunFoods; Del Monte; Hellmann's; Cremica; Kewpie,"Local licensed mayonnaise, cold chain as required",,4,1,3
+Snacks & Drinks,Sauces & Spreads,Mayonnaise,Flavoured mayo,tandoori; mint; peri-peri,Branded + unbranded,4,Veeba; FunFoods; Wingreens Farms; Cremica,Local labelled mayo variants,,0,0,0
+Snacks & Drinks,Sauces & Spreads,Chutney & Pickle,Indian pickles,mango; lime; mixed veg,Branded + unbranded,7,Mother's Recipe; Priya; Aachi; MTR; Bedekar; Pachranga; Nilon's,Local homemade-style pickles from licensed processor,,3,2,1
+Snacks & Drinks,Sauces & Spreads,Chutney & Pickle,Chutneys,coconut; ginger; tomato; tamarind,Branded + unbranded,4,Priya; Mother's Recipe; MTR; Aachi,Local chutney from licensed kitchen,,2,0,2
+Snacks & Drinks,Sauces & Spreads,Chutney & Pickle,Regional podis,idli karam; gunpowder; peanut,Branded + unbranded,4,Priya; MTR; Aachi; Eastern,Local spice-mill chutney powders,,1,0,1
+Snacks & Drinks,Sauces & Spreads,Peanut Butter,Peanut butter,creamy; crunchy,Branded + unbranded,6,Pintola; Alpino; Sundrop; MyFitness; Saffola; The Whole Truth,Fresh-ground peanut butter from licensed processor,,2,2,0
+Snacks & Drinks,Sauces & Spreads,Peanut Butter,Flavoured peanut butter,chocolate; honey,Branded + unbranded,3,Pintola; Alpino; MyFitness,Local labelled flavoured nut butter,,2,2,0
+Snacks & Drinks,Sauces & Spreads,Asian Sauces,Soy/chilli sauces,light soy; dark soy; green chilli; red chilli,Branded + unbranded,5,Ching's Secret; Kikkoman; Lee Kum Kee; Del Monte; Blue Dragon,Local licensed Asian sauce,,2,2,0
+Snacks & Drinks,Sauces & Spreads,Asian Sauces,Hot sauces,sriracha; chilli garlic,Branded + unbranded,5,Tabasco; Veeba; MasterChow; Naagin; Wingreens Farms,Local labelled chilli sauce,,2,2,0
+Snacks & Drinks,Sauces & Spreads,Asian Sauces,Oyster/teriyaki sauces,classic; vegetarian alternative,Branded only,4,Lee Kum Kee; Kikkoman; Blue Dragon; MasterChow,,,2,2,0
+Snacks & Drinks,Sauces & Spreads,Chyawanprash & Honey,Chyawanprash,regular; sugar-free-positioned,Branded only,5,Dabur; Baidyanath; Zandu; Patanjali; Himalaya,,,2,2,0
+Snacks & Drinks,Sauces & Spreads,Chyawanprash & Honey,Honey,multiflora; forest; organic-labelled,Branded + unbranded,6,Dabur; Patanjali; Saffola; Apis; Zandu; 24 Mantra Organic,"Local beekeeper honey, appropriately tested and labelled",,2,2,0
+Snacks & Drinks,Sauces & Spreads,Syrups,Chocolate/fruit syrups,chocolate; strawberry; caramel,Branded + unbranded,4,Hershey's; Mapro; Veeba; Monin,Licensed locally made dessert syrups,,0,0,0
+Snacks & Drinks,Sauces & Spreads,Syrups,Drink sharbat,rose; khus; kokum,Branded + unbranded,4,Hamdard Rooh Afza; Mapro; Rasna; Patanjali,Local compliant sharbat,,0,0,0
+Snacks & Drinks,Sauces & Spreads,Dips & Salad Dressings,Salad dressings,Caesar; thousand island; vinaigrette,Branded + unbranded,5,Veeba; Del Monte; Wingreens Farms; FunFoods; American Garden,Local labelled salad dressings,,2,0,2
+Snacks & Drinks,Sauces & Spreads,Dips & Salad Dressings,Dips,hummus; cheese; salsa,Branded + unbranded,4,Veeba; Wingreens Farms; Cornitos; Epigamia,"Local dips from licensed kitchen, cold chain",,2,1,1
+Snacks & Drinks,Sauces & Spreads,Cooking Sauces,Pasta sauces,tomato basil; arrabbiata; white,Branded + unbranded,5,Del Monte; Barilla; Veeba; Wingreens Farms; Borges,Local licensed pasta sauce,,2,0,2
+Snacks & Drinks,Sauces & Spreads,Cooking Sauces,Indian gravy bases,makhani; tikka; curry,Branded + unbranded,4,Kitchens of India; Dabur Hommade; MTR; CURRYiT,Local food-grade cooking sauces,,2,0,2
+Snacks & Drinks,Sauces & Spreads,Cooking Sauces,Asian cooking sauces,Schezwan; stir-fry; teriyaki,Branded + unbranded,4,Ching's Secret; MasterChow; Kikkoman; Lee Kum Kee,Local labelled stir-fry sauces,,2,1,1
+Snacks & Drinks,Sauces & Spreads,Premium,Gourmet sauces,pesto; harissa; hot sauce,Branded + unbranded,5,Wingreens Farms; Naagin; Tabasco; MasterChow; Barilla,"Local gourmet sauce makers, licensed",,2,1,1
+Snacks & Drinks,Sauces & Spreads,Premium,Imported preserves,fruit spread; nut butter,Branded + unbranded,3,St Dalfour; Bonne Maman; Nutella,"Local artisan preserves, labelled",,2,2,0
+Snacks & Drinks,Paan Corner,Lighters,Utility lighters,refillable kitchen lighter; spark lighter,Branded + unbranded,2,Prestige; Pigeon,Generic non-fuel piezo kitchen lighters,,2,0,2
+Snacks & Drinks,Paan Corner,Mouth Fresheners & Gums,Mouth fresheners,saunf; elaichi; mukhwas,Branded + unbranded,3,Pass Pass; Chandan; Rajnigandha Silver Pearls,Loose sweet saunf/mukhwas if compliant,,2,0,2
+Snacks & Drinks,Paan Corner,Mouth Fresheners & Gums,Gum/mints,sugar-free; mint; fruit,Branded only,5,Center Fresh; Orbit; Happydent; Mentos; Tic Tac,,,2,1,1
+Snacks & Drinks,Paan Corner,Non-Tobacco Blends,Paan ingredients,gulkand; sweet saunf; mukhwas,Branded + unbranded,2,Chandan; Pass Pass,"Betel leaves, gulkand, dry-fruit paan blend from compliant supplier",,2,0,2
+Snacks & Drinks,Paan Corner,Non-Tobacco Blends,Paan condiments,catechu/kattha; slaked lime (food-use only),Unbranded only,0,,"Supplier-verified paan ingredients, food-grade where applicable",,2,2,0
+Snacks & Drinks,Paan Corner,Smoking Cessation,Nicotine replacement,OTC nicotine gum/lozenges (where lawful),Branded + unbranded,2,Nicotex; Nicorette,—; pharmacy/regulatory verification before listing,,0,0,0
+Snacks & Drinks,Ice Creams & More,Tubs,Ice cream tubs,vanilla; chocolate; butterscotch,Branded + unbranded,7,Amul; Kwality Wall's; Cream Bell; Havmor; Vadilal; Arun; NIC Ice Creams,Local licensed ice-cream manufacturer,,2,1,1
+Snacks & Drinks,Ice Creams & More,Tubs,Premium tubs,Belgian chocolate; fruit; nut,Branded + unbranded,4,Baskin Robbins; Naturals; NIC Ice Creams; Ibaco,Local licensed artisan ice cream,,2,1,1
+Snacks & Drinks,Ice Creams & More,Sticks,Ice cream sticks,chocolate-coated; fruit; kulfi,Branded + unbranded,6,Magnum; Kwality Wall's; Amul; Havmor; Vadilal; Arun,Local licensed frozen dessert/ice cream,,2,0,2
+Snacks & Drinks,Ice Creams & More,Cones,Cones,vanilla; chocolate; butterscotch,Branded + unbranded,5,Cornetto; Amul; Havmor; Vadilal; Cream Bell,Local licensed frozen dessert/ice cream,,2,1,1
+Snacks & Drinks,Ice Creams & More,Cassata & Sandwich,Cassata,classic multi-flavour,Branded + unbranded,4,Amul; Vadilal; Havmor; Arun,"Local licensed ice cream, cold chain",,1,0,1
+Snacks & Drinks,Ice Creams & More,Cassata & Sandwich,Ice cream sandwiches,vanilla; chocolate,Branded + unbranded,3,Kwality Wall's; Amul; Havmor,Local licensed sandwich ice cream,,3,2,1
+Snacks & Drinks,Ice Creams & More,Single Serve Cups,Single serve cups,vanilla; mango; chocolate,Branded + unbranded,5,Amul; Kwality Wall's; Havmor; Vadilal; Arun,Local licensed single-serve ice cream,,2,0,2
+Snacks & Drinks,Ice Creams & More,Cakes & Others,Ice cream cakes,chocolate; black forest; fruit,Branded + unbranded,4,Baskin Robbins; NIC Ice Creams; Ibaco; Havmor,Local licensed frozen bakery/ice cream,,2,1,1
+Snacks & Drinks,Ice Creams & More,Cakes & Others,Kulfi,malai; pista; kesar,Branded + unbranded,4,Amul; Vadilal; Havmor; Mother Dairy,"Local kulfi makers, licensed",,2,2,0
+Snacks & Drinks,Ice Creams & More,Guilt-Free,Low/no added sugar,vanilla; chocolate,Branded + unbranded,3,Amul; Baskin Robbins; NIC Ice Creams,Local labelled low-sugar frozen products; verify claims,,2,1,1
+Snacks & Drinks,Ice Creams & More,Guilt-Free,Plant-based frozen dessert,coconut; almond,Branded + unbranded,1,OatMlk,Local licensed vegan frozen desserts,,1,0,1
+Snacks & Drinks,Ice Creams & More,Gourmet,Artisan ice cream,natural fruit; specialty flavours,Branded + unbranded,4,Naturals; NIC Ice Creams; Baskin Robbins; Ibaco,Local licensed gourmet makers,,2,0,2
+Snacks & Drinks,Ice Creams & More,Gourmet,Gelato/sorbet,chocolate gelato; mango sorbet,Branded + unbranded,1,Italian gelato specialists,Local licensed gelato/sorbet,,2,2,0
+Snacks & Drinks,Ice Creams & More,Syrups,Ice cream toppings,chocolate; caramel; strawberry,Branded + unbranded,4,Hershey's; Mapro; Veeba; Monin,Local labelled dessert sauce,,0,0,0
+Beauty & Personal Care,Bath & Body,Bathing Soaps,Bathing bars,family/regular,Branded + unbranded,9,Lux; Lifebuoy; Santoor; Godrej No.1; Cinthol; Vivel; Hamam; Liril; Rexona,Local properly manufactured bathing bars with manufacturer/ingredient labels,Yes,2,0,2
+Beauty & Personal Care,Bath & Body,Bathing Soaps,Moisturising/beauty bars,glycerin; creamy,Branded + unbranded,6,Dove; Pears; Fiama; Nivea; Olay; Himalaya,Compliant independent maker beauty bars,Yes,2,1,1
+Beauty & Personal Care,Bath & Body,Bathing Soaps,Herbal/Ayurvedic soaps,sandal; neem; turmeric,Branded + unbranded,8,Medimix; Mysore Sandal; Margo; Chandrika; Patanjali; Himalaya; Khadi Natural; Ayush,Compliant regional herbal soaps,Yes,2,1,1
+Beauty & Personal Care,Bath & Body,Bathing Soaps,Antiseptic/germ-protection positioned bars,,Branded + unbranded,4,Dettol; Lifebuoy; Savlon; Cinthol,No anonymous medical/antimicrobial claims,Yes,2,0,2
+Beauty & Personal Care,Bath & Body,Shower Gels & Scrubs,Body wash,moisturizing; fresh; sensitive,Branded + unbranded,7,Dove; Nivea; Fiama; Palmolive; Pears; Lux; The Body Shop,Licensed indie body wash with full label,Yes,2,2,0
+Beauty & Personal Care,Bath & Body,Shower Gels & Scrubs,Body scrub,coffee; sugar; salt,Branded + unbranded,6,mCaffeine; The Body Shop; Plum; Mamaearth; St. Ives; Himalaya,Compliant indie body scrubs,Yes,2,2,0
+Beauty & Personal Care,Bath & Body,Oral Care,Toothpaste,family; gel; herbal,Branded + unbranded,9,Colgate; Pepsodent; Closeup; Sensodyne; Dabur Red; Dabur Meswak; Patanjali; Himalaya; Vicco,Compliant local labelled toothpaste,Yes,2,2,0
+Beauty & Personal Care,Bath & Body,Oral Care,Toothbrush,soft; medium; kids,Branded + unbranded,5,Oral-B; Colgate; Sensodyne; Pepsodent; Curaprox,Generic toothbrushes with material/producer data,Yes,2,0,2
+Beauty & Personal Care,Bath & Body,Oral Care,Mouthwash,fresh breath; sensitive,Branded + unbranded,4,Listerine; Colgate Plax; Sensodyne; Oral-B,Compliant independently made mouthwash,Yes,2,1,1
+Beauty & Personal Care,Bath & Body,Oral Care,Dental floss/interdental,waxed floss; interdental brush,Branded + unbranded,4,Oral-B; Colgate; GUM; DenTek,Generic floss/brushes,Yes,2,0,2
+Beauty & Personal Care,Bath & Body,Handwash,Liquid handwash,regular; sensitive; antibacterial positioned,Branded + unbranded,7,Dettol; Lifebuoy; Savlon; Palmolive; Himalaya; Godrej Protekt; Santoor,Compliant local soap/handwash manufacturer,Yes,4,1,3
+Beauty & Personal Care,Bath & Body,Handwash,Handwash refills,original; moisturizing,Branded + unbranded,5,Dettol; Lifebuoy; Savlon; Godrej Protekt; Palmolive,Manufacturer-labelled bulk refill,,0,0,0
+Beauty & Personal Care,Bath & Body,Fragrance & Talc,Deodorants/body sprays,fresh; sport; long-lasting,Branded + unbranded,8,Fogg; Engage; Wild Stone; Park Avenue; Denver; Axe; Nivea; Yardley,"Compliant local perfume/deo maker, labelled",Yes,2,1,1
+Beauty & Personal Care,Bath & Body,Fragrance & Talc,Talcum powder,cooling; regular; fragrance,Branded + unbranded,6,Pond's; Cinthol; Santoor; Dermi Cool; Navratna; Yardley,Local compliant powder products,Yes,2,0,2
+Beauty & Personal Care,Bath & Body,Fragrance & Talc,Perfume/attar,eau de parfum; attar,Branded + unbranded,6,Bella Vita; Skinn by Titan; Ajmal; Wild Stone; Engage; Villain,Local compliant perfume and attar makers,Yes,2,0,2
+Beauty & Personal Care,Bath & Body,Bath Accessories,Bath sponges/loofahs,mesh; natural,Branded + unbranded,3,Vega; The Body Shop; Miniso,Generic natural/mesh loofahs,Yes,2,0,2
+Beauty & Personal Care,Bath & Body,Bath Accessories,Bathroom items,soap case; dispenser; scrub brush,Branded + unbranded,4,Cello; Milton; IKEA; Miniso,Generic soap cases and dispensers,Yes,2,0,2
+Beauty & Personal Care,Bath & Body,Bath Accessories,Bath towels,cotton; microfiber,Branded + unbranded,4,Bombay Dyeing; Trident; Spaces; Welspun,Generic textile towels with material label,Yes,2,0,2
+Beauty & Personal Care,Bath & Body,Shampoo,Daily shampoos,regular; smooth; shine,Branded + unbranded,7,Clinic Plus; Sunsilk; Dove; Pantene; TRESemme; L'Oreal Paris; Garnier Fructis,Compliant independent shampoo producers,,0,0,0
+Beauty & Personal Care,Bath & Body,Shampoo,Anti-dandruff shampoos,dandruff-control variants,Branded + unbranded,5,Head & Shoulders; Clear; Scalpe+; Sebamed; Selsun,No anonymous medicated treatments,,0,0,0
+Beauty & Personal Care,Bath & Body,Shampoo,Herbal shampoos,amla; onion; ayurvedic,Branded + unbranded,7,Himalaya; Dabur Vatika; Patanjali; Mamaearth; Biotique; Khadi Natural; Indulekha,Compliant independent herbal shampoos,,0,0,0
+Beauty & Personal Care,Bath & Body,Conditioner,Hair conditioner,smoothening; repair; volume,Branded + unbranded,7,Dove; Pantene; TRESemme; L'Oreal Paris; Sunsilk; Matrix; Garnier,Compliant independent conditioners,,0,0,0
+Beauty & Personal Care,Bath & Body,Conditioner,Deep conditioning/masks,keratin; dry-hair repair,Branded + unbranded,5,L'Oreal Paris; TRESemme; Matrix; Schwarzkopf; Dove,Compliant independently manufactured masks,,0,0,0
+Beauty & Personal Care,Bath & Body,Face Cleaning,Face wash,daily; oily; dry; sensitive,Branded + unbranded,9,Himalaya; Garnier; Clean & Clear; Pond's; Nivea; Simple; Cetaphil; Mamaearth; Minimalist,Compliant indie face wash,Yes,1,1,0
+Beauty & Personal Care,Bath & Body,Face Cleaning,Face cleanser,gentle; foaming; cream,Branded + unbranded,6,Cetaphil; CeraVe; Simple; Neutrogena; The Derma Co.; Dot & Key,Compliant independent cleansers,Yes,1,1,0
+Beauty & Personal Care,Bath & Body,Body Lotions & Oils,Body lotion,moisturising; cocoa; dry-skin,Branded + unbranded,8,Vaseline; Nivea; Dove; Parachute Advansed; Himalaya; Joy; Cetaphil; Aveeno,Compliant independent body lotion,Yes,2,2,0
+Beauty & Personal Care,Bath & Body,Body Lotions & Oils,Body oil,coconut; almond; massage,Branded + unbranded,5,Parachute; Himalaya; Dabur; Johnson's Baby; Forest Essentials,"Traceable traditional massage oils, labelled",Yes,2,0,2
+Beauty & Personal Care,Bath & Body,Body Treatment & Roll On,Roll-on deodorant,regular; sensitive,Branded + unbranded,5,Nivea; Dove; Chemist at Play; Yardley; Rexona,Compliant local roll-on deodorants,Yes,2,1,1
+Beauty & Personal Care,Bath & Body,Body Treatment & Roll On,Body-care treatments,rough skin; dryness; odour care,Branded + unbranded,5,Vaseline; Moisturex; Cetaphil; Minimalist; Chemist at Play,No anonymous therapeutic formulations,Yes,2,1,1
+Beauty & Personal Care,Bath & Body,Bath & Beauty Gifts,Bath gift sets,shower gel; soap; lotion,Branded + unbranded,6,The Body Shop; Nivea; Dove; Plum; Forest Essentials; Biotique,Local compliant bath gift boxes,Yes,2,0,2
+Beauty & Personal Care,Bath & Body,Bath & Beauty Gifts,Fragrance gift sets,perfume; deodorant,Branded + unbranded,5,Skinn by Titan; Bella Vita; Engage; Fogg; Ajmal,Local registered perfume makers,Yes,2,0,2
+Beauty & Personal Care,Hair,Shampoo,Everyday shampoo,anti-hairfall-positioned; smooth; shine,Branded + unbranded,8,Sunsilk; Clinic Plus; Dove; Pantene; TRESemme; L'Oreal Paris; Garnier Fructis; Matrix,Compliant labelled independent shampoo,Yes,2,2,0
+Beauty & Personal Care,Hair,Shampoo,Dandruff scalp shampoo,regular; specialist,Branded + unbranded,5,Head & Shoulders; Clear; Sebamed; Selsun; Scalpe+,No anonymous medicated shampoo,Yes,2,1,1
+Beauty & Personal Care,Hair,Shampoo,Natural/herbal shampoo,amla; onion; hibiscus,Branded + unbranded,7,Himalaya; Dabur Vatika; Mamaearth; Biotique; Patanjali; Indulekha; Khadi Natural,Compliant local herbal shampoo,Yes,2,0,2
+Beauty & Personal Care,Hair,Conditioner,Daily conditioner,smooth; repair; curl care,Branded + unbranded,7,Dove; Pantene; TRESemme; L'Oreal Paris; Matrix; Garnier; Love Beauty & Planet,Compliant local conditioners,Yes,2,2,0
+Beauty & Personal Care,Hair,Conditioner,Hair mask,repair; hydration; keratin,Branded + unbranded,5,L'Oreal Paris; Matrix; Schwarzkopf; Plum; TRESemme,Compliant local hair masks,Yes,2,0,2
+Beauty & Personal Care,Hair,Hair Colour,Permanent colour,black; brown; burgundy,Branded + unbranded,6,Godrej Expert; Garnier Color Naturals; L'Oreal Paris; BBlunt; Streax; Revlon,Regulated cosmetic manufacturers only,Yes,2,0,2
+Beauty & Personal Care,Hair,Hair Colour,Henna/indigo,henna; pure indigo; blend,Branded + unbranded,4,Godrej Nupur; Patanjali; Indus Valley; Khadi Natural,Loose henna/indigo only with suitable tested cosmetic labelling,Yes,2,0,2
+Beauty & Personal Care,Hair,Hair Colour,Temporary colour,root touch-up; colour spray,Branded only,3,L'Oreal Paris; BBlunt; Streax,,Yes,2,0,2
+Beauty & Personal Care,Hair,Hair Oil & Cream,Hair oil,coconut; amla; almond,Branded + unbranded,7,Parachute; Dabur Amla; Bajaj Almond Drops; Navratna; Indulekha; Kesh King; Patanjali,Traceable cold-pressed plain oil; compliant hair oils,Yes,2,1,1
+Beauty & Personal Care,Hair,Hair Oil & Cream,Hair cream,styling; leave-in,Branded + unbranded,4,Brylcreem; Set Wet; BBlunt; L'Oreal Paris,Compliant local hair creams,Yes,2,0,2
+Beauty & Personal Care,Hair,Hair Serums,Hair serum,anti-frizz; smoothening,Branded + unbranded,6,Livon; Streax; L'Oreal Paris; TRESemme; Matrix; BBlunt,Compliant local serums,Yes,2,0,2
+Beauty & Personal Care,Hair,Hair Serums,Scalp/active hair serums,peptides; scalp care,Branded + unbranded,4,Minimalist; The Ordinary; The Derma Co.; WishCare,No anonymous active-ingredient formulations,Yes,2,0,2
+Beauty & Personal Care,Hair,Hair Styling,Gel/wax,strong hold; matte finish,Branded + unbranded,6,Set Wet; Gatsby; Ustraa; Beardo; UrbanGabru; Schwarzkopf,Compliant locally manufactured styling products,Yes,2,0,2
+Beauty & Personal Care,Hair,Hair Styling,Hair spray/mousse,firm hold; volume,Branded only,5,L'Oreal Paris; TRESemme; Schwarzkopf; BBlunt; Wella,,Yes,2,1,1
+Beauty & Personal Care,Hair,Appliances,Hair dryer,compact; salon,Branded + unbranded,6,Philips; Havells; Vega; Panasonic; Dyson; Ikonic,Safety-compliant generic electrical brands with warranty,Yes,4,0,4
+Beauty & Personal Care,Hair,Appliances,Straightener/curler,plates; curling wand,Branded + unbranded,5,Philips; Vega; Havells; Ikonic; Dyson,Safety-compliant local appliance brands,,0,0,0
+Beauty & Personal Care,Hair,Appliances,Trimmer,beard; hair clipper,Branded + unbranded,5,Philips; Braun; Panasonic; Havells; Xiaomi,Safety-compliant generic appliances,Yes,2,0,2
+Beauty & Personal Care,Hair,Hair Accessories,Combs/brushes,detangling; round; paddle,Branded + unbranded,4,Vega; Alan Truman; Kent; Tangle Teezer,Generic combs/brushes by material,Yes,2,0,2
+Beauty & Personal Care,Hair,Hair Accessories,Hair ties/clips,scrunchies; claw clips; pins,Branded + unbranded,2,Miniso; Accessorize,Local unbranded clips/ties,Yes,2,0,2
+Beauty & Personal Care,Skin & Face,Face Moisturisers,Face cream,daily; gel; dry skin,Branded + unbranded,9,Pond's; Nivea; Cetaphil; Neutrogena; Simple; Dot & Key; Minimalist; Mamaearth; Lakme,Compliant independent moisturisers,Yes,3,0,3
+Beauty & Personal Care,Skin & Face,Face Moisturisers,Barrier/sensitive skincare,ceramide; gentle,Branded + unbranded,6,CeraVe; Cetaphil; Bioderma; Re'equil; Minimalist; The Derma Co.,No anonymous high-active skincare,Yes,1,1,0
+Beauty & Personal Care,Skin & Face,Body Lotions & Oils,Body moisturisers,classic; cocoa; deep repair,Branded + unbranded,7,Vaseline; Nivea; Dove; Aveeno; Cetaphil; Joy; Parachute Advansed,Compliant indie body moisturisers,,0,0,0
+Beauty & Personal Care,Skin & Face,Body Lotions & Oils,Body massage oils,almond; coconut; herbal,Branded + unbranded,4,Parachute; Dabur; Himalaya; Forest Essentials,"Plain traceable botanical oils, labelled",,0,0,0
+Beauty & Personal Care,Skin & Face,Sunscreen,Sunscreen,SPF 30; 50; 50+,Branded + unbranded,10,Neutrogena; Lakme; Lotus Herbals; Minimalist; Aqualogica; The Derma Co.; Dot & Key; Re'equil; Fixderma; UV Doux,Only validated SPF products from compliant manufacturers,Yes,2,2,0
+Beauty & Personal Care,Skin & Face,Sunscreen,Sunscreen body spray/stick,spray; stick,Branded only,4,Neutrogena; Minimalist; Dot & Key; The Derma Co.,,Yes,2,0,2
+Beauty & Personal Care,Skin & Face,Face Cleaning,Facial cleansers,gentle; foaming; gel,Branded + unbranded,8,Cetaphil; Simple; CeraVe; Neutrogena; Himalaya; Garnier; Minimalist; Plum,Properly labelled indie cleansers,,0,0,0
+Beauty & Personal Care,Skin & Face,Face Cleaning,Micellar/cleansing water,makeup removal,Branded only,5,Garnier; Bioderma; Simple; Nivea; L'Oreal Paris,,Yes,2,2,0
+Beauty & Personal Care,Skin & Face,"Face Oil, Serum & Essence",Facial serums,niacinamide; vitamin C; hyaluronic,Branded + unbranded,8,Minimalist; The Ordinary; Plum; Dot & Key; The Derma Co.; Deconstruct; Foxtale; L'Oreal Paris,No anonymous active serums,Yes,2,0,2
+Beauty & Personal Care,Skin & Face,"Face Oil, Serum & Essence",Face oils/essence,rosehip; squalane; hydrating essence,Branded + unbranded,5,The Ordinary; Minimalist; Plum; Forest Essentials; Klairs,Compliant cosmetic face oils with full ingredient list,Yes,2,1,1
+Beauty & Personal Care,Skin & Face,Lip & Eye Care,Lip balm,plain; tinted; SPF,Branded + unbranded,6,Nivea; Vaseline; Himalaya; Maybelline; Laneige; Dot & Key,Compliant independent lip balms,Yes,2,1,1
+Beauty & Personal Care,Skin & Face,Lip & Eye Care,Under-eye care,gel; cream; patches,Branded + unbranded,5,The Derma Co.; Plum; Dot & Key; L'Oreal Paris; Mamaearth,Compliant cosmetic eye care,Yes,2,0,2
+Beauty & Personal Care,Skin & Face,Face Masks & Packs,Clay/gel face masks,charcoal; multani; aloe,Branded + unbranded,7,Himalaya; Mamaearth; Plum; Biotique; The Face Shop; Innisfree; mCaffeine,Compliant local face-pack makers,Yes,3,1,2
+Beauty & Personal Care,Skin & Face,Face Masks & Packs,Sheet masks,hydration; brightening,Branded only,5,Garnier; The Face Shop; Innisfree; TonyMoly; Nykaa Skin,,Yes,1,1,0
+Beauty & Personal Care,Skin & Face,Face Masks & Packs,Traditional powders,multani mitti; sandalwood,Branded + unbranded,4,Khadi Natural; Patanjali; Banjara's; Nature's Essence,Loose cosmetic-grade powders only from traceable compliant seller,Yes,2,0,2
+Beauty & Personal Care,Skin & Face,Toners & Mists,Toners,rose; hydrating; exfoliating,Branded + unbranded,6,Plum; Minimalist; The Ordinary; Dot & Key; The Face Shop; Biotique,Local formulated toners from compliant manufacturer,Yes,2,1,1
+Beauty & Personal Care,Skin & Face,Toners & Mists,Rose water/face mists,rose; aloe; cooling,Branded + unbranded,4,Dabur Gulabari; Kama Ayurveda; Forest Essentials; Khadi Natural,"Local cosmetic-grade rose water, labelled",Yes,2,0,2
+Beauty & Personal Care,Skin & Face,Acne & Blackhead Fixers,Acne cosmetics,salicylic face wash/serum,Branded + unbranded,5,Minimalist; The Derma Co.; Neutrogena; Sebamed; Cetaphil,No anonymous strong-active products,Yes,2,0,2
+Beauty & Personal Care,Skin & Face,Acne & Blackhead Fixers,Pimple patches,hydrocolloid; spot,Branded + unbranded,4,COSRX; The Derma Co.; Dot & Key; Nykaa Skin,Generic patches only with material/producer verification,Yes,2,0,2
+Beauty & Personal Care,Skin & Face,Acne & Blackhead Fixers,Blackhead strips,nose; T-zone,Branded only,3,Bioré; HipHop; The Face Shop,,Yes,2,0,2
+Beauty & Personal Care,Skin & Face,Men’s Grooming,Beard care,oil; wash; balm,Branded + unbranded,5,Beardo; Ustraa; Bombay Shaving Company; The Man Company; UrbanGabru,Compliant local beard-care products,Yes,2,0,2
+Beauty & Personal Care,Skin & Face,Men’s Grooming,Shaving,razors; foam; aftershave,Branded + unbranded,6,Gillette; Park Avenue; Old Spice; Bombay Shaving Company; LetsShave; Nivea Men,Generic razors/brushes; no anonymous chemical aftershaves,Yes,2,1,1
+Beauty & Personal Care,Skin & Face,Men’s Grooming,Men's skincare,facewash; moisturizer; sunscreen,Branded + unbranded,5,Garnier Men; Nivea Men; Beardo; Ustraa; Minimalist,Compliant local skincare,Yes,2,0,2
+Beauty & Personal Care,Skin & Face,Women’s Grooming,Hair removal,razors; creams; wax strips,Branded + unbranded,5,Gillette Venus; Veet; Bombay Shaving Company; LetsShave; Carmesi,Generic reusable razors; regulated formulations only,Yes,1,1,0
+Beauty & Personal Care,Skin & Face,Women’s Grooming,Grooming tools,tweezers; facial razors; manicure,Branded + unbranded,4,Vega; Kai; Miniso; Sanfe,Generic metal tools with specification,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Lipstick & Gloss,Lipsticks,matte; creamy; long-wear,Branded + unbranded,9,Lakme; Maybelline; L'Oreal Paris; Nykaa Cosmetics; Faces Canada; Swiss Beauty; Sugar Cosmetics; Colorbar; Elle 18,Properly labelled local cosmetic brands,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Lipstick & Gloss,Lip gloss/tint,clear; tinted; plumping positioned,Branded + unbranded,6,Maybelline; Lakme; Sugar; Swiss Beauty; Renee; Insight Cosmetics,Compliant independent lip products,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Cleansers & Toners,Makeup remover,micellar; balm; cleansing milk,Branded + unbranded,6,Garnier; Bioderma; Simple; Lakme; Plum; The Face Shop,Compliant independent cleansing products,,0,0,0
+Beauty & Personal Care,Beauty & Cosmetics,Cleansers & Toners,Toners,hydrating; rose; gentle exfoliation,Branded + unbranded,4,Plum; Minimalist; Dot & Key; Biotique,Compliant local toner,,0,0,0
+Beauty & Personal Care,Beauty & Cosmetics,Foundation & Compact,Foundation,liquid; matte; dewy,Branded + unbranded,8,Maybelline; Lakme; L'Oreal Paris; Faces Canada; Sugar Cosmetics; Colorbar; Kay Beauty; Swiss Beauty,Compliant independent foundations,Yes,2,2,0
+Beauty & Personal Care,Beauty & Cosmetics,Foundation & Compact,Compact powder,pressed; loose; setting,Branded + unbranded,6,Lakme; Maybelline; Sugar; Faces Canada; Insight Cosmetics; Colorbar,Compliant independent cosmetic powders,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Blush & Highlighters,Blush,powder; cream; liquid,Branded + unbranded,6,Maybelline; Lakme; Sugar Cosmetics; Kay Beauty; Swiss Beauty; Renee,Compliant independent blush,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Blush & Highlighters,Highlighter,powder; liquid,Branded + unbranded,5,Maybelline; Lakme; Swiss Beauty; Sugar Cosmetics; Colorbar,Compliant independent highlighters,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Primer & Concealer,Face primers,matte; pore-blur; hydrating,Branded + unbranded,6,Lakme; Maybelline; L'Oreal Paris; Sugar Cosmetics; Swiss Beauty; Colorbar,Compliant independent primers,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Primer & Concealer,Concealer/corrector,liquid; stick; palettes,Branded + unbranded,6,Maybelline; LA Girl; Lakme; Sugar Cosmetics; Kay Beauty; Swiss Beauty,Compliant independent concealers,Yes,2,1,1
+Beauty & Personal Care,Beauty & Cosmetics,Kajal & Eyeliners,Kajal,black; brown; waterproof,Branded + unbranded,7,Lakme Eyeconic; Maybelline Colossal; Plum; Faces Canada; Sugar Cosmetics; Elle 18; Colorbar,Compliant local kajal brands,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Kajal & Eyeliners,Eyeliner,liquid; gel; pen,Branded + unbranded,6,Lakme; Maybelline; L'Oreal Paris; Swiss Beauty; Sugar Cosmetics; Renee,Compliant independent eyeliners,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Kajal & Eyeliners,Mascara,volumising; waterproof,Branded only,5,Maybelline; Lakme; L'Oreal Paris; Faces Canada; Swiss Beauty,,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,"Bindi, Bangles & Others",Bindis,round; designer; bridal,Branded + unbranded,1,Shilpa,Generic bindi sheets,Yes,1,0,1
+Beauty & Personal Care,Beauty & Cosmetics,"Bindi, Bangles & Others",Bangles,glass; metal; plastic,Unbranded only,0,,"Local unbranded bangles, sizes/material noted",Yes,3,1,2
+Beauty & Personal Care,Beauty & Cosmetics,"Bindi, Bangles & Others",Other adornments,hair flowers; forehead stickers,Unbranded only,0,,Generic fashion accessories,Yes,2,2,0
+Beauty & Personal Care,Beauty & Cosmetics,Nail Paints & Accessories,Nail polish,classic; gel-look; quick-dry,Branded + unbranded,7,Lakme; Colorbar; Nykaa Cosmetics; Faces Canada; Swiss Beauty; Elle 18; Renee,Compliant independent nail polish,Yes,4,0,4
+Beauty & Personal Care,Beauty & Cosmetics,Nail Paints & Accessories,Nail remover/care,remover; cuticle oil,Branded + unbranded,4,Lakme; Colorbar; Nykaa Cosmetics; Faces Canada,Generic clippers/files; no anonymous solvents,,0,0,0
+Beauty & Personal Care,Beauty & Cosmetics,Nail Paints & Accessories,Nail accessories,nail files; clippers; tips,Branded + unbranded,3,Vega; Miniso; Kai,Generic nail-care tools,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Beauty Accessories,Makeup brushes,face; eye; lip,Branded + unbranded,5,Vega; Swiss Beauty; Real Techniques; PAC; Proarte,Generic makeup brushes with material details,Yes,4,0,4
+Beauty & Personal Care,Beauty & Cosmetics,Beauty Accessories,Sponges/tools,blender; puff; eyelash curler,Branded + unbranded,4,PAC; Vega; Swiss Beauty; Real Techniques,Generic sponges/tools,,0,0,0
+Beauty & Personal Care,Beauty & Cosmetics,Beauty Accessories,Mirrors/organisers,tabletop; travel; pouch,Branded + unbranded,2,Miniso; IKEA,Generic beauty organisers,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Bath & Beauty Gifts,Makeup kits,lip; eyes; face,Branded + unbranded,5,Lakme; Maybelline; Sugar Cosmetics; Colorbar; Swiss Beauty,Local compliant cosmetics gift sets,Yes,2,0,2
+Beauty & Personal Care,Beauty & Cosmetics,Bath & Beauty Gifts,Bath sets,body wash; lotion; scent,Branded + unbranded,4,The Body Shop; Nivea; Plum; Forest Essentials,Local labelled bath gift boxes,,0,0,0
+Beauty & Personal Care,Beauty & Cosmetics,Beauty E-Card,Beauty gift card,fixed denomination or open value,Branded + unbranded,3,Nykaa; Sephora; Tira,—; issuer terms and authorization required,,0,0,0
+Beauty & Personal Care,Feminine Hygiene,Sanitary Pads,Sanitary pads,regular; XL; overnight,Branded + unbranded,9,Whisper; Stayfree; Sofy; Kotex; Paree; Nua; Carmesi; Azah; Plush,Manufacturer-traceable private-label pads only,Yes,2,0,2
+Beauty & Personal Care,Feminine Hygiene,Sanitary Pads,Pantyliners,daily; long,Branded + unbranded,4,Carefree; Whisper; Sofy; Nua,Manufacturer-traceable liners,Yes,2,1,1
+Beauty & Personal Care,Feminine Hygiene,Tampons & Menstrual Cups,Tampons,regular; super,Branded only,4,Tampax; o.b.; Sirona; Pee Safe,,Yes,2,2,0
+Beauty & Personal Care,Feminine Hygiene,Tampons & Menstrual Cups,Menstrual cups,small; medium; large,Branded + unbranded,5,Sirona; Pee Safe; Carmesi; Sanfe; Boondh,No anonymous internal-use products; traceable manufacturer,Yes,2,0,2
+Beauty & Personal Care,Feminine Hygiene,Period Panty,Period underwear,light; medium; heavy,Branded + unbranded,5,HealthFab GoPadFree; Mahina; Lemme Be; Nua; Plush,Traceable local textile producer with absorbency information,Yes,2,0,2
+Beauty & Personal Care,Feminine Hygiene,Period Pain Relief,Heat patches/pads,disposable; reusable,Branded + unbranded,4,Sirona; Pee Safe; Sanfe; Caresmith,Generic heat packs from compliant manufacturers,Yes,2,0,2
+Beauty & Personal Care,Feminine Hygiene,Period Pain Relief,Hot-water bags,rubber; electric,Branded + unbranded,3,Flamingo; Tynor; Caresmith,Compliant generic hot-water bags,Yes,2,0,2
+Beauty & Personal Care,Feminine Hygiene,Period Pain Relief,Pain medicines,only licensed OTC category if permitted,Unbranded only,0,,—; pharmacy/legal review before sale,,0,0,0
+Beauty & Personal Care,Feminine Hygiene,Intimate Wash & Wipes,External intimate wash,gentle; fragrance-free,Branded + unbranded,6,VWash; Pee Safe; Sirona; Sanfe; Himalaya; Lactacyd,Compliant local cosmetic wash with proper labelling,Yes,2,0,2
+Beauty & Personal Care,Feminine Hygiene,Intimate Wash & Wipes,Wipes,intimate; unscented,Branded + unbranded,4,Pee Safe; Sirona; Carmesi; Plush,Traceable hygienic wipes,Yes,2,0,2
+Beauty & Personal Care,Feminine Hygiene,Hair Removal,Depilatory creams,sensitive; normal,Branded + unbranded,5,Veet; Anne French; Fem; Sirona; Sanfe,No anonymous chemical depilatories,Yes,1,0,1
+Beauty & Personal Care,Feminine Hygiene,Hair Removal,Wax/strips,cold wax; ready strips,Branded + unbranded,4,Veet; Rica; Sleek; Honey Twigs,Licensed local wax manufacturers,Yes,2,1,1
+Beauty & Personal Care,Feminine Hygiene,Hair Removal,Shaving tools,razors; trimmers,Branded + unbranded,5,Gillette Venus; Philips; Braun; Kai; LetsShave,Generic razors with producer details,Yes,2,0,2
+Beauty & Personal Care,Feminine Hygiene,Mom Care,Maternity pads,postpartum; heavy-flow,Branded + unbranded,5,Whisper; Sirona; Pee Safe; Mothercare; Bella,Verified manufacturer private-label pads,Yes,2,0,2
+Beauty & Personal Care,Feminine Hygiene,Mom Care,Breast pads,disposable; washable,Branded + unbranded,4,Philips Avent; Pigeon; Mee Mee; LuvLap,Generic washable pads with material details,Yes,2,0,2
+Beauty & Personal Care,Feminine Hygiene,Mom Care,Maternal skin/body care,belly butter; nipple balm,Branded + unbranded,4,Palmer's; Mamaearth; Himalaya; Mother Sparsh,Compliant manufacturer products,Yes,2,1,1
+Household Essentials,Cleaners & Repellents,Repellents & Disinfectants,Mosquito repellents,liquid vaporiser; coil; spray,Branded + unbranded,6,Goodknight; All Out; Mortein; Maxo; Hit; Odomos,No anonymous pesticide/insecticide formulations,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Repellents & Disinfectants,Disinfectants,surface liquid; sanitising spray,Branded + unbranded,6,Dettol; Savlon; Lizol; Domex; Colin; Lifebuoy,Properly registered/labelled local products,Yes,2,1,1
+Household Essentials,Cleaners & Repellents,Repellents & Disinfectants,Cockroach/ant control,spray; gel/bait,Branded + unbranded,4,Hit; Mortein; Goodknight; Maxo,No anonymous pest-control chemicals,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Detergent Powder & Bars,Detergent powder,regular; machine-specific,Branded + unbranded,9,Surf Excel; Ariel; Tide; Rin; Ghadi; Wheel; Nirma; Henko; Patanjali,Labelled local detergent powder from identifiable manufacturer,Yes,4,2,2
+Household Essentials,Cleaners & Repellents,Detergent Powder & Bars,Detergent bars,laundry; multipurpose,Branded + unbranded,6,Rin; Tide; Wheel; Ghadi; Nirma; Surf Excel,Compliant local laundry bars,,0,0,0
+Household Essentials,Cleaners & Repellents,Liquid Detergents,Liquid laundry,front-load; top-load,Branded + unbranded,5,Surf Excel Matic; Ariel Matic; Tide Matic; IFB Essentials; Bosch,Identified local compliant detergent manufacturer,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Liquid Detergents,Gentle/fabric wash,delicate; baby garment; wool,Branded + unbranded,5,Godrej Ezee; Genteel; Surf Excel; Chicco; Himalaya,Identified local gentle wash manufacturer,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Laundry Additives,Fabric conditioner,floral; gentle,Branded + unbranded,4,Comfort; Downy; Softouch; Godrej,Local labelled softener,Yes,2,1,1
+Household Essentials,Cleaners & Repellents,Laundry Additives,Stain removers/whiteners,stain powder; oxygen bleach,Branded + unbranded,4,Vanish; Rin; Surf Excel; Ujala,No anonymous chemical formulations,Yes,2,1,1
+Household Essentials,Cleaners & Repellents,Laundry Additives,Fabric blue/starch,liquid blue; starch,Branded + unbranded,2,Ujala; Revive,Local manufacturer-labelled laundry starch,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Dishwashing Gels & Bars,Dishwash bars,lemon; regular,Branded + unbranded,5,Vim; Pril; Exo; Xpert; Giffy,Labelled local dishwash bars,Yes,4,0,4
+Household Essentials,Cleaners & Repellents,Dishwashing Gels & Bars,Dishwash liquids,lemon; antibacterial-positioned; concentrated,Branded + unbranded,6,Vim; Pril; Exo; Giffy; Cif; Godrej,Labelled local dishwash gel,,0,0,0
+Household Essentials,Cleaners & Repellents,Dishwashing Gels & Bars,Dishwasher detergents,powder; tablet; rinse aid,Branded + unbranded,4,Finish; IFB Essentials; Bosch; Fortune,No anonymous machine chemicals,Yes,2,1,1
+Household Essentials,Cleaners & Repellents,Dishwashing Accessories,Scrub pads/sponges,regular; non-scratch,Branded + unbranded,5,Scotch-Brite; Gala; Cello; Vileda; Kleeno,"Generic scrubbing pads, material disclosed",Yes,2,1,1
+Household Essentials,Cleaners & Repellents,Dishwashing Accessories,Bottle brushes,regular; baby-bottle,Branded + unbranded,4,Pigeon; Chicco; LuvLap; Scotch-Brite,Generic bottle brushes,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Dishwashing Accessories,Dishcloths,microfiber; cotton,Branded + unbranded,3,Scotch-Brite; Gala; Cello,Generic kitchen cloths,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Toilet Cleaners,Toilet cleaner liquid,regular; power; disinfectant,Branded + unbranded,4,Harpic; Domex; Lizol; Sanifresh,Manufacturer-labelled local toilet cleaner,Yes,2,1,1
+Household Essentials,Cleaners & Repellents,Toilet Cleaners,Toilet blocks/fresheners,rim block; cistern block,Branded + unbranded,3,Harpic; Domex; Air Wick,No anonymous chemical blocks,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Floor Cleaners,Floor cleaner,citrus; pine; floral,Branded + unbranded,5,Lizol; Dettol; Nimyle; Domex; Colin,Manufacturer-labelled local floor cleaning liquid,Yes,2,1,1
+Household Essentials,Cleaners & Repellents,Floor Cleaners,Phenyl,white; black; herbal-positioned,Branded + unbranded,1,Gainda,Labelled local phenyl from verifiable manufacturer,Yes,1,0,1
+Household Essentials,Cleaners & Repellents,Cleaning Tools,Brooms,grass; coconut-stick; soft,Branded + unbranded,2,Gala; Scotch-Brite,Local unbranded grass/coconut brooms,Yes,2,1,1
+Household Essentials,Cleaners & Repellents,Cleaning Tools,Mops,flat; spin; string,Branded + unbranded,5,Gala; Scotch-Brite; Milton; Spotzero; Vileda,Generic mops with material/size,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Cleaning Tools,Brushes/dusters,toilet brush; floor brush; microfiber,Branded + unbranded,4,Gala; Scotch-Brite; Cello; Kleeno,Generic household cleaning tools,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Garbage Bags,Garbage bags,small; medium; large,Branded + unbranded,5,Beco; Ezee; Presto!; Origami; G 1,"Generic bags with size, gauge, material, permitted claims",Yes,3,0,3
+Household Essentials,Cleaners & Repellents,Garbage Bags,Compostable bags,certified compostable only,Branded + unbranded,2,Beco; Ecoware,Certified local compostable bags with traceable claims,Yes,1,0,1
+Household Essentials,Cleaners & Repellents,Glass & Metal Cleaners,Glass cleaner,spray; refill,Branded + unbranded,4,Colin; Cif; Mr Muscle; 3M,Properly labelled local glass cleaner,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Glass & Metal Cleaners,Steel/metal cleaner,steel; brass/copper; multi-metal,Branded + unbranded,4,Pitambari; Brasso; 3M; Cif,Properly labelled local metal cleaner,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Shoe Care,Shoe polish,black; brown; neutral,Branded + unbranded,4,Kiwi; Cherry Blossom; Helios; Woly,Manufacturer-labelled local shoe-care liquids,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Shoe Care,Shoe cleaner,sneaker foam; leather cleaner,Branded + unbranded,4,Helios; Sneakare; Jason Markk; Crep Protect,Identified local cleaner manufacturer,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Machine & Car Care,Car wash,shampoo; waterless wash,Branded + unbranded,5,3M; Wavex; Formula 1; Turtle Wax; Bosch,Properly labelled local car cleaners,Yes,3,0,3
+Household Essentials,Cleaners & Repellents,Machine & Car Care,Car accessories,microfiber; sponge; detailing brush,Branded + unbranded,3,3M; Wavex; Turtle Wax,Generic microfiber/tools,Yes,1,0,1
+Household Essentials,Cleaners & Repellents,Machine & Car Care,Machine lubricant/care,multipurpose spray; descaler,Branded + unbranded,4,WD-40; 3M; Bosch; IFB Essentials,No unlabelled industrial/chemical products,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Household Appliance Cleaners,Washing machine cleaner,powder; liquid; tablet,Branded + unbranded,5,IFB Essentials; Bosch; LG; Samsung; Dr Beckmann,Verified manufacturer-labelled cleaner,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Household Appliance Cleaners,Kitchen appliance descaler,kettle; coffee-machine; steam,Branded + unbranded,4,Philips; Bosch; De'Longhi; Dr Beckmann,Verified manufacturer-labelled descaler,Yes,2,0,2
+Household Essentials,Cleaners & Repellents,Household Appliance Cleaners,Microwave/oven cleaner,degreaser; appliance-safe,Branded + unbranded,3,Cif; Mr Muscle; 3M,Properly labelled appliance cleaner,Yes,2,0,2
+Household Essentials,Stationery & Games,Notebooks & Diaries,Notebooks,ruled; unruled; graph,Branded + unbranded,5,Classmate; Navneet; Camlin; Paperkraft; Sundaram,Local school notebooks by pages/GSM,,2,0,2
+Household Essentials,Stationery & Games,Notebooks & Diaries,Diaries/planners,daily; weekly; undated,Branded + unbranded,4,Paperkraft; Factor Notes; Neorah; Doodle,Local diary binders with paper specification,,2,0,2
+Household Essentials,Stationery & Games,Pens & Pencils,Ball/gel pens,blue; black; red,Branded + unbranded,7,Reynolds; Cello; Linc; Hauser; Flair; Rorito; Pentonic,Generic pens from identified manufacturer,,2,0,2
+Household Essentials,Stationery & Games,Pens & Pencils,Pencils,HB; 2B; mechanical,Branded + unbranded,5,Nataraj; Apsara; Camlin; Faber-Castell; Staedtler,Generic pencils,,4,0,4
+Household Essentials,Stationery & Games,Pens & Pencils,Markers/highlighters,permanent; whiteboard; neon,Branded + unbranded,5,Camlin; Faber-Castell; Luxor; Cello; Staedtler,Generic markers if labelled,,2,0,2
+Household Essentials,Stationery & Games,Pens & Pencils,Erasers/sharpeners,standard; exam,Branded + unbranded,4,Apsara; Nataraj; Camlin; Faber-Castell,Generic erasers/sharpeners,,0,0,0
+Household Essentials,Stationery & Games,Toys & Games,Board games,chess; carrom; ludo; monopoly,Branded + unbranded,5,Funskool; Hasbro; Mattel; Skillmatics; Frank,"Generic wooden chess/carrom, safety verified",,3,1,2
+Household Essentials,Stationery & Games,Toys & Games,Building/puzzle toys,blocks; jigsaw; magnetic,Branded + unbranded,5,Lego; Funskool; Smartivity; Skillmatics; Fisher-Price,Generic age-labelled toys with safety certification,,2,0,2
+Household Essentials,Stationery & Games,Toys & Games,Outdoor toys,balls; frisbees; skipping,Branded + unbranded,4,Decathlon; Funskool; Simba; Nivia,Generic child-safe toys,,1,0,1
+Household Essentials,Stationery & Games,Glue & Tape,Adhesives,glue stick; liquid; white glue,Branded + unbranded,5,Fevicol; Fevistik; Pidilite; Camlin; Elmer's,Properly labelled local adhesive,,2,0,2
+Household Essentials,Stationery & Games,Glue & Tape,Tape,cello; masking; double-sided; packing,Branded + unbranded,5,Scotch; 3M; Wonder; Nichiban; Tesa,Generic tape rolls with dimensions,,2,1,1
+Household Essentials,Stationery & Games,Books & Magazines,Books,fiction; non-fiction; exam guides,Branded + unbranded,5,Penguin Random House; HarperCollins; Rupa; Arihant; S Chand,"Independent publishers/bookstore stock, genuine editions",,2,0,2
+Household Essentials,Stationery & Games,Books & Magazines,Magazines,current affairs; lifestyle; children,Branded + unbranded,4,India Today; Outlook; Competition Success Review; Champak,Genuine publisher subscriptions/issues,,2,0,2
+Household Essentials,Stationery & Games,Bags & School Needs,School bags,primary; teen; laptop,Branded + unbranded,5,Skybags; American Tourister; Wildcraft; Safari; Aristocrat,Generic stitched school bags with material/size,,2,0,2
+Household Essentials,Stationery & Games,Bags & School Needs,School kits,geometry; compass; rulers,Branded + unbranded,5,Camlin; Classmate; Faber-Castell; Maped; Apsara,Generic geometry and ruler sets,,2,0,2
+Household Essentials,Stationery & Games,Bags & School Needs,School accessories,pencil box; water bottle,Branded + unbranded,4,Cello; Milton; Classmate; Smily Kiddos,"Generic pencil pouches, pencil boxes",,2,0,2
+Household Essentials,Stationery & Games,Children’s Books,Picture books,board; phonics; story,Branded + unbranded,5,Scholastic; Penguin; Tulika; Pratham Books; Wonder House,Independent publisher genuine editions,,2,0,2
+Household Essentials,Stationery & Games,Children’s Books,Activity books,tracing; colouring; puzzles,Branded + unbranded,4,Dreamland Publications; Navneet; MTG; Oswaal,Legitimate local publisher editions,,2,0,2
+Household Essentials,Stationery & Games,Arts & Crafts,Colouring supplies,crayons; pencils; sketch pens,Branded + unbranded,5,Camlin; Faber-Castell; DOMS; Apsara; Staedtler,Generic art kits with safety information,,2,0,2
+Household Essentials,Stationery & Games,Arts & Crafts,Painting supplies,watercolour; acrylic; brushes,Branded + unbranded,5,Camlin; Fevicryl; Brustro; Mont Marte; Faber-Castell,Generic paints only from identifiable manufacturers,,2,0,2
+Household Essentials,Stationery & Games,Arts & Crafts,Craft materials,paper; foam; glitter; clay,Branded + unbranded,5,Fevicryl; Funskool; DOMS; Itsy Bitsy; Hobby Ideas,"Generic craft paper/foam/clay, age/safety labelled",,2,0,2
+Household Essentials,Stationery & Games,Files & Office Needs,Paper/files,A4 copier; ring binder; document file,Branded + unbranded,5,JK Copier; Century; Bilt; Solo; Oddy,Generic paper and files by gsm/size,,2,0,2
+Household Essentials,Stationery & Games,Files & Office Needs,Office supplies,stapler; punch; clips; pins,Branded + unbranded,5,Kangaro; Deli; Maped; Oddy; Faber-Castell,Generic desk accessories,,2,1,1
+Household Essentials,Stationery & Games,Files & Office Needs,Labels/notes,sticky notes; index tabs,Branded + unbranded,4,Post-it; Oddy; Deli; 3M,Generic sticky notes with dimensions,,2,0,2
+Household Essentials,Stationery & Games,Gift Wraps & Bags,Wrapping,rolls; sheets; tissue paper,Branded + unbranded,3,Hallmark; Archies; Paperkraft,Generic wrapping sheets,,2,0,2
+Household Essentials,Stationery & Games,Gift Wraps & Bags,Gift bags/boxes,paper bags; rigid boxes,Branded + unbranded,2,Archies; Hallmark,Generic paper gift bags/boxes,,2,0,2
+Household Essentials,Stationery & Games,Gift Wraps & Bags,Ribbons/decor,ribbons; bows; tags,Branded + unbranded,2,Itsy Bitsy; Hobby Ideas,Generic ribbons and gift tags,,2,0,2
+Household Essentials,Stationery & Games,Sports & Gym,Sports balls,cricket; football; badminton,Branded + unbranded,6,Nivia; Cosco; SG; Yonex; Decathlon; Vector X,Local unbranded practice balls with specifications,,3,0,3
+Household Essentials,Stationery & Games,Sports & Gym,Fitness gear,mats; resistance bands; skipping,Branded + unbranded,5,Decathlon; Strauss; Boldfit; Cosco; Reebok,Generic mats/bands with resistance info,,2,0,2
+Household Essentials,Stationery & Games,Sports & Gym,Accessories,sweat bands; shakers; gloves,Branded + unbranded,4,Decathlon; Boldfit; Strauss; Nivia,Generic gym accessories,,1,0,1
+Household Essentials,Stationery & Games,Shoe Polish & Brush,Shoe polish,wax; cream; instant,Branded + unbranded,4,Kiwi; Cherry Blossom; Helios; Woly,Identified local polish manufacturer,Yes,2,0,2
+Household Essentials,Stationery & Games,Shoe Polish & Brush,Shoe brushes,horsehair; synthetic; suede,Branded + unbranded,3,Kiwi; Helios; Woly,Generic material-labelled brushes,,0,0,0

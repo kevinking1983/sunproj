@@ -44,13 +44,15 @@ jobs:
         run: node scripts/photos/import-links.mjs
       - name: List products still without a photo in photo-links.csv
         run: node scripts/photos/import-links.mjs --template
-      - name: Regenerate the catalog seed
-        run: node scripts/catalog/build-seed.mjs
+      - name: Regenerate the catalog seed and the image tracker
+        run: |
+          node scripts/catalog/build-seed.mjs
+          node scripts/catalog/image-tracker.mjs
       - name: Commit results
         run: |
           git config user.name "ration-catalog-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add supabase/catalog/images.json supabase/catalog/image-overrides.json supabase/catalog/photo-links.csv supabase/seeds/catalog.sql
+          git add supabase/catalog/images.json supabase/catalog/image-overrides.json supabase/catalog/photo-links.csv supabase/seeds/catalog.sql supabase/catalog/image-tracker.csv supabase/catalog/family-classification.csv supabase/catalog/IMAGE_COVERAGE.md
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Catalog: licensed product photos and regenerated seed"
           for i in 1 2 3; do

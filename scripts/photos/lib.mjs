@@ -33,9 +33,7 @@ export const GENERIC = new Set("organic premium pure natural fresh classic origi
 /** Products in catalog order, with their department and category path, and the photo they have now. */
 export function loadCatalog() {
   const assortment = read(path.join(CAT, "assortment.json"));
-  const images = readIf(path.join(CAT, "images.json"), {});
-  const overrides = readIf(OVERRIDES, {});
-  const auto = readIf(AUTO, {});
+
   const shelf = new Map(); // subcategory slug -> { dept, deptName, path }
   for (const d of assortment.departments)
     for (const c of d.categories) for (const s of c.subcategories) if (s.slug) shelf.set(s.slug, { dept: d.slug, deptName: d.name, path: `${d.name} › ${c.name} › ${s.name}` });
@@ -44,14 +42,13 @@ export function loadCatalog() {
   files.sort((a, b) => order.indexOf(a.replace(/\.json$/, "")) - order.indexOf(b.replace(/\.json$/, "")));
   const products = [read(path.join(CAT, "pinned.json")), ...files.map((f) => read(path.join(CAT, "products", f)))].flat();
   const seen = new Set();
-  return products
-    .filter((p) => !seen.has(p.slug) && seen.add(p.slug))
+  const unique = products.filter((p) => !seen.has(p.slug) && seen.add(p.slug));
+  const photoOf = imageResolver(unique);
+  return unique
     .map((p) => {
       const where = shelf.get(p.subcategories[0]) ?? { dept: "", deptName: "", path: p.subcategories[0] };
-      const key = !p.image ? null : p.image.wiki ? `wiki:${p.image.wiki}` : `off:${p.image.off.brand.toLowerCase()}|${p.image.off.query.toLowerCase()}`;
-      const o = overrides[p.slug];
-      const hit = o ? (o.url ? o : null) : images[key]?.url ? images[key] : auto[p.slug]?.url ? auto[p.slug] : null;
-      return { ...p, dept: where.dept, deptName: where.deptName, path: where.path, current: hit ? { url: hit.url, credit: hit.credit, page: hit.page, source: hit.source } : null };
+      const hit = photoOf(p);
+      return { ...p, dept: where.dept, deptName: where.deptName, path: where.path, current: hit ? { url: hit.url, credit: hit.credit, page: hit.page, source: hit.source } : null, photo: hit };
     });
 }
 
@@ -129,7 +126,7 @@ export const commonsTitleFromLink = (link) => {
 };
 
 // --- Open Food / Beauty / Products Facts ------------------------------------------------
-export const FIELDS = "code,product_name,product_name_en,brands,image_front_url,countries_tags";
+export const FIELDS = "code,product_name,product_name_en,brands,quantity,image_front_url,countries_tags";
 const factsThumb = (url) => url.replace(/\.(\d+)\.jpg$/, ".$1.400.jpg").replace(/\.full\.jpg$/, ".400.jpg");
 export const factsCandidate = (kind, p) => ({
   title: [p.brands, p.product_name_en || p.product_name].filter(Boolean).join(" · ") || p.code,
@@ -236,4 +233,93 @@ export function auditMatches(rows, products) {
   }
   for (const list of out.values()) list.sort((a, b) => b.score - a.score);
   return out;
+}
+
+// --- Image policy --------------------------------------------------------------------------
+// Generic produce, meat and eggs; unbranded commodities; branded goods. Branded products only
+// ever get their own pack shot; generic and unbranded ones may share a representative photo when
+// they look the same.
+export function brandClass(p) {
+  if (p.brand) return "Branded";
+  return /^(vegetables-fruits|chicken-meat-fish|dairy-bread-eggs-eggs)/.test(p.subcategories[0] ?? "") ? "Generic" : "Unbranded";
+}
+
+/** Why a listing's exact identity matters (cosmetics, chemicals, appliances, claims), or null. */
+export function specReason(p) {
+  const s = p.subcategories.join(" ");
+  if (/\bappliances?\b|-appliances/.test(s) || /\b(electric|mixer|grinder|kettle|induction|toaster|iron|trimmer|dryer)\b/i.test(p.name)) return "electrical appliance: model must match";
+  if (p.subcategories.some((x) => x.startsWith("feminine-hygiene"))) return "hygiene product";
+  if (p.subcategories.some((x) => x.startsWith("cleaners-repellents"))) return "chemical or repellent: formulation must match";
+  if (/baby/.test(s) || /\bbaby\b/i.test(p.name) && p.brand) return "baby product";
+  if (p.dept === "beauty-personal-care") return "cosmetic or personal care: formula/shade must match";
+  if (/\borganic\b/i.test(p.name)) return "organic claim: certified pack must be shown";
+  return null;
+}
+
+// Words that change the name but not what the product looks like.
+const LOOKS_SAME = new Set("hybrid local desi nati country tender large big small medium fine farm loose imported indian pooja".split(" "));
+const NAME_ONLY = new Set([...GENERIC, ...LOOKS_SAME]);
+const nameWords = (s) => new Set(words(s).filter((w) => !NAME_ONLY.has(w) && !/^\d/.test(w)));
+
+/**
+ * Generic listings that share one representative photo (same Wikipedia article) but differ in
+ * look: Red Potato and Baby Potato against Potato, White Onion against Onion. Returns
+ * slug -> the words that make it a different variety. The simplest name in each group keeps the
+ * shared photo.
+ */
+export function varietyListings(products) {
+  const groups = new Map();
+  for (const p of products) if (!p.brand && p.image?.wiki) (groups.get(p.image.wiki) ?? groups.set(p.image.wiki, []).get(p.image.wiki)).push(p);
+  const out = new Map();
+  for (const list of groups.values()) {
+    if (list.length < 2) continue;
+    const base = [...list].sort((a, b) => nameWords(a.name).size - nameWords(b.name).size)[0];
+    const baseWords = nameWords(base.name);
+    for (const p of list) {
+      if (p === base) continue;
+      const extra = [...nameWords(p.name)].filter((w) => !baseWords.has(w) && !baseWords.has(w.replace(/s$/, "")));
+      if (extra.length) out.set(p.slug, { base: base.slug, extra });
+    }
+  }
+  return out;
+}
+
+/** "5 kg" against an Open Food Facts quantity such as "5kg" or "5000 g". */
+export function sameSize(unitLabel, quantity) {
+  const parse = (s) => {
+    const m = /(\d+(?:[.,]\d+)?)\s*(kg|g|gm|gms|grams?|l|ltr|litres?|liters?|ml)\b/i.exec(String(s ?? "").replace(/\s+/g, " "));
+    if (!m) return null;
+    const n = Number(m[1].replace(",", "."));
+    const u = m[2].toLowerCase();
+    return u === "kg" || u.startsWith("l") ? [n * 1000, u === "kg" ? "g" : "ml"] : [n, u === "ml" ? "ml" : "g"];
+  };
+  const a = parse(unitLabel);
+  const b = parse(quantity);
+  return Boolean(a && b && a[1] === b[1] && Math.abs(a[0] - b[0]) <= a[0] * 0.01);
+}
+
+/**
+ * The photo a listing gets under the image policy, with where it came from, or null:
+ *   1. chosen by hand (image-overrides.json; {"none": true} = no photo)
+ *   2. a variety's own photo (auto-photos.json)
+ *   3. the strict lookup (images.json), except that a variety never borrows the photo of a
+ *      listing that looks different
+ *   4. the broader automatic match (auto-photos.json); never a generic photo on a branded listing
+ */
+export function imageResolver(products, sources = {}) {
+  const images = sources.images ?? readIf(path.join(CAT, "images.json"), {});
+  const overrides = sources.overrides ?? readIf(OVERRIDES, {});
+  const auto = sources.auto ?? readIf(AUTO, {});
+  const varieties = varietyListings(products);
+  const keyOf = (img) => (!img ? null : img.wiki ? `wiki:${img.wiki}` : `off:${img.off.brand.toLowerCase()}|${img.off.query.toLowerCase()}`);
+  return (p) => {
+    const manual = overrides[p.slug];
+    if (manual) return manual.url ? { ...manual, from: "manual" } : null;
+    const a = auto[p.slug]?.url && !(p.brand && auto[p.slug].match !== "pack") ? auto[p.slug] : null;
+    if (a?.match === "variety") return { ...a, from: "auto" };
+    const hit = images[keyOf(p.image)];
+    if (hit?.url && !varieties.has(p.slug)) return { ...hit, from: "strict", key: keyOf(p.image) };
+    if (a && !varieties.has(p.slug)) return { ...a, from: "auto" };
+    return null;
+  };
 }

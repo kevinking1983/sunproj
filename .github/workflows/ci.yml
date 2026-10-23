@@ -70,6 +70,8 @@ jobs:
         run: |
           node scripts/catalog/build-seed.mjs
           git diff --exit-code -- supabase/seeds/catalog.sql || (echo "supabase/seeds/catalog.sql is stale: run node scripts/catalog/build-seed.mjs and commit it" && exit 1)
+          node scripts/catalog/image-tracker.mjs
+          git diff --exit-code -- supabase/catalog/image-tracker.csv supabase/catalog/family-classification.csv supabase/catalog/IMAGE_COVERAGE.md || (echo "The image tracker is stale: run node scripts/catalog/image-tracker.mjs and commit it" && exit 1)
       - name: Apply migrations and seed
         run: |
           for f in supabase/migrations/*.sql; do echo "== $f"; psql -v ON_ERROR_STOP=1 -d ration -f "$f"; done

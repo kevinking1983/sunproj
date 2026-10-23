@@ -16,6 +16,7 @@ on:
     branches: [main]
     paths:
       - "supabase/catalog/photo-rejects.json"
+      - "supabase/catalog/visual-audit.json"
       - "scripts/catalog/auto-photos.mjs"
 
 permissions:
@@ -42,11 +43,12 @@ jobs:
         run: |
           node scripts/catalog/build-seed.mjs
           node scripts/photos/import-links.mjs --template
+          node scripts/catalog/image-tracker.mjs
       - name: Commit results
         run: |
           git config user.name "ration-catalog-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add supabase/catalog/auto-photos.json supabase/catalog/photo-links.csv supabase/seeds/catalog.sql
+          git add supabase/catalog/auto-photos.json supabase/catalog/photo-links.csv supabase/seeds/catalog.sql supabase/catalog/image-tracker.csv supabase/catalog/family-classification.csv supabase/catalog/IMAGE_COVERAGE.md
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Catalog: automatic photo matches and regenerated seed"
           for i in 1 2 3; do

@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """
-Contact sheets of the automatic photo matches (auto-photos.json), for a quick visual check.
-Each sheet holds 20 numbered photos with the product name; index.json maps sheet and number to
-the product slug. Wrong matches go into photo-rejects.json.
+Contact sheets of every linked photo still awaiting visual audit (from image-tracker.csv), for the
+visual check the image policy requires. Each sheet holds 20 numbered photos with the product,
+brand, pack size and photo title; index.json maps sheet and number to the listing. Wrong photos go
+into photo-rejects.json, approved ones into visual-audit.json.
 
     python3 scripts/catalog/contact-sheets.py <out_dir>        (needs Pillow)
 """
+import csv
 import json
 import sys
 import urllib.request
@@ -30,17 +32,6 @@ def font(size):
     return ImageFont.load_default()
 
 
-def products():
-    """Products in catalog order: pinned first, then each category file in assortment order."""
-    assortment = json.loads((CAT / "assortment.json").read_text())
-    order = [c["slug"] for d in assortment["departments"] for c in d["categories"]]
-    files = sorted((CAT / "products").glob("*.json"), key=lambda f: order.index(f.stem) if f.stem in order else 999)
-    out = json.loads((CAT / "pinned.json").read_text())
-    for f in files:
-        out += json.loads(f.read_text())
-    return out
-
-
 def fit(draw, text, f, width):
     """Text cut to fit the cell width, with an ellipsis."""
     if draw.textlength(text, font=f) <= width:
@@ -50,10 +41,12 @@ def fit(draw, text, f, width):
     return text + "…"
 
 
-auto = json.loads((CAT / "auto-photos.json").read_text())
-items = [(p, auto[p["slug"]]) for p in products() if auto.get(p["slug"], {}).get("url")]
-seen = set()
-items = [(p, a) for p, a in items if not (p["slug"] in seen or seen.add(p["slug"]))]
+def tracker_rows():
+    with open(CAT / "image-tracker.csv", encoding="utf-8-sig", newline="") as f:
+        return [r for r in csv.DictReader(f) if r["Image Collection Status"] == "LINKED" and r["Visual Audit Status"] == "VISUAL_AUDIT_PENDING"]
+
+
+items = tracker_rows()
 OUT.mkdir(parents=True, exist_ok=True)
 small, tiny = font(15), font(12)
 index = []
@@ -64,25 +57,25 @@ for s in range(0, len(items), per):
     rows = -(-len(chunk) // COLS)
     sheet = Image.new("RGB", (COLS * CELL, rows * (CELL + LABEL)), "white")
     draw = ImageDraw.Draw(sheet)
-    for i, (p, a) in enumerate(chunk):
+    for i, r in enumerate(chunk):
         x, y = (i % COLS) * CELL, (i // COLS) * (CELL + LABEL)
         try:
-            req = urllib.request.Request(a["url"], headers={"User-Agent": UA})
+            req = urllib.request.Request(r["Direct Image URL"], headers={"User-Agent": UA})
             img = Image.open(BytesIO(urllib.request.urlopen(req, timeout=30).read())).convert("RGB")
             img.thumbnail((CELL - 10, CELL - 10))
             sheet.paste(img, (x + (CELL - img.width) // 2, y + (CELL - img.height) // 2))
         except Exception as e:  # a broken photo is worth rejecting too
             draw.text((x + 10, y + CELL // 2), f"failed: {e}"[:40], fill="red", font=tiny)
         n = i + 1
-        tag = "R" if a.get("match") == "representative" else "P"
-        draw.rectangle([x, y, x + CELL - 1, y + CELL + LABEL - 1], outline="#bbbbbb")
-        brand = p.get("brand") or ""
-        name = p["name"] if brand.lower() in p["name"].lower() else f"{brand} {p['name']}".strip()
+        tag = {"Pack shot": "P", "Representative": "R", "Variety representative": "V"}.get(r["Image Kind"], "?")
+        brand = r["Brand"] if r["Brand Classification"] == "Branded" else ""
+        name = r["Product / Variant"] if brand.lower() in r["Product / Variant"].lower() else f"{brand} {r['Product / Variant']}".strip()
         w = CELL - 12
+        draw.rectangle([x, y, x + CELL - 1, y + CELL + LABEL - 1], outline="#bbbbbb")
         draw.text((x + 6, y + CELL + 2), fit(draw, f"{n}. [{tag}] {name}", small, w), fill="black", font=small)
-        draw.text((x + 6, y + CELL + 22), fit(draw, f"{p['unit_label']} | {a.get('title', '')}", tiny, w), fill="#555555", font=tiny)
-        draw.text((x + 6, y + CELL + 40), fit(draw, p["slug"], tiny, w), fill="#888888", font=tiny)
-        index.append({"sheet": sheet_no, "n": n, "slug": p["slug"], "name": p["name"], "match": a.get("match"), "url": a["url"]})
+        draw.text((x + 6, y + CELL + 22), fit(draw, f"{r['Pack Size']} | {r['Source Website']}", tiny, w), fill="#555555", font=tiny)
+        draw.text((x + 6, y + CELL + 40), fit(draw, r["Listing ID"], tiny, w), fill="#888888", font=tiny)
+        index.append({"sheet": sheet_no, "n": n, "slug": r["Listing ID"], "name": r["Product / Variant"], "brand": brand, "kind": r["Image Kind"], "url": r["Direct Image URL"]})
     sheet.save(OUT / f"sheet-{sheet_no:03d}.jpg", quality=80)
 (OUT / "index.json").write_text(json.dumps(index, indent=1))
 print(f"{len(items)} photos on {-(-len(items) // per)} sheets in {OUT}")

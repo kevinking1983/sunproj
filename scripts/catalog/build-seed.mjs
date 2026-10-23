@@ -14,6 +14,7 @@ import { execFileSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { imageResolver } from "../photos/lib.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const CAT = path.join(ROOT, "supabase/catalog");
@@ -44,7 +45,6 @@ const q = (v) => (v === null || v === undefined ? "null" : typeof v === "number"
 const arr = (a) => (a.length ? `array[${a.map(q).join(", ")}]::text[]` : "'{}'::text[]");
 const chunks = (rows, n = 250) => Array.from({ length: Math.ceil(rows.length / n) }, (_, i) => rows.slice(i * n, i * n + n));
 const slugify = (s) => s.toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "").replace(/&/g, " ").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
-const imageKey = (img) => (!img ? null : img.wiki ? `wiki:${img.wiki}` : `off:${img.off.brand.toLowerCase()}|${img.off.query.toLowerCase()}`);
 
 // Products: pinned first, then each file in category order. Twin shelves are already merged by slug.
 const order = assortment.departments.flatMap((d) => d.categories.map((c) => c.slug));
@@ -55,15 +55,9 @@ const shelfProducts = new Map(); // subcategory slug -> product slugs in order
 for (const p of products) for (const s of p.subcategories) (shelfProducts.get(s) ?? shelfProducts.set(s, []).get(s)).push(p);
 const unknownOverrides = Object.keys(overrides).filter((slug) => !products.some((p) => p.slug === slug));
 if (unknownOverrides.length) throw new Error(`image-overrides.json names products that do not exist: ${unknownOverrides.join(", ")}`);
-// A photo chosen by hand wins ({"none": true} means show no photo), then the strict lookup, then
-// the broader automatic match.
-const imageOf = (p) => {
-  const manual = overrides[p.slug];
-  if (manual) return manual.url ? manual : null;
-  const hit = images[imageKey(p.image)];
-  if (hit?.url) return hit;
-  return autoPhotos[p.slug]?.url ? autoPhotos[p.slug] : null;
-};
+// Image policy (supabase/catalog/IMAGE_POLICY.md); see imageResolver for the order of sources.
+const photoOf = imageResolver(products, { images, overrides, auto: autoPhotos });
+const imageOf = (p) => photoOf(p);
 
 // Category rows with an image taken from the first product on the shelf that has one.
 const categoryRows = []; // [parentSlug, name, slug, sort, icon, description, image, active]
