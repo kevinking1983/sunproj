@@ -16,7 +16,6 @@ on:
     branches: [main]
     paths:
       - "supabase/catalog/photo-rejects.json"
-      - "supabase/catalog/visual-audit.json"
       - "scripts/catalog/auto-photos.mjs"
 
 permissions:

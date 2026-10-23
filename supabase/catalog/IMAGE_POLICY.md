@@ -61,7 +61,10 @@ listing). After checking a sheet:
   An approval only counts while the listing still shows that photo. `NEEDS_HUMAN_REVIEW` marks a
   photo the reviewers could not settle.
 
-Both files re-run the workflow, which regenerates the seed, the tracker and the report.
+A change to `photo-rejects.json` re-runs the workflow, which looks for new candidates and
+regenerates the seed, the tracker and the report. After recording approvals, run
+`node scripts/catalog/build-seed.mjs` and `node scripts/catalog/image-tracker.mjs` (CI checks both
+are up to date); `scripts/catalog/record-audit.mjs` writes a review's results into both files.
 
 ## Statuses
 
