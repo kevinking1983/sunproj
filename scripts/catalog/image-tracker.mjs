@@ -15,7 +15,7 @@ import path from "node:path";
 import * as lib from "../photos/lib.mjs";
 
 const assortment = lib.read(path.join(lib.CAT, "assortment.json"));
-const audit = lib.readIf(path.join(lib.CAT, "visual-audit.json"), {}); // slug -> {status, by, date, note}
+const audit = lib.readIf(path.join(lib.CAT, "visual-audit.json"), {}); // slug -> {url, status, by, date, note}
 const catalog = lib.loadCatalog();
 const varieties = lib.varietyListings(catalog);
 
@@ -77,7 +77,8 @@ const rows = catalog.map((p) => {
     notes = "No freely licensed representative photo found yet.";
   }
   const confidence = !ph ? "" : ph.confidence ?? (ph.from === "manual" ? "Medium" : "Medium");
-  const a = audit[p.slug];
+  // An audit result only counts for the photo it was given for.
+  const a = ph && audit[p.slug]?.url === ph.url ? audit[p.slug] : null;
   return {
     "Listing ID": p.slug,
     Department: where.dept,
@@ -113,7 +114,7 @@ const rows = catalog.map((p) => {
 const cell = (v) => (/[",\n\r]/.test(String(v ?? "")) ? `"${String(v).replace(/"/g, '""')}"` : String(v ?? ""));
 const writeCsv = (file, list) => {
   const head = Object.keys(list[0]).filter((k) => !k.startsWith("_"));
-  fs.writeFileSync(path.join(lib.CAT, file), "﻿" + [head, ...list.map((r) => head.map((h) => r[h]))].map((r) => r.map(cell).join(",")).join("\r\n") + "\r\n");
+  fs.writeFileSync(path.join(lib.CAT, file), "\uFEFF" + [head, ...list.map((r) => head.map((h) => r[h]))].map((r) => r.map(cell).join(",")).join("\n") + "\n");
 };
 writeCsv("image-tracker.csv", rows);
 

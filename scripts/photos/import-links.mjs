@@ -31,7 +31,7 @@ if (process.argv.includes("--template")) {
   for (const p of catalog)
     if (!p.current && !have.has(p.slug)) rows.push({ slug: p.slug, product: p.name, brand: p.brand ?? "", pack: p.unit_label, shelf: p.path.replace(/ › /g, " > "), photo_link: "" }), added++;
   // The byte-order mark makes Excel open the file as UTF-8.
-  fs.writeFileSync(FILE, "\uFEFF" + [HEAD, ...rows.map((r) => HEAD.map((h) => r[h] ?? ""))].map((r) => r.map(cell).join(",")).join("\r\n") + "\r\n");
+  fs.writeFileSync(FILE, "\uFEFF" + [HEAD, ...rows.map((r) => HEAD.map((h) => r[h] ?? ""))].map((r) => r.map(cell).join(",")).join("\n") + "\n");
   console.log(`photo-links.csv: ${rows.length} rows (${added} added).`);
   process.exit(0);
 }

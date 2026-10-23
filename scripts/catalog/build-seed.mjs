@@ -7,6 +7,7 @@
  *   supabase/catalog/images.json       licensed image lookups (written by resolve-images.mjs)
  *   supabase/catalog/image-overrides.json  photos chosen by hand (photo-links.csv, photo picker), by product slug
  *   supabase/catalog/auto-photos.json  broader automatic matches (auto-photos.mjs), used last
+ *   supabase/catalog/photo-rejects.json  automatic photos rejected on visual review, never used
  * Deterministic: the same inputs always give the same file.
  *   node scripts/catalog/build-seed.mjs
  */
@@ -56,7 +57,8 @@ for (const p of products) for (const s of p.subcategories) (shelfProducts.get(s)
 const unknownOverrides = Object.keys(overrides).filter((slug) => !products.some((p) => p.slug === slug));
 if (unknownOverrides.length) throw new Error(`image-overrides.json names products that do not exist: ${unknownOverrides.join(", ")}`);
 // Image policy (supabase/catalog/IMAGE_POLICY.md); see imageResolver for the order of sources.
-const photoOf = imageResolver(products, { images, overrides, auto: autoPhotos });
+const rejects = fs.existsSync(path.join(CAT, "photo-rejects.json")) ? read(path.join(CAT, "photo-rejects.json")) : {};
+const photoOf = imageResolver(products, { images, overrides, auto: autoPhotos, rejects });
 const imageOf = (p) => photoOf(p);
 
 // Category rows with an image taken from the first product on the shelf that has one.

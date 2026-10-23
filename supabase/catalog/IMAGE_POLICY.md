@@ -53,10 +53,13 @@ The "Catalog auto photos" workflow publishes contact sheets of every photo await
 `photo-review` branch (`sheet-NNN.jpg`, with `index.json` mapping each numbered photo to its
 listing). After checking a sheet:
 
-- wrong photo: add it to `photo-rejects.json` as `{"<listing slug>": ["<photo url>"]}`; the next
-  run tries the next candidate;
+- wrong photo: add it to `photo-rejects.json` as `{"<listing slug>": ["<photo url>"]}`. It is
+  never shown again for that listing, whichever source found it, and the next run looks for
+  another candidate;
 - right photo: add it to `visual-audit.json` as
-  `{"<listing slug>": {"status": "APPROVED", "by": "<who>", "date": "YYYY-MM-DD", "note": "..."}}`.
+  `{"<listing slug>": {"url": "<photo url>", "status": "APPROVED", "by": "<who>", "date": "YYYY-MM-DD", "note": "..."}}`.
+  An approval only counts while the listing still shows that photo. `NEEDS_HUMAN_REVIEW` marks a
+  photo the reviewers could not settle.
 
 Both files re-run the workflow, which regenerates the seed, the tracker and the report.
 
@@ -65,7 +68,7 @@ Both files re-run the workflow, which regenerates the seed, the tracker and the 
 | Column | Values |
 |---|---|
 | Image Collection Status | `LINKED` (licensed photo URL recorded), `NEEDS_NEW_SOURCE`, `VARIANT_MISMATCH`, `MANUAL_VERIFICATION_REQUIRED` |
-| Visual Audit Status | `VISUAL_AUDIT_PENDING`, `APPROVED` (from `visual-audit.json`) |
+| Visual Audit Status | `VISUAL_AUDIT_PENDING`, `APPROVED`, `NEEDS_HUMAN_REVIEW` (from `visual-audit.json`) |
 | Match Confidence | `High` (brand, variant and pack size match), `Medium` (brand and variant match, or a representative photo), blank when there is no photo |
 
 The sample listings' pack sizes are not verified retail SKUs; production listings, prices and

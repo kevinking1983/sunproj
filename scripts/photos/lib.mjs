@@ -305,20 +305,23 @@ export function sameSize(unitLabel, quantity) {
  *   3. the strict lookup (images.json), except that a variety never borrows the photo of a
  *      listing that looks different
  *   4. the broader automatic match (auto-photos.json); never a generic photo on a branded listing
+ * Automatic photos rejected on review (photo-rejects.json) are never used for that listing.
  */
 export function imageResolver(products, sources = {}) {
   const images = sources.images ?? readIf(path.join(CAT, "images.json"), {});
   const overrides = sources.overrides ?? readIf(OVERRIDES, {});
   const auto = sources.auto ?? readIf(AUTO, {});
+  const rejects = sources.rejects ?? readIf(REJECTS, {});
   const varieties = varietyListings(products);
   const keyOf = (img) => (!img ? null : img.wiki ? `wiki:${img.wiki}` : `off:${img.off.brand.toLowerCase()}|${img.off.query.toLowerCase()}`);
   return (p) => {
     const manual = overrides[p.slug];
     if (manual) return manual.url ? { ...manual, from: "manual" } : null;
-    const a = auto[p.slug]?.url && !(p.brand && auto[p.slug].match !== "pack") ? auto[p.slug] : null;
+    const rejected = new Set(rejects[p.slug] ?? []);
+    const a = auto[p.slug]?.url && !(p.brand && auto[p.slug].match !== "pack") && !rejected.has(auto[p.slug].url) ? auto[p.slug] : null;
     if (a?.match === "variety") return { ...a, from: "auto" };
     const hit = images[keyOf(p.image)];
-    if (hit?.url && !varieties.has(p.slug)) return { ...hit, from: "strict", key: keyOf(p.image) };
+    if (hit?.url && !varieties.has(p.slug) && !rejected.has(hit.url)) return { ...hit, from: "strict", key: keyOf(p.image) };
     if (a && !varieties.has(p.slug)) return { ...a, from: "auto" };
     return null;
   };
