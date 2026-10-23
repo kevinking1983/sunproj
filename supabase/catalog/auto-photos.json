@@ -1,1 +1,3396 @@
-{}
+{
+ "24-mantra-organic-almonds-250g": {
+  "miss": true
+ },
+ "24-mantra-organic-bajra-flour-500g": {
+  "miss": true
+ },
+ "24-mantra-organic-black-pepper-100g": {
+  "miss": true
+ },
+ "24-mantra-organic-jaggery-1kg": {
+  "miss": true
+ },
+ "24-mantra-organic-jaggery-powder-500g": {
+  "miss": true
+ },
+ "24-mantra-organic-jowar-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/350/6188/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083506188",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "24 mantra jowar flour",
+  "quantity": "500g"
+ },
+ "24-mantra-organic-lobia-500g": {
+  "miss": true
+ },
+ "24-mantra-organic-poha-1kg": {
+  "miss": true
+ },
+ "24-mantra-organic-poha-500g": {
+  "miss": true
+ },
+ "24-mantra-organic-red-poha-500g": {
+  "miss": true
+ },
+ "24-mantra-organic-red-rice-1kg": {
+  "miss": true
+ },
+ "24-mantra-organic-sabja-seeds-100g": {
+  "miss": true
+ },
+ "24-mantra-organic-sona-masoori-rice-1kg": {
+  "miss": true
+ },
+ "24-mantra-organic-toor-dal-1kg": {
+  "miss": true
+ },
+ "24-mantra-organic-turmeric-powder-100g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/408/351/5241/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904083515241",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "24 Mantra Turmeric powder 200g",
+  "quantity": "15"
+ },
+ "24-mantra-organic-whole-wheat-atta-5kg": {
+  "miss": true
+ },
+ "24-mantra-organic-wholegrain-pasta-500g": {
+  "miss": true
+ },
+ "3m-car-shampoo-250ml": {
+  "miss": true
+ },
+ "3m-car-wash-sponge-1pc": {
+  "miss": true
+ },
+ "3m-multipurpose-lubricant-spray-250ml": {
+  "miss": true
+ },
+ "4700bc-butter-microwave-popcorn-85g": {
+  "miss": true
+ },
+ "4700bc-caramel-popcorn-60g": {
+  "miss": true
+ },
+ "a1-chips-banana-chips-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/885/917/410/0014/front_fr.13.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8859174100014",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Banana Chips · Mae Napa Banana Chips 35G."
+ },
+ "a1-chips-murukku-200g": {
+  "miss": true
+ },
+ "aachi-dry-red-chilli-250g": {
+  "miss": true
+ },
+ "aachi-mutton-masala-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/602/112/2290/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906021122290",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Aachi · Aachi Mutton Masala",
+  "quantity": "100g"
+ },
+ "aashirvaad-besan-1kg": {
+  "miss": true
+ },
+ "aashirvaad-maida-1kg": {
+  "miss": true
+ },
+ "aashirvaad-multigrain-atta-5kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/500/6679/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901725006679",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Aashirvaad · Atta with Multigrains kg",
+  "quantity": "5.5 kg"
+ },
+ "aashirvaad-salt-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/512/3123/front_en.13.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901725123123",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "aashirvaad · iodized salt",
+  "quantity": "1kg"
+ },
+ "aashirvaad-sooji-1kg": {
+  "miss": true
+ },
+ "accessorize-hair-clips-pack-of-2": {
+  "miss": true
+ },
+ "act-ii-popcorn-kernels-500g": {
+  "miss": true
+ },
+ "act-ii-salted-ready-to-eat-popcorn-60g": {
+  "miss": true
+ },
+ "akshayakalpa-a2-cow-ghee-500ml": {
+  "miss": true
+ },
+ "akshayakalpa-cow-ghee-500ml": {
+  "miss": true
+ },
+ "akshayakalpa-organic-milk-500ml": {
+  "url": "https://images.openfoodfacts.org/images/products/890/800/324/9391/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8908003249391",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Akshayakalpa Organic · Organic Cow Milk Pasteurized",
+  "quantity": "500 ml"
+ },
+ "alan-truman-hair-brush-1pc": {
+  "miss": true
+ },
+ "all-out-mosquito-repellent-liquid-vaporiser-refill-45ml": {
+  "miss": true
+ },
+ "almond-house-boondi-laddu-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/616/207/0795/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906162070795",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Almond House · Mota Boondi Laddu",
+  "quantity": "250 g"
+ },
+ "alpenliebe-hard-candy-pack-of-50": {
+  "miss": true
+ },
+ "alt-co-oat-milk-1l": {
+  "miss": true
+ },
+ "american-tourister-school-backpack-1pc": {
+  "miss": true
+ },
+ "amul-butterscotch-cone-120ml": {
+  "miss": true
+ },
+ "amul-cassata-ice-cream-1pc": {
+  "miss": true
+ },
+ "amul-cheese-cubes-200g": {
+  "miss": true
+ },
+ "amul-curd-400g": {
+  "miss": true
+ },
+ "amul-flavoured-milk-200ml": {
+  "miss": true
+ },
+ "amul-milkshake-180ml": {
+  "miss": true
+ },
+ "amul-mozzarella-cheese-200g": {
+  "miss": true
+ },
+ "amul-no-added-sugar-vanilla-ice-cream-125ml": {
+  "miss": true
+ },
+ "amul-vanilla-ice-cream-cup-125ml": {
+  "miss": true
+ },
+ "anne-french-hair-removal-cream-50g": {
+  "miss": true
+ },
+ "anveshan-a2-cow-ghee-500ml": {
+  "miss": true
+ },
+ "anveshan-bilona-ghee-500ml": {
+  "miss": true
+ },
+ "anveshan-coconut-oil-1l": {
+  "miss": true
+ },
+ "anveshan-sesame-oil-1l": {
+  "miss": true
+ },
+ "apsara-eraser-pack-of-10": {
+  "miss": true
+ },
+ "apsara-hb-pencils-pack-of-10": {
+  "miss": true
+ },
+ "archies-gift-wrapping-roll-1pc": {
+  "miss": true
+ },
+ "archies-paper-gift-bag-1pc": {
+  "miss": true
+ },
+ "ariel-detergent-powder-1kg": {
+  "miss": true
+ },
+ "ariel-matic-top-load-liquid-detergent-1l": {
+  "miss": true
+ },
+ "asparagus-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Asparagus_soup_%28spargelsuppe%29.jpg/960px-Asparagus_soup_%28spargelsuppe%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Asparagus_soup_(spargelsuppe).jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Asparagus soup (spargelsuppe).jpg"
+ },
+ "b-natural-mango-juice-1l": {
+  "miss": true
+ },
+ "baby-beetroot-250g": {
+  "miss": true
+ },
+ "baby-carrot-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Carrots_%28baby%29_-_Arlington%2C_MA.jpg/960px-Carrots_%28baby%29_-_Arlington%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Daderot, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Carrots_(baby)_-_Arlington,_MA.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Carrots (baby) - Arlington, MA.jpg"
+ },
+ "baby-potato-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Baby_Potato_PanArrLu.jpg/960px-Baby_Potato_PanArrLu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: SarKaLay စာကလေး, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Baby_Potato_PanArrLu.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Baby Potato PanArrLu.jpg"
+ },
+ "bagrrys-steel-cut-oats-1kg": {
+  "miss": true
+ },
+ "bajaj-sandwich-maker-1pc": {
+  "miss": true
+ },
+ "bambino-fryums-400g": {
+  "miss": true
+ },
+ "bambino-macaroni-pasta-500g": {
+  "miss": true
+ },
+ "bambino-semiya-kheer-mix-160g": {
+  "miss": true
+ },
+ "barilla-arrabbiata-pasta-sauce-400g": {
+  "miss": true
+ },
+ "bb-royal-idli-rice-5kg": {
+  "miss": true
+ },
+ "bb-royal-kolam-rice-5kg": {
+  "miss": true
+ },
+ "bb-royal-lobia-500g": {
+  "miss": true
+ },
+ "bb-royal-white-peas-1kg": {
+  "miss": true
+ },
+ "bblunt-temporary-hair-colour-100ml": {
+  "miss": true
+ },
+ "beardo-beard-oil-30ml": {
+  "miss": true
+ },
+ "beco-compostable-garbage-bags-small-30pcs": {
+  "miss": true
+ },
+ "beco-garbage-bags-medium-30pcs": {
+  "miss": true
+ },
+ "bella-vita-fragrance-gift-set-1set": {
+  "miss": true
+ },
+ "bella-vita-perfume-100ml": {
+  "miss": true
+ },
+ "bikaji-namkeen-gift-pack-1kg": {
+  "miss": true
+ },
+ "bikaji-navratan-mixture-400g": {
+  "miss": true
+ },
+ "bikaji-ratlami-sev-200g": {
+  "miss": true
+ },
+ "bikanervala-gulab-jamun-1kg": {
+  "miss": true
+ },
+ "bikanervala-peda-250g": {
+  "miss": true
+ },
+ "bingo-masala-corn-snack-90g": {
+  "miss": true
+ },
+ "biore-blackhead-strips-6pcs": {
+  "miss": true
+ },
+ "bisleri-packaged-drinking-water-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/601/729/0064/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906017290064",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Bisleri · Packaged Drinking Water",
+  "quantity": "2L"
+ },
+ "black-seedless-grapes-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Grapes_green_and_black-hibreed_seedless.jpg/960px-Grapes_green_and_black-hibreed_seedless.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Parvathisri, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Grapes_green_and_black-hibreed_seedless.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Grapes green and black-hibreed seedless.jpg"
+ },
+ "blue-bird-baking-powder-100g": {
+  "miss": true
+ },
+ "blue-tokai-single-origin-ground-coffee-250g": {
+  "miss": true
+ },
+ "blue-tokai-whole-bean-coffee-250g": {
+  "miss": true
+ },
+ "boldfit-gym-shaker-bottle-1pc": {
+  "miss": true
+ },
+ "bombay-dyeing-bath-towel-1pc": {
+  "miss": true
+ },
+ "bonne-maman-orange-marmalade-370g": {
+  "url": "https://images.openfoodfacts.org/images/products/304/532/001/6086/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/3045320016086",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Bonne Maman · Bonne Maman Orange Marmalade 370G"
+ },
+ "borosil-cocktail-shaker-1pc": {
+  "miss": true
+ },
+ "borosil-cutlery-set-1set": {
+  "miss": true
+ },
+ "borosil-glass-coffee-mugs-pack-of-2": {
+  "miss": true
+ },
+ "borosil-glass-serving-bowl-1pc": {
+  "miss": true
+ },
+ "borosil-glass-storage-jars-pack-of-3": {
+  "miss": true
+ },
+ "borosil-glass-tumblers-6pcs": {
+  "miss": true
+ },
+ "borosil-shot-glasses-6pcs": {
+  "miss": true
+ },
+ "bosch-appliance-descaler-6tabs": {
+  "miss": true
+ },
+ "bosch-washing-machine-cleaner-4tabs": {
+  "miss": true
+ },
+ "bournvita-chocolate-malt-drink-mix-500g": {
+  "miss": true
+ },
+ "brasso-metal-polish-100ml": {
+  "miss": true
+ },
+ "braun-beard-trimmer-1pc": {
+  "miss": true
+ },
+ "britannia-50-50-salted-crackers-150g": {
+  "miss": true
+ },
+ "britannia-50-50-sweet-salty-biscuits-120g": {
+  "miss": true
+ },
+ "britannia-assorted-biscuits-gift-pack-400g": {
+  "miss": true
+ },
+ "britannia-bourbon-cream-biscuits-150g": {
+  "miss": true
+ },
+ "britannia-chocolate-cookies-200g": {
+  "miss": true
+ },
+ "britannia-chocolate-muffins-pack-of-6": {
+  "miss": true
+ },
+ "britannia-fruit-cake-250g": {
+  "miss": true
+ },
+ "britannia-good-day-butter-cookies-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/309/2617/front_en.17.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063092617",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Britannia · Good Day Butter Cookies",
+  "quantity": "68g"
+ },
+ "britannia-marie-gold-biscuits-250g": {
+  "miss": true
+ },
+ "britannia-multigrain-biscuits-200g": {
+  "miss": true
+ },
+ "britannia-nutrichoice-digestive-biscuits-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/313/6403/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063136403",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Britannia · Britannia™ nutriCHOICE 5 Grain Digestive Biscuit",
+  "quantity": "300g"
+ },
+ "britannia-nutrichoice-oat-cookies-150g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/316/5687/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063165687",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Britannia, NutriChoice · Oats Almond & Milk Cookies",
+  "quantity": "450 g"
+ },
+ "britannia-sandwich-bread-400g": {
+  "miss": true
+ },
+ "britannia-swiss-roll-150g": {
+  "miss": true
+ },
+ "britannia-tiger-glucose-biscuits-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/106/316/3331/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901063163331",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Britannia · Tiger glucose biscuit"
+ },
+ "britannia-treat-cream-biscuits-150g": {
+  "miss": true
+ },
+ "broccoli-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Romanesco_broccoli_2025_G2.jpg/960px-Romanesco_broccoli_2025_G2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: George Chernilevsky, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Romanesco_broccoli_2025_G2.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Romanesco broccoli 2025 G2.jpg"
+ },
+ "brooke-bond-red-label-black-tea-500g": {
+  "miss": true
+ },
+ "brown-and-polson-corn-flour-200g": {
+  "miss": true
+ },
+ "bru-coffee-premix-10sachets": {
+  "miss": true
+ },
+ "brylcreem-hair-cream-100ml": {
+  "miss": true
+ },
+ "cabbage-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Pieris_brassicae_-_Large_Cabbage_White_-_02.jpg/960px-Pieris_brassicae_-_Large_Cabbage_White_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Zeynel Cebeci, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pieris_brassicae_-_Large_Cabbage_White_-_02.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Pieris brassicae - Large Cabbage White - 02.jpg"
+ },
+ "cadbury-assorted-chocolate-share-pack-200g": {
+  "miss": true
+ },
+ "cadbury-bournville-dark-chocolate-80g": {
+  "url": "https://images.openfoodfacts.org/images/products/600/106/560/1120/front_en.11.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/6001065601120",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Cadbury · Bournville classic Dark Chocolate",
+  "quantity": "80g"
+ },
+ "cadbury-celebrations-chocolate-gift-box-200g": {
+  "miss": true
+ },
+ "cadbury-festive-chocolate-hamper-1pack": {
+  "miss": true
+ },
+ "cadbury-gems-chocolate-candies-18g": {
+  "miss": true
+ },
+ "camlin-geometry-box-1set": {
+  "miss": true
+ },
+ "camlin-permanent-marker-black-pack-of-4": {
+  "miss": true
+ },
+ "camlin-watercolour-set-1set": {
+  "miss": true
+ },
+ "camlin-wax-crayons-12pcs": {
+  "miss": true
+ },
+ "catch-basil-leaves-15g": {
+  "miss": true
+ },
+ "catch-cloves-50g": {
+  "miss": true
+ },
+ "catch-mixed-herbs-20g": {
+  "miss": true
+ },
+ "catch-mustard-seeds-100g": {
+  "miss": true
+ },
+ "cello-gel-pen-black-pack-of-5": {
+  "miss": true
+ },
+ "cello-ice-cube-trays-pack-of-2": {
+  "miss": true
+ },
+ "cello-insulated-lunch-box-1pc": {
+  "miss": true
+ },
+ "cello-kids-lunch-box-1pc": {
+  "miss": true
+ },
+ "cello-pencil-box-1pc": {
+  "miss": true
+ },
+ "cello-plastic-storage-containers-pack-of-3": {
+  "miss": true
+ },
+ "cello-plastic-water-bottles-pack-of-3": {
+  "miss": true
+ },
+ "cello-soap-case-1pc": {
+  "miss": true
+ },
+ "cello-spice-jars-6pcs": {
+  "miss": true
+ },
+ "cello-steel-tumblers-6pcs": {
+  "miss": true
+ },
+ "cello-travel-mug-1pc": {
+  "miss": true
+ },
+ "cello-vacuum-flask-1pc": {
+  "miss": true
+ },
+ "center-fresh-chewing-gum-20pcs": {
+  "miss": true
+ },
+ "center-fresh-chewing-gum-40pcs": {
+  "miss": true
+ },
+ "century-a4-copier-paper-500sheets": {
+  "miss": true
+ },
+ "cetaphil-moisturising-cream-80g": {
+  "miss": true
+ },
+ "chandan-mukhwas-200g": {
+  "miss": true
+ },
+ "chandan-sweet-saunf-200g": {
+  "miss": true
+ },
+ "cherry-blossom-shoe-polish-brown-40g": {
+  "miss": true
+ },
+ "chicco-bottle-brush-1pc": {
+  "miss": true
+ },
+ "chuk-disposable-plates-25pcs": {
+  "miss": true
+ },
+ "cif-glass-cleaner-spray-500ml": {
+  "miss": true
+ },
+ "cif-kitchen-degreaser-spray-500ml": {
+  "miss": true
+ },
+ "cinthol-talcum-powder-100g": {
+  "miss": true
+ },
+ "classmate-geometry-box-1set": {
+  "miss": true
+ },
+ "classmate-ruled-notebook-pack-of-6": {
+  "miss": true
+ },
+ "cleaned-coriander-leaves-100g": {
+  "miss": true
+ },
+ "cleaned-mint-leaves-100g": {
+  "miss": true
+ },
+ "clear-anti-dandruff-shampoo-340ml": {
+  "miss": true
+ },
+ "coca-cola-soft-drink-750ml": {
+  "url": "https://images.openfoodfacts.org/images/products/394/876/401/2273/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/3948764012273",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Coca cola · Coca cola Soft Drink 750ml",
+  "quantity": "750ml"
+ },
+ "coca-cola-zero-sugar-soft-drink-300ml": {
+  "miss": true
+ },
+ "colgate-dental-floss-25m": {
+  "miss": true
+ },
+ "colgate-plax-mouthwash-250ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/131/407/7998/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901314077998",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Colgate · MaxFresh Plax Mouthwash",
+  "quantity": "250ml"
+ },
+ "colgate-toothbrush-pack-of-4": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/131/430/5527/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901314305527",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Colgate · Colgate SlimSoft Charcoal Toothbrush",
+  "quantity": "1 N"
+ },
+ "colin-glass-cleaner-spray-500ml": {
+  "miss": true
+ },
+ "colorbar-nail-polish-12ml": {
+  "miss": true
+ },
+ "colorbar-nail-polish-remover-110ml": {
+  "miss": true
+ },
+ "compact-cauliflower-1-pc": {
+  "miss": true
+ },
+ "coriander-leaves-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Coriander_Leaves.jpg/960px-Coriander_Leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Rupeshm364, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Coriander_Leaves.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Coriander Leaves.jpg"
+ },
+ "cornitos-kettle-cooked-potato-chips-125g": {
+  "miss": true
+ },
+ "cosco-cricket-tennis-ball-pack-of-6": {
+  "miss": true
+ },
+ "cosrx-pimple-patches-24pcs": {
+  "miss": true
+ },
+ "cothas-filter-coffee-powder-500g": {
+  "miss": true
+ },
+ "cricket-ball-chikoo-500g": {
+  "miss": true
+ },
+ "curry-cut-vegetable-mix-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Cut_Vegetable.jpg/960px-Cut_Vegetable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Miyuki Meinaka, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Cut_Vegetable.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Cut Vegetable.jpg"
+ },
+ "custard-apple-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Yellow-throated_euphonia_%28Euphonia_hirundinacea_hirundinacea%29_male_feeding_on_custard_apple_%28Annona_reticulata%29_Orange_Walk.jpg/960px-Yellow-throated_euphonia_%28Euphonia_hirundinacea_hirundinacea%29_male_feeding_on_custard_apple_%28Annona_reticulata%29_Orange_Walk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Charles J. Sharp, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Yellow-throated_euphonia_(Euphonia_hirundinacea_hirundinacea)_male_feeding_on_custard_apple_(Annona_reticulata)_Orange_Walk.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Yellow-throated euphonia (Euphonia hirundinacea hirundinacea) male feeding on custard apple (Annona reticulata) Orange Walk.jpg"
+ },
+ "cut-banana-leaves-10-pcs": {
+  "miss": true
+ },
+ "cut-papaya-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Papaya_cut_at_picnic_table_with_tortillas.jpg/960px-Papaya_cut_at_picnic_table_with_tortillas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Pablorgalindo, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Papaya_cut_at_picnic_table_with_tortillas.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Papaya cut at picnic table with tortillas.jpg"
+ },
+ "cut-pineapple-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/A_cut_Pineapple.jpg/960px-A_cut_Pineapple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ssemmanda will, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:A_cut_Pineapple.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "A cut Pineapple.jpg"
+ },
+ "cut-watermelon-250g": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Well_cut_pineapples_and_watermelon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: ASally Ruth, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Well_cut_pineapples_and_watermelon_2.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Well cut pineapples and watermelon 2.jpg"
+ },
+ "dabur-amla-hair-oil-275ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/120/705/0466/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901207050466",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "dabur · dabur amla hair oil",
+  "quantity": "450ml"
+ },
+ "dabur-gulabari-rose-water-250ml": {
+  "miss": true
+ },
+ "dabur-hommade-ginger-garlic-paste-200g": {
+  "miss": true
+ },
+ "dabur-hommade-makhani-gravy-200g": {
+  "miss": true
+ },
+ "dabur-hommade-tamarind-paste-200g": {
+  "miss": true
+ },
+ "dabur-massage-oil-200ml": {
+  "miss": true
+ },
+ "dabur-vatika-shampoo-340ml": {
+  "miss": true
+ },
+ "date-crown-seedless-dates-250g": {
+  "miss": true
+ },
+ "decathlon-flying-disc-1pc": {
+  "miss": true
+ },
+ "decathlon-sweat-bands-pack-of-2": {
+  "miss": true
+ },
+ "decathlon-yoga-mat-1pc": {
+  "miss": true
+ },
+ "del-monte-penne-pasta-500g": {
+  "miss": true
+ },
+ "del-monte-thousand-island-dressing-300g": {
+  "miss": true
+ },
+ "del-monte-tomato-basil-pasta-sauce-400g": {
+  "miss": true
+ },
+ "del-monte-tomato-puree-200g": {
+  "miss": true
+ },
+ "deli-paper-punch-1pc": {
+  "miss": true
+ },
+ "dettol-floor-cleaner-500ml": {
+  "url": "https://images.openproductsfacts.org/images/products/629/512/004/0355/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/6295120040355",
+  "source": "openproductsfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "DETTOL FLOOR CLEANER",
+  "quantity": "1.8L"
+ },
+ "dettol-handwash-refill-750ml": {
+  "miss": true
+ },
+ "dettol-soap-3x125g": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/000/331/8643/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/03318643",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Dettol · Dettol Soap",
+  "quantity": "100g"
+ },
+ "dhampur-sugar-1kg": {
+  "miss": true
+ },
+ "domex-toilet-cleaner-1l": {
+  "miss": true
+ },
+ "domex-toilet-rim-block-1pc": {
+  "miss": true
+ },
+ "double-horse-idli-rice-5kg": {
+  "miss": true
+ },
+ "double-horse-rice-flour-1kg": {
+  "miss": true
+ },
+ "downy-fabric-conditioner-1l": {
+  "miss": true
+ },
+ "dreamland-publications-activity-book-1pc": {
+  "miss": true
+ },
+ "eastern-dry-turmeric-200g": {
+  "miss": true
+ },
+ "ecoware-compostable-garbage-bags-30pcs": {
+  "miss": true
+ },
+ "ecoware-disposable-bowls-25pcs": {
+  "miss": true
+ },
+ "eggoz-brown-eggs-6pcs": {
+  "miss": true
+ },
+ "eggoz-desi-eggs-6pcs": {
+  "miss": true
+ },
+ "electral-ors-powder-pack-of-10": {
+  "miss": true
+ },
+ "enerzal-electrolyte-drink-200ml": {
+  "miss": true
+ },
+ "engage-deodorant-150ml": {
+  "miss": true
+ },
+ "english-cucumber-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/English_cucumber_straight_from_the_farm.jpg/960px-English_cucumber_straight_from_the_farm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: MaiDenzel, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:English_cucumber_straight_from_the_farm.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "English cucumber straight from the farm.jpg"
+ },
+ "english-oven-brown-bread-400g": {
+  "miss": true
+ },
+ "english-oven-burger-buns-4pcs": {
+  "miss": true
+ },
+ "english-oven-garlic-bread-200g": {
+  "miss": true
+ },
+ "ensure-nutrition-drink-powder-400g": {
+  "miss": true
+ },
+ "epigamia-almond-milk-1l": {
+  "miss": true
+ },
+ "epigamia-probiotic-yogurt-90g": {
+  "miss": true
+ },
+ "everest-biryani-masala-50g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/178/614/0107/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901786140107",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Everest Shahi biryani masala",
+  "quantity": "10g"
+ },
+ "everest-cinnamon-50g": {
+  "miss": true
+ },
+ "everest-mutton-masala-100g": {
+  "miss": true
+ },
+ "everest-turmeric-powder-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/394/876/402/2913/front_en.15.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/3948764022913",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Everest Turmeric powder tikha lal · fanta coca cola",
+  "quantity": "Pepsi cold drink produced & Litchi,water 1ltr"
+ },
+ "ezee-garbage-bags-large-30pcs": {
+  "miss": true
+ },
+ "fabelle-gourmet-confectionery-box-1pack": {
+  "miss": true
+ },
+ "faber-castell-colour-pencils-12pcs": {
+  "miss": true
+ },
+ "faber-castell-highlighters-pack-of-5": {
+  "miss": true
+ },
+ "factor-notes-weekly-planner-1pc": {
+  "miss": true
+ },
+ "farmley-california-almonds-500g": {
+  "miss": true
+ },
+ "farmley-cashews-250g": {
+  "miss": true
+ },
+ "farmley-chilli-roasted-nuts-150g": {
+  "miss": true
+ },
+ "farmley-coated-nuts-150g": {
+  "miss": true
+ },
+ "farmley-dried-apricots-200g": {
+  "miss": true
+ },
+ "farmley-dry-fruits-gift-box-400g": {
+  "miss": true
+ },
+ "farmley-nut-hamper-1pc": {
+  "miss": true
+ },
+ "farmley-roasted-cashews-200g": {
+  "miss": true
+ },
+ "farmley-roasted-makhana-80g": {
+  "miss": true
+ },
+ "farmley-snack-combo-pack-of-3": {
+  "miss": true
+ },
+ "farmley-trail-mix-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/200/000/015/1726/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/2000000151726",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Farmley Trail Mix"
+ },
+ "ferrero-rocher-chocolate-gift-box-24pcs": {
+  "miss": true
+ },
+ "ferrero-rocher-pralines-16pcs": {
+  "miss": true
+ },
+ "fevicol-white-glue-100g": {
+  "miss": true
+ },
+ "fevicryl-acrylic-colours-1set": {
+  "miss": true
+ },
+ "fevicryl-craft-glitter-1set": {
+  "miss": true
+ },
+ "fevistik-glue-stick-15g": {
+  "miss": true
+ },
+ "flamingo-hot-water-bag-1pc": {
+  "miss": true
+ },
+ "fortune-blended-oil-1l": {
+  "miss": true
+ },
+ "fortune-groundnut-oil-1l": {
+  "miss": true
+ },
+ "fortune-kala-chana-1kg": {
+  "miss": true
+ },
+ "fortune-masoor-dal-1kg": {
+  "miss": true
+ },
+ "fortune-moong-dal-1kg": {
+  "miss": true
+ },
+ "fortune-rajma-500g": {
+  "miss": true
+ },
+ "fortune-sooji-500g": {
+  "miss": true
+ },
+ "fortune-urad-dal-1kg": {
+  "miss": true
+ },
+ "french-beans-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Pinto_Beans_Seeds.jpg/960px-Pinto_Beans_Seeds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Sanjay Acharya, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pinto_Beans_Seeds.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Pinto Beans Seeds.jpg"
+ },
+ "freshtohome-catla-fish-500g": {
+  "miss": true
+ },
+ "freshtohome-chicken-boneless-500g": {
+  "miss": true
+ },
+ "freshtohome-chicken-gizzard-250g": {
+  "miss": true
+ },
+ "freshtohome-goat-meat-mince-500g": {
+  "miss": true
+ },
+ "freshtohome-pomfret-500g": {
+  "miss": true
+ },
+ "freshtohome-squid-250g": {
+  "miss": true
+ },
+ "freshwrapp-aluminium-foil-9m": {
+  "miss": true
+ },
+ "funfoods-eggless-mayonnaise-275g": {
+  "miss": true
+ },
+ "funfoods-tandoori-mayonnaise-245g": {
+  "miss": true
+ },
+ "funskool-jigsaw-puzzle-1set": {
+  "miss": true
+ },
+ "funskool-ludo-board-game-1set": {
+  "miss": true
+ },
+ "funskool-modelling-clay-1set": {
+  "miss": true
+ },
+ "funskool-play-ball-1pc": {
+  "miss": true
+ },
+ "gainda-phenyl-1l": {
+  "miss": true
+ },
+ "gala-microfiber-dishcloth-pack-of-3": {
+  "miss": true
+ },
+ "gala-scrub-sponge-pack-of-3": {
+  "miss": true
+ },
+ "gala-spin-mop-1set": {
+  "miss": true
+ },
+ "gala-toilet-brush-1pc": {
+  "miss": true
+ },
+ "ganesh-pomegranate-500g": {
+  "miss": true
+ },
+ "garnier-color-naturals-hair-colour-1pack": {
+  "miss": true
+ },
+ "garnier-men-face-wash-100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/152/659/3705/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901526593705",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Garnier men turbobright face wash"
+ },
+ "gatsby-hair-wax-75g": {
+  "miss": true
+ },
+ "genteel-gentle-wash-liquid-1kg": {
+  "miss": true
+ },
+ "gillette-venus-razor-1pc": {
+  "url": "https://images.openbeautyfacts.org/images/products/770/201/840/1055/front_en.8.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/7702018401055",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Gillette · Venus razor"
+ },
+ "gits-instant-upma-mix-200g": {
+  "miss": true
+ },
+ "gits-jelly-mix-100g": {
+  "miss": true
+ },
+ "gits-makhani-gravy-mix-100g": {
+  "miss": true
+ },
+ "godrej-expert-hair-colour-1pack": {
+  "miss": true
+ },
+ "godrej-ezee-gentle-wash-liquid-1kg": {
+  "miss": true
+ },
+ "godrej-nupur-henna-500g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/102/301/8602/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901023018602",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Godrej · Godrej Nupur Henna",
+  "quantity": "75g"
+ },
+ "golden-kiwi-pack-of-3": {
+  "miss": true
+ },
+ "goodknight-mosquito-repellent-liquid-vaporiser-refill-45ml": {
+  "miss": true
+ },
+ "gowardhan-cow-ghee-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/102/4880/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906001024880",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "gowardhan cow ghee",
+  "quantity": "1let"
+ },
+ "gowardhan-ghee-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/102/4880/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906001024880",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "gowardhan cow ghee",
+  "quantity": "1let"
+ },
+ "granny-smith-apple-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_3.JPG/960px-Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Dllu, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Golden_Delicious,_SweeTango,_Granny_Smith,_and_Gala_apples_3.JPG",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Golden Delicious, SweeTango, Granny Smith, and Gala apples 3.JPG"
+ },
+ "grated-coconut-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Grated_Coconut_-_Howrah_2013-10-18_3541.JPG/960px-Grated_Coconut_-_Howrah_2013-10-18_3541.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Biswarup Ganguly, CC BY 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Grated_Coconut_-_Howrah_2013-10-18_3541.JPG",
+  "source": "wikimedia",
+  "license": "CC BY 3.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Grated Coconut - Howrah 2013-10-18 3541.JPG"
+ },
+ "green-brinjal-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Green_brinjals_at_Gara_market%2C_Srikakulam.jpg/960px-Green_brinjals_at_Gara_market%2C_Srikakulam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: K.Venkataramana, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Green_brinjals_at_Gara_market,_Srikakulam.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Green brinjals at Gara market, Srikakulam.jpg"
+ },
+ "green-pumpkin-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Green_Pumpkin_with_leaves.jpg/960px-Green_Pumpkin_with_leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Nabimanya Norman, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Green_Pumpkin_with_leaves.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Green Pumpkin with leaves.jpg"
+ },
+ "haldirams-banana-chips-200g": {
+  "miss": true
+ },
+ "haldirams-moong-papad-200g": {
+  "miss": true
+ },
+ "haldirams-murmura-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/440/1554/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904004401554",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Haldiram's · Masala Sev Murmura"
+ },
+ "haldirams-namkeen-gift-pack-1kg": {
+  "miss": true
+ },
+ "haldirams-navratan-mixture-400g": {
+  "miss": true
+ },
+ "haldirams-peda-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/400/442/0227/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904004420227",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Haldiram's · Haldiram's Mathura Peda",
+  "quantity": "250g"
+ },
+ "haldirams-roasted-chana-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/406/320/0563/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904063200563",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Haldiram's · Roasted Chana Cracker",
+  "quantity": "210 g"
+ },
+ "haldirams-veg-biryani-250g": {
+  "miss": true
+ },
+ "hallmark-gift-box-1pc": {
+  "miss": true
+ },
+ "hallmark-gift-wrapping-paper-5sheets": {
+  "miss": true
+ },
+ "hamdard-rooh-afza-sharbat-750ml": {
+  "miss": true
+ },
+ "happilo-chilli-roasted-nuts-150g": {
+  "miss": true
+ },
+ "happilo-coated-nuts-150g": {
+  "miss": true
+ },
+ "happilo-dried-figs-200g": {
+  "miss": true
+ },
+ "happilo-dry-fruits-gift-box-500g": {
+  "miss": true
+ },
+ "happilo-hazelnuts-200g": {
+  "miss": true
+ },
+ "happilo-macadamia-nuts-200g": {
+  "miss": true
+ },
+ "happilo-nut-hamper-1pc": {
+  "miss": true
+ },
+ "happilo-pecan-nuts-200g": {
+  "miss": true
+ },
+ "happilo-roasted-almonds-200g": {
+  "miss": true
+ },
+ "happilo-roasted-makhana-75g": {
+  "miss": true
+ },
+ "happilo-salted-pistachios-200g": {
+  "miss": true
+ },
+ "happilo-snack-combo-pack-of-3": {
+  "miss": true
+ },
+ "happilo-trail-mix-200g": {
+  "miss": true
+ },
+ "happilo-walnut-kernels-250g": {
+  "miss": true
+ },
+ "harpercollins-non-fiction-paperback-english-1pc": {
+  "miss": true
+ },
+ "harpic-cistern-toilet-block-1pc": {
+  "miss": true
+ },
+ "harvest-gold-sandwich-bread-400g": {
+  "miss": true
+ },
+ "havells-hair-dryer-1pc": {
+  "miss": true
+ },
+ "hawkins-pressure-cooker-1pc": {
+  "miss": true
+ },
+ "hawkins-tawa-1pc": {
+  "miss": true
+ },
+ "health-on-plants-tofu-200g": {
+  "miss": true
+ },
+ "healthfab-gopadfree-period-underwear-1pc": {
+  "miss": true
+ },
+ "helios-shoe-brush-1pc": {
+  "miss": true
+ },
+ "helios-shoe-cleaner-100ml": {
+  "miss": true
+ },
+ "heritage-flavoured-milk-200ml": {
+  "miss": true
+ },
+ "heritage-lassi-200ml": {
+  "miss": true
+ },
+ "hersheys-hot-chocolate-mix-250g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/107/170/2744/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901071702744",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Hershey's · Hershey's Hot Chocolate",
+  "quantity": "240g"
+ },
+ "himalaya-herbal-shampoo-400ml": {
+  "miss": true
+ },
+ "hiphop-blackhead-strips-6pcs": {
+  "miss": true
+ },
+ "hit-cockroach-spray-400ml": {
+  "miss": true
+ },
+ "hmt-steam-rice-1kg": {
+  "miss": true
+ },
+ "hobby-ideas-gift-bows-pack-of-10": {
+  "miss": true
+ },
+ "horlicks-malt-drink-mix-500g": {
+  "miss": true
+ },
+ "horse-gram-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Horse_December_2014-1.jpg/960px-Horse_December_2014-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Alvesgaspar, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Horse_December_2014-1.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Horse December 2014-1.jpg"
+ },
+ "id-fresh-idli-and-dosa-batter-1kg": {
+  "miss": true
+ },
+ "id-fresh-idli-dosa-batter-1kg": {
+  "miss": true
+ },
+ "id-fresh-ragi-dosa-batter-1kg": {
+  "miss": true
+ },
+ "ifb-essentials-dishwasher-detergent-powder-1kg": {
+  "miss": true
+ },
+ "ifb-essentials-washing-machine-cleaner-500g": {
+  "miss": true
+ },
+ "ikea-chopping-board-1pc": {
+  "miss": true
+ },
+ "ikea-cosmetic-organiser-1pc": {
+  "miss": true
+ },
+ "imported-red-seedless-grapes-500g": {
+  "miss": true
+ },
+ "india-today-magazine-1pc": {
+  "miss": true
+ },
+ "itc-master-chef-chicken-nuggets-400g": {
+  "miss": true
+ },
+ "itc-master-chef-chicken-seekh-kebab-300g": {
+  "miss": true
+ },
+ "itc-master-chef-fish-fingers-300g": {
+  "miss": true
+ },
+ "itc-master-chef-french-fries-400g": {
+  "miss": true
+ },
+ "itc-master-chef-frozen-prawns-250g": {
+  "miss": true
+ },
+ "itc-master-chef-veg-nuggets-400g": {
+  "miss": true
+ },
+ "itsy-bitsy-satin-ribbon-10m": {
+  "miss": true
+ },
+ "jasmine-garland-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Image_of_Garland_of_Night_Jasmine_2.jpg/960px-Image_of_Garland_of_Night_Jasmine_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: পাপৰি বৰা, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Image_of_Garland_of_Night_Jasmine_2.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Image of Garland of Night Jasmine 2.jpg"
+ },
+ "jk-copier-a4-paper-500sheets": {
+  "url": "https://images.openproductsfacts.org/images/products/890/231/010/0055/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8902310100055",
+  "source": "openproductsfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "JK Paper · JK Easy Copier A4 Paper (70 GSM)"
+ },
+ "joseph-joseph-chopping-board-1pc": {
+  "miss": true
+ },
+ "kai-facial-razor-pack-of-3": {
+  "miss": true
+ },
+ "kama-ayurveda-rose-water-200ml": {
+  "miss": true
+ },
+ "kashmiri-apple-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kashmiri_Apple.jpg/960px-Kashmiri_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: BiyingTram, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Kashmiri_Apple.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Kashmiri Apple.jpg"
+ },
+ "keggs-chicken-eggs-12pcs": {
+  "miss": true
+ },
+ "keggs-omega-3-eggs-6pcs": {
+  "miss": true
+ },
+ "kelloggs-chocos-cereal-375g": {
+  "url": "https://images.openfoodfacts.org/images/products/885/275/630/4039/front_en.24.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8852756304039",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Kellogg’s · Kelloggs Cereal Choco Chex 330G."
+ },
+ "kelloggs-kids-cereal-300g": {
+  "miss": true
+ },
+ "kesar-mango-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Mango_kesar_variety.JPG/960px-Mango_kesar_variety.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Betelgeuse, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mango_kesar_variety.JPG",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Mango kesar variety.JPG"
+ },
+ "kew-pineapple-1-pc": {
+  "miss": true
+ },
+ "keya-hakka-noodles-150g": {
+  "miss": true
+ },
+ "keya-italian-seasoning-40g": {
+  "miss": true
+ },
+ "keya-oregano-20g": {
+  "miss": true
+ },
+ "khadi-natural-multani-mitti-200g": {
+  "miss": true
+ },
+ "kinder-joy-chocolate-with-toy-20g": {
+  "miss": true
+ },
+ "kinley-club-soda-750ml": {
+  "miss": true
+ },
+ "kinley-packaged-drinking-water-1l": {
+  "miss": true
+ },
+ "kissan-tomato-puree-200g": {
+  "miss": true
+ },
+ "kitchens-of-india-makhani-gravy-base-100g": {
+  "miss": true
+ },
+ "kitchens-of-india-veg-biryani-250g": {
+  "miss": true
+ },
+ "kitkat-family-pack-pack-of-6": {
+  "url": "https://images.openfoodfacts.org/images/products/761/303/897/7638/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/7613038977638",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Nestlé · KitKat Family Pack 14pk"
+ },
+ "kiwi-shoe-brush-1pc": {
+  "miss": true
+ },
+ "kiwi-shoe-polish-black-40g": {
+  "miss": true
+ },
+ "klf-coconad-coconut-oil-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/266/0704/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906002660704",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "KLF (https://coconutboard.nic.in/) · Coconad Edible Coconut Oil",
+  "quantity": "1 litre (912g)"
+ },
+ "knorr-ready-vegetable-soup-300ml": {
+  "url": "https://images.openfoodfacts.org/images/products/871/256/630/1812/front_en.13.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8712566301812",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Knorr · Knorr Country Vegetable Soup",
+  "quantity": "72 g"
+ },
+ "knorr-tomato-soup-mix-53g": {
+  "url": "https://images.openfoodfacts.org/images/products/004/800/171/6162/front_en.7.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0048001716162",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Knorr, Unilever · Knorr, Tomato Based Pasta Soup Mix"
+ },
+ "kurkure-masala-corn-snack-90g": {
+  "miss": true
+ },
+ "kwality-walls-chocolate-frozen-dessert-stick-60ml": {
+  "miss": true
+ },
+ "kwality-walls-vanilla-frozen-dessert-cup-100ml": {
+  "miss": true
+ },
+ "kwality-walls-vanilla-frozen-dessert-tub-700ml": {
+  "miss": true
+ },
+ "la-girl-concealer-8g": {
+  "miss": true
+ },
+ "la-opala-dinner-set-1set": {
+  "miss": true
+ },
+ "lakme-blush-6g": {
+  "miss": true
+ },
+ "lakme-compact-powder-9g": {
+  "miss": true
+ },
+ "lakme-eyeconic-kajal-0-35g": {
+  "miss": true
+ },
+ "lakme-eyeliner-4-5ml": {
+  "miss": true
+ },
+ "lakme-face-primer-30ml": {
+  "miss": true
+ },
+ "lakme-highlighter-5g": {
+  "miss": true
+ },
+ "lakme-lip-gloss-5ml": {
+  "miss": true
+ },
+ "lakme-lipstick-3-6g": {
+  "miss": true
+ },
+ "lakme-makeup-gift-kit-1set": {
+  "miss": true
+ },
+ "lakme-mascara-9ml": {
+  "miss": true
+ },
+ "lakme-nail-polish-9ml": {
+  "miss": true
+ },
+ "lakme-nail-polish-remover-27ml": {
+  "miss": true
+ },
+ "large-clove-garlic-250g": {
+  "miss": true
+ },
+ "lego-building-bricks-set-1set": {
+  "miss": true
+ },
+ "licious-chicken-curry-cut-500g": {
+  "miss": true
+ },
+ "licious-chicken-liver-250g": {
+  "miss": true
+ },
+ "licious-chicken-seekh-kebab-250g": {
+  "miss": true
+ },
+ "licious-frozen-fish-fillets-250g": {
+  "miss": true
+ },
+ "licious-goat-meat-curry-cut-500g": {
+  "miss": true
+ },
+ "licious-prawns-250g": {
+  "miss": true
+ },
+ "licious-rohu-fish-500g": {
+  "miss": true
+ },
+ "licious-seer-fish-500g": {
+  "miss": true
+ },
+ "licious-veg-momos-pack-of-10": {
+  "miss": true
+ },
+ "lifebuoy-handwash-refill-750ml": {
+  "miss": true
+ },
+ "lifebuoy-liquid-handwash-190ml": {
+  "miss": true
+ },
+ "lifebuoy-soap-4x100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/628/100/648/3767/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/6281006483767",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Lifebuoy Soap mild care 160gm"
+ },
+ "lijjat-urad-papad-200g": {
+  "miss": true
+ },
+ "lindt-chocolate-truffles-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/000/954/243/5059/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0009542435059",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Lindt · Double Chocolate Lindt Lindor Truffle"
+ },
+ "lion-dates-seedless-dates-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/672/0039/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906006720039",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Lion · Seedless Dates",
+  "quantity": "200 g"
+ },
+ "lion-dates-whole-dates-500g": {
+  "miss": true
+ },
+ "livon-hair-serum-100ml": {
+  "miss": true
+ },
+ "long-green-chilli-250g": {
+  "miss": true
+ },
+ "loreal-paris-hair-mask-200ml": {
+  "miss": true
+ },
+ "loreal-paris-hair-spray-250ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/360/052/425/6074/front_nl.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3600524256074",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "L'Oréal Paris Big Hair Day Refreshing Volume Spray",
+  "quantity": "200ml"
+ },
+ "loreal-paris-root-touch-up-spray-75ml": {
+  "miss": true
+ },
+ "lux-soap-4x100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/053/9749/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030539749",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Lux · lux soap",
+  "quantity": "100g"
+ },
+ "maggi-pazzta-instant-pasta-64g": {
+  "miss": true
+ },
+ "maggi-tomato-ketchup-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/889/5766/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901058895766",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Nestle · maggi Pichkoo tomato ketchup",
+  "quantity": "90g"
+ },
+ "maggi-tomato-soup-mix-50g": {
+  "miss": true
+ },
+ "magnum-chocolate-coated-ice-cream-stick-80ml": {
+  "miss": true
+ },
+ "mahina-period-underwear-1pc": {
+  "miss": true
+ },
+ "mamaearth-belly-butter-100ml": {
+  "miss": true
+ },
+ "mamaearth-face-mask-100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/608/777/1326/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8906087771326",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "mamaearth Ubtan Face Mask FOR SKIN BRIGHTENING &Apricot Oil",
+  "quantity": "100g"
+ },
+ "mango-leaves-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Mango_Leaves_in_Bangladesh.jpg/960px-Mango_Leaves_in_Bangladesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: LaboniDin, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mango_Leaves_in_Bangladesh.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Mango Leaves in Bangladesh.jpg"
+ },
+ "manna-multimillet-mix-500g": {
+  "miss": true
+ },
+ "manna-ragi-drink-mix-200g": {
+  "miss": true
+ },
+ "manna-ragi-flakes-250g": {
+  "miss": true
+ },
+ "manna-ragi-flour-500g": {
+  "miss": true
+ },
+ "mapro-dessert-syrup-500ml": {
+  "miss": true
+ },
+ "mapro-kokum-syrup-750ml": {
+  "miss": true
+ },
+ "masterchow-stir-fry-sauce-230g": {
+  "miss": true
+ },
+ "matrix-hair-mask-200g": {
+  "miss": true
+ },
+ "maybelline-blush-4-5g": {
+  "url": "https://images.openbeautyfacts.org/images/products/360/053/153/7289/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3600531537289",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "L'OREAL NORGE AS · Maybelline Blush Fit Me Peach 40"
+ },
+ "maybelline-colossal-kajal-0-35g": {
+  "miss": true
+ },
+ "maybelline-compact-powder-8g": {
+  "miss": true
+ },
+ "maybelline-eyeliner-3ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/360/053/058/8039/front_fr.7.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3600530588039",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Maybelline · Lasting Drama Gel Eyeliner Noir",
+  "quantity": "1"
+ },
+ "maybelline-face-primer-30ml": {
+  "miss": true
+ },
+ "maybelline-highlighter-8g": {
+  "url": "https://images.openbeautyfacts.org/images/products/360/053/169/7402/front_nl.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/3600531697402",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Maybelline New Yorker Sunkisser 20 Kiss Of Shimmer Liquid Glow Highlighter"
+ },
+ "maybelline-lip-gloss-5-4ml": {
+  "miss": true
+ },
+ "maybelline-lipstick-3-9g": {
+  "url": "https://images.openbeautyfacts.org/images/products/690/239/548/2369/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/6902395482369",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Maybelline lipstick 903, 657, 660",
+  "quantity": "1"
+ },
+ "maybelline-makeup-gift-kit-1set": {
+  "miss": true
+ },
+ "maybelline-mascara-9-2ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/000/003/016/6967/front_nl.10.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/30166967",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Maybelline · Maybelline New York Lash Sensational Sky High Very Black Mascara",
+  "quantity": "7,2ml"
+ },
+ "mccain-veg-nuggets-400g": {
+  "miss": true
+ },
+ "meatzza-chicken-salami-200g": {
+  "miss": true
+ },
+ "meatzza-chicken-sausages-250g": {
+  "miss": true
+ },
+ "meatzza-ham-200g": {
+  "miss": true
+ },
+ "metal-bangles-4pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Metal_bangles.jpg/960px-Metal_bangles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Gausanchennai, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Metal_bangles.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Metal bangles.jpg"
+ },
+ "milky-mist-khoa-200g": {
+  "miss": true
+ },
+ "milky-mist-mozzarella-cheese-200g": {
+  "miss": true
+ },
+ "milton-casserole-1pc": {
+  "miss": true
+ },
+ "milton-ice-bucket-1pc": {
+  "miss": true
+ },
+ "milton-kids-lunch-box-1pc": {
+  "miss": true
+ },
+ "milton-kitchen-funnel-1pc": {
+  "miss": true
+ },
+ "milton-school-water-bottle-1pc": {
+  "miss": true
+ },
+ "milton-soap-dispenser-1pc": {
+  "miss": true
+ },
+ "milton-steel-lunch-box-1pc": {
+  "miss": true
+ },
+ "milton-steel-storage-containers-pack-of-3": {
+  "miss": true
+ },
+ "milton-steel-water-bottle-1pc": {
+  "miss": true
+ },
+ "milton-vacuum-flask-1pc": {
+  "miss": true
+ },
+ "mini-cucumber-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Mini_cucumber.png/960px-Mini_cucumber.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Tiia Monto, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mini_cucumber.png",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Mini cucumber.png"
+ },
+ "minimalist-face-oil-30ml": {
+  "miss": true
+ },
+ "minimalist-face-toner-120ml": {
+  "miss": true
+ },
+ "minimalist-niacinamide-face-serum-30ml": {
+  "miss": true
+ },
+ "minimalist-salicylic-acid-face-wash-100ml": {
+  "miss": true
+ },
+ "minimalist-scalp-serum-30ml": {
+  "miss": true
+ },
+ "minimalist-sunscreen-stick-20g": {
+  "miss": true
+ },
+ "miniso-hair-scrunchies-pack-of-3": {
+  "miss": true
+ },
+ "miniso-makeup-mirror-1pc": {
+  "miss": true
+ },
+ "miniso-nail-file-pack-of-2": {
+  "miss": true
+ },
+ "mint-leaves-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mint_leaves_%28Mentha_spicata%29.jpg/960px-Mint_leaves_%28Mentha_spicata%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Commonists, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mint_leaves_(Mentha_spicata).jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Mint leaves (Mentha spicata).jpg"
+ },
+ "mixed-flower-garland-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Hieronymus_Janssens_and_Daniel_Seghers_-_A_garland_of_mixed_flowers_adorning_a_stone_cartouche_surrounding_an_allegory_of_vanity.jpg/960px-Hieronymus_Janssens_and_Daniel_Seghers_-_A_garland_of_mixed_flowers_adorning_a_stone_cartouche_surrounding_an_allegory_of_vanity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Hieronymus Janssens / Daniel Seghers, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Hieronymus_Janssens_and_Daniel_Seghers_-_A_garland_of_mixed_flowers_adorning_a_stone_cartouche_surrounding_an_allegory_of_vanity.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Hieronymus Janssens and Daniel Seghers - A garland of mixed flowers adorning a stone cartouche surrounding an allegory of vanity.jpg"
+ },
+ "mixed-seasonal-fruit-bowl-250g": {
+  "miss": true
+ },
+ "moisturex-moisturising-cream-100g": {
+  "miss": true
+ },
+ "monginis-chocolate-cake-200g": {
+  "miss": true
+ },
+ "monginis-chocolate-muffins-pack-of-4": {
+  "miss": true
+ },
+ "monginis-swiss-roll-200g": {
+  "miss": true
+ },
+ "mortein-cockroach-spray-400ml": {
+  "miss": true
+ },
+ "moth-beans-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Mexican_jumping_bean_moth_%28Cydia_deshaisiana%29.JPG/960px-Mexican_jumping_bean_moth_%28Cydia_deshaisiana%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: AuldAlliance at English Wikipedia, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mexican_jumping_bean_moth_(Cydia_deshaisiana).JPG",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Mexican jumping bean moth (Cydia deshaisiana).JPG"
+ },
+ "mothers-recipe-tamarind-chutney-250g": {
+  "miss": true
+ },
+ "mr-muscle-kitchen-cleaner-450ml": {
+  "miss": true
+ },
+ "mtr-chutney-podi-200g": {
+  "miss": true
+ },
+ "mtr-gulab-jamun-mix-175g": {
+  "miss": true
+ },
+ "mtr-murukku-200g": {
+  "miss": true
+ },
+ "mtr-rasam-powder-200g": {
+  "miss": true
+ },
+ "mtr-rice-flour-500g": {
+  "miss": true
+ },
+ "mtr-semiya-payasam-mix-180g": {
+  "miss": true
+ },
+ "munch-wafer-chocolate-bar-38g": {
+  "miss": true
+ },
+ "muskmelon-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kharbuja_Mahal.jpg/960px-Kharbuja_Mahal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Indrajit Das, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Kharbuja_Mahal.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Kharbuja Mahal.jpg"
+ },
+ "mutton-trotters-pack-of-4": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Inner_Mongolia_braised_mutton_trotters.jpg/960px-Inner_Mongolia_braised_mutton_trotters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Fumikas Sagisavas, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Inner_Mongolia_braised_mutton_trotters.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Inner Mongolia braised mutton trotters.jpg"
+ },
+ "mysore-sandal-soap-3x125g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/128/710/0013/front_en.11.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901287100013",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Karnataka Soaps & Detergents Ltd. · Mysore Sandal Soap",
+  "quantity": "75g"
+ },
+ "narasus-filter-coffee-powder-500g": {
+  "miss": true
+ },
+ "nataraj-hb-pencils-pack-of-10": {
+  "miss": true
+ },
+ "nataraj-sharpener-pack-of-10": {
+  "miss": true
+ },
+ "naturals-artisan-ice-cream-1l": {
+  "miss": true
+ },
+ "naturals-fruit-ice-cream-tub-500ml": {
+  "miss": true
+ },
+ "navneet-colouring-activity-book-1pc": {
+  "miss": true
+ },
+ "navneet-ruled-notebook-pack-of-6": {
+  "miss": true
+ },
+ "nendran-banana-1kg": {
+  "miss": true
+ },
+ "nescafe-coffee-premix-10sachets": {
+  "miss": true
+ },
+ "nescafe-cold-coffee-180ml": {
+  "miss": true
+ },
+ "nescafe-cold-coffee-gift-pack-6x180ml": {
+  "miss": true
+ },
+ "nestle-everyday-dairy-whitener-400g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/105/800/3802/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901058003802",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Nestle · Nestle Everyday Dairy Whitener"
+ },
+ "nestle-koko-krunch-kids-cereal-330g": {
+  "miss": true
+ },
+ "nestle-milk-chocolate-50g": {
+  "miss": true
+ },
+ "nestle-mini-chocolate-share-pack-200g": {
+  "miss": true
+ },
+ "nestle-munch-wafer-biscuits-pack-of-5": {
+  "miss": true
+ },
+ "neutrogena-sunscreen-spray-150ml": {
+  "miss": true
+ },
+ "nic-ice-creams-chocolate-ice-cream-cake-500g": {
+  "miss": true
+ },
+ "nic-ice-creams-natural-fruit-ice-cream-500ml": {
+  "miss": true
+ },
+ "nivea-bath-gift-set-1set": {
+  "miss": true
+ },
+ "nivea-face-cream-100ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/590/010/9309/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/4005900109309",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "BRYNILD GRUPPEN AS · Nivea Men Body & Face Cream 150ml"
+ },
+ "nivea-lip-balm-4-8g": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/580/836/9928/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/4005808369928",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Nivea · Nivea Hydrocare Lip Balm SPF 15 4.8g",
+  "quantity": "4.79999999999999982236431605997495353221893310546875 g"
+ },
+ "nivea-men-face-wash-100g": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/580/891/9574/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/4005808919574",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "NIVEA · Nivea Men All-in-1 Charcoal Face Wash",
+  "quantity": "100 g"
+ },
+ "nivea-roll-on-deodorant-50ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/400/590/029/4456/front_en.9.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/4005900294456",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Nivea · Nivea Men Fresh Active Deodorant Roll-on",
+  "quantity": "50ml"
+ },
+ "nivia-football-1pc": {
+  "miss": true
+ },
+ "nutralite-table-spread-200g": {
+  "miss": true
+ },
+ "oatmlk-plant-based-frozen-dessert-500ml": {
+  "miss": true
+ },
+ "ocean-bar-measure-1pc": {
+  "miss": true
+ },
+ "ocean-highball-glasses-6pcs": {
+  "miss": true
+ },
+ "oddy-cling-wrap-30m": {
+  "miss": true
+ },
+ "oddy-sticky-notes-pack-of-4": {
+  "miss": true
+ },
+ "oral-b-dental-floss-50m": {
+  "miss": true
+ },
+ "oral-b-toothbrush-pack-of-3": {
+  "url": "https://images.openbeautyfacts.org/images/products/498/717/613/0051/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/4987176130051",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Oral-B · Oral-B CrissCross Toothbrush"
+ },
+ "orange-sweet-potato-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Chicken_piccata%2C_rainbow_salad_with_beets_and_blood_orange%2C_sweet_potato_puree%2C_and_roasted_cauliflower_with_pesto_-_Boston%2C_MA.jpg/960px-Chicken_piccata%2C_rainbow_salad_with_beets_and_blood_orange%2C_sweet_potato_puree%2C_and_roasted_cauliflower_with_pesto_-_Boston%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Daderot, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Chicken_piccata,_rainbow_salad_with_beets_and_blood_orange,_sweet_potato_puree,_and_roasted_cauliflower_with_pesto_-_Boston,_MA.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Chicken piccata, rainbow salad with beets and blood orange, sweet potato puree, and roasted cauliflower with pesto - Boston, MA.jpg"
+ },
+ "organic-apple-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Abhijit Tembhekar from Mumbai, India, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_Apple.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 2.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Red Apple.jpg"
+ },
+ "organic-india-ginger-herbal-infusion-25pcs": {
+  "miss": true
+ },
+ "organic-tattva-almonds-200g": {
+  "miss": true
+ },
+ "organic-tattva-basmati-rice-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/02412418/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/02412418",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Organic tattva white basmati rice 1 kg",
+  "quantity": "1 kg"
+ },
+ "organic-tattva-black-rice-500g": {
+  "miss": true
+ },
+ "organic-tattva-chilli-powder-100g": {
+  "miss": true
+ },
+ "organic-tattva-cumin-seeds-100g": {
+  "miss": true
+ },
+ "organic-tattva-jaggery-1kg": {
+  "miss": true
+ },
+ "organic-tattva-jaggery-powder-500g": {
+  "miss": true
+ },
+ "organic-tattva-moong-dal-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/544/0728/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906055440728",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Organic tattva moong dal yellow split 1kg",
+  "quantity": "1kg"
+ },
+ "organic-tattva-moong-dal-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/605/544/0728/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906055440728",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Organic tattva moong dal yellow split 1kg",
+  "quantity": "1kg"
+ },
+ "organic-tattva-quinoa-500g": {
+  "miss": true
+ },
+ "organic-tattva-sabja-seeds-100g": {
+  "miss": true
+ },
+ "organic-tattva-whole-wheat-atta-5kg": {
+  "miss": true
+ },
+ "origami-kitchen-towel-2rolls": {
+  "miss": true
+ },
+ "outlook-magazine-1pc": {
+  "miss": true
+ },
+ "pac-makeup-sponge-1pc": {
+  "miss": true
+ },
+ "paper-boat-fruit-juice-blend-250ml": {
+  "miss": true
+ },
+ "paperkraft-undated-diary-1pc": {
+  "miss": true
+ },
+ "parachute-body-oil-250ml": {
+  "miss": true
+ },
+ "park-avenue-shaving-foam-225ml": {
+  "miss": true
+ },
+ "parle-assorted-biscuits-gift-pack-400g": {
+  "miss": true
+ },
+ "parle-g-glucose-biscuits-800g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/171/910/1090/front_en.8.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901719101090",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Parle · Parle-g Glucose Biscuits"
+ },
+ "parle-hide-seek-chocolate-cookies-200g": {
+  "miss": true
+ },
+ "parle-krackjack-crackers-200g": {
+  "miss": true
+ },
+ "parle-marie-biscuits-250g": {
+  "miss": true
+ },
+ "parle-sandwich-cream-biscuits-150g": {
+  "miss": true
+ },
+ "parle-sweet-salty-biscuits-150g": {
+  "miss": true
+ },
+ "parsley-50g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Curly_parsley_in_hydroponic_garden.jpg/960px-Curly_parsley_in_hydroponic_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Kurt Kaiser, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Curly_parsley_in_hydroponic_garden.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Curly parsley in hydroponic garden.jpg"
+ },
+ "pass-pass-mouth-freshener-50g": {
+  "miss": true
+ },
+ "pass-pass-sweet-saunf-100g": {
+  "miss": true
+ },
+ "patanjali-henna-powder-100g": {
+  "miss": true
+ },
+ "patanjali-multani-mitti-100g": {
+  "miss": true
+ },
+ "patanjali-sattu-500g": {
+  "miss": true
+ },
+ "pears-soap-3x125g": {
+  "url": "https://images.openbeautyfacts.org/images/products/628/100/648/5334/front_fr.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/6281006485334",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Unilever · Pear’s hand soap"
+ },
+ "pediasure-nutrition-drink-powder-400g": {
+  "miss": true
+ },
+ "pee-safe-heat-patches-pack-of-5": {
+  "miss": true
+ },
+ "pee-safe-intimate-wash-100ml": {
+  "miss": true
+ },
+ "pee-safe-intimate-wipes-10pcs": {
+  "miss": true
+ },
+ "pee-safe-menstrual-cup-1pc": {
+  "miss": true
+ },
+ "peeled-garlic-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Peeled_garlic_cloves%F0%9F%A7%84.jpg/960px-Peeled_garlic_cloves%F0%9F%A7%84.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Fumikas Sagisavas, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Peeled_garlic_cloves%F0%9F%A7%84.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Peeled garlic cloves🧄.jpg"
+ },
+ "peeled-shallots-200g": {
+  "miss": true
+ },
+ "penguin-childrens-board-book-english-1pc": {
+  "miss": true
+ },
+ "penguin-random-house-fiction-paperback-english-1pc": {
+  "miss": true
+ },
+ "pepsi-black-soft-drink-300ml": {
+  "miss": true
+ },
+ "perrier-sparkling-mineral-water-330ml": {
+  "miss": true
+ },
+ "philips-avent-breast-pads-24pcs": {
+  "miss": true
+ },
+ "philips-beard-trimmer-1pc": {
+  "miss": true
+ },
+ "philips-body-trimmer-1pc": {
+  "miss": true
+ },
+ "philips-coffee-machine-descaler-250ml": {
+  "miss": true
+ },
+ "philips-hair-dryer-1pc": {
+  "miss": true
+ },
+ "philips-hair-straightener-1pc": {
+  "miss": true
+ },
+ "philips-mixer-grinder-1pc": {
+  "miss": true
+ },
+ "philips-toaster-1pc": {
+  "miss": true
+ },
+ "pigeon-bottle-brush-1pc": {
+  "miss": true
+ },
+ "pigeon-breast-pads-36pcs": {
+  "miss": true
+ },
+ "pigeon-electric-kettle-1pc": {
+  "miss": true
+ },
+ "pigeon-grater-1pc": {
+  "miss": true
+ },
+ "pigeon-kitchen-lighter-1pc": {
+  "miss": true
+ },
+ "pigeon-manual-chopper-1pc": {
+  "miss": true
+ },
+ "pigeon-steel-sieve-1pc": {
+  "miss": true
+ },
+ "pillsbury-multigrain-atta-5kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/600/021/2240/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906000212240",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Pillsbury · Multigrain Atta",
+  "quantity": "5kg"
+ },
+ "pillsbury-whole-wheat-atta-5kg": {
+  "miss": true
+ },
+ "pink-guava-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Guava_pink_fruit.jpg/960px-Guava_pink_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Guava_pink_fruit.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Guava pink fruit.jpg"
+ },
+ "pitambari-shining-powder-200g": {
+  "miss": true
+ },
+ "plastic-bangles-1dozen": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Plastic_Bangles_at_sale_in_Bangalore_194723.jpg/960px-Plastic_Bangles_at_sale_in_Bangalore_194723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Rameshng, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Plastic_Bangles_at_sale_in_Bangalore_194723.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Plastic Bangles at sale in Bangalore 194723.jpg"
+ },
+ "plum-under-eye-gel-15ml": {
+  "miss": true
+ },
+ "ponds-face-moisturiser-100ml": {
+  "miss": true
+ },
+ "ponds-talcum-powder-200g": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/103/053/1897/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901030531897",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "HUL · pond's dreamflower talcum powder",
+  "quantity": "200 g"
+ },
+ "post-it-sticky-notes-100sheets": {
+  "miss": true
+ },
+ "prasuma-chicken-salami-200g": {
+  "miss": true
+ },
+ "prasuma-ham-200g": {
+  "miss": true
+ },
+ "prasuma-veg-momos-pack-of-10": {
+  "miss": true
+ },
+ "preethi-mixer-grinder-1pc": {
+  "miss": true
+ },
+ "premier-facial-tissues-200sheets": {
+  "miss": true
+ },
+ "prestige-cookware-set-1set": {
+  "miss": true
+ },
+ "prestige-electric-chopper-1pc": {
+  "miss": true
+ },
+ "prestige-induction-cooktop-1pc": {
+  "miss": true
+ },
+ "prestige-juicer-1pc": {
+  "miss": true
+ },
+ "prestige-kadai-1pc": {
+  "miss": true
+ },
+ "prestige-kitchen-lighter-1pc": {
+  "miss": true
+ },
+ "prestige-pressure-cooker-1pc": {
+  "url": "https://images.openproductsfacts.org/images/products/890/136/520/2509/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8901365202509",
+  "source": "openproductsfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Prestige · Pressure cooker 4L"
+ },
+ "prestige-utility-knife-1pc": {
+  "miss": true
+ },
+ "prestige-vegetable-peeler-1pc": {
+  "miss": true
+ },
+ "pril-dishwash-bar-3x200g": {
+  "miss": true
+ },
+ "pril-dishwash-liquid-750ml": {
+  "miss": true
+ },
+ "priya-gunpowder-podi-100g": {
+  "miss": true
+ },
+ "priya-tomato-chutney-300g": {
+  "miss": true
+ },
+ "pulla-reddy-ariselu-250g": {
+  "miss": true
+ },
+ "pulse-hard-candy-pack-of-50": {
+  "miss": true
+ },
+ "quaker-masala-oats-500g": {
+  "miss": true
+ },
+ "rajdhani-broken-wheat-daliya-500g": {
+  "miss": true
+ },
+ "rajdhani-daliya-500g": {
+  "miss": true
+ },
+ "rajdhani-sabudana-500g": {
+  "miss": true
+ },
+ "rasna-orange-instant-drink-mix-500g": {
+  "miss": true
+ },
+ "raw-papaya-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Raw_papaya_fruits_on_tree.jpg/960px-Raw_papaya_fruits_on_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Mokkie, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Raw_papaya_fruits_on_tree.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Raw papaya fruits on tree.jpg"
+ },
+ "raw-pressery-cold-pressed-juice-250ml": {
+  "miss": true
+ },
+ "real-guava-juice-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/890/120/700/4407/front_en.16.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901207004407",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Real guava  juice",
+  "quantity": "1L"
+ },
+ "real-juice-assorted-gift-pack-4x1l": {
+  "miss": true
+ },
+ "real-mango-juice-1l": {
+  "miss": true
+ },
+ "real-mixed-fruit-juice-1l": {
+  "url": "https://images.openfoodfacts.org/images/products/479/600/892/0049/front_en.20.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/4796008920049",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Real · Real Mixed fruit juice",
+  "quantity": "1l"
+ },
+ "red-capsicum-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Dried_Capsicum_annuum-Red_Chilli_Pepper_on_Nanglo.jpg/960px-Dried_Capsicum_annuum-Red_Chilli_Pepper_on_Nanglo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Sabina Bajracharya, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Dried_Capsicum_annuum-Red_Chilli_Pepper_on_Nanglo.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Dried Capsicum annuum-Red Chilli Pepper on Nanglo.jpg"
+ },
+ "red-carrot-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Red_Carrot.jpg/960px-Red_Carrot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: SarKaLay စာကလေး, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_Carrot.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Red Carrot.jpg"
+ },
+ "red-dragon-fruit-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_dragon_fruit.jpg/960px-Red_dragon_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Fumikas Sagisavas, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_dragon_fruit.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Red dragon fruit.jpg"
+ },
+ "red-globe-grapes-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Red_Globe%2C_a_variety_of_very_large%2C_seeded_red_grapes%2C_captured_in_West_Bengal%2C_India.jpg/960px-Red_Globe%2C_a_variety_of_very_large%2C_seeded_red_grapes%2C_captured_in_West_Bengal%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Billjones94, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_Globe,_a_variety_of_very_large,_seeded_red_grapes,_captured_in_West_Bengal,_India.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Red Globe, a variety of very large, seeded red grapes, captured in West Bengal, India.jpg"
+ },
+ "red-lady-papaya-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Red_Lady_papaya.jpg/960px-Red_Lady_papaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Vijayanrajapuram, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_Lady_papaya.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Red Lady papaya.jpg"
+ },
+ "red-potato-1kg": {
+  "miss": true
+ },
+ "revive-instant-starch-200g": {
+  "miss": true
+ },
+ "reynolds-ball-pen-blue-pack-of-10": {
+  "miss": true
+ },
+ "rica-wax-800ml": {
+  "miss": true
+ },
+ "richs-whipping-topping-1l": {
+  "miss": true
+ },
+ "rin-ala-fabric-whitener-500ml": {
+  "miss": true
+ },
+ "rin-detergent-bar-4x250g": {
+  "miss": true
+ },
+ "ritebite-max-protein-bar-70g": {
+  "miss": true
+ },
+ "ritebite-max-protein-chips-60g": {
+  "url": "https://images.openfoodfacts.org/images/products/790/602/653/8950/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/7906026538950",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "RiteBite · Max Protein Chips Peri Peri"
+ },
+ "robusta-banana-1-dozen": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Robusta_banana_plantling.jpg/960px-Robusta_banana_plantling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Vis M, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Robusta_banana_plantling.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Robusta banana plantling.jpg"
+ },
+ "rose-bunch-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Bunch_of_Pink_Rose_140416.jpg/960px-Bunch_of_Pink_Rose_140416.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Sabina Bajracharya, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Bunch_of_Pink_Rose_140416.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Bunch of Pink Rose 140416.jpg"
+ },
+ "round-bottle-gourd-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Young_round_gourd_fruits_with_yellow_flowers_in_home_garden.jpg/960px-Young_round_gourd_fruits_with_yellow_flowers_in_home_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Tulspal, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Young_round_gourd_fruits_with_yellow_flowers_in_home_garden.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Young round gourd fruits with yellow flowers in home garden.jpg"
+ },
+ "round-brinjal-500g": {
+  "miss": true
+ },
+ "safal-frozen-cut-beans-500g": {
+  "miss": true
+ },
+ "safal-frozen-spinach-500g": {
+  "miss": true
+ },
+ "saffola-rice-bran-oil-1l": {
+  "miss": true
+ },
+ "samyang-ramen-meal-kit-pack-of-5": {
+  "miss": true
+ },
+ "savlon-disinfectant-spray-200ml": {
+  "miss": true
+ },
+ "savlon-soap-3x125g": {
+  "miss": true
+ },
+ "scholastic-childrens-story-book-english-1pc": {
+  "miss": true
+ },
+ "schweppes-zero-tonic-water-300ml": {
+  "url": "https://images.openfoodfacts.org/images/products/704/461/087/4272/front_nb.20.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/7044610874272",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Ringnes as · Tonic Water Zero 1l flaske Schweppes",
+  "quantity": "1000 ml"
+ },
+ "scotch-brite-broom-1pc": {
+  "miss": true
+ },
+ "scotch-brite-flat-mop-1pc": {
+  "miss": true
+ },
+ "scotch-brite-floor-cleaning-brush-1pc": {
+  "miss": true
+ },
+ "scotch-brite-microfiber-kitchen-cloth-pack-of-3": {
+  "miss": true
+ },
+ "scotch-transparent-tape-2rolls": {
+  "miss": true
+ },
+ "seedless-watermelon-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Watermelon_seedless.jpg/960px-Watermelon_seedless.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Scott Ehardt, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Watermelon_seedless.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Watermelon seedless.jpg"
+ },
+ "set-wet-hair-cream-100ml": {
+  "miss": true
+ },
+ "set-wet-hair-gel-100ml": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/108/806/9724/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8901088069724",
+  "source": "openbeautyfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Set wet sport extreme hair gel"
+ },
+ "shan-biryani-masala-50g": {
+  "url": "https://images.openfoodfacts.org/images/products/078/882/100/1146/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/0788821001146",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Shan Foods (Private) Ltd. · Masala bombay biryani mix"
+ },
+ "shan-tandoori-masala-50g": {
+  "miss": true
+ },
+ "sheep-meat-curry-cut-500g": {
+  "miss": true
+ },
+ "shelled-green-peas-200g": {
+  "miss": true
+ },
+ "shilpa-bindi-10sheets": {
+  "miss": true
+ },
+ "silk-soy-milk-1l": {
+  "miss": true
+ },
+ "sirona-heat-patches-pack-of-5": {
+  "miss": true
+ },
+ "sirona-intimate-wipes-10pcs": {
+  "miss": true
+ },
+ "sirona-maternity-pads-10pcs": {
+  "miss": true
+ },
+ "sirona-menstrual-cup-1pc": {
+  "miss": true
+ },
+ "skinn-by-titan-fragrance-gift-set-1set": {
+  "miss": true
+ },
+ "skinn-by-titan-perfume-50ml": {
+  "miss": true
+ },
+ "skybags-school-backpack-1pc": {
+  "miss": true
+ },
+ "slice-mango-drink-600ml": {
+  "miss": true
+ },
+ "slurrp-farm-millet-noodles-192g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/613/168/0581/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8906131680581",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Slurrp Farm · millet noodles"
+ },
+ "slurrp-farm-ragi-drink-mix-200g": {
+  "miss": true
+ },
+ "smoor-gourmet-confectionery-box-1pack": {
+  "miss": true
+ },
+ "sneakare-sneaker-cleaning-foam-150ml": {
+  "miss": true
+ },
+ "sofit-soy-milk-1l": {
+  "miss": true
+ },
+ "soyfit-tofu-200g": {
+  "miss": true
+ },
+ "sprite-zero-soft-drink-300ml": {
+  "miss": true
+ },
+ "st-dalfour-orange-marmalade-284g": {
+  "miss": true
+ },
+ "starbucks-ready-to-drink-cold-coffee-200ml": {
+  "miss": true
+ },
+ "stayfree-sanitary-pads-20pcs": {
+  "miss": true
+ },
+ "strauss-resistance-bands-1set": {
+  "miss": true
+ },
+ "streax-hair-serum-100ml": {
+  "miss": true
+ },
+ "sugar-free-sugar-substitute-300pcs": {
+  "miss": true
+ },
+ "sumeru-fish-fingers-300g": {
+  "miss": true
+ },
+ "sumeru-frozen-cut-beans-500g": {
+  "miss": true
+ },
+ "sumeru-frozen-mixed-vegetables-500g": {
+  "miss": true
+ },
+ "sumeru-frozen-peas-500g": {
+  "miss": true
+ },
+ "sumeru-frozen-spinach-500g": {
+  "miss": true
+ },
+ "sumeru-frozen-sweet-corn-500g": {
+  "miss": true
+ },
+ "sunfeast-dark-fantasy-filled-biscuits-75g": {
+  "miss": true
+ },
+ "sunfeast-pasta-treat-instant-pasta-70g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/513/5218/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901725135218",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "ITC · Sunfeast Yippee! Pasta Treat",
+  "quantity": "65g"
+ },
+ "sunfeast-yippee-masala-instant-noodles-280g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/172/511/6729/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901725116729",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "ITC, Sunfeast · Sunfeast Yippee! noodles Magic Masala",
+  "quantity": "405 g"
+ },
+ "surf-excel-matic-front-load-liquid-detergent-1l": {
+  "url": "https://images.openproductsfacts.org/images/products/890/910/605/1102/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8909106051102",
+  "source": "openproductsfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Hindustan Unilever Limited, Surf Excel · Surf Excel Matic Front Load Liquid Detergent",
+  "quantity": "1 L"
+ },
+ "svami-tonic-water-250ml": {
+  "miss": true
+ },
+ "swiss-beauty-makeup-brush-set-1set": {
+  "miss": true
+ },
+ "tata-salt-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6612/front_en.10.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926612",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "TATA Salt · Himalayan Rock Salt",
+  "quantity": "1 kg"
+ },
+ "tata-sampann-broken-wheat-daliya-500g": {
+  "miss": true
+ },
+ "tata-sampann-cumin-seeds-100g": {
+  "miss": true
+ },
+ "tata-sampann-daliya-500g": {
+  "miss": true
+ },
+ "tata-sampann-masoor-dal-1kg": {
+  "miss": true
+ },
+ "tata-sampann-rajma-500g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/404/392/6681/front_en.4.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8904043926681",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "High",
+  "title": "Tata Sampann Rajma(Chitra)-500g",
+  "quantity": "500g"
+ },
+ "tata-sampann-sabudana-500g": {
+  "miss": true
+ },
+ "tata-soulfull-cereal-pillows-250g": {
+  "miss": true
+ },
+ "tata-soulfull-millet-biscuits-150g": {
+  "miss": true
+ },
+ "tata-soulfull-millet-cookies-150g": {
+  "miss": true
+ },
+ "tata-soulfull-millet-puffs-60g": {
+  "miss": true
+ },
+ "tata-tea-ctc-black-tea-500g": {
+  "miss": true
+ },
+ "tata-tea-masala-tea-250g": {
+  "miss": true
+ },
+ "tea-trunk-hibiscus-herbal-infusion-50g": {
+  "miss": true
+ },
+ "tea-trunk-matcha-30g": {
+  "miss": true
+ },
+ "tea-trunk-whole-leaf-black-tea-100g": {
+  "miss": true
+ },
+ "telangana-fine-rice-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Rice_saplings_in_telangana.jpeg/960px-Rice_saplings_in_telangana.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Dhananjaya.karre, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Rice_saplings_in_telangana.jpeg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Rice saplings in telangana.jpeg"
+ },
+ "the-bakers-dozen-pita-bread-4pcs": {
+  "miss": true
+ },
+ "the-bakers-dozen-sourdough-bread-300g": {
+  "miss": true
+ },
+ "the-bakers-dozen-sourdough-bread-400g": {
+  "miss": true
+ },
+ "the-body-shop-bath-gift-set-1set": {
+  "miss": true
+ },
+ "the-body-shop-bath-sponge-1pc": {
+  "miss": true
+ },
+ "the-derma-co-pimple-patches-24pcs": {
+  "miss": true
+ },
+ "the-derma-co-salicylic-acid-face-wash-100ml": {
+  "miss": true
+ },
+ "the-derma-co-under-eye-cream-15ml": {
+  "miss": true
+ },
+ "the-face-shop-sheet-mask-1pc": {
+  "miss": true
+ },
+ "the-ordinary-hyaluronic-acid-serum-30ml": {
+  "miss": true
+ },
+ "the-ordinary-scalp-serum-60ml": {
+  "miss": true
+ },
+ "theobroma-chocolate-chip-cookies-250g": {
+  "miss": true
+ },
+ "theobroma-cookie-hamper-500g": {
+  "miss": true
+ },
+ "theobroma-croissant-pack-of-2": {
+  "miss": true
+ },
+ "third-wave-coffee-single-origin-ground-coffee-250g": {
+  "miss": true
+ },
+ "third-wave-coffee-whole-bean-coffee-250g": {
+  "miss": true
+ },
+ "trident-bath-towel-1pc": {
+  "miss": true
+ },
+ "tropicana-juice-assorted-gift-pack-4x1l": {
+  "miss": true
+ },
+ "tropolite-whipping-topping-1l": {
+  "miss": true
+ },
+ "true-elements-hemp-seeds-150g": {
+  "miss": true
+ },
+ "true-elements-sunflower-seeds-250g": {
+  "miss": true
+ },
+ "twinings-chamomile-herbal-tea-25pcs": {
+  "miss": true
+ },
+ "two-brothers-organic-farms-bilona-ghee-500ml": {
+  "miss": true
+ },
+ "tynor-hot-water-bag-1pc": {
+  "miss": true
+ },
+ "ujala-liquid-fabric-whitener-250ml": {
+  "miss": true
+ },
+ "unibic-cookie-hamper-500g": {
+  "miss": true
+ },
+ "urban-platter-hemp-seeds-200g": {
+  "miss": true
+ },
+ "urban-platter-mushroom-popcorn-kernels-500g": {
+  "miss": true
+ },
+ "urban-platter-sprinkles-100g": {
+  "miss": true
+ },
+ "ustraa-beard-oil-35ml": {
+  "miss": true
+ },
+ "vadilal-cassata-ice-cream-1pc": {
+  "miss": true
+ },
+ "vahdam-whole-leaf-black-tea-100g": {
+  "miss": true
+ },
+ "veeba-tandoori-mayonnaise-250g": {
+  "miss": true
+ },
+ "veeba-thousand-island-dressing-300g": {
+  "miss": true
+ },
+ "vega-bath-loofah-1pc": {
+  "miss": true
+ },
+ "vega-hair-brush-1pc": {
+  "miss": true
+ },
+ "vega-hair-straightener-1pc": {
+  "miss": true
+ },
+ "vega-makeup-brush-set-1set": {
+  "miss": true
+ },
+ "vega-makeup-sponge-1pc": {
+  "miss": true
+ },
+ "vega-nail-clipper-1pc": {
+  "miss": true
+ },
+ "vega-tweezers-1pc": {
+  "miss": true
+ },
+ "victorinox-paring-knife-1pc": {
+  "miss": true
+ },
+ "vim-dishwash-bar-3x200g": {
+  "url": "https://images.openproductsfacts.org/images/products/890/910/600/0285/front_en.5.400.400.jpg",
+  "credit": "Photo: Open Products Facts contributors, CC BY-SA",
+  "page": "https://world.openproductsfacts.org/product/8909106000285",
+  "source": "openproductsfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Vim · Vim Dishwash Bar"
+ },
+ "vim-dishwash-liquid-gel-750ml": {
+  "miss": true
+ },
+ "vinod-steel-saucepan-1pc": {
+  "miss": true
+ },
+ "vinod-steel-spoons-6pcs": {
+  "miss": true
+ },
+ "vwash-intimate-wash-100ml": {
+  "miss": true
+ },
+ "wagh-bakri-masala-chai-premix-10sachets": {
+  "miss": true
+ },
+ "wavex-microfiber-cloth-pack-of-2": {
+  "miss": true
+ },
+ "wavex-waterless-car-wash-350ml": {
+  "miss": true
+ },
+ "wd-40-multipurpose-spray-170g": {
+  "miss": true
+ },
+ "weikfield-cocoa-powder-150g": {
+  "miss": true
+ },
+ "weikfield-cocoa-powder-50g": {
+  "miss": true
+ },
+ "weikfield-corn-flour-500g": {
+  "miss": true
+ },
+ "weikfield-icing-sugar-100g": {
+  "miss": true
+ },
+ "weikfield-jelly-crystals-90g": {
+  "url": "https://images.openfoodfacts.org/images/products/890/180/800/0495/front_en.3.400.400.jpg",
+  "credit": "Photo: Open Food Facts contributors, CC BY-SA",
+  "page": "https://world.openfoodfacts.org/product/8901808000495",
+  "source": "openfoodfacts",
+  "license": "CC BY-SA",
+  "match": "pack",
+  "confidence": "Medium",
+  "title": "Weikfield jelly crystals",
+  "quantity": "1"
+ },
+ "whisper-maternity-pads-20pcs": {
+  "miss": true
+ },
+ "whisper-pantyliners-20pcs": {
+  "miss": true
+ },
+ "whisper-sanitary-pads-15pcs": {
+  "miss": true
+ },
+ "white-onion-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/White_onions_drying.jpg/960px-White_onions_drying.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: https://www.flickr.com/photos/calliope/, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:White_onions_drying.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 2.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "White onions drying.jpg"
+ },
+ "wingreens-farms-hummus-150g": {
+  "miss": true
+ },
+ "wingreens-farms-pesto-sauce-190g": {
+  "miss": true
+ },
+ "wonderchef-measuring-spoons-1set": {
+  "miss": true
+ },
+ "yelakki-banana-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Front_Yelakki_banana%2C_bangalore%2C_karnataka_top.jpg/960px-Front_Yelakki_banana%2C_bangalore%2C_karnataka_top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Mohanramus, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Front_Yelakki_banana,_bangalore,_karnataka_top.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Front Yelakki banana, bangalore, karnataka top.jpg"
+ },
+ "yellow-capsicum-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Yellow_Capsicum.jpg/960px-Yellow_Capsicum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Medhi jyoti, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Yellow_Capsicum.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "variety",
+  "confidence": "Medium",
+  "title": "Yellow Capsicum.jpg"
+ },
+ "yoga-bar-chia-seeds-200g": {
+  "miss": true
+ },
+ "yoga-bar-granola-400g": {
+  "miss": true
+ },
+ "yoga-bar-trail-mix-150g": {
+  "miss": true
+ },
+ "yummiez-chicken-nuggets-400g": {
+  "miss": true
+ }
+}
