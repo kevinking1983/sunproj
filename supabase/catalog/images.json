@@ -1166,6 +1166,9 @@
  "off:enerzal|electrolyte drink": {
   "miss": true
  },
+ "off:engage|deodorant": {
+  "miss": true
+ },
  "off:english oven|brown bread": {
   "miss": true
  },
@@ -1336,6 +1339,12 @@
  },
  "off:flamingo|hot water bag": {
   "miss": true
+ },
+ "off:fogg|body spray": {
+  "url": "https://images.openbeautyfacts.org/images/products/890/800/115/8480/front_en.6.400.400.jpg",
+  "credit": "Photo: Open Beauty Facts contributors, CC BY-SA",
+  "page": "https://world.openbeautyfacts.org/product/8908001158480",
+  "source": "openbeautyfacts"
  },
  "off:fortune|besan": {
   "url": "https://images.openfoodfacts.org/images/products/890/600/728/5025/front_en.7.400.400.jpg",
@@ -1553,7 +1562,13 @@
  "off:gits|upma mix": {
   "miss": true
  },
+ "off:godrej expert|hair colour": {
+  "miss": true
+ },
  "off:godrej ezee|ezee liquid detergent": {
+  "miss": true
+ },
+ "off:godrej nupur|henna": {
   "miss": true
  },
  "off:goodknight|mosquito liquid vaporiser": {
@@ -1827,6 +1842,9 @@
   "miss": true
  },
  "off:ikea|chopping board": {
+  "miss": true
+ },
+ "off:ikea|organiser": {
   "miss": true
  },
  "off:india gate|basmati rice": {
@@ -2937,6 +2955,9 @@
   "miss": true
  },
  "off:philips|toaster": {
+  "miss": true
+ },
+ "off:philips|trimmer": {
   "miss": true
  },
  "off:pigeon|bottle brush": {
