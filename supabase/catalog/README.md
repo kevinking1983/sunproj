@@ -10,6 +10,7 @@ The store's departments, categories, subcategories and sample products, built fr
 | `pinned.json` | Toor Dal, Toned Milk and Brown Bread with fixed prices; the automated tests rely on them. |
 | `images.json` | Licensed photos and their credits, written by the "Catalog photos" GitHub Actions workflow. |
 | `photo-links.csv` | Products still without a photo, with a column to paste an Open Food Facts or Commons link. |
+| `auto-photos.json`, `photo-rejects.json` | Broader automatic matches, and photos rejected on review. |
 | `image-overrides.json` | Photos chosen by hand (photo-links.csv or the photo picker), by product slug. They win over `images.json`; `{"none": true}` removes a wrong photo. |
 | `AGENT_BRIEF.md` | The rules the product files were written to. |
 
@@ -36,6 +37,16 @@ requires (shown under the photo on the product page):
 The lookup runs in GitHub Actions (workflow "Catalog photos") whenever product files change on
 `main`, or from the Actions tab on demand. It commits `images.json` and the regenerated seed.
 Products with no match show a placeholder.
+
+### Broader automatic matches
+
+The "Catalog auto photos" workflow handles products the strict lookup missed: a full-text search
+of Open Food / Beauty / Products Facts (brand plus at least half the distinctive words of the name
+must match), else a freely licensed Wikimedia Commons photo of the item itself, credited as
+"Representative photo". Results go to `auto-photos.json` (used after hand-picked photos and the
+strict lookup). Contact sheets of every match are published to the `photo-review` branch; add wrong
+ones to `photo-rejects.json` (`{"<product slug>": ["<photo url>"]}`) and the workflow tries the
+next candidate.
 
 ### Photos from links (photo-links.csv)
 

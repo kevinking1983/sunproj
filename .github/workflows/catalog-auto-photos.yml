@@ -1,0 +1,74 @@
+name: Catalog auto photos
+
+# Broader automatic photo matching for products the strict lookup missed: Open Food / Beauty /
+# Products Facts pack shots by full-text search, else a freely licensed Wikimedia Commons photo of
+# the item, credited as a representative photo. Commits auto-photos.json and the seed to main, then
+# publishes contact sheets of every match to the photo-review branch so wrong ones can be listed in
+# photo-rejects.json (which re-runs this workflow and tries the next candidate).
+on:
+  workflow_dispatch:
+    inputs:
+      retry_misses:
+        description: "Try again for products where nothing was found before"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - "supabase/catalog/photo-rejects.json"
+      - "scripts/catalog/auto-photos.mjs"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog-photos
+  cancel-in-progress: false
+
+jobs:
+  auto-photos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 130
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Match photos
+        run: node scripts/catalog/auto-photos.mjs --max-minutes 100 ${{ inputs.retry_misses && '--retry-misses' || '' }}
+      - name: Regenerate the catalog seed and the list of products still without a photo
+        run: |
+          node scripts/catalog/build-seed.mjs
+          node scripts/photos/import-links.mjs --template
+      - name: Commit results
+        run: |
+          git config user.name "ration-catalog-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add supabase/catalog/auto-photos.json supabase/catalog/photo-links.csv supabase/seeds/catalog.sql
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Catalog: automatic photo matches and regenerated seed"
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              git push origin HEAD:app HEAD:web || echo "app/web have other commits; not updated"
+              exit 0
+            fi
+            sleep 5
+          done
+          exit 1
+      - name: Contact sheets for review
+        run: |
+          pip install --quiet pillow
+          python3 scripts/catalog/contact-sheets.py "$RUNNER_TEMP/sheets"
+      - name: Publish contact sheets to the photo-review branch
+        env:
+          TOKEN: ${{ github.token }}
+        run: |
+          cd "$RUNNER_TEMP/sheets"
+          git init -q -b photo-review
+          git config user.name "ration-catalog-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add .
+          git commit -qm "Contact sheets of automatic photo matches ($GITHUB_SHA)"
+          git push -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" photo-review

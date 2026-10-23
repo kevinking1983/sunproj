@@ -63,3 +63,6 @@ photo-picker/
 test-results/
 playwright-report/
 .web.log
+
+# python bytecode
+__pycache__/

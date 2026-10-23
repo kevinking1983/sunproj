@@ -13,6 +13,8 @@ export const CAT = path.join(ROOT, "supabase/catalog");
 export const WORK = path.join(ROOT, "photo-picker");
 export const OVERRIDES = path.join(CAT, "image-overrides.json");
 export const CHOICES = path.join(WORK, "choices.json");
+export const AUTO = path.join(CAT, "auto-photos.json");
+export const REJECTS = path.join(CAT, "photo-rejects.json");
 export const UA = "RATION-photo-picker/1.0 (https://github.com/kevinking1983/sunproj; catalog photo review)";
 
 export const read = (f) => JSON.parse(fs.readFileSync(f, "utf8"));
@@ -33,6 +35,7 @@ export function loadCatalog() {
   const assortment = read(path.join(CAT, "assortment.json"));
   const images = readIf(path.join(CAT, "images.json"), {});
   const overrides = readIf(OVERRIDES, {});
+  const auto = readIf(AUTO, {});
   const shelf = new Map(); // subcategory slug -> { dept, deptName, path }
   for (const d of assortment.departments)
     for (const c of d.categories) for (const s of c.subcategories) if (s.slug) shelf.set(s.slug, { dept: d.slug, deptName: d.name, path: `${d.name} › ${c.name} › ${s.name}` });
@@ -47,7 +50,7 @@ export function loadCatalog() {
       const where = shelf.get(p.subcategories[0]) ?? { dept: "", deptName: "", path: p.subcategories[0] };
       const key = !p.image ? null : p.image.wiki ? `wiki:${p.image.wiki}` : `off:${p.image.off.brand.toLowerCase()}|${p.image.off.query.toLowerCase()}`;
       const o = overrides[p.slug];
-      const hit = o ? (o.url ? o : null) : images[key]?.url ? images[key] : null;
+      const hit = o ? (o.url ? o : null) : images[key]?.url ? images[key] : auto[p.slug]?.url ? auto[p.slug] : null;
       return { ...p, dept: where.dept, deptName: where.deptName, path: where.path, current: hit ? { url: hit.url, credit: hit.credit, page: hit.page, source: hit.source } : null };
     });
 }
@@ -126,7 +129,7 @@ export const commonsTitleFromLink = (link) => {
 };
 
 // --- Open Food / Beauty / Products Facts ------------------------------------------------
-const FIELDS = "code,product_name,product_name_en,brands,image_front_url,countries_tags";
+export const FIELDS = "code,product_name,product_name_en,brands,image_front_url,countries_tags";
 const factsThumb = (url) => url.replace(/\.(\d+)\.jpg$/, ".$1.400.jpg").replace(/\.full\.jpg$/, ".400.jpg");
 export const factsCandidate = (kind, p) => ({
   title: [p.brands, p.product_name_en || p.product_name].filter(Boolean).join(" · ") || p.code,
