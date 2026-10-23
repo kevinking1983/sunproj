@@ -188,6 +188,9 @@
  "alt-co-oat-milk-1l": {
   "miss": true
  },
+ "amaranth-leaves-1-bunch": {
+  "miss": true
+ },
  "american-tourister-school-backpack-1pc": {
   "miss": true
  },
@@ -251,15 +254,25 @@
  "ariel-matic-top-load-liquid-detergent-1l": {
   "miss": true
  },
- "asparagus-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Asparagus_soup_%28spargelsuppe%29.jpg/960px-Asparagus_soup_%28spargelsuppe%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Asparagus_soup_(spargelsuppe).jpg",
+ "artificial-hair-flowers-1pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gajra-.JPG/960px-Gajra-.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Jugni, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Gajra-.JPG",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Asparagus soup (spargelsuppe).jpg"
+  "title": "Gajra-.JPG"
+ },
+ "asparagus-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Asparagus-Bundle.jpg/960px-Asparagus-Bundle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Evan-Amos, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Asparagus-Bundle.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Asparagus-Bundle.jpg"
  },
  "b-natural-mango-juice-1l": {
   "miss": true
@@ -278,14 +291,14 @@
   "title": "Carrots (baby) - Arlington, MA.jpg"
  },
  "baby-potato-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Baby_Potato_PanArrLu.jpg/960px-Baby_Potato_PanArrLu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: SarKaLay စာကလေး, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Baby_Potato_PanArrLu.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Baby_potato_and_big_potato.jpg/960px-Baby_potato_and_big_potato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Vidya pmysore, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Baby_potato_and_big_potato.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Baby Potato PanArrLu.jpg"
+  "title": "Baby potato and big potato.jpg"
  },
  "bagrrys-steel-cut-oats-1kg": {
   "miss": true
@@ -301,6 +314,16 @@
  },
  "bambino-semiya-kheer-mix-160g": {
   "miss": true
+ },
+ "banganapalli-mango-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Mango_Banganapalli_variety.jpg/960px-Mango_Banganapalli_variety.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Thamizhpparithi Maari, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mango_Banganapalli_variety.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Mango Banganapalli variety.jpg"
  },
  "barilla-arrabbiata-pasta-sauce-400g": {
   "miss": true
@@ -335,6 +358,16 @@
  "bella-vita-perfume-100ml": {
   "miss": true
  },
+ "betel-leaves-10-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Betel_leaves_for_selling_in_the_market_01.jpg/960px-Betel_leaves_for_selling_in_the_market_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Suyash Dwivedi, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Betel_leaves_for_selling_in_the_market_01.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Betel leaves for selling in the market 01.jpg"
+ },
  "bikaji-namkeen-gift-pack-1kg": {
   "miss": true
  },
@@ -367,15 +400,35 @@
   "title": "Bisleri · Packaged Drinking Water",
   "quantity": "2L"
  },
- "black-seedless-grapes-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Grapes_green_and_black-hibreed_seedless.jpg/960px-Grapes_green_and_black-hibreed_seedless.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Parvathisri, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Grapes_green_and_black-hibreed_seedless.jpg",
+ "bitter-gourd-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/White_bitter_gourd.jpg/960px-White_bitter_gourd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Suyash.dwivedi, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:White_bitter_gourd.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "White bitter gourd.jpg"
+ },
+ "black-seedless-grapes-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Black_seedless_grapes_4300175324717_pack_01.jpg/960px-Black_seedless_grapes_4300175324717_pack_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: V.Boldychev, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Black_seedless_grapes_4300175324717_pack_01.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Grapes green and black-hibreed seedless.jpg"
+  "title": "Black seedless grapes 4300175324717 pack 01.jpg"
+ },
+ "blackberry-125g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Blackberry_%28Rubus_fruticosus%29.jpg/960px-Blackberry_%28Rubus_fruticosus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Blackberry_(Rubus_fruticosus).jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Blackberry (Rubus fruticosus).jpg"
  },
  "blue-bird-baking-powder-100g": {
   "miss": true
@@ -385,6 +438,16 @@
  },
  "blue-tokai-whole-bean-coffee-250g": {
   "miss": true
+ },
+ "blueberry-125g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Juvenile_Eastern_Bluebird_in_Blueberry_Bush.jpg/960px-Juvenile_Eastern_Bluebird_in_Blueberry_Bush.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: KellyC.5366, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Juvenile_Eastern_Bluebird_in_Blueberry_Bush.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Juvenile Eastern Bluebird in Blueberry Bush.jpg"
  },
  "boldfit-gym-shaker-bottle-1pc": {
   "miss": true
@@ -428,6 +491,16 @@
  },
  "bosch-washing-machine-cleaner-4tabs": {
   "miss": true
+ },
+ "bottle-gourd-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Yellow_Gourd_on_a_Blue_Background.png/960px-Yellow_Gourd_on_a_Blue_Background.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Aerra Carnicom, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Yellow_Gourd_on_a_Blue_Background.png",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Yellow Gourd on a Blue Background.png"
  },
  "bournvita-chocolate-malt-drink-mix-500g": {
   "miss": true
@@ -517,15 +590,25 @@
  "britannia-treat-cream-biscuits-150g": {
   "miss": true
  },
- "broccoli-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Romanesco_broccoli_2025_G2.jpg/960px-Romanesco_broccoli_2025_G2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: George Chernilevsky, CC BY 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Romanesco_broccoli_2025_G2.jpg",
+ "broad-beans-500g": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Broad_Bean_%28Vicia_faba%29_seed_Germination.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Tess Watson from Edinburgh, Scotland, UK, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Broad_Bean_(Vicia_faba)_seed_Germination.jpg",
   "source": "wikimedia",
-  "license": "CC BY 4.0",
+  "license": "CC BY 2.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Romanesco broccoli 2025 G2.jpg"
+  "title": "Broad Bean (Vicia faba) seed Germination.jpg"
+ },
+ "broccoli-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Romanesco_broccoli_%28Brassica_oleracea%29.jpg/960px-Romanesco_broccoli_%28Brassica_oleracea%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Romanesco_broccoli_(Brassica_oleracea).jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Romanesco broccoli (Brassica oleracea).jpg"
  },
  "brooke-bond-red-label-black-tea-500g": {
   "miss": true
@@ -540,14 +623,14 @@
   "miss": true
  },
  "cabbage-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Pieris_brassicae_-_Large_Cabbage_White_-_02.jpg/960px-Pieris_brassicae_-_Large_Cabbage_White_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Zeynel Cebeci, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Pieris_brassicae_-_Large_Cabbage_White_-_02.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Band_Gobhi_Ki_Bhujia.JPG/960px-Band_Gobhi_Ki_Bhujia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Miansari66, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Band_Gobhi_Ki_Bhujia.JPG",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Pieris brassicae - Large Cabbage White - 02.jpg"
+  "title": "Band Gobhi Ki Bhujia.JPG"
  },
  "cadbury-assorted-chocolate-share-pack-200g": {
   "miss": true
@@ -583,6 +666,16 @@
  },
  "camlin-wax-crayons-12pcs": {
   "miss": true
+ },
+ "cantaloupe-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Nationalist_product_labeling_of_a_cantaloupe_2024.jpg/960px-Nationalist_product_labeling_of_a_cantaloupe_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Bartleby08, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Nationalist_product_labeling_of_a_cantaloupe_2024.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Nationalist product labeling of a cantaloupe 2024.jpg"
  },
  "catch-basil-leaves-15g": {
   "miss": true
@@ -656,6 +749,16 @@
  "chicco-bottle-brush-1pc": {
   "miss": true
  },
+ "chocolate-gelato-500ml": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2021-12-23_19_48_48_Chocolate_gelato_in_Ashburn%2C_Loudoun_County%2C_Virginia.jpg/960px-2021-12-23_19_48_48_Chocolate_gelato_in_Ashburn%2C_Loudoun_County%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Famartin, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:2021-12-23_19_48_48_Chocolate_gelato_in_Ashburn,_Loudoun_County,_Virginia.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "2021-12-23 19 48 48 Chocolate gelato in Ashburn, Loudoun County, Virginia.jpg"
+ },
  "chuk-disposable-plates-25pcs": {
   "miss": true
  },
@@ -697,6 +800,16 @@
  "coca-cola-zero-sugar-soft-drink-300ml": {
   "miss": true
  },
+ "coconut-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Coconuts_-_single_and_cracked_open.jpg/960px-Coconuts_-_single_and_cracked_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Coconuts_-_single_and_cracked_open.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Coconuts - single and cracked open.jpg"
+ },
  "colgate-dental-floss-25m": {
   "miss": true
  },
@@ -724,6 +837,16 @@
  },
  "colin-glass-cleaner-spray-500ml": {
   "miss": true
+ },
+ "colocasia-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Colocasia_Sp_6064.jpg/960px-Colocasia_Sp_6064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Vengolis, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Colocasia_Sp_6064.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Colocasia Sp 6064.jpg"
  },
  "colorbar-nail-polish-12ml": {
   "miss": true
@@ -756,28 +879,48 @@
  "cothas-filter-coffee-powder-500g": {
   "miss": true
  },
+ "cowpea-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Patterned_cowpea_%2820240714%29.jpg/960px-Patterned_cowpea_%2820240714%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Fumikas Sagisavas, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Patterned_cowpea_(20240714).jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Patterned cowpea (20240714).jpg"
+ },
  "cricket-ball-chikoo-500g": {
   "miss": true
  },
  "curry-cut-vegetable-mix-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Cut_Vegetable.jpg/960px-Cut_Vegetable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Miyuki Meinaka, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Cut_Vegetable.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Wedge_cut_vegetables_2026-10-20_Momordica_charantia_03.jpg/960px-Wedge_cut_vegetables_2026-10-20_Momordica_charantia_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: P1898, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Wedge_cut_vegetables_2026-10-20_Momordica_charantia_03.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Wedge cut vegetables 2026-10-20 Momordica charantia 03.jpg"
+ },
+ "curry-leaves-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Butterfly_on_kadipatta_flower.jpg/960px-Butterfly_on_kadipatta_flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Jyotiprajapati, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Butterfly_on_kadipatta_flower.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Cut Vegetable.jpg"
+  "title": "Butterfly on kadipatta flower.jpg"
  },
  "custard-apple-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Yellow-throated_euphonia_%28Euphonia_hirundinacea_hirundinacea%29_male_feeding_on_custard_apple_%28Annona_reticulata%29_Orange_Walk.jpg/960px-Yellow-throated_euphonia_%28Euphonia_hirundinacea_hirundinacea%29_male_feeding_on_custard_apple_%28Annona_reticulata%29_Orange_Walk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Charles J. Sharp, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Yellow-throated_euphonia_(Euphonia_hirundinacea_hirundinacea)_male_feeding_on_custard_apple_(Annona_reticulata)_Orange_Walk.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Custard_apple_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Leroy Merlin, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Custard_apple_2017.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Yellow-throated euphonia (Euphonia hirundinacea hirundinacea) male feeding on custard apple (Annona reticulata) Orange Walk.jpg"
+  "title": "Custard apple 2017.jpg"
  },
  "cut-banana-leaves-10-pcs": {
   "miss": true
@@ -793,24 +936,24 @@
   "title": "Papaya cut at picnic table with tortillas.jpg"
  },
  "cut-pineapple-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/A_cut_Pineapple.jpg/960px-A_cut_Pineapple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Ssemmanda will, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:A_cut_Pineapple.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Hand_Cut_Pineapple_Tile_Mural.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: GirlTropix, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Hand_Cut_Pineapple_Tile_Mural.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY-SA 3.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "A cut Pineapple.jpg"
+  "title": "Hand Cut Pineapple Tile Mural.jpg"
  },
  "cut-watermelon-250g": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Well_cut_pineapples_and_watermelon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Well_cut_pineapples_and_watermelon_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credit": "Representative photo: ASally Ruth, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Well_cut_pineapples_and_watermelon_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Well_cut_pineapples_and_watermelon_1.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Well cut pineapples and watermelon 2.jpg"
+  "title": "Well cut pineapples and watermelon 1.jpg"
  },
  "dabur-amla-hair-oil-275ml": {
   "url": "https://images.openbeautyfacts.org/images/products/890/120/705/0466/front_en.9.400.jpg",
@@ -852,6 +995,16 @@
  },
  "decathlon-yoga-mat-1pc": {
   "miss": true
+ },
+ "decorative-forehead-stickers-pack-of-5": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Bindi_%282416039%29.jpg/960px-Bindi_%282416039%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Simon Hannaby, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Bindi_(2416039).jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Bindi (2416039).jpg"
  },
  "del-monte-penne-pasta-500g": {
   "miss": true
@@ -896,6 +1049,16 @@
  "dhampur-sugar-1kg": {
   "miss": true
  },
+ "dill-leaves-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Fresh_Dill_Leaves.JPG/960px-Fresh_Dill_Leaves.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Miansari66, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Fresh_Dill_Leaves.JPG",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Fresh Dill Leaves.JPG"
+ },
  "domex-toilet-cleaner-1l": {
   "miss": true
  },
@@ -913,6 +1076,26 @@
  },
  "dreamland-publications-activity-book-1pc": {
   "miss": true
+ },
+ "drumstick-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Drumsticks_or_Moringa.jpg/960px-Drumsticks_or_Moringa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Mangosapiens, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Drumsticks_or_Moringa.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Drumsticks or Moringa.jpg"
+ },
+ "duck-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Male_mallard_duck_2.jpg/960px-Male_mallard_duck_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Acarpentier, CC BY 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Male_mallard_duck_2.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Male mallard duck 2.jpg"
  },
  "eastern-dry-turmeric-200g": {
   "miss": true
@@ -1049,6 +1232,16 @@
   "confidence": "Medium",
   "title": "Farmley Trail Mix"
  },
+ "fenugreek-leaves-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Washed_fenugreek_leaves_for_cooking_methi-chadachadi.jpg/960px-Washed_fenugreek_leaves_for_cooking_methi-chadachadi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Subhashish Panigrahi, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Washed_fenugreek_leaves_for_cooking_methi-chadachadi.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Washed fenugreek leaves for cooking methi-chadachadi.jpg"
+ },
  "ferrero-rocher-chocolate-gift-box-24pcs": {
   "miss": true
  },
@@ -1066,6 +1259,16 @@
  },
  "fevistik-glue-stick-15g": {
   "miss": true
+ },
+ "fig-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Fig_%28Ficus_carica%29_fruit_halved.jpg/960px-Fig_%28Ficus_carica%29_fruit_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Fig_(Ficus_carica)_fruit_halved.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Fig (Ficus carica) fruit halved.jpg"
  },
  "flamingo-hot-water-bag-1pc": {
   "miss": true
@@ -1095,14 +1298,24 @@
   "miss": true
  },
  "french-beans-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Pinto_Beans_Seeds.jpg/960px-Pinto_Beans_Seeds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Sanjay Acharya, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Pinto_Beans_Seeds.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/960px-Roasted_coffee_beans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: MarkSweep, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Roasted coffee beans.jpg"
+ },
+ "fresh-tender-coconut-1pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tender_coconut_image.jpg/960px-Tender_coconut_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Varunarivazhagan, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Tender_coconut_image.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Pinto Beans Seeds.jpg"
+  "title": "Tender coconut image.jpg"
  },
  "freshtohome-catla-fish-500g": {
   "miss": true
@@ -1161,6 +1374,16 @@
  "ganesh-pomegranate-500g": {
   "miss": true
  },
+ "garlic-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Garlic_bulbs_and_cloves.jpg/960px-Garlic_bulbs_and_cloves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Garlic bulbs and cloves.jpg"
+ },
  "garnier-color-naturals-hair-colour-1pack": {
   "miss": true
  },
@@ -1189,6 +1412,16 @@
   "match": "pack",
   "confidence": "Medium",
   "title": "Gillette · Venus razor"
+ },
+ "ginger-250g": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ginger_%28Zingiber_officinale_Roscoe%29_Wellcome_V0042885.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Unknown author, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Ginger_(Zingiber_officinale_Roscoe)_Wellcome_V0042885.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Ginger (Zingiber officinale Roscoe) Wellcome V0042885.jpg"
  },
  "gits-instant-upma-mix-200g": {
   "miss": true
@@ -1245,14 +1478,14 @@
   "quantity": "1let"
  },
  "granny-smith-apple-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_3.JPG/960px-Golden_Delicious%2C_SweeTango%2C_Granny_Smith%2C_and_Gala_apples_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Dllu, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Golden_Delicious,_SweeTango,_Granny_Smith,_and_Gala_apples_3.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Granny_Smith_Apples.jpg/960px-Granny_Smith_Apples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Unknown author, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Granny_Smith_Apples.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY-SA 3.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Golden Delicious, SweeTango, Granny Smith, and Gala apples 3.JPG"
+  "title": "Granny Smith Apples.jpg"
  },
  "grated-coconut-200g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Grated_Coconut_-_Howrah_2013-10-18_3541.JPG/960px-Grated_Coconut_-_Howrah_2013-10-18_3541.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1264,6 +1497,16 @@
   "confidence": "Medium",
   "title": "Grated Coconut - Howrah 2013-10-18 3541.JPG"
  },
+ "green-avocado-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ugandan_avocado_in_green_and_purple.jpg/960px-Ugandan_avocado_in_green_and_purple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Denis kasozi, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Ugandan_avocado_in_green_and_purple.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Ugandan avocado in green and purple.jpg"
+ },
  "green-brinjal-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Green_brinjals_at_Gara_market%2C_Srikakulam.jpg/960px-Green_brinjals_at_Gara_market%2C_Srikakulam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credit": "Representative photo: K.Venkataramana, CC0, via Wikimedia Commons",
@@ -1274,15 +1517,65 @@
   "confidence": "Medium",
   "title": "Green brinjals at Gara market, Srikakulam.jpg"
  },
- "green-pumpkin-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Green_Pumpkin_with_leaves.jpg/960px-Green_Pumpkin_with_leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Nabimanya Norman, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Green_Pumpkin_with_leaves.jpg",
+ "green-capsicum-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%27Dhan_Jolokiya%27_or_Siling_labuyo_or_Green_Capsicum_Frutescens%2C_Scientific_Name-Capsicum_frutescens_%27Siling_Labuyo%27.jpg/960px-%27Dhan_Jolokiya%27_or_Siling_labuyo_or_Green_Capsicum_Frutescens%2C_Scientific_Name-Capsicum_frutescens_%27Siling_Labuyo%27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: AditiB08, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:%27Dhan_Jolokiya%27_or_Siling_labuyo_or_Green_Capsicum_Frutescens,_Scientific_Name-Capsicum_frutescens_%27Siling_Labuyo%27.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "'Dhan Jolokiya' or Siling labuyo or Green Capsicum Frutescens, Scientific Name-Capsicum frutescens 'Siling Labuyo'.jpg"
+ },
+ "green-chilli-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Bhiwapur_Chilli_-_Green_Unripened.jpg/960px-Bhiwapur_Chilli_-_Green_Unripened.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Dr. Narayan Chindhuji Lambat, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Bhiwapur_Chilli_-_Green_Unripened.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Bhiwapur Chilli - Green Unripened.jpg"
+ },
+ "green-kiwi-pack-of-3": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/1898_pictorial_6_pence_green_%28kiwi%29.JPG/960px-1898_pictorial_6_pence_green_%28kiwi%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: GrahamBould, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:1898_pictorial_6_pence_green_(kiwi).JPG",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "1898 pictorial 6 pence green (kiwi).JPG"
+ },
+ "green-peas-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/India_-_Varanasi_green_peas_-_2714.jpg/960px-India_-_Varanasi_green_peas_-_2714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Jorge Royan, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:India_-_Varanasi_green_peas_-_2714.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "India - Varanasi green peas - 2714.jpg"
+ },
+ "green-pumpkin-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/GREEN_PUMPKIN_SEEDS.jpg/960px-GREEN_PUMPKIN_SEEDS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ranjithkumar Murugesan, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:GREEN_PUMPKIN_SEEDS.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Green Pumpkin with leaves.jpg"
+  "title": "GREEN PUMPKIN SEEDS.jpg"
+ },
+ "green-seedless-grapes-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Double_green_seedless_grape_1.jpg/960px-Double_green_seedless_grape_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: W.carter, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Double_green_seedless_grape_1.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Double green seedless grape 1.jpg"
  },
  "haldirams-banana-chips-200g": {
   "miss": true
@@ -1438,6 +1731,16 @@
  "hit-cockroach-spray-400ml": {
   "miss": true
  },
+ "hmt-rice-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/HK_HMT_Fat_Kwong_Street_%E4%BD%95%E6%96%87%E7%94%B0%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D_Student_Halls_of_Residence_Homantin_canteen_lunch_eggs_rice_spam_January_2019_SSG_03.jpg/960px-HK_HMT_Fat_Kwong_Street_%E4%BD%95%E6%96%87%E7%94%B0%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D_Student_Halls_of_Residence_Homantin_canteen_lunch_eggs_rice_spam_January_2019_SSG_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Horgim Foougia, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:HK_HMT_Fat_Kwong_Street_%E4%BD%95%E6%96%87%E7%94%B0%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D_Student_Halls_of_Residence_Homantin_canteen_lunch_eggs_rice_spam_January_2019_SSG_03.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "HK HMT Fat Kwong Street 何文田學生宿舍 Student Halls of Residence Homantin canteen lunch eggs rice spam January 2019 SSG 03.jpg"
+ },
  "hmt-steam-rice-1kg": {
   "miss": true
  },
@@ -1448,14 +1751,24 @@
   "miss": true
  },
  "horse-gram-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Horse_December_2014-1.jpg/960px-Horse_December_2014-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Alvesgaspar, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Horse_December_2014-1.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Horse-drawn_sleighs_2012_G1.jpg/960px-Horse-drawn_sleighs_2012_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: George Chernilevsky, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Horse-drawn_sleighs_2012_G1.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "Public domain",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Horse December 2014-1.jpg"
+  "title": "Horse-drawn sleighs 2012 G1.jpg"
+ },
+ "iceberg-lettuce-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Iceberg_lettuce_%28IJssla_krop%29.jpg/960px-Iceberg_lettuce_%28IJssla_krop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Rasbak 13:13, 20 May 2007 (UTC), CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Iceberg_lettuce_(IJssla_krop).jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Iceberg lettuce (IJssla krop).jpg"
  },
  "id-fresh-idli-and-dosa-batter-1kg": {
   "miss": true
@@ -1477,6 +1790,16 @@
  },
  "ikea-cosmetic-organiser-1pc": {
   "miss": true
+ },
+ "imported-green-seedless-grapes-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/William_Hammer_-_Green_grapes_%281878%29.jpg/960px-William_Hammer_-_Green_grapes_%281878%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: William Hammer, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:William_Hammer_-_Green_grapes_(1878).jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "William Hammer - Green grapes (1878).jpg"
  },
  "imported-red-seedless-grapes-500g": {
   "miss": true
@@ -1505,15 +1828,35 @@
  "itsy-bitsy-satin-ribbon-10m": {
   "miss": true
  },
- "jasmine-garland-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Image_of_Garland_of_Night_Jasmine_2.jpg/960px-Image_of_Garland_of_Night_Jasmine_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: পাপৰি বৰা, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Image_of_Garland_of_Night_Jasmine_2.jpg",
+ "jamun-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Java_plum_%28Syzygium_cumini%29_seeds.jpg/960px-Java_plum_%28Syzygium_cumini%29_seeds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Salil Kumar Mukherjee, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Java_plum_(Syzygium_cumini)_seeds.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Java plum (Syzygium cumini) seeds.jpg"
+ },
+ "jasmine-flowers-100g": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/STILL_LIFE_WITH_PEACHES%2C_PLUMS_AND_FLOWERS_IN_BASKETS%2C_AND_JASMINE_FLOWERS_ON_A_GOLD_CHARGER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Giuseppe Volo Vicenzino, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:STILL_LIFE_WITH_PEACHES,_PLUMS_AND_FLOWERS_IN_BASKETS,_AND_JASMINE_FLOWERS_ON_A_GOLD_CHARGER.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "STILL LIFE WITH PEACHES, PLUMS AND FLOWERS IN BASKETS, AND JASMINE FLOWERS ON A GOLD CHARGER.jpg"
+ },
+ "jasmine-garland-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Garland%2Cjasmine%2CTamil_Nadu354.JPG/960px-Garland%2Cjasmine%2CTamil_Nadu354.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: தகவலுழவன், CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Garland,jasmine,Tamil_Nadu354.JPG",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Image of Garland of Night Jasmine 2.jpg"
+  "title": "Garland,jasmine,Tamil Nadu354.JPG"
  },
  "jk-copier-a4-paper-500sheets": {
   "url": "https://images.openproductsfacts.org/images/products/890/231/010/0055/front_en.7.400.jpg",
@@ -1530,6 +1873,16 @@
  },
  "kai-facial-razor-pack-of-3": {
   "miss": true
+ },
+ "kalonji-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Ala%C3%AFs_Kalonji_Jeux_Olympiques_Tockyo_2021.jpg/960px-Ala%C3%AFs_Kalonji_Jeux_Olympiques_Tockyo_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ndiata, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Ala%C3%AFs_Kalonji_Jeux_Olympiques_Tockyo_2021.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Alaïs Kalonji Jeux Olympiques Tockyo 2021.jpg"
  },
  "kama-ayurveda-rose-water-200ml": {
   "miss": true
@@ -1564,14 +1917,14 @@
   "miss": true
  },
  "kesar-mango-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Mango_kesar_variety.JPG/960px-Mango_kesar_variety.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Betelgeuse, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Mango_kesar_variety.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Mango_Kesar_Indian_variety_IMG_20230603_114021_%283%29.jpg/960px-Mango_Kesar_Indian_variety_IMG_20230603_114021_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Dr. Raju Kasambe, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mango_Kesar_Indian_variety_IMG_20230603_114021_(3).jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 3.0",
+  "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Mango kesar variety.JPG"
+  "title": "Mango Kesar Indian variety IMG 20230603 114021 (3).jpg"
  },
  "kew-pineapple-1-pc": {
   "miss": true
@@ -1657,6 +2010,16 @@
  "kurkure-masala-corn-snack-90g": {
   "miss": true
  },
+ "kuttu-atta-500g": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Buckwheat_flour_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: National Institute of Korean Language, CC BY-SA 2.0 kr, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Buckwheat_flour_3.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 2.0 kr",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Buckwheat flour 3.jpg"
+ },
  "kwality-walls-chocolate-frozen-dessert-stick-60ml": {
   "miss": true
  },
@@ -1671,6 +2034,16 @@
  },
  "la-opala-dinner-set-1set": {
   "miss": true
+ },
+ "lady-finger-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Lady_finger_banana_1.jpg/960px-Lady_finger_banana_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Dương Vinh Hoàng, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Lady_finger_banana_1.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Lady finger banana 1.jpg"
  },
  "lakme-blush-6g": {
   "miss": true
@@ -1711,8 +2084,28 @@
  "large-clove-garlic-250g": {
   "miss": true
  },
+ "large-fresh-tender-coconut-1pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tender_coconut_image.jpg/960px-Tender_coconut_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Varunarivazhagan, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Tender_coconut_image.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Tender coconut image.jpg"
+ },
  "lego-building-bricks-set-1set": {
   "miss": true
+ },
+ "lemongrass-1-bunch": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Tanglad_%28lemongrass%2C_Cymbopogon_citratus%29_-_Philippines.jpg/960px-Tanglad_%28lemongrass%2C_Cymbopogon_citratus%29_-_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Obsidian Soul, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Tanglad_(lemongrass,_Cymbopogon_citratus)_-_Philippines.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Tanglad (lemongrass, Cymbopogon citratus) - Philippines.jpg"
  },
  "licious-chicken-curry-cut-500g": {
   "miss": true
@@ -1787,6 +2180,16 @@
  "livon-hair-serum-100ml": {
   "miss": true
  },
+ "long-brinjal-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Long_Brinjal.jpg/960px-Long_Brinjal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Bommi Dharrshini OKC, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Long_Brinjal.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Long Brinjal.jpg"
+ },
  "long-green-chilli-250g": {
   "miss": true
  },
@@ -1856,14 +2259,24 @@
   "quantity": "100g"
  },
  "mango-leaves-1-bunch": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Mango_Leaves_in_Bangladesh.jpg/960px-Mango_Leaves_in_Bangladesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: LaboniDin, CC0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Mango_Leaves_in_Bangladesh.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mango_leaves_growing.jpg/960px-Mango_leaves_growing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Kingaustin07, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mango_leaves_growing.jpg",
   "source": "wikimedia",
-  "license": "CC0",
+  "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Mango Leaves in Bangladesh.jpg"
+  "title": "Mango leaves growing.jpg"
+ },
+ "mango-sorbet-500ml": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mango_sorbet_dessert_%283460219556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Christine Leiser from Ocala, FL, US, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mango_sorbet_dessert_(3460219556).jpg",
+  "source": "wikimedia",
+  "license": "CC BY 2.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Mango sorbet dessert (3460219556).jpg"
  },
  "manna-multimillet-mix-500g": {
   "miss": true
@@ -1883,8 +2296,28 @@
  "mapro-kokum-syrup-750ml": {
   "miss": true
  },
+ "marigold-garland-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Marigold_Flowers_as_garland_in_India.jpg/960px-Marigold_Flowers_as_garland_in_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: SnapMeUp, CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Marigold_Flowers_as_garland_in_India.jpg",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Marigold Flowers as garland in India.jpg"
+ },
  "masterchow-stir-fry-sauce-230g": {
   "miss": true
+ },
+ "matki-sprouts-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/M%C4%84TKI_03.jpg/960px-M%C4%84TKI_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Andrzej Błaszczak, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:M%C4%84TKI_03.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "MĄTKI 03.jpg"
  },
  "matrix-hair-mask-200g": {
   "miss": true
@@ -2063,14 +2496,14 @@
   "title": "Mint leaves (Mentha spicata).jpg"
  },
  "mixed-flower-garland-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Hieronymus_Janssens_and_Daniel_Seghers_-_A_garland_of_mixed_flowers_adorning_a_stone_cartouche_surrounding_an_allegory_of_vanity.jpg/960px-Hieronymus_Janssens_and_Daniel_Seghers_-_A_garland_of_mixed_flowers_adorning_a_stone_cartouche_surrounding_an_allegory_of_vanity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Hieronymus Janssens / Daniel Seghers, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Hieronymus_Janssens_and_Daniel_Seghers_-_A_garland_of_mixed_flowers_adorning_a_stone_cartouche_surrounding_an_allegory_of_vanity.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Elisabetta_Marchioni%2C_flowers_in_an_urn_next_to_a_garland_of_mixed_flowers.jpg/960px-Elisabetta_Marchioni%2C_flowers_in_an_urn_next_to_a_garland_of_mixed_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Elisabetta Marchioni, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Elisabetta_Marchioni,_flowers_in_an_urn_next_to_a_garland_of_mixed_flowers.jpg",
   "source": "wikimedia",
   "license": "Public domain",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Hieronymus Janssens and Daniel Seghers - A garland of mixed flowers adorning a stone cartouche surrounding an allegory of vanity.jpg"
+  "title": "Elisabetta Marchioni, flowers in an urn next to a garland of mixed flowers.jpg"
  },
  "mixed-seasonal-fruit-bowl-250g": {
   "miss": true
@@ -2087,18 +2520,38 @@
  "monginis-swiss-roll-200g": {
   "miss": true
  },
+ "moong-sprouts-200g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Moong_Beans_sprouts.jpg/960px-Moong_Beans_sprouts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: অনিরুদ্ধ সরকার, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Moong_Beans_sprouts.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Moong Beans sprouts.jpg"
+ },
  "mortein-cockroach-spray-400ml": {
   "miss": true
  },
- "moth-beans-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Mexican_jumping_bean_moth_%28Cydia_deshaisiana%29.JPG/960px-Mexican_jumping_bean_moth_%28Cydia_deshaisiana%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: AuldAlliance at English Wikipedia, Public domain, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Mexican_jumping_bean_moth_(Cydia_deshaisiana).JPG",
+ "mosambi-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%28Citrus_limetta%29_Mosambi_at_a_market_in_Seethammadhara.jpg/960px-%28Citrus_limetta%29_Mosambi_at_a_market_in_Seethammadhara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Adityamadhav83, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:(Citrus_limetta)_Mosambi_at_a_market_in_Seethammadhara.jpg",
   "source": "wikimedia",
-  "license": "Public domain",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "(Citrus limetta) Mosambi at a market in Seethammadhara.jpg"
+ },
+ "moth-beans-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Mung_bean_moth_%28Maruca_vitrata%29.jpg/960px-Mung_bean_moth_%28Maruca_vitrata%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Charles J. Sharp, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mung_bean_moth_(Maruca_vitrata).jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Mexican jumping bean moth (Cydia deshaisiana).JPG"
+  "title": "Mung bean moth (Maruca vitrata).jpg"
  },
  "mothers-recipe-tamarind-chutney-250g": {
   "miss": true
@@ -2128,24 +2581,34 @@
   "miss": true
  },
  "muskmelon-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kharbuja_Mahal.jpg/960px-Kharbuja_Mahal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Indrajit Das, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Kharbuja_Mahal.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%22Dhar_Fort_with_Kharbuja_Mahal_from_the_North%2C%22_a_photo_from_1902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Unknown, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:%22Dhar_Fort_with_Kharbuja_Mahal_from_the_North,%22_a_photo_from_1902.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "\"Dhar Fort with Kharbuja Mahal from the North,\" a photo from 1902.jpg"
+ },
+ "mutton-liver-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%22Kaleji%22_-_Agricultural_Machinery_Museum_-_panoramio.jpg/960px-%22Kaleji%22_-_Agricultural_Machinery_Museum_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Laima Gūtmane (simka…, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:%22Kaleji%22_-_Agricultural_Machinery_Museum_-_panoramio.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "\"Kaleji\" - Agricultural Machinery Museum - panoramio.jpg"
+ },
+ "mutton-trotters-pack-of-4": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Pech_%28Paya%29_Language_Distribution.png/960px-Pech_%28Paya%29_Language_Distribution.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Lingstudent, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Pech_(Paya)_Language_Distribution.png",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "representative",
   "confidence": "Medium",
-  "title": "Kharbuja Mahal.jpg"
- },
- "mutton-trotters-pack-of-4": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Inner_Mongolia_braised_mutton_trotters.jpg/960px-Inner_Mongolia_braised_mutton_trotters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Fumikas Sagisavas, CC0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Inner_Mongolia_braised_mutton_trotters.jpg",
-  "source": "wikimedia",
-  "license": "CC0",
-  "match": "representative",
-  "confidence": "Medium",
-  "title": "Inner Mongolia braised mutton trotters.jpg"
+  "title": "Pech (Paya) Language Distribution.png"
  },
  "mysore-sandal-soap-3x125g": {
   "url": "https://images.openbeautyfacts.org/images/products/890/128/710/0013/front_en.11.400.jpg",
@@ -2178,6 +2641,16 @@
  },
  "navneet-ruled-notebook-pack-of-6": {
   "miss": true
+ },
+ "nectarine-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Nectarine_Fruit_Development.jpg/960px-Nectarine_Fruit_Development.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: jjron, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Nectarine_Fruit_Development.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Nectarine Fruit Development.jpg"
  },
  "nendran-banana-1kg": {
   "miss": true
@@ -2289,6 +2762,16 @@
  "oddy-sticky-notes-pack-of-4": {
   "miss": true
  },
+ "onion-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Mixed_onions.jpg/960px-Mixed_onions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Colin, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Mixed onions.jpg"
+ },
  "oral-b-dental-floss-50m": {
   "miss": true
  },
@@ -2303,14 +2786,14 @@
   "title": "Oral-B · Oral-B CrissCross Toothbrush"
  },
  "orange-sweet-potato-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Chicken_piccata%2C_rainbow_salad_with_beets_and_blood_orange%2C_sweet_potato_puree%2C_and_roasted_cauliflower_with_pesto_-_Boston%2C_MA.jpg/960px-Chicken_piccata%2C_rainbow_salad_with_beets_and_blood_orange%2C_sweet_potato_puree%2C_and_roasted_cauliflower_with_pesto_-_Boston%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Daderot, CC0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Chicken_piccata,_rainbow_salad_with_beets_and_blood_orange,_sweet_potato_puree,_and_roasted_cauliflower_with_pesto_-_Boston,_MA.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Orange-Fleshed_Sweet_Potato_Value_Chain_%2823463701639%29.jpg/960px-Orange-Fleshed_Sweet_Potato_Value_Chain_%2823463701639%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: USAID in Africa, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Orange-Fleshed_Sweet_Potato_Value_Chain_(23463701639).jpg",
   "source": "wikimedia",
-  "license": "CC0",
+  "license": "Public domain",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Chicken piccata, rainbow salad with beets and blood orange, sweet potato puree, and roasted cauliflower with pesto - Boston, MA.jpg"
+  "title": "Orange-Fleshed Sweet Potato Value Chain (23463701639).jpg"
  },
  "organic-apple-1kg": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2322,8 +2805,71 @@
   "confidence": "Medium",
   "title": "Red Apple.jpg"
  },
+ "organic-banana-6-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cavendish_banana_from_Maracaibo.jpg/960px-Cavendish_banana_from_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Wilfredor, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Cavendish_banana_from_Maracaibo.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Cavendish banana from Maracaibo.jpg"
+ },
+ "organic-coriander-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Coriander_Seeds.jpg/960px-Coriander_Seeds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Sanjay Acharya, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Coriander_Seeds.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Coriander Seeds.jpg"
+ },
+ "organic-curry-leaves-1-bunch": {
+  "miss": true
+ },
  "organic-india-ginger-herbal-infusion-25pcs": {
   "miss": true
+ },
+ "organic-mint-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mint_leaves_%28Mentha_spicata%29.jpg/960px-Mint_leaves_%28Mentha_spicata%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Commonists, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mint_leaves_(Mentha_spicata).jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Mint leaves (Mentha spicata).jpg"
+ },
+ "organic-papaya-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Papaya_-_longitudinal_section_close-up_view.jpg/960px-Papaya_-_longitudinal_section_close-up_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Papaya_-_longitudinal_section_close-up_view.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Papaya - longitudinal section close-up view.jpg"
+ },
+ "organic-potato-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Imago_of_Colorado_potato_beetle_on_leaf.jpg/960px-Imago_of_Colorado_potato_beetle_on_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Adámozphoto, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Imago_of_Colorado_potato_beetle_on_leaf.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Imago of Colorado potato beetle on leaf.jpg"
+ },
+ "organic-spinach-1-bunch": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Karyotype_of_Spinach_%28Spinacia_oleracea_L._Mazeran%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Satoshi Fujito, Satoshi Takahata, Reimi Suzuki, Yoichiro Hoshino, Nobuko Ohmido , CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Karyotype_of_Spinach_(Spinacia_oleracea_L._Mazeran).png",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Karyotype of Spinach (Spinacia oleracea L. Mazeran).png"
  },
  "organic-tattva-almonds-200g": {
   "miss": true
@@ -2391,8 +2937,28 @@
  "outlook-magazine-1pc": {
   "miss": true
  },
+ "paan-chuna-slaked-lime-50g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Transsiberian_RW_crossing_Chuna_River.jpg/960px-Transsiberian_RW_crossing_Chuna_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: This image was produced by me, David Castor (user:dcastor). The pictures I submi, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Transsiberian_RW_crossing_Chuna_River.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Transsiberian RW crossing Chuna River.jpg"
+ },
  "pac-makeup-sponge-1pc": {
   "miss": true
+ },
+ "papaya-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Papaya_-_longitudinal_section_close-up_view.jpg/960px-Papaya_-_longitudinal_section_close-up_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Papaya_-_longitudinal_section_close-up_view.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Papaya - longitudinal section close-up view.jpg"
  },
  "paper-boat-fruit-juice-blend-250ml": {
   "miss": true
@@ -2450,6 +3016,16 @@
  "pass-pass-sweet-saunf-100g": {
   "miss": true
  },
+ "passion-fruit-4-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Passion_fruits_-_whole_and_halved.jpg/960px-Passion_fruits_-_whole_and_halved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Passion_fruits_-_whole_and_halved.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Passion fruits - whole and halved.jpg"
+ },
  "patanjali-henna-powder-100g": {
   "miss": true
  },
@@ -2458,6 +3034,16 @@
  },
  "patanjali-sattu-500g": {
   "miss": true
+ },
+ "peach-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/RK_Aadu_Must.jpg/960px-RK_Aadu_Must.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Erik Peinar, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:RK_Aadu_Must.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "RK Aadu Must.jpg"
  },
  "pears-soap-3x125g": {
   "url": "https://images.openbeautyfacts.org/images/products/628/100/648/5334/front_fr.3.400.jpg",
@@ -2608,8 +3194,28 @@
   "title": "HUL · pond's dreamflower talcum powder",
   "quantity": "200 g"
  },
+ "pooja-coconut-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Coconuts_-_single_and_cracked_open.jpg/960px-Coconuts_-_single_and_cracked_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Ivar Leidus, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Coconuts_-_single_and_cracked_open.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Coconuts - single and cracked open.jpg"
+ },
  "post-it-sticky-notes-100sheets": {
   "miss": true
+ },
+ "potato-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Imago_of_Colorado_potato_beetle_on_leaf.jpg/960px-Imago_of_Colorado_potato_beetle_on_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Adámozphoto, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Imago_of_Colorado_potato_beetle_on_leaf.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Imago of Colorado potato beetle on leaf.jpg"
  },
  "prasuma-chicken-salami-200g": {
   "miss": true
@@ -2625,6 +3231,16 @@
  },
  "premier-facial-tissues-200sheets": {
   "miss": true
+ },
+ "premium-mosambi-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%28Citrus_limetta%29_Mosambi_at_a_market_in_Seethammadhara.jpg/960px-%28Citrus_limetta%29_Mosambi_at_a_market_in_Seethammadhara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Adityamadhav83, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:(Citrus_limetta)_Mosambi_at_a_market_in_Seethammadhara.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "(Citrus limetta) Mosambi at a market in Seethammadhara.jpg"
  },
  "prestige-cookware-set-1set": {
   "miss": true
@@ -2678,8 +3294,38 @@
  "pulse-hard-candy-pack-of-50": {
   "miss": true
  },
+ "quail-eggs-12pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Quail_eggs_%28%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D0%B8%D0%BD%D1%8B%D0%B5_%D1%8F%D0%B9%D1%86%D0%B0%29.jpg/960px-Quail_eggs_%28%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D0%B8%D0%BD%D1%8B%D0%B5_%D1%8F%D0%B9%D1%86%D0%B0%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Alon-De-Lon, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Quail_eggs_(%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D0%B8%D0%BD%D1%8B%D0%B5_%D1%8F%D0%B9%D1%86%D0%B0).jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Quail eggs (Перепелиные яйца).jpg"
+ },
  "quaker-masala-oats-500g": {
   "miss": true
+ },
+ "queen-pineapple-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Queen_Pineapple_by_Kate_Malone_01.jpg/960px-Queen_Pineapple_by_Kate_Malone_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: 14GTR, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Queen_Pineapple_by_Kate_Malone_01.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Queen Pineapple by Kate Malone 01.jpg"
+ },
+ "radish-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Radish_3371103037_4ab07db0bf_o.jpg/960px-Radish_3371103037_4ab07db0bf_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Self, en:User:Jengod, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Radish_3371103037_4ab07db0bf_o.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Radish 3371103037 4ab07db0bf o.jpg"
  },
  "rajdhani-broken-wheat-daliya-500g": {
   "miss": true
@@ -2694,14 +3340,14 @@
   "miss": true
  },
  "raw-papaya-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Raw_papaya_fruits_on_tree.jpg/960px-Raw_papaya_fruits_on_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Mokkie, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Raw_papaya_fruits_on_tree.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Raw_papaya.jpg/960px-Raw_papaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Simranjeet Sidhu, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Raw_papaya.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 3.0",
+  "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Raw papaya fruits on tree.jpg"
+  "title": "Raw papaya.jpg"
  },
  "raw-pressery-cold-pressed-juice-250ml": {
   "miss": true
@@ -2735,24 +3381,17 @@
   "quantity": "1l"
  },
  "red-capsicum-250g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Dried_Capsicum_annuum-Red_Chilli_Pepper_on_Nanglo.jpg/960px-Dried_Capsicum_annuum-Red_Chilli_Pepper_on_Nanglo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Sabina Bajracharya, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Dried_Capsicum_annuum-Red_Chilli_Pepper_on_Nanglo.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Capsicum_-_red_chili_chilli_-_piment_rouge_-_roter_Chili_01.jpg/960px-Capsicum_-_red_chili_chilli_-_piment_rouge_-_roter_Chili_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Norbert Nagel, Mörfelden-Walldorf, Germany, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Capsicum_-_red_chili_chilli_-_piment_rouge_-_roter_Chili_01.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY-SA 3.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Dried Capsicum annuum-Red Chilli Pepper on Nanglo.jpg"
+  "title": "Capsicum - red chili chilli - piment rouge - roter Chili 01.jpg"
  },
  "red-carrot-500g": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Red_Carrot.jpg/960px-Red_Carrot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: SarKaLay စာကလေး, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Red_Carrot.jpg",
-  "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
-  "match": "variety",
-  "confidence": "Medium",
-  "title": "Red Carrot.jpg"
+  "miss": true
  },
  "red-dragon-fruit-1-pc": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_dragon_fruit.jpg/960px-Red_dragon_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2775,17 +3414,20 @@
   "title": "Red Globe, a variety of very large, seeded red grapes, captured in West Bengal, India.jpg"
  },
  "red-lady-papaya-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Red_Lady_papaya.jpg/960px-Red_Lady_papaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Vijayanrajapuram, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Red_Lady_papaya.jpg",
-  "source": "wikimedia",
-  "license": "CC BY-SA 4.0",
-  "match": "variety",
-  "confidence": "Medium",
-  "title": "Red Lady papaya.jpg"
+  "miss": true
  },
  "red-potato-1kg": {
   "miss": true
+ },
+ "red-radish-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Raphanus_sativus%2C_red_radish_variant.jpg/960px-Raphanus_sativus%2C_red_radish_variant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Martin Kozák, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Raphanus_sativus,_red_radish_variant.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Raphanus sativus, red radish variant.jpg"
  },
  "revive-instant-starch-200g": {
   "miss": true
@@ -2819,14 +3461,14 @@
   "title": "RiteBite · Max Protein Chips Peri Peri"
  },
  "robusta-banana-1-dozen": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Robusta_banana_plantling.jpg/960px-Robusta_banana_plantling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Vis M, CC BY-SA 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Robusta_banana_plantling.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Robusta_banana.jpg/960px-Robusta_banana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Varghesepunnamada, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Robusta_banana.jpg",
   "source": "wikimedia",
   "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Robusta banana plantling.jpg"
+  "title": "Robusta banana.jpg"
  },
  "rose-bunch-1-bunch": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Bunch_of_Pink_Rose_140416.jpg/960px-Bunch_of_Pink_Rose_140416.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2838,15 +3480,18 @@
   "confidence": "Medium",
   "title": "Bunch of Pink Rose 140416.jpg"
  },
- "round-bottle-gourd-1-pc": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Young_round_gourd_fruits_with_yellow_flowers_in_home_garden.jpg/960px-Young_round_gourd_fruits_with_yellow_flowers_in_home_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Tulspal, CC BY 4.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Young_round_gourd_fruits_with_yellow_flowers_in_home_garden.jpg",
+ "rose-flowers-100g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Maharaja_Gulab_Singh_of_Jammu_and_Kashmir.jpg/960px-Maharaja_Gulab_Singh_of_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Unknown (production), Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Maharaja_Gulab_Singh_of_Jammu_and_Kashmir.jpg",
   "source": "wikimedia",
-  "license": "CC BY 4.0",
-  "match": "variety",
+  "license": "Public domain",
+  "match": "representative",
   "confidence": "Medium",
-  "title": "Young round gourd fruits with yellow flowers in home garden.jpg"
+  "title": "Maharaja Gulab Singh of Jammu and Kashmir.jpg"
+ },
+ "round-bottle-gourd-1-pc": {
+  "miss": true
  },
  "round-brinjal-500g": {
   "miss": true
@@ -2859,6 +3504,16 @@
  },
  "saffola-rice-bran-oil-1l": {
   "miss": true
+ },
+ "sambar-vegetable-mix-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Vegetable_ready_for_Sambar_in_Kerala_4887.JPG/960px-Vegetable_ready_for_Sambar_in_Kerala_4887.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Rameshng, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Vegetable_ready_for_Sambar_in_Kerala_4887.JPG",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Vegetable ready for Sambar in Kerala 4887.JPG"
  },
  "samyang-ramen-meal-kit-pack-of-5": {
   "miss": true
@@ -2946,6 +3601,16 @@
  "silk-soy-milk-1l": {
   "miss": true
  },
+ "singhara-atta-500g": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Singhara_atta_Halwa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Rachna23Nov, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Singhara_atta_Halwa.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Singhara atta Halwa.jpg"
+ },
  "sirona-heat-patches-pack-of-5": {
   "miss": true
  },
@@ -2983,6 +3648,9 @@
  "slurrp-farm-ragi-drink-mix-200g": {
   "miss": true
  },
+ "small-bitter-gourd-250g": {
+  "miss": true
+ },
  "smoor-gourmet-confectionery-box-1pack": {
   "miss": true
  },
@@ -2995,17 +3663,57 @@
  "soyfit-tofu-200g": {
   "miss": true
  },
+ "spinach-1-bunch": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Karyotype_of_Spinach_%28Spinacia_oleracea_L._Mazeran%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: Satoshi Fujito, Satoshi Takahata, Reimi Suzuki, Yoichiro Hoshino, Nobuko Ohmido , CC BY 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Karyotype_of_Spinach_(Spinacia_oleracea_L._Mazeran).png",
+  "source": "wikimedia",
+  "license": "CC BY 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Karyotype of Spinach (Spinacia oleracea L. Mazeran).png"
+ },
+ "sponge-gourd-500g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Sponge_gourd_%28Nenua_ki_sabi%29.png/960px-Sponge_gourd_%28Nenua_ki_sabi%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Gouravsb17, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Sponge_gourd_(Nenua_ki_sabi).png",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Sponge gourd (Nenua ki sabi).png"
+ },
  "sprite-zero-soft-drink-300ml": {
   "miss": true
  },
  "st-dalfour-orange-marmalade-284g": {
   "miss": true
  },
+ "star-anise-50g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Dried_Star_Anise_Fruit_Seeds.jpg/960px-Dried_Star_Anise_Fruit_Seeds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Sanjay Acharya, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Dried_Star_Anise_Fruit_Seeds.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Dried Star Anise Fruit Seeds.jpg"
+ },
  "starbucks-ready-to-drink-cold-coffee-200ml": {
   "miss": true
  },
  "stayfree-sanitary-pads-20pcs": {
   "miss": true
+ },
+ "stir-fry-vegetable-mix-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Chinese_vegetable_stir_fry_noodles.jpg/960px-Chinese_vegetable_stir_fry_noodles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: tednmiki, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_vegetable_stir_fry_noodles.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Chinese vegetable stir fry noodles.jpg"
  },
  "strauss-resistance-bands-1set": {
   "miss": true
@@ -3015,6 +3723,16 @@
  },
  "sugar-free-sugar-substitute-300pcs": {
   "miss": true
+ },
+ "sugarcane-1-pc": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Cut_sugarcane.jpg/960px-Cut_sugarcane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: ruurmo, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Cut_sugarcane.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 2.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Cut sugarcane.jpg"
  },
  "sumeru-fish-fingers-300g": {
   "miss": true
@@ -3141,14 +3859,34 @@
   "miss": true
  },
  "telangana-fine-rice-1kg": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Rice_saplings_in_telangana.jpeg/960px-Rice_saplings_in_telangana.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credit": "Representative photo: Dhananjaya.karre, CC BY-SA 3.0, via Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:Rice_saplings_in_telangana.jpeg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Desi_Rice_Varieties_Thali_-_Hyderabad_-_Telangana_-001.jpg/960px-Desi_Rice_Varieties_Thali_-_Hyderabad_-_Telangana_-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: అనిల్ ఉప్పలపాటి, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Desi_Rice_Varieties_Thali_-_Hyderabad_-_Telangana_-001.jpg",
   "source": "wikimedia",
-  "license": "CC BY-SA 3.0",
+  "license": "CC BY-SA 4.0",
   "match": "variety",
   "confidence": "Medium",
-  "title": "Rice saplings in telangana.jpeg"
+  "title": "Desi Rice Varieties Thali - Hyderabad - Telangana -001.jpg"
+ },
+ "tender-ginger-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ginger_Rogers_in_%27Tender_Comrade%27%2C_1943.jpg/960px-Ginger_Rogers_in_%27Tender_Comrade%27%2C_1943.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: RKO Pictures, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Ginger_Rogers_in_%27Tender_Comrade%27,_1943.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Ginger Rogers in 'Tender Comrade', 1943.jpg"
+ },
+ "tender-lady-finger-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Okra_%28Abelmoschus_esculentus%29_Feb_2019._DSC_0060_01.jpg/960px-Okra_%28Abelmoschus_esculentus%29_Feb_2019._DSC_0060_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: ADARSHluck, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Okra_(Abelmoschus_esculentus)_Feb_2019._DSC_0060_01.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Okra (Abelmoschus esculentus) Feb 2019. DSC 0060 01.jpg"
  },
  "the-bakers-dozen-pita-bread-4pcs": {
   "miss": true
@@ -3198,8 +3936,28 @@
  "third-wave-coffee-whole-bean-coffee-250g": {
   "miss": true
  },
+ "toor-dal": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Cajanus_cajan_%28Pigeon_pea%29_in_Punjab%2C_India.jpg/960px-Cajanus_cajan_%28Pigeon_pea%29_in_Punjab%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Sarbjit Bahga, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Cajanus_cajan_(Pigeon_pea)_in_Punjab,_India.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Cajanus cajan (Pigeon pea) in Punjab, India.jpg"
+ },
  "trident-bath-towel-1pc": {
   "miss": true
+ },
+ "tropical-fruit-bowl-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tropical_fruit_bowl_window_%28Unsplash%29.jpg/960px-Tropical_fruit_bowl_window_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Marcello Aquino marcelloaquino, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Tropical_fruit_bowl_window_(Unsplash).jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Tropical fruit bowl window (Unsplash).jpg"
  },
  "tropicana-juice-assorted-gift-pack-4x1l": {
   "miss": true
@@ -3212,6 +3970,16 @@
  },
  "true-elements-sunflower-seeds-250g": {
   "miss": true
+ },
+ "turkey-1kg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg/960px-Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 4.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Male wild turkey (Meleagris gallopavo) strutting.jpg"
  },
  "twinings-chamomile-herbal-tea-25pcs": {
   "miss": true
@@ -3352,6 +4120,16 @@
   "confidence": "Medium",
   "title": "White onions drying.jpg"
  },
+ "white-rice-1kg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/White_rice_on_a_brown_table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Representative photo: ImageParty, CC0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:White_rice_on_a_brown_table.jpg",
+  "source": "wikimedia",
+  "license": "CC0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "White rice on a brown table.jpg"
+ },
  "wingreens-farms-hummus-150g": {
   "miss": true
  },
@@ -3360,6 +4138,16 @@
  },
  "wonderchef-measuring-spoons-1set": {
   "miss": true
+ },
+ "wood-apple-2-pcs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Wood-apple_dec2007.jpg/960px-Wood-apple_dec2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: Seisfeldt at English Wikipedia, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Wood-apple_dec2007.jpg",
+  "source": "wikimedia",
+  "license": "Public domain",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Wood-apple dec2007.jpg"
  },
  "yelakki-banana-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Front_Yelakki_banana%2C_bangalore%2C_karnataka_top.jpg/960px-Front_Yelakki_banana%2C_bangalore%2C_karnataka_top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3380,6 +4168,16 @@
   "match": "variety",
   "confidence": "Medium",
   "title": "Yellow Capsicum.jpg"
+ },
+ "yellow-lemon-250g": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Yellow_Lemon_on_the_Table.jpg/960px-Yellow_Lemon_on_the_Table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Representative photo: pauk, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Yellow_Lemon_on_the_Table.jpg",
+  "source": "wikimedia",
+  "license": "CC BY-SA 3.0",
+  "match": "representative",
+  "confidence": "Medium",
+  "title": "Yellow Lemon on the Table.jpg"
  },
  "yoga-bar-chia-seeds-200g": {
   "miss": true
