@@ -54,7 +54,7 @@ plus licence/credit, image kind, specification-dependent reason and priority.
 
 | Collection status | Listings | Meaning |
 |---|---|---|
-| LINKED | 442 | Licensed photo recorded; visual audit pending |
+| LINKED | 442 | Licensed photo recorded (416 approved, 26 awaiting a person, 0 not yet reviewed) |
 | NEEDS_NEW_SOURCE | 41 | Generic or unbranded; no free representative photo found yet |
 | VARIANT_MISMATCH | 25 | A variety that looks different from the listing whose photo it would share; needs its own |
 | MANUAL_VERIFICATION_REQUIRED | 745 | Branded; no authentic pack shot in open sources. Needs a brand or distributor asset or an own photo |
@@ -91,7 +91,7 @@ Sources in use: Wikimedia Commons (147), Open Food Facts (224), Open Products Fa
 
 1. **Generic images that can cover listings** (41): Tender Lady Finger, Lady Finger, Green Capsicum, French Beans, Broad Beans, Cabbage, Bottle Gourd, Bitter Gourd, Sponge Gourd, Spinach, Amaranth Leaves, Papaya, …
 2. **Varieties needing their own photo** (25): Baby Potato, Red Potato, Red Carrot, Compact Cauliflower, Round Bottle Gourd, Baby Beetroot, Orange Sweet Potato, Nendran Banana, Black Seedless Grapes, Ganesh Pomegranate, Red Lady Papaya, Kew Pineapple, …
-3. **Branded pack shots to confirm by visual audit** (295): staples first (119 in atta, rice, dal, oil, masala, dairy, tea, biscuits, instant food).
+3. **Linked photos awaiting a visual audit or a person's decision** (26): Robusta Banana, Alphonso Mango, Indian Pear, Custard Apple, Red Dragon Fruit, Sambar Vegetable Mix, Rose Bunch, Tuberose Bunch, Litchi, 24 Mantra Organic Jowar (24 Mantra Organic), Figaro Olive Oil (Figaro), Borges Olive Oil (Borges), …
 4. **Remaining branded listings without a pack shot** (458), staples first: Pillsbury Whole Wheat Atta (Pillsbury), Pillsbury Specialty Wheat Flour (Pillsbury), Fortune Sona Masoori Rice (Fortune), bb Royal Kolam Rice (bb Royal), India Gate Brown Rice (India Gate), Double Horse Idli Rice (Double Horse), bb Royal Idli Rice (bb Royal), Fortune Toor Dal (Fortune), Fortune Moong Dal (Fortune), Tata Sampann Masoor Dal (Tata Sampann), Fortune Masoor Dal (Fortune), Fortune Urad Dal (Fortune), …
 5. **Specification-dependent branded listings without a pack shot** (287): cosmetics, cleaners and repellents, appliances, hygiene and organic products, where only the exact product image will do.
 

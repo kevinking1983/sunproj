@@ -55,9 +55,12 @@ const rows = catalog.map((p) => {
   let status;
   let notes;
   let priority;
+  // An audit result only counts for the photo it was given for.
+  const a = ph && audit[p.slug]?.url === ph.url ? audit[p.slug] : null;
   if (ph) {
     status = "LINKED";
-    priority = cls === "Branded" ? 3 : "";
+    // Approved photos need nothing more; the rest wait for an audit or a person's decision.
+    priority = a?.status === "APPROVED" ? "" : 3;
     const how = { manual: "chosen by hand", strict: "strict automatic lookup", auto: "broader automatic match" }[ph.from];
     notes =
       cls === "Branded"
@@ -76,9 +79,7 @@ const rows = catalog.map((p) => {
     priority = 1;
     notes = "No freely licensed representative photo found yet.";
   }
-  const confidence = !ph ? "" : ph.confidence ?? (ph.from === "manual" ? "Medium" : "Medium");
-  // An audit result only counts for the photo it was given for.
-  const a = ph && audit[p.slug]?.url === ph.url ? audit[p.slug] : null;
+  const confidence = !ph ? "" : ph.confidence ?? "Medium";
   return {
     "Listing ID": p.slug,
     Department: where.dept,
@@ -240,7 +241,7 @@ plus licence/credit, image kind, specification-dependent reason and priority.
 
 | Collection status | Listings | Meaning |
 |---|---|---|
-| LINKED | ${status("LINKED")} | Licensed photo recorded; visual audit pending |
+| LINKED | ${status("LINKED")} | Licensed photo recorded (${n((r) => r["Visual Audit Status"] === "APPROVED")} approved, ${n((r) => r["Visual Audit Status"] === "NEEDS_HUMAN_REVIEW")} awaiting a person, ${n((r) => r["Visual Audit Status"] === "VISUAL_AUDIT_PENDING")} not yet reviewed) |
 | NEEDS_NEW_SOURCE | ${status("NEEDS_NEW_SOURCE")} | Generic or unbranded; no free representative photo found yet |
 | VARIANT_MISMATCH | ${status("VARIANT_MISMATCH")} | A variety that looks different from the listing whose photo it would share; needs its own |
 | MANUAL_VERIFICATION_REQUIRED | ${status("MANUAL_VERIFICATION_REQUIRED")} | Branded; no authentic pack shot in open sources. Needs a brand or distributor asset or an own photo |
@@ -255,7 +256,7 @@ ${catTable}
 
 1. **Generic images that can cover listings** (${prio(1).length}): ${top(prio(1)) || "none"}${prio(1).length > 12 ? ", …" : ""}
 2. **Varieties needing their own photo** (${prio(2).length}): ${top(prio(2)) || "none"}${prio(2).length > 12 ? ", …" : ""}
-3. **Branded pack shots to confirm by visual audit** (${prio(3).length}): staples first (${prio(3).filter((r) => r._staple).length} in atta, rice, dal, oil, masala, dairy, tea, biscuits, instant food).
+3. **Linked photos awaiting a visual audit or a person's decision** (${prio(3).length}): ${top(prio(3)) || "none"}${prio(3).length > 12 ? ", …" : ""}
 4. **Remaining branded listings without a pack shot** (${prio(4).length}), staples first: ${top(prio(4).filter((r) => r._staple))}${prio(4).filter((r) => r._staple).length > 12 ? ", …" : ""}
 5. **Specification-dependent branded listings without a pack shot** (${prio(5).length}): cosmetics, cleaners and repellents, appliances, hygiene and organic products, where only the exact product image will do.
 
