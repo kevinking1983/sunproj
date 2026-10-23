@@ -461,6 +461,20 @@
   "date": "2026-10-23",
   "note": "Shows: Cadbury Dairy Milk chocolate bar wrapper. A: Cadbury Dairy Milk branding is clearly visible on the bar. B: Cadbury Dairy Milk bar with brand and product clearly visible."
  },
+ "cadbury-hot-chocolate-mix-200g": {
+  "url": "https://images.openfoodfacts.org/images/products/762/220/172/9752/front_en.3.400.jpg",
+  "status": "APPROVED",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Cadbury Hot Chocolate drinking-chocolate tub (UK pack with £2.19 price flash). A: Correct Cadbury hot chocolate product line, though it is a UK pack with a price flash and the size may differ. B: Cadbury's own Hot Chocolate pack, the right product, clearly branded; size may differ, and it is "
+ },
+ "campbells-ready-vegetable-soup-305g": {
+  "url": "https://images.openfoodfacts.org/images/products/930/064/412/3501/front_en.4.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Campbell's Country Ladle Farmhouse Vegetable ready-to-eat soup can. Right brand and a ready vegetable soup, but Country Ladle is a specific Australian line (500 g cans), so a person should check that this is the line stocked as the 305 g item."
+ },
  "carefree-pantyliners-20pcs": {
   "url": "https://images.openbeautyfacts.org/images/products/357/466/023/9010/front_en.5.400.jpg",
   "status": "APPROVED",
@@ -2504,6 +2518,13 @@
   "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
   "date": "2026-10-23",
   "note": "Shows: Saffola Masala Oats Veggie Twist pouch. A: Saffola Masala Oats pack, which matches the listing; size may differ. B: Saffola Masala Oats pack with brand and product line visible (Veggie Twist flavour; size may differ)."
+ },
+ "saffola-oats-1kg": {
+  "url": "https://images.openfoodfacts.org/images/products/890/108/805/0562/front_en.3.400.jpg",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "by": "Claude (two independent reviewers + tiebreak, contact sheet)",
+  "date": "2026-10-23",
+  "note": "Shows: Blurry crumpled yellow pouch with heart-shaped bowl graphic, no readable text. The pack is crumpled and too blurry to read the Saffola name or confirm the oats variant."
  },
  "sambar-onion-500g": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Shallots_-_sliced_and_whole.jpg/500px-Shallots_-_sliced_and_whole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
